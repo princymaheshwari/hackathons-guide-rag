@@ -4,25 +4,30 @@ Usage:
     python scrape_url.py "https://example.com/article"
     python scrape_url.py "https://example.com/article" --title "Custom Title"
     python scrape_url.py "https://example.com/article" --output documents/custom_name.md
+    python scrape_url.py "https://www.reddit.com/r/hackathons/comments/..." --reddit-max-comments 40
 
 For CSV, TSV, public Google Sheets, and HTML tables, rows are saved as
 Markdown sections so column/value relationships survive chunking.
+For Reddit thread URLs, the script uses Reddit's public JSON representation
+and saves the original post plus readable comments with permalinks.
 """
 
 from __future__ import annotations
 
 import argparse
 import csv
+import os
 import re
 import sys
 from io import BytesIO, StringIO
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import parse_qs, urlencode, urlparse
 
 import requests
 from bs4 import BeautifulSoup, Tag
+from dotenv import load_dotenv
 
 
 DOCUMENTS_DIR = Path("documents")
@@ -31,12 +36,17 @@ USER_AGENT = (
     "Mozilla/5.0 (compatible; UniversityGuideBot/1.0; "
     "+https://example.com/student-project)"
 )
+REDDIT_USER_AGENT = "python:university-guide-rag:v1.0 (student research project)"
 
 
-def fetch_url(url: str) -> requests.Response:
+def fetch_url(url: str, headers: dict[str, str] | None = None) -> requests.Response:
+    request_headers = {"User-Agent": USER_AGENT}
+    if headers:
+        request_headers.update(headers)
+
     response = requests.get(
         url,
-        headers={"User-Agent": USER_AGENT},
+        headers=request_headers,
         timeout=DEFAULT_TIMEOUT_SECONDS,
     )
     response.raise_for_status()
@@ -71,6 +81,102 @@ def looks_like_tabular_response(url: str, content_type: str) -> bool:
         or "tab-separated-values" in content_type
         or "spreadsheetml" in content_type
     )
+
+
+def is_reddit_url(url: str) -> bool:
+    host = urlparse(url).netloc.lower()
+    return host == "redd.it" or host == "reddit.com" or host.endswith(".reddit.com")
+
+
+def reddit_json_url(url: str, max_comments: int, sort: str) -> str:
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+
+    if host == "redd.it":
+        post_id = parsed.path.strip("/").split("/")[0]
+        if not post_id:
+            raise ValueError("Could not find a Reddit post id in this redd.it URL.")
+        path = f"/comments/{post_id}"
+    else:
+        path = parsed.path
+
+    path = re.sub(r"/+$", "", path)
+    path = re.sub(r"\.json$", "", path)
+
+    if "/comments/" not in path:
+        raise ValueError(
+            "Reddit scraping expects a thread URL containing /comments/ or a redd.it link."
+        )
+
+    query = urlencode(
+        {
+            "limit": max_comments,
+            "sort": sort,
+            "raw_json": 1,
+        }
+    )
+    return f"https://www.reddit.com{path}.json?{query}"
+
+
+def reddit_thread_path(url: str) -> str:
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+
+    if host == "redd.it":
+        post_id = parsed.path.strip("/").split("/")[0]
+        if not post_id:
+            raise ValueError("Could not find a Reddit post id in this redd.it URL.")
+        return f"/comments/{post_id}"
+
+    path = re.sub(r"/+$", "", parsed.path)
+    path = re.sub(r"\.json$", "", path)
+    if "/comments/" not in path:
+        raise ValueError(
+            "Reddit scraping expects a thread URL containing /comments/ or a redd.it link."
+        )
+
+    return path
+
+
+def reddit_old_html_url(url: str, sort: str) -> str:
+    path = reddit_thread_path(url)
+    query = urlencode({"sort": sort})
+    return f"https://old.reddit.com{path}/?{query}"
+
+
+def reddit_oauth_json_url(url: str, max_comments: int, sort: str) -> str:
+    path = reddit_thread_path(url)
+    query = urlencode(
+        {
+            "limit": max_comments,
+            "sort": sort,
+            "raw_json": 1,
+        }
+    )
+    return f"https://oauth.reddit.com{path}?{query}"
+
+
+def reddit_oauth_token() -> str | None:
+    client_id = os.environ.get("REDDIT_CLIENT_ID")
+    client_secret = os.environ.get("REDDIT_CLIENT_SECRET")
+
+    if not client_id or not client_secret:
+        return None
+
+    response = requests.post(
+        "https://www.reddit.com/api/v1/access_token",
+        auth=(client_id, client_secret),
+        data={"grant_type": "client_credentials"},
+        headers={"User-Agent": REDDIT_USER_AGENT},
+        timeout=DEFAULT_TIMEOUT_SECONDS,
+    )
+    response.raise_for_status()
+    payload = response.json()
+    token = payload.get("access_token")
+    if not isinstance(token, str) or not token:
+        raise ValueError("Reddit OAuth did not return an access token.")
+
+    return token
 
 
 def title_from_url(url: str) -> str:
@@ -280,6 +386,330 @@ def rows_to_markdown(headers: list[str], rows: list[list[str]], table_title: str
     return "\n\n".join(blocks)
 
 
+def reddit_permalink(permalink: str | None) -> str:
+    if not permalink:
+        return ""
+
+    if permalink.startswith("http"):
+        return permalink
+
+    return f"https://www.reddit.com{permalink}"
+
+
+def reddit_text(value: object) -> str:
+    if not isinstance(value, str):
+        return ""
+
+    value = clean_inline_text(value)
+    if value.casefold() in {"[deleted]", "[removed]"}:
+        return ""
+
+    return value
+
+
+def reddit_body_text(value: object) -> str:
+    if not isinstance(value, str):
+        return ""
+
+    value = value.replace("\r\n", "\n").replace("\r", "\n").replace("\xa0", " ")
+    lines = [re.sub(r"[ \t]+", " ", line).strip() for line in value.split("\n")]
+
+    cleaned_lines: list[str] = []
+    blank_count = 0
+    for line in lines:
+        if line:
+            cleaned_lines.append(line)
+            blank_count = 0
+        else:
+            blank_count += 1
+            if blank_count <= 1:
+                cleaned_lines.append("")
+
+    cleaned = "\n".join(cleaned_lines).strip()
+    if cleaned.casefold() in {"[deleted]", "[removed]"}:
+        return ""
+
+    return cleaned
+
+
+def reddit_metadata_lines(data: dict, include_authors: bool) -> list[str]:
+    lines: list[str] = []
+
+    if include_authors:
+        author = reddit_text(data.get("author"))
+        if author:
+            lines.append(f"- Author: u/{author}")
+
+    score = data.get("score")
+    if isinstance(score, int):
+        lines.append(f"- Score: {score}")
+
+    permalink = reddit_permalink(data.get("permalink"))
+    if permalink:
+        lines.append(f"- Permalink: {permalink}")
+
+    return lines
+
+
+def append_reddit_comment(
+    child: dict,
+    blocks: list[str],
+    path: str,
+    depth: int,
+    remaining: list[int],
+    include_authors: bool,
+) -> None:
+    if remaining[0] <= 0 or child.get("kind") != "t1":
+        return
+
+    data = child.get("data", {})
+    body = reddit_body_text(data.get("body"))
+    if not body:
+        return
+
+    remaining[0] -= 1
+    heading_level = min(3 + depth, 6)
+    section = [f"{'#' * heading_level} Comment {path}"]
+    section.extend(reddit_metadata_lines(data, include_authors))
+    section.append(body)
+    blocks.append("\n\n".join(section))
+
+    replies = data.get("replies")
+    if remaining[0] <= 0 or not isinstance(replies, dict):
+        return
+
+    reply_children = replies.get("data", {}).get("children", [])
+    reply_index = 1
+    for reply in reply_children:
+        if reply.get("kind") != "t1":
+            continue
+
+        append_reddit_comment(
+            reply,
+            blocks,
+            f"{path}.{reply_index}",
+            depth + 1,
+            remaining,
+            include_authors,
+        )
+        reply_index += 1
+
+
+def reddit_thread_to_markdown(
+    payload: object,
+    include_authors: bool,
+    max_comments: int,
+) -> tuple[str, str, dict[str, str]]:
+    if not isinstance(payload, list) or len(payload) < 2:
+        raise ValueError("Reddit returned an unexpected JSON shape.")
+
+    post_children = payload[0].get("data", {}).get("children", [])
+    if not post_children:
+        raise ValueError("Reddit JSON did not include a post.")
+
+    post_data = post_children[0].get("data", {})
+    title = reddit_text(post_data.get("title")) or "Reddit Thread"
+    subreddit = reddit_text(post_data.get("subreddit"))
+    post_id = reddit_text(post_data.get("id"))
+    post_body = reddit_body_text(post_data.get("selftext"))
+    post_url = reddit_permalink(post_data.get("permalink"))
+
+    blocks: list[str] = []
+    overview = ["## Thread Metadata"]
+    if subreddit:
+        overview.append(f"- Subreddit: r/{subreddit}")
+    if post_id:
+        overview.append(f"- Reddit post id: {post_id}")
+    score = post_data.get("score")
+    if isinstance(score, int):
+        overview.append(f"- Post score: {score}")
+    comment_count = post_data.get("num_comments")
+    if isinstance(comment_count, int):
+        overview.append(f"- Reported comment count: {comment_count}")
+    if post_url:
+        overview.append(f"- Thread permalink: {post_url}")
+    blocks.append("\n\n".join(overview))
+
+    post_section = ["## Original Post"]
+    post_section.extend(reddit_metadata_lines(post_data, include_authors))
+    post_section.append(post_body or "No original post body was available in the Reddit JSON.")
+    blocks.append("\n\n".join(post_section))
+
+    comment_children = payload[1].get("data", {}).get("children", [])
+    remaining = [max_comments]
+    top_level_index = 1
+    for child in comment_children:
+        if child.get("kind") != "t1":
+            continue
+
+        append_reddit_comment(
+            child,
+            blocks,
+            str(top_level_index),
+            0,
+            remaining,
+            include_authors,
+        )
+        top_level_index += 1
+
+        if remaining[0] <= 0:
+            break
+
+    collected_count = max_comments - remaining[0]
+    if collected_count == 0:
+        blocks.append("## Comments\n\nNo readable comments were available in the Reddit JSON.")
+
+    metadata = {
+        "subreddit": f"r/{subreddit}" if subreddit else "",
+        "reddit_post_id": post_id,
+        "comments_collected": str(collected_count),
+    }
+    return title, "\n\n".join(blocks), metadata
+
+
+def markdown_from_reddit_html_fragment(fragment: Tag | None) -> str:
+    if not fragment:
+        return ""
+
+    blocks: list[str] = []
+    for node in fragment.find_all(["p", "li", "blockquote", "pre"], recursive=True):
+        text = node.get_text("\n" if node.name == "pre" else " ", strip=True)
+        text = reddit_body_text(text)
+        if not text:
+            continue
+
+        if node.name == "li":
+            blocks.append(f"- {text}")
+        elif node.name == "blockquote":
+            blocks.append(f"> {text}")
+        else:
+            blocks.append(text)
+
+    if not blocks:
+        return reddit_body_text(fragment.get_text("\n", strip=True))
+
+    return "\n\n".join(deduplicate_blocks(blocks))
+
+
+def old_reddit_score(thing: Tag) -> str:
+    score = thing.select_one(".score.unvoted, .score.likes, .score.dislikes")
+    if score:
+        return clean_inline_text(score.get_text(" ", strip=True))
+
+    return ""
+
+
+def old_reddit_permalink(thing: Tag) -> str:
+    for link in thing.select("a"):
+        if clean_inline_text(link.get_text(" ", strip=True)).casefold() == "permalink":
+            href = link.get("href", "")
+            if isinstance(href, str):
+                return reddit_permalink(href)
+
+    permalink = thing.get("data-permalink")
+    if isinstance(permalink, str):
+        return reddit_permalink(permalink)
+
+    return ""
+
+
+def old_reddit_metadata_lines(thing: Tag, include_authors: bool) -> list[str]:
+    lines: list[str] = []
+
+    if include_authors:
+        author = thing.select_one(".author")
+        if author:
+            author_text = reddit_text(author.get_text(" ", strip=True))
+            if author_text:
+                lines.append(f"- Author: u/{author_text}")
+
+    score = old_reddit_score(thing)
+    if score:
+        lines.append(f"- Score: {score}")
+
+    permalink = old_reddit_permalink(thing)
+    if permalink:
+        lines.append(f"- Permalink: {permalink}")
+
+    return lines
+
+
+def reddit_thread_html_to_markdown(
+    html: str,
+    source_url: str,
+    include_authors: bool,
+    max_comments: int,
+) -> tuple[str, str, dict[str, str]]:
+    soup = BeautifulSoup(html, "html.parser")
+    title_tag = soup.select_one("a.title, .title a, title")
+    title = (
+        clean_inline_text(title_tag.get_text(" ", strip=True))
+        if title_tag
+        else title_from_url(source_url)
+    )
+    title = re.sub(r"\s*:\s*reddit\.com\s*$", "", title, flags=re.IGNORECASE)
+
+    subreddit = ""
+    subreddit_link = soup.select_one("a.subreddit")
+    if subreddit_link:
+        subreddit = reddit_text(subreddit_link.get_text(" ", strip=True))
+
+    blocks: list[str] = []
+    overview = ["## Thread Metadata"]
+    if subreddit:
+        overview.append(f"- Subreddit: {subreddit}")
+    overview.append(f"- Thread permalink: {source_url}")
+    overview.append("- Capture note: Reddit JSON was unavailable, so this was parsed from old.reddit.com HTML.")
+    blocks.append("\n\n".join(overview))
+
+    post = soup.select_one(".thing.link")
+    post_section = ["## Original Post"]
+    if post:
+        post_section.extend(old_reddit_metadata_lines(post, include_authors))
+        post_text = markdown_from_reddit_html_fragment(post.select_one(".usertext-body .md"))
+        post_section.append(post_text or "No original post body was available in the Reddit HTML.")
+    else:
+        post_section.append("No original post body was available in the Reddit HTML.")
+    blocks.append("\n\n".join(post_section))
+
+    collected_count = 0
+    comments = soup.select(".thing.comment")
+    for comment in comments:
+        if collected_count >= max_comments:
+            break
+
+        body = markdown_from_reddit_html_fragment(comment.select_one(".usertext-body .md"))
+        if not body:
+            continue
+
+        collected_count += 1
+        depth_classes = comment.get("class", [])
+        depth = 0
+        for class_name in depth_classes:
+            if isinstance(class_name, str) and class_name.startswith("depth-"):
+                try:
+                    depth = int(class_name.removeprefix("depth-")) - 1
+                except ValueError:
+                    depth = 0
+                break
+
+        heading_level = min(3 + max(depth, 0), 6)
+        section = [f"{'#' * heading_level} Comment {collected_count}"]
+        section.extend(old_reddit_metadata_lines(comment, include_authors))
+        section.append(body)
+        blocks.append("\n\n".join(section))
+
+    if collected_count == 0:
+        blocks.append("## Comments\n\nNo readable comments were available in the Reddit HTML.")
+
+    metadata = {
+        "subreddit": subreddit,
+        "comments_collected": str(collected_count),
+        "reddit_capture_fallback": "old_reddit_html",
+    }
+    return title, "\n\n".join(blocks), metadata
+
+
 def html_table_to_rows(table: Tag) -> tuple[list[str], list[list[str]]]:
     parsed_rows: list[list[str]] = []
 
@@ -395,65 +825,162 @@ def build_markdown(
     body_text: str,
     capture_method: str,
     source_type: str = "web_page",
+    extra_metadata: dict[str, str] | None = None,
 ) -> str:
     collected_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     safe_title = title.replace('"', "'")
     safe_url = url.replace('"', "%22")
     safe_source_type = source_type.replace('"', "'")
+    front_matter = [
+        f'title: "{safe_title}"',
+        f'source_url: "{safe_url}"',
+        f'source_type: "{safe_source_type}"',
+        f'collected_at: "{collected_at}"',
+        f'capture_method: "{capture_method}"',
+    ]
+
+    for key, value in (extra_metadata or {}).items():
+        if not value:
+            continue
+        safe_key = re.sub(r"[^a-zA-Z0-9_]+", "_", key).strip("_")
+        safe_value = value.replace('"', "'")
+        front_matter.append(f'{safe_key}: "{safe_value}"')
 
     return (
         "---\n"
-        f'title: "{safe_title}"\n'
-        f'source_url: "{safe_url}"\n'
-        f'source_type: "{safe_source_type}"\n'
-        f'collected_at: "{collected_at}"\n'
-        f'capture_method: "{capture_method}"\n'
-        "---\n\n"
-        f"# {title}\n\n"
-        f"{body_text.strip()}\n"
+        + "\n".join(front_matter)
+        + "\n---\n\n"
+        + f"# {title}\n\n"
+        + f"{body_text.strip()}\n"
     )
 
 
-def scrape_url_to_markdown(url: str, output: Path | None, title_override: str | None) -> Path:
-    google_csv_url = google_sheets_csv_url(url)
-    fetch_target = google_csv_url or url
-    response = fetch_url(fetch_target)
-    content_type = response.headers.get("content-type", "")
-    source_type = "web_page"
-    capture_method = "scrape_url.py"
+def scrape_url_to_markdown(
+    url: str,
+    output: Path | None,
+    title_override: str | None,
+    reddit_max_comments: int,
+    reddit_sort: str,
+    include_reddit_authors: bool,
+) -> Path:
+    extra_metadata: dict[str, str] = {}
 
-    if google_csv_url or looks_like_tabular_response(fetch_target, content_type):
-        source_type = "tabular_data"
-        capture_method = "scrape_url.py:tabular"
-        title = title_override or title_from_url(url)
+    if is_reddit_url(url):
+        fetch_target = reddit_json_url(url, reddit_max_comments, reddit_sort)
+        reddit_headers = {
+            "User-Agent": REDDIT_USER_AGENT,
+            "Accept": "application/json",
+        }
+        json_error: Exception | None = None
+        title = ""
+        body_text = ""
+        source_type = "reddit_thread"
+        capture_method = "scrape_url.py:reddit_json"
 
-        if urlparse(fetch_target).path.lower().endswith(".xlsx") or "spreadsheetml" in content_type.lower():
-            headers, rows = parse_xlsx_rows(response.content)
-        else:
-            text = decode_text_response(response)
-            delimiter = "\t" if "tab-separated-values" in content_type.lower() else None
-            headers, rows = parse_delimited_rows(text, delimiter=delimiter)
-
-        body_text = rows_to_markdown(headers, rows)
-    else:
-        if "html" not in content_type.lower():
-            raise ValueError(
-                f"Expected an HTML or tabular source, but got content type: "
-                f"{content_type or 'unknown'}"
+        try:
+            response = fetch_url(fetch_target, reddit_headers)
+            payload = response.json()
+            title, body_text, extra_metadata = reddit_thread_to_markdown(
+                payload,
+                include_reddit_authors,
+                reddit_max_comments,
             )
+            capture_method = "scrape_url.py:reddit_json"
+        except (requests.RequestException, ValueError) as public_json_error:
+            json_error = public_json_error
+            try:
+                token = reddit_oauth_token()
+            except (requests.RequestException, ValueError) as token_error:
+                token = None
+                json_error = token_error
 
-        soup = BeautifulSoup(response.text, "html.parser")
-        clean_soup(soup)
+            if token:
+                oauth_headers = {
+                    "User-Agent": REDDIT_USER_AGENT,
+                    "Accept": "application/json",
+                    "Authorization": f"Bearer {token}",
+                }
+                try:
+                    response = fetch_url(
+                        reddit_oauth_json_url(url, reddit_max_comments, reddit_sort),
+                        oauth_headers,
+                    )
+                    payload = response.json()
+                    title, body_text, extra_metadata = reddit_thread_to_markdown(
+                        payload,
+                        include_reddit_authors,
+                        reddit_max_comments,
+                    )
+                    capture_method = "scrape_url.py:reddit_oauth_json"
+                except (requests.RequestException, ValueError) as oauth_error:
+                    json_error = oauth_error
 
-        title = title_override or extract_title(soup, url)
-        table_text = markdown_from_tables(soup)
-        if table_text:
-            source_type = "html_table"
-            capture_method = "scrape_url.py:html_table"
-            body_text = table_text
+            if not body_text:
+                fallback_url = reddit_old_html_url(url, reddit_sort)
+                html_headers = {
+                    "User-Agent": REDDIT_USER_AGENT,
+                    "Accept": "text/html,application/xhtml+xml",
+                }
+                try:
+                    response = fetch_url(fallback_url, html_headers)
+                except requests.RequestException as html_error:
+                    raise ValueError(
+                        "Reddit blocked public JSON, OAuth JSON was not configured or "
+                        "did not work, and old.reddit.com HTML was also blocked. Add "
+                        "REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET to .env, or save "
+                        "the thread manually as Markdown."
+                    ) from html_error
+
+                title, body_text, extra_metadata = reddit_thread_html_to_markdown(
+                    response.text,
+                    url,
+                    include_reddit_authors,
+                    reddit_max_comments,
+                )
+                extra_metadata["reddit_json_error"] = str(json_error).replace("\n", " ")
+                capture_method = "scrape_url.py:old_reddit_html"
+
+        title = title_override or title
+    else:
+        google_csv_url = google_sheets_csv_url(url)
+        fetch_target = google_csv_url or url
+        response = fetch_url(fetch_target)
+        content_type = response.headers.get("content-type", "")
+        source_type = "web_page"
+        capture_method = "scrape_url.py"
+
+        if google_csv_url or looks_like_tabular_response(fetch_target, content_type):
+            source_type = "tabular_data"
+            capture_method = "scrape_url.py:tabular"
+            title = title_override or title_from_url(url)
+
+            if urlparse(fetch_target).path.lower().endswith(".xlsx") or "spreadsheetml" in content_type.lower():
+                headers, rows = parse_xlsx_rows(response.content)
+            else:
+                text = decode_text_response(response)
+                delimiter = "\t" if "tab-separated-values" in content_type.lower() else None
+                headers, rows = parse_delimited_rows(text, delimiter=delimiter)
+
+            body_text = rows_to_markdown(headers, rows)
         else:
-            content_root = choose_content_root(soup)
-            body_text = markdown_from_element(content_root)
+            if "html" not in content_type.lower():
+                raise ValueError(
+                    f"Expected an HTML or tabular source, but got content type: "
+                    f"{content_type or 'unknown'}"
+                )
+
+            soup = BeautifulSoup(response.text, "html.parser")
+            clean_soup(soup)
+
+            title = title_override or extract_title(soup, url)
+            table_text = markdown_from_tables(soup)
+            if table_text:
+                source_type = "html_table"
+                capture_method = "scrape_url.py:html_table"
+                body_text = table_text
+            else:
+                content_root = choose_content_root(soup)
+                body_text = markdown_from_element(content_root)
 
     if len(body_text) < 200:
         raise ValueError(
@@ -473,7 +1000,14 @@ def scrape_url_to_markdown(url: str, output: Path | None, title_override: str | 
     output = unique_path(output)
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(
-        build_markdown(url, title, body_text, capture_method, source_type),
+        build_markdown(
+            url,
+            title,
+            body_text,
+            capture_method,
+            source_type,
+            extra_metadata,
+        ),
         encoding="utf-8",
     )
 
@@ -495,14 +1029,39 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         "--title",
         help="Optional title override for the saved Markdown metadata and heading.",
     )
+    parser.add_argument(
+        "--reddit-max-comments",
+        type=int,
+        default=30,
+        help="Maximum readable Reddit comments/replies to store. Default: 30.",
+    )
+    parser.add_argument(
+        "--reddit-sort",
+        choices=["confidence", "top", "new", "controversial", "old", "qa"],
+        default="top",
+        help="Comment sort order for Reddit thread JSON. Default: top.",
+    )
+    parser.add_argument(
+        "--include-reddit-authors",
+        action="store_true",
+        help="Include Reddit usernames in saved Markdown. Default: omit usernames.",
+    )
     return parser.parse_args(argv)
 
 
 def main(argv: list[str] | None = None) -> int:
+    load_dotenv()
     args = parse_args(sys.argv[1:] if argv is None else argv)
 
     try:
-        saved_path = scrape_url_to_markdown(args.url, args.output, args.title)
+        saved_path = scrape_url_to_markdown(
+            args.url,
+            args.output,
+            args.title,
+            args.reddit_max_comments,
+            args.reddit_sort,
+            args.include_reddit_authors,
+        )
     except Exception as exc:
         print(f"Failed to scrape URL: {exc}", file=sys.stderr)
         return 1
