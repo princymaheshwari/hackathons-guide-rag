@@ -1,15 +1,22 @@
 """Fetch a web page, extract readable text, and save it as a Markdown source doc.
 
 Usage:
-    python scrape_url.py "https://example.com/article"
-    python scrape_url.py "https://example.com/article" --title "Custom Title"
-    python scrape_url.py "https://example.com/article" --output documents/custom_name.md
-    python scrape_url.py "https://www.reddit.com/r/hackathons/comments/..." --reddit-max-comments 40
+    python -m scrape_web "https://example.com/article"
+    python -m scrape_web "https://example.com/article" --title "Custom Title"
+    python -m scrape_web "https://example.com/article" --output documents/custom_name.md
+    python -m scrape_web "https://www.reddit.com/r/hackathons/comments/..." --reddit-max-comments 40
+    python -m scrape_web "https://us.allhackathons.com/themes/university/" --page-end 18 --output documents/allhackathons_university.md
+    python -m scrape_web "https://us.allhackathons.com/themes/university/" --page-end 18 --follow-read-more --output documents/allhackathons_university_details.md
 
 For CSV, TSV, public Google Sheets, and HTML tables, rows are saved as
 Markdown sections so column/value relationships survive chunking.
 For Reddit thread URLs, the script uses Reddit's public JSON representation
 and saves the original post plus readable comments with permalinks.
+For paginated pages, the script saves all requested pages into one Markdown file.
+Use --follow-read-more for listing/card pages to save linked detail pages instead
+of teaser text from the listing cards.
+Use --include-visible-text to preserve short visible UI text such as tags,
+badges, statuses, and action labels.
 """
 
 from __future__ import annotations
@@ -19,11 +26,13 @@ import csv
 import os
 import re
 import sys
+from dataclasses import dataclass
+from html import unescape
 from io import BytesIO, StringIO
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import parse_qs, urlencode, urlparse
+from urllib.parse import parse_qs, parse_qsl, urlencode, urljoin, urlparse, urlunparse
 
 import requests
 from bs4 import BeautifulSoup, Tag
@@ -37,6 +46,15 @@ USER_AGENT = (
     "+https://example.com/student-project)"
 )
 REDDIT_USER_AGENT = "python:university-guide-rag:v1.0 (student research project)"
+
+
+@dataclass
+class ScrapedContent:
+    title: str
+    body_text: str
+    source_type: str
+    capture_method: str
+    extra_metadata: dict[str, str]
 
 
 def fetch_url(url: str, headers: dict[str, str] | None = None) -> requests.Response:
@@ -204,26 +222,24 @@ def extract_title(soup: BeautifulSoup, fallback_url: str) -> str:
     return parsed.netloc or "Untitled Source"
 
 
-def clean_soup(soup: BeautifulSoup) -> None:
-    for tag in soup(
-        [
-            "script",
-            "style",
-            "noscript",
-            "svg",
-            "canvas",
-            "iframe",
-            "form",
-            "button",
-            "input",
-            "select",
-            "textarea",
-            "nav",
-            "footer",
-            "header",
-            "aside",
-        ]
-    ):
+def clean_soup(soup: BeautifulSoup, keep_visible_chrome: bool = False) -> None:
+    remove_tags = [
+        "script",
+        "style",
+        "noscript",
+        "svg",
+        "canvas",
+        "iframe",
+        "form",
+        "input",
+        "select",
+        "textarea",
+    ]
+
+    if not keep_visible_chrome:
+        remove_tags.extend(["button", "nav", "footer", "header", "aside"])
+
+    for tag in soup(remove_tags):
         tag.decompose()
 
     for selector in [
@@ -256,6 +272,7 @@ def choose_content_root(soup: BeautifulSoup) -> Tag:
 
 
 def clean_inline_text(text: str) -> str:
+    text = unescape(text)
     text = text.replace("\xa0", " ")
     text = re.sub(r"\s+", " ", text)
     return text.strip()
@@ -773,6 +790,57 @@ def markdown_from_element(element: Tag) -> str:
     return "\n\n".join(deduplicate_blocks(blocks))
 
 
+def visible_strings(element: Tag) -> list[str]:
+    strings: list[str] = []
+    for value in element.stripped_strings:
+        text = clean_inline_text(str(value))
+        if text:
+            strings.append(text)
+
+    return strings
+
+
+def extract_visible_badges(soup: BeautifulSoup) -> list[str]:
+    badges: list[str] = []
+    seen: set[str] = set()
+
+    selectors = [
+        ".badge",
+        "[class*='badge']",
+    ]
+
+    for selector in selectors:
+        for tag in soup.select(selector):
+            text = clean_inline_text(tag.get_text(" ", strip=True))
+            if not text:
+                continue
+
+            normalized = text.casefold()
+            if normalized in seen:
+                continue
+
+            badges.append(text)
+            seen.add(normalized)
+
+    return badges
+
+
+def markdown_from_visible_page(soup: BeautifulSoup) -> str:
+    blocks: list[str] = []
+    badges = extract_visible_badges(soup)
+
+    if badges:
+        blocks.append("## Visible Tags / Badges")
+        blocks.extend(f"- {badge}" for badge in badges)
+
+    strings = visible_strings(soup.body if soup.body else soup)
+    if strings:
+        blocks.append("## All Visible Page Text")
+        blocks.extend(f"- {text}" for text in strings)
+
+    return "\n\n".join(blocks)
+
+
 def deduplicate_blocks(blocks: Iterable[str]) -> list[str]:
     cleaned: list[str] = []
     seen_recent: set[str] = set()
@@ -855,14 +923,14 @@ def build_markdown(
     )
 
 
-def scrape_url_to_markdown(
+def extract_url_content(
     url: str,
-    output: Path | None,
     title_override: str | None,
     reddit_max_comments: int,
     reddit_sort: str,
     include_reddit_authors: bool,
-) -> Path:
+    include_visible_text: bool = False,
+) -> ScrapedContent:
     extra_metadata: dict[str, str] = {}
 
     if is_reddit_url(url):
@@ -875,7 +943,7 @@ def scrape_url_to_markdown(
         title = ""
         body_text = ""
         source_type = "reddit_thread"
-        capture_method = "scrape_url.py:reddit_json"
+        capture_method = "scrape_web:reddit_json"
 
         try:
             response = fetch_url(fetch_target, reddit_headers)
@@ -885,7 +953,7 @@ def scrape_url_to_markdown(
                 include_reddit_authors,
                 reddit_max_comments,
             )
-            capture_method = "scrape_url.py:reddit_json"
+            capture_method = "scrape_web:reddit_json"
         except (requests.RequestException, ValueError) as public_json_error:
             json_error = public_json_error
             try:
@@ -911,7 +979,7 @@ def scrape_url_to_markdown(
                         include_reddit_authors,
                         reddit_max_comments,
                     )
-                    capture_method = "scrape_url.py:reddit_oauth_json"
+                    capture_method = "scrape_web:reddit_oauth_json"
                 except (requests.RequestException, ValueError) as oauth_error:
                     json_error = oauth_error
 
@@ -938,7 +1006,7 @@ def scrape_url_to_markdown(
                     reddit_max_comments,
                 )
                 extra_metadata["reddit_json_error"] = str(json_error).replace("\n", " ")
-                capture_method = "scrape_url.py:old_reddit_html"
+                capture_method = "scrape_web:old_reddit_html"
 
         title = title_override or title
     else:
@@ -947,11 +1015,11 @@ def scrape_url_to_markdown(
         response = fetch_url(fetch_target)
         content_type = response.headers.get("content-type", "")
         source_type = "web_page"
-        capture_method = "scrape_url.py"
+        capture_method = "scrape_web"
 
         if google_csv_url or looks_like_tabular_response(fetch_target, content_type):
             source_type = "tabular_data"
-            capture_method = "scrape_url.py:tabular"
+            capture_method = "scrape_web:tabular"
             title = title_override or title_from_url(url)
 
             if urlparse(fetch_target).path.lower().endswith(".xlsx") or "spreadsheetml" in content_type.lower():
@@ -970,17 +1038,21 @@ def scrape_url_to_markdown(
                 )
 
             soup = BeautifulSoup(response.text, "html.parser")
-            clean_soup(soup)
+            clean_soup(soup, keep_visible_chrome=include_visible_text)
 
             title = title_override or extract_title(soup, url)
-            table_text = markdown_from_tables(soup)
-            if table_text:
-                source_type = "html_table"
-                capture_method = "scrape_url.py:html_table"
-                body_text = table_text
+            if include_visible_text:
+                body_text = markdown_from_visible_page(soup)
+                capture_method = "scrape_web:visible_text"
             else:
-                content_root = choose_content_root(soup)
-                body_text = markdown_from_element(content_root)
+                table_text = markdown_from_tables(soup)
+                if table_text:
+                    source_type = "html_table"
+                    capture_method = "scrape_web:html_table"
+                    body_text = table_text
+                else:
+                    content_root = choose_content_root(soup)
+                    body_text = markdown_from_element(content_root)
 
     if len(body_text) < 200:
         raise ValueError(
@@ -988,6 +1060,73 @@ def scrape_url_to_markdown(
             "blocked, empty, or better collected manually."
         )
 
+    return ScrapedContent(
+        title=title,
+        body_text=body_text,
+        source_type=source_type,
+        capture_method=capture_method,
+        extra_metadata=extra_metadata,
+    )
+
+
+def paginated_url(
+    base_url: str,
+    page_number: int,
+    page_param: str,
+    first_page_number: int,
+) -> str:
+    if page_number == first_page_number:
+        return base_url
+
+    parsed = urlparse(base_url)
+    query_pairs = [
+        (key, value)
+        for key, value in parse_qsl(parsed.query, keep_blank_values=True)
+        if key != page_param
+    ]
+    query_pairs.append((page_param, str(page_number)))
+
+    return urlunparse(
+        (
+            parsed.scheme,
+            parsed.netloc,
+            parsed.path,
+            parsed.params,
+            urlencode(query_pairs),
+            parsed.fragment,
+        )
+    )
+
+
+def discover_links_by_text(url: str, link_text: str) -> list[str]:
+    response = fetch_url(url)
+    if "html" not in response.headers.get("content-type", "").lower():
+        raise ValueError(f"Expected an HTML listing page for link discovery: {url}")
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    expected = clean_inline_text(link_text).casefold()
+    links: list[str] = []
+    seen: set[str] = set()
+
+    for anchor in soup.find_all("a"):
+        text = clean_inline_text(anchor.get_text(" ", strip=True)).casefold()
+        href = anchor.get("href")
+        if not isinstance(href, str) or not href:
+            continue
+        if text != expected:
+            continue
+
+        absolute_url = urljoin(url, href)
+        if absolute_url in seen:
+            continue
+
+        links.append(absolute_url)
+        seen.add(absolute_url)
+
+    return links
+
+
+def output_path_for(url: str, title: str, output: Path | None) -> Path:
     DOCUMENTS_DIR.mkdir(exist_ok=True)
 
     if output is None:
@@ -997,7 +1136,19 @@ def scrape_url_to_markdown(
     elif output.suffix.lower() != ".md":
         output = output.with_suffix(".md")
 
-    output = unique_path(output)
+    return unique_path(output)
+
+
+def write_markdown_file(
+    url: str,
+    title: str,
+    body_text: str,
+    capture_method: str,
+    source_type: str,
+    extra_metadata: dict[str, str],
+    output: Path | None,
+) -> Path:
+    output = output_path_for(url, title, output)
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(
         build_markdown(
@@ -1014,9 +1165,158 @@ def scrape_url_to_markdown(
     return output
 
 
+def scrape_url_to_markdown(
+    url: str,
+    output: Path | None,
+    title_override: str | None,
+    reddit_max_comments: int,
+    reddit_sort: str,
+    include_reddit_authors: bool,
+    include_visible_text: bool,
+) -> Path:
+    content = extract_url_content(
+        url,
+        title_override,
+        reddit_max_comments,
+        reddit_sort,
+        include_reddit_authors,
+        include_visible_text,
+    )
+
+    return write_markdown_file(
+        url,
+        content.title,
+        content.body_text,
+        content.capture_method,
+        content.source_type,
+        content.extra_metadata,
+        output,
+    )
+
+
+def scrape_paginated_to_markdown(
+    url: str,
+    output: Path | None,
+    title_override: str | None,
+    page_start: int,
+    page_end: int,
+    page_param: str,
+    follow_read_more: bool,
+    read_more_text: str,
+    reddit_max_comments: int,
+    reddit_sort: str,
+    include_reddit_authors: bool,
+    include_visible_text: bool,
+) -> Path:
+    if page_start < 1:
+        raise ValueError("--page-start must be 1 or greater.")
+    if page_end < page_start:
+        raise ValueError("--page-end must be greater than or equal to --page-start.")
+
+    page_sections: list[str] = []
+    page_urls: list[str] = []
+    detail_urls: list[str] = []
+    first_title = title_override
+
+    for page_number in range(page_start, page_end + 1):
+        current_url = paginated_url(url, page_number, page_param, page_start)
+        page_urls.append(current_url)
+
+        if follow_read_more:
+            links = discover_links_by_text(current_url, read_more_text)
+            page_blocks = [
+                f"## Listing Page {page_number}",
+                f"- Listing page URL: {current_url}",
+                f"- Detail links found: {len(links)}",
+            ]
+
+            for detail_index, detail_url in enumerate(links, start=1):
+                if detail_url in detail_urls:
+                    continue
+
+                detail_urls.append(detail_url)
+                content = extract_url_content(
+                    detail_url,
+                    None,
+                    reddit_max_comments,
+                    reddit_sort,
+                    include_reddit_authors,
+                    True,
+                )
+
+                if first_title is None:
+                    first_title = content.title
+
+                page_blocks.append(
+                    "\n\n".join(
+                        [
+                            f"### Detail {detail_index}: {content.title}",
+                            f"- Detail URL: {detail_url}",
+                            content.body_text,
+                        ]
+                    )
+                )
+
+            page_sections.append("\n\n".join(page_blocks))
+        else:
+            content = extract_url_content(
+                current_url,
+                None,
+                reddit_max_comments,
+                reddit_sort,
+                include_reddit_authors,
+                include_visible_text,
+            )
+
+            if first_title is None:
+                first_title = content.title
+
+            page_sections.append(
+                "\n\n".join(
+                    [
+                        f"## Page {page_number}",
+                        f"- Page URL: {current_url}",
+                        f"- Page title: {content.title}",
+                        content.body_text,
+                    ]
+                )
+            )
+
+    title = title_override or f"{first_title} (pages {page_start}-{page_end})"
+    body_text = "\n\n".join(page_sections)
+    extra_metadata = {
+        "page_start": str(page_start),
+        "page_end": str(page_end),
+        "page_param": page_param,
+        "pages_collected": str(len(page_urls)),
+    }
+    source_type = "paginated_web_pages"
+    capture_method = "scrape_web:pagination"
+
+    if follow_read_more:
+        source_type = "paginated_detail_pages"
+        capture_method = "scrape_web:pagination_read_more"
+        extra_metadata["followed_link_text"] = read_more_text
+        extra_metadata["detail_pages_collected"] = str(len(detail_urls))
+
+    return write_markdown_file(
+        url,
+        title,
+        body_text,
+        capture_method,
+        source_type,
+        extra_metadata,
+        output,
+    )
+
+
 def parse_args(argv: list[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Scrape one URL and save cleaned text as a Markdown file in documents/."
+        prog="scrape-web",
+        description=(
+            "Scrape web, Reddit, table, or paginated URLs and save cleaned "
+            "Markdown source documents."
+        )
     )
     parser.add_argument("url", help="The web URL to scrape.")
     parser.add_argument(
@@ -1028,6 +1328,46 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument(
         "--title",
         help="Optional title override for the saved Markdown metadata and heading.",
+    )
+    parser.add_argument(
+        "--page-start",
+        type=int,
+        default=1,
+        help="First page number to scrape when using paginated mode. Default: 1.",
+    )
+    parser.add_argument(
+        "--page-end",
+        type=int,
+        help=(
+            "Last page number to scrape. When provided, the script scrapes "
+            "all pages from --page-start through --page-end into one Markdown file."
+        ),
+    )
+    parser.add_argument(
+        "--page-param",
+        default="page",
+        help="Query parameter used for pagination. Default: page.",
+    )
+    parser.add_argument(
+        "--follow-read-more",
+        action="store_true",
+        help=(
+            "For paginated listing/card pages, follow each page's Read more "
+            "links and save the linked detail pages instead of listing teasers."
+        ),
+    )
+    parser.add_argument(
+        "--read-more-text",
+        default="Read more",
+        help="Visible link text to follow when using --follow-read-more. Default: Read more.",
+    )
+    parser.add_argument(
+        "--include-visible-text",
+        action="store_true",
+        help=(
+            "Preserve all visible text nodes from HTML pages, including tags, "
+            "badges, statuses, navigation labels, and action text."
+        ),
     )
     parser.add_argument(
         "--reddit-max-comments",
@@ -1054,14 +1394,31 @@ def main(argv: list[str] | None = None) -> int:
     args = parse_args(sys.argv[1:] if argv is None else argv)
 
     try:
-        saved_path = scrape_url_to_markdown(
-            args.url,
-            args.output,
-            args.title,
-            args.reddit_max_comments,
-            args.reddit_sort,
-            args.include_reddit_authors,
-        )
+        if args.page_end is not None:
+            saved_path = scrape_paginated_to_markdown(
+                args.url,
+                args.output,
+                args.title,
+                args.page_start,
+                args.page_end,
+                args.page_param,
+                args.follow_read_more,
+                args.read_more_text,
+                args.reddit_max_comments,
+                args.reddit_sort,
+                args.include_reddit_authors,
+                args.include_visible_text,
+            )
+        else:
+            saved_path = scrape_url_to_markdown(
+                args.url,
+                args.output,
+                args.title,
+                args.reddit_max_comments,
+                args.reddit_sort,
+                args.include_reddit_authors,
+                args.include_visible_text,
+            )
     except Exception as exc:
         print(f"Failed to scrape URL: {exc}", file=sys.stderr)
         return 1
