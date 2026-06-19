@@ -17,7 +17,7 @@ This knowledge is valuable because official hackathon pages usually explain date
 
 ## Document Sources
 
-Most source documents were collected into `documents/` using `scrape_url.py`, which saves each source as Markdown with front matter metadata such as title, source URL, source type, collection time, and capture method. The scraper handles normal web pages as cleaned Markdown; for tabular sources such as Google Sheets, CSV/TSV, XLSX, and HTML tables, it converts each row into a row-based Markdown section so field/value relationships survive retrieval. For Reddit threads, it stores the original post and readable comments in a Reddit-specific Markdown structure with permalinks for citation; it can use Reddit JSON/OAuth when available and falls back to old Reddit HTML when possible.
+Most source documents were collected into `documents/` using `scrape_url.py`, which saves each source as Markdown with front matter metadata such as title, source URL, source type, collection time, and capture method. The scraper handles normal web pages as cleaned Markdown; for tabular sources such as Google Sheets, CSV/TSV, XLSX, and HTML tables, it converts each row into a row-based Markdown section so field/value relationships survive retrieval. For Reddit threads, it stores the original post and readable comments in a Reddit-specific Markdown structure with permalinks for citation; it can use Reddit JSON/OAuth when available and falls back to old Reddit HTML when possible. 
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
@@ -50,6 +50,13 @@ Most source documents were collected into `documents/` using `scrape_url.py`, wh
 | 27 | Types of Hackathons | Hackathon type explainer | https://www.brightidea.com/guide/hackathon/types-of-hackathons/ |
 | 28 | Are Hackathons Still Useful Today? | Opinion/community post | https://www.linkedin.com/posts/shireen-shamil-3aa53326a_are-hackathons-still-useful-today-hackathons-share-7382054820502892544-0Ivd/ |
 | 29 | How to Form a Winning Team for a Hackathon | Team formation article | https://www.linkedin.com/pulse/how-form-winning-team-ai500-hackathon-itcommunityuzb-jvsof/ |
+| 30 | AI Hackathons: How to Prepare, Compete, and Win in 2026 | AI hackathon preparation guide | https://deepstation.ai/blog/ai-hackathons-how-to-prepare-compete-and-win-in-2026 |
+| 31 | Best Practices: Social Good Hackathons | Devpost best-practices guide | https://help.devpost.com/article/73-best-practices-social-good-hackathons |
+| 32 | 8 Types of Internal Hackathons to Drive Innovation Within Your Organization | Hackathon format/type guide | https://info.devpost.com/blog/8-types-of-internal-hackathons |
+| 33 | How to Win an AI Hackathon: Build a Solution that Actually Matters | AI hackathon winning strategy article | https://tanya-fesenko.medium.com/how-to-win-an-ai-hackathon-build-a-solution-that-actually-matters-0270a3983419 |
+| 34 | Types of Hackathons: A Complete Guide | Hackathon type explainer | https://www.linkedin.com/pulse/types-hackathons-complete-guide-hacktifycs-edn4f/ |
+| 35 | What's the smartest hackathon strategy you've seen actually win? | Reddit strategy thread | https://www.reddit.com/r/hackathon/comments/1s2di3z/whats_the_smartest_hackathon_strategy_youve_seen/ |
+| 36 | Types of Hackathons: Formats, Examples and How to Choose | Hackathon format/type guide | https://www.speedexam.net/blog/types-of-hackathons/ |
 
 ---
 
