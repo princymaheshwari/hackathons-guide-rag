@@ -118,7 +118,7 @@ capture_method: "scrape_url.py:html_table"
 
 - Title: Thomas Sawano
 
-- Description: Subscribe to this blog. Follow by Email. At an event that drew a cohort of over 600 coding enthusiasts, nearly 100 teams built apps and gadgets that talked, mimicked, planned, donated and edited videos. One coached public speaking. CruzHacks, UC Santa Cruz’s annual coding binge, took over Stevenson Event Center from Jan. The 36-hour hackathon brought students from across the U.
+- Description: At an event that drew a cohort of over 600 coding enthusiasts, nearly 100 teams built apps and gadgets that talked, mimicked, planned, donated and edited videos. One coached public speaking. CruzHacks, UC Santa Cruz’s annual coding binge, took over Stevenson Event Center from Jan. The 36-hour hackathon brought students from across the U.
 
 ### Row 12: hackher413.com
 
@@ -168,7 +168,7 @@ capture_method: "scrape_url.py:html_table"
 
 - Title: UHS Hacks
 
-- Description: Skip to main content. April 11th at University High School. Our mission is to encourage students to engage with robotics and computer science. Our hackathon will take place on April 11th, 2020 at University High School. We offer two potential tracks for your robotics and coding projects. The business track focuses on the development and validation of new business models, and innovation in the sphere of technology.
+- Description: April 11th at University High School. Our mission is to encourage students to engage with robotics and computer science. Our hackathon will take place on April 11th, 2020 at University High School. We offer two potential tracks for your robotics and coding projects. The business track focuses on the development and validation of new business models, and innovation in the sphere of technology.
 
 ### Row 17: hackmcwics.ca
 
@@ -1288,7 +1288,7 @@ capture_method: "scrape_url.py:html_table"
 
 - Title: EPIC – Northwestern Entrepreneurship
 
-- Description: NU Venture Challenge. EPIC empowers the next generation of. Sign up for our weekly newsletter. Inspiring hands-on experiences to empower students to build. Our entrepreneur development program. Our 24-hour intercollegiate hackathon. NU’s largest business pitch competition. Be part of the community. Join us at our events:. Come to the info session at Ford Design Studio to learn more, and to meet part of the extraordinary team behind WildHacks, Project Pitch, NUVC, and more.
+- Description: NU Venture Challenge. EPIC empowers the next generation of. Inspiring hands-on experiences to empower students to build. Our entrepreneur development program. Our 24-hour intercollegiate hackathon. NU’s largest business pitch competition. Be part of the community. Join us at our events:. Come to the info session at Ford Design Studio to learn more, and to meet part of the extraordinary team behind WildHacks, Project Pitch, NUVC, and more.
 
 ### Row 129: hack3.co
 

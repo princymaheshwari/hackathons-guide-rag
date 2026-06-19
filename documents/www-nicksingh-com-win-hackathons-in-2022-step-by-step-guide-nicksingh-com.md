@@ -267,5 +267,3 @@ This guide isn’t exhaustive. Here’s a shout out to a few other resources tha
 ## Conclusion
 
 This guide was long-winded enough - no need for a lengthy conclusion. Just a heartfelt thanks for reading and I hope this genuinely helped. And if it did help - I love hearing success stories. Feel free to email me if it helped you win a Hackathon, along with a link to the project you made.
-
-For more long-form guides like this, join my monthly newsletter below so you don't miss anything (it's just one email a month!). And feel free to connect with me on LinkedIn and Twitter . And go read my book, Ace the Data Science Interview while you are at it!

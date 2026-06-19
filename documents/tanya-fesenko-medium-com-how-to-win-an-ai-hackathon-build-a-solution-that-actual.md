@@ -58,8 +58,6 @@ Here’s the thing about AI tooling: whether you’re using Claude Code, Cursor,
 
 > AI fluency isn’t about knowing every new model and tool — it’s about mastering the techniques that work across any AI system.
 
-AI fluency isn’t about knowing every new model and tool — it’s about mastering the techniques that work across any AI system.
-
 ### Decompose Before You Delegate
 
 Instead of asking AI to “build our entire incident response system,” we approached each piece systematically. First the data model, then sample data, then the RAG querying logic. This parallel decomposition kept each AI interaction focused and manageable.
@@ -91,8 +89,6 @@ Our vector similarity function looked flawless and ran without errors, but it wa
 These weren’t edge cases or complex bugs. They were logical errors that any experienced engineer would catch during code review, but they were hidden behind clean syntax and confident AI responses.
 
 > The teams that master AI development understand this balance: leverage AI for rapid generation and boilerplate, but budget time for the verification that only human expertise can provide.
-
-The teams that master AI development understand this balance: leverage AI for rapid generation and boilerplate, but budget time for the verification that only human expertise can provide.
 
 In hackathon mode, time pressure made me want to believe that perfect-looking code was actually perfect. But I quickly learned that even in a hackathon sprint, human verification is non-negotiable. You couldn’t win our Klaviyo hackathon with slideware, you had to build something that would stand up in a real demo. AI tools helped us code faster, but they also introduced bugs that could kill our presentation — so we had to verify every AI-generated piece of logic.
 

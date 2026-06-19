@@ -60,8 +60,6 @@ Check out this website for high school hackathons: https://hackathons.hackclub.c
 
 > There’s about 100 more…
 
-There’s about 100 more…
-
 ## So — Which one is the best?
 
 You can’t lose. Unless, you don’t choose any of them 😦.

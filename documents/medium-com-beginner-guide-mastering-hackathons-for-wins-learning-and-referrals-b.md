@@ -14,8 +14,6 @@ capture_method: "scrape_url.py"
 
 > I know that you are busy, so let’s get started ASAP :)
 
-I know that you are busy, so let’s get started ASAP :)
-
 I’ll quickly convince you that I was in your shoes just a few months back, then we’ll jump right into the step-by-step guide!
 
 ## My Background
@@ -23,8 +21,6 @@ I’ll quickly convince you that I was in your shoes just a few months back, the
 Before my freshman year, I was essentially unaware of programming and hadn’t even taken a single grade 12 computer science course. In my freshman year, I constantly felt like I was lagging behind my peers who had extensive programming experience, so I turned to hackathons as a way to bridge this gap. Through this post, I aim to share the tips and guidelines that helped me to secure victory in over five consecutive hackathons during my freshman year.
 
 > My LinkedIn Profile can be found here.
-
-My LinkedIn Profile can be found here.
 
 ## My Hackathon Experience
 
@@ -84,8 +80,6 @@ Project ideas typically undergo assessment based on four key criteria:
 
 > FIRST IMPRESSION IS VERY IMPORTANT
 
-FIRST IMPRESSION IS VERY IMPORTANT
-
 - Can it impress the judges? Does it possess originality?
 
 2. Technical Complexity
@@ -96,15 +90,11 @@ FIRST IMPRESSION IS VERY IMPORTANT
 
 > Ex: If you are competing for the Cohere prizes, you might want to show creative implementations of their API
 
-Ex: If you are competing for the Cohere prizes, you might want to show creative implementations of their API
-
 3. Category Alignment (If going for a certain category prize)
 
 - Does the project idea align with the category’s expectations? (If specified)
 
 > 4. (SHOCKINGLY) Experience
-
-4. (SHOCKINGLY) Experience
 
 - This is really shocking and non-sense to me, but apparently many general (main top1–3) judges care about how in-experienced you are. They want to see that you used new technologies in your project. Thus, unless they see absolutely no value in your project, they will ask you about your experience. I understand that the organizers want to encourage hackers to use and learn new technologies. However, this sounds very non-sense and unfair to me since anyone can say “oh haha this is our first time using ___ and we are so happy that this worked out!”, and they would win against more experienced teams who pulled all-nighters to build a higher-quality project with more potential and greater impact.
 

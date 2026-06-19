@@ -28,23 +28,13 @@ Follow these steps to choose an event you can realistically compete in:
 
 - Check the audience fit first. If the event page explicitly says it welcomes all experience levels , that is usually a stronger first pick than a competition that assumes you already know the tools, format, and judging flow.
 
-Check the audience fit first. If the event page explicitly says it welcomes all experience levels , that is usually a stronger first pick than a competition that assumes you already know the tools, format, and judging flow.
-
 - Read the challenge prompt and judge how much problem-definition work it leaves you. If you are newer, lean toward hackathons that offer pre-event activities or a narrower build prompt, because that gives you a head start on ideation and reduces decision paralysis.
-
-Read the challenge prompt and judge how much problem-definition work it leaves you. If you are newer, lean toward hackathons that offer pre-event activities or a narrower build prompt, because that gives you a head start on ideation and reduces decision paralysis.
 
 - Audit the submission page before you register. Devpost’s own advice is to review the rules and criteria up front, so confirm the required tools, deliverables, judging rubric, and deadline format all match what you can actually execute.
 
-Audit the submission page before you register. Devpost’s own advice is to review the rules and criteria up front, so confirm the required tools, deliverables, judging rubric, and deadline format all match what you can actually execute.
-
 - Rate the presentation pressure honestly. If the event requires a live demo , assume the bar is higher for polish, stability, and rehearsal, which can be great for growth but rough for a first outing.
 
-Rate the presentation pressure honestly. If the event requires a live demo , assume the bar is higher for polish, stability, and rehearsal, which can be great for growth but rough for a first outing.
-
 - Estimate the final submission workload, not just the coding workload. Even beginner-focused events can still expect a working build , a usable repo, and a demo video, so choose the event whose full checklist you can complete, not just the prototype.
-
-Estimate the final submission workload, not just the coding workload. Even beginner-focused events can still expect a working build , a usable repo, and a demo video, so choose the event whose full checklist you can complete, not just the prototype.
 
 A few things to watch out for:
 
@@ -66,27 +56,15 @@ Follow these steps to turn the current stack into muscle memory before the event
 
 - Choose the exact stack you will rehearse. If you plan to build an agent workflow, start with Google ADK so your prompts, tool calls, and orchestration live in one place, then decide whether OpenAI Codex or Claude Code will handle most of your code changes.
 
-Choose the exact stack you will rehearse. If you plan to build an agent workflow, start with Google ADK so your prompts, tool calls, and orchestration live in one place, then decide whether OpenAI Codex or Claude Code will handle most of your code changes.
-
 - Build a boring practice app that matches your likely hackathon shape. If your event is likely to use the Gemini API, rehearse prompt input, tool calls, structured output, and a simple UI or CLI so auth, schema, and latency surprises show up before the clock starts.
-
-Build a boring practice app that matches your likely hackathon shape. If your event is likely to use the Gemini API, rehearse prompt input, tool calls, structured output, and a simple UI or CLI so auth, schema, and latency surprises show up before the clock starts.
 
 - Rehearse terminal-first building until it feels ordinary. Claude Code is designed to live in your terminal, so use it to turn a plain-English feature request into code, run checks, and review the diff before you accept changes.
 
-Rehearse terminal-first building until it feels ordinary. Claude Code is designed to live in your terminal, so use it to turn a plain-English feature request into code, run checks, and review the diff before you accept changes.
-
 - Troubleshoot a broken branch in the same environment. Gemini CLI can work with code, edit files, run commands, and help debug, so deliberately break your rehearsal app and use the terminal to get it back to a clean demo state.
-
-Troubleshoot a broken branch in the same environment. Gemini CLI can work with code, edit files, run commands, and help debug, so deliberately break your rehearsal app and use the terminal to get it back to a clean demo state.
 
 - Split your work into well-scoped tasks for OpenAI Codex instead of writing giant prompts. Give separate tasks to the agent for the backend route, UI polish, README, or eval script, then compare which prompt style produces the cleanest output.
 
-Split your work into well-scoped tasks for OpenAI Codex instead of writing giant prompts. Give separate tasks to the agent for the backend route, UI polish, README, or eval script, then compare which prompt style produces the cleanest output.
-
 - Map your fallback flow with the ADK guide . Decide which tool calls are essential, which parts of the demo can be stubbed if a service fails, and what minimal version still tells a convincing story.
-
-Map your fallback flow with the ADK guide . Decide which tool calls are essential, which parts of the demo can be stubbed if a service fails, and what minimal version still tells a convincing story.
 
 Keep these tips in mind:
 
@@ -108,27 +86,15 @@ Follow these steps to build a team and a project plan you can actually ship:
 
 - Start with a team of 2-4 people , then assign one clear owner for each lane: build, model workflow, demo UX, and submission/pitch. If you have fewer people, combine lanes now instead of improvising halfway through the event.
 
-Start with a team of 2-4 people , then assign one clear owner for each lane: build, model workflow, demo UX, and submission/pitch. If you have fewer people, combine lanes now instead of improvising halfway through the event.
-
 - Write a one-sentence project thesis before anyone opens an editor. Use this format: “For ___ users, we help them ___ by ___.” If the sentence sounds like a platform, marketplace, or operating system, it is still too broad.
-
-Write a one-sentence project thesis before anyone opens an editor. Use this format: “For ___ users, we help them ___ by ___.” If the sentence sounds like a platform, marketplace, or operating system, it is still too broad.
 
 - Define one demo path judges can understand fast. Since many events effectively optimize around 4 mins per project , choose a single user flow that proves the problem, the AI behavior, and the result without backup narration.
 
-Define one demo path judges can understand fast. Since many events effectively optimize around 4 mins per project , choose a single user flow that proves the problem, the AI behavior, and the result without backup narration.
-
 - Split your scope into three columns in a shared doc: must-have, nice-to-have, and cut. Your must-have list should contain only what is required to make the live demo work from start to finish.
-
-Split your scope into three columns in a shared doc: must-have, nice-to-have, and cut. Your must-have list should contain only what is required to make the live demo work from start to finish.
 
 - Read the event rules before you promise anything built from old repos, prior prototypes, or recycled project code. If the rules require event-time work, keep your prep to notes, prompts, setup instructions, and approved starter scaffolding.
 
-Read the event rules before you promise anything built from old repos, prior prototypes, or recycled project code. If the rules require event-time work, keep your prep to notes, prompts, setup instructions, and approved starter scaffolding.
-
 - Get mentor feedback early, especially on whether your idea is too common, too fragile, or too hard to demo. A quick course correction at the start is far cheaper than a heroic rewrite at the end.
-
-Get mentor feedback early, especially on whether your idea is too common, too fragile, or too hard to demo. A quick course correction at the start is far cheaper than a heroic rewrite at the end.
 
 - Put your strongest communicator on the demo path, not just the slide deck. In hackathons, the person shaping the live flow often matters as much as the person writing the backend.
 
@@ -148,23 +114,13 @@ Follow these steps to present clearly and turn the event into momentum for your 
 
 - Copy the published rubric into your team notes, then write the exact proof judges will see under each criterion so your pitch matches the scoring system instead of drifting into filler.
 
-Copy the published rubric into your team notes, then write the exact proof judges will see under each criterion so your pitch matches the scoring system instead of drifting into filler.
-
 - Build your opening around the user problem and the working demo video , not your architecture diagram, so judges see the outcome first and understand why the project matters before you explain how it works.
-
-Build your opening around the user problem and the working demo video , not your architecture diagram, so judges see the outcome first and understand why the project matters before you explain how it works.
 
 - Rewrite your Devpost or submission page so it stands on its own from the submission assets , including a live link or test build, access instructions, sample inputs, and a plain-English note about what is fully working versus mocked.
 
-Rewrite your Devpost or submission page so it stands on its own from the submission assets , including a live link or test build, access instructions, sample inputs, and a plain-English note about what is fully working versus mocked.
-
 - Prepare short answers for the judge questions that come up in almost every round, including who the user is, why AI is necessary here, what makes the approach different, and which tradeoffs you made to ship a working prototype on time.
 
-Prepare short answers for the judge questions that come up in almost every round, including who the user is, why AI is necessary here, what makes the approach different, and which tradeoffs you made to ship a working prototype on time.
-
 - Turn every conversation into a next-win plan by saving judge comments, ranking the fixes that mattered most, and deciding whether this project should be polished for launch, reused in your portfolio, or archived cleanly so your team can move on.
-
-Turn every conversation into a next-win plan by saving judge comments, ranking the fixes that mattered most, and deciding whether this project should be polished for launch, reused in your portfolio, or archived cleanly so your team can move on.
 
 - Rehearse with someone outside your team. If they cannot explain the project back to you after the demo, your story is still too abstract.
 
@@ -173,17 +129,3 @@ Turn every conversation into a next-win plan by saving judge comments, ranking t
 - Answer questions with evidence, not promises. Show what works now, then mention what you would build next.
 
 You should now have a polished pitch, a clear demo sequence, a readable submission page, and a written follow-up plan for the project. If another person can understand what you built, why it matters, and how to try it without extra explanation from your team, this step is complete.
-
-When you are ready to put that process to work in a serious community setting, follow DeepStation for upcoming AI hackathons and join the builders getting ready for their next shot.
-
-## Put Your AI Hackathon Prep Into Real-World Action
-
-If you want to do more than read about hackathon strategy, DeepStation gives you a practical place to apply it. Through its AI community, expert-led workshops, and hackathons focused on building real agentic AI solutions, DeepStation helps builders sharpen the exact skills that matter most in competition: scoping fast, shipping under pressure, and demoing work that judges can understand. Whether you're a first-time participant or trying to level up for your next win, DeepStation connects you with a community of 4,000+ members, practitioner-led learning, and events designed to keep you current in the AI wave.
-
-And if you want a stronger edge before your next competition, DeepStation’s Vibe Code: Zero to Launch teaches you how to build and ship a real product using tools like OpenAI Codex and Claude Code—the same kind of workflow that can make a major difference during AI hackathons. Ready to sharpen your build process and compete with more confidence? Prepare for AI hackathons with DeepStation’s AI community, hackathons, and Vibe Code: Zero to Launch — upcoming cohorts and events move fast, so it’s worth getting on the radar now.
-
-### DeepStation
-
-#### Global AI Community
-
-Join our global AI community of engineers, founders, and enthusiasts to stay ahead of the AI wave.

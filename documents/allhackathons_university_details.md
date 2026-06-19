@@ -18,8 +18,6 @@ detail_pages_collected: "175"
 
 - Listing page URL: https://us.allhackathons.com/themes/university/
 
-- Detail links found: 10
-
 ### Detail 1: BisonHacks 2026 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/bisonhacks-2026/
@@ -35,20 +33,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - BisonHacks 2026
 
@@ -84,28 +68,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: Hoya Hacks 2026 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hoya-hacks-2026/
@@ -117,20 +79,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hoya Hacks 2026
 
@@ -162,28 +110,6 @@ detail_pages_collected: "175"
 
 - $4,500
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: MakeCU United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/makecu/
@@ -199,20 +125,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - MakeCU
 
@@ -248,28 +160,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: ✰ LIVE AI Best Coast 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/live-ai-best-coast-2025/
@@ -285,20 +175,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - ✰ LIVE AI Best Coast 2025
 
@@ -336,28 +212,6 @@ detail_pages_collected: "175"
 
 - $10,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: Lehigh Fall 2025 Collegiate Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/lehigh-fall-2025-collegiate-hackathon/
@@ -371,20 +225,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Lehigh Fall 2025 Collegiate Hackathon
 
@@ -426,28 +266,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: codeLinc 10 with Lincoln Financial & AWS United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/codelinc-10-with-lincoln-financial-aws/
@@ -463,20 +281,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - codeLinc 10 with Lincoln Financial & AWS
 
@@ -550,28 +354,6 @@ detail_pages_collected: "175"
 
 - $10,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: Rutgers Health Hack 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/rutgers-health-hack-2025/
@@ -583,20 +365,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Rutgers Health Hack 2025
 
@@ -628,28 +396,6 @@ detail_pages_collected: "175"
 
 - $10,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: MHacks 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/mhacks-2025/
@@ -661,20 +407,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - MHacks 2025
 
@@ -706,28 +438,6 @@ detail_pages_collected: "175"
 
 - $4,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: PEDIHacks: Artificial Intelligence Imaging to Innovate for Inclusivity - AI^4 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/pedihacks-artificial-intelligence-imaging-to-innovate-for-inclusivity-ai-4/
@@ -743,20 +453,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - PEDIHacks: Artificial Intelligence Imaging to Innovate for Inclusivity - AI^4
 
@@ -790,28 +486,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: HackRice 15 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackrice-15/
@@ -827,20 +501,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackRice 15
 
@@ -876,33 +536,9 @@ detail_pages_collected: "175"
 
 - $10,200
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 2
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=2
-
-- Detail links found: 10
 
 ### Detail 2: Innovare Summit - Stanford University United States
 
@@ -919,20 +555,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Innovare Summit - Stanford University
 
@@ -968,28 +590,6 @@ detail_pages_collected: "175"
 
 - $5,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Innovare Summit - Harvard University United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/innovare-summit-harvard-university/
@@ -1005,20 +605,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Innovare Summit - Harvard University
 
@@ -1054,28 +640,6 @@ detail_pages_collected: "175"
 
 - $5,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: HackWesTX VI United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackwestx-vi/
@@ -1089,20 +653,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackWesTX VI
 
@@ -1136,28 +686,6 @@ detail_pages_collected: "175"
 
 - $1,300
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: Future of Data Hackathon 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/future-of-data-hackathon-2025/
@@ -1173,20 +701,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Future of Data Hackathon 2025
 
@@ -1250,28 +764,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: TigerVerse 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/tigerverse-2025/
@@ -1287,20 +779,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - TigerVerse 2025
 
@@ -1334,28 +812,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: PantherHacks 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/pantherhacks-2025/
@@ -1367,20 +823,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - PantherHacks 2025
 
@@ -1466,28 +908,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: Citrus Hack 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/citrus-hack-2025/
@@ -1503,20 +923,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Citrus Hack 2025
 
@@ -1552,28 +958,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: UTA Datathon 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/uta-datathon-2025/
@@ -1589,20 +973,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - UTA Datathon 2025
 
@@ -1638,28 +1008,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: SharkHack 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/sharkhack-2025/
@@ -1675,20 +1023,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - SharkHack 2025
 
@@ -1724,33 +1058,9 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 3
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=3
-
-- Detail links found: 10
 
 ### Detail 1: HackUSF 2025 United States
 
@@ -1767,20 +1077,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackUSF 2025
 
@@ -1836,28 +1132,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: WiCS 2025 Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/wics-2025-hackathon/
@@ -1871,20 +1145,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - WiCS 2025 Hackathon
 
@@ -1918,28 +1178,6 @@ detail_pages_collected: "175"
 
 - $1,305
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Illinois Design Challenge 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/illinois-design-challenge-2025/
@@ -1953,20 +1191,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Illinois Design Challenge 2025
 
@@ -2004,28 +1228,6 @@ detail_pages_collected: "175"
 
 - $500
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: HackSLU United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackslu/
@@ -2041,20 +1243,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackSLU
 
@@ -2090,28 +1278,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: 2025 Crack the Code Hackathon @ Concordia University Irvine United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/2025-crack-the-code-hackathon-concordia-university-irvine/
@@ -2127,20 +1293,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - 2025 Crack the Code Hackathon @ Concordia University Irvine
 
@@ -2178,28 +1330,6 @@ detail_pages_collected: "175"
 
 - $1,485
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: Abstraction Hackathon 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/abstraction-hackathon-2025/
@@ -2215,20 +1345,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Abstraction Hackathon 2025
 
@@ -2264,28 +1380,6 @@ detail_pages_collected: "175"
 
 - $1,450
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: Emory Hacks 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/emory-hacks-2025/
@@ -2301,20 +1395,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Emory Hacks 2025
 
@@ -2350,28 +1430,6 @@ detail_pages_collected: "175"
 
 - $1,600
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: Dons DevFest United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/dons-devfest/
@@ -2387,20 +1445,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Dons DevFest
 
@@ -2444,28 +1488,6 @@ detail_pages_collected: "175"
 
 - $1,460
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: RocketHacks 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/rockethacks-2025/
@@ -2481,20 +1503,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - RocketHacks 2025
 
@@ -2536,28 +1544,6 @@ detail_pages_collected: "175"
 
 - $800
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: Healthcare Hackathon with AI (H2AI) United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/healthcare-hackathon-with-ai-h2ai/
@@ -2573,20 +1559,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Healthcare Hackathon with AI (H2AI)
 
@@ -2642,33 +1614,9 @@ detail_pages_collected: "175"
 
 - $15,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 4
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=4
-
-- Detail links found: 10
 
 ### Detail 1: Genius DevCamp United States
 
@@ -2685,20 +1633,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Genius DevCamp
 
@@ -2780,28 +1714,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: [LIVE AI Ivy Plus] Harvard-Duke Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/live-ai-ivy-plus-harvard-duke-hackathon/
@@ -2817,20 +1729,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - [LIVE AI Ivy Plus] Harvard-Duke Hackathon
 
@@ -2866,28 +1764,6 @@ detail_pages_collected: "175"
 
 - $10,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: JumboHack 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/jumbohack-2025/
@@ -2901,20 +1777,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - JumboHack 2025
 
@@ -2960,28 +1822,6 @@ detail_pages_collected: "175"
 
 - $750
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: CuseHacks 2025 Datathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/cusehacks-2025-datathon/
@@ -2997,20 +1837,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - CuseHacks 2025 Datathon
 
@@ -3046,28 +1872,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: BisonHacks United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/bisonhacks/
@@ -3083,20 +1887,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - BisonHacks
 
@@ -3132,28 +1922,6 @@ detail_pages_collected: "175"
 
 - $7,575
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: UB AI Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/ub-ai-hackathon-2/
@@ -3167,20 +1935,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - UB AI Hackathon
 
@@ -3238,28 +1992,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: CrimsonCode Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/crimsoncode-hackathon-3/
@@ -3271,20 +2003,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - CrimsonCode Hackathon
 
@@ -3330,28 +2048,6 @@ detail_pages_collected: "175"
 
 - $3,600
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: MakeHarvard 2025: The Largest Engineering Hardware Makeathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/makeharvard-2025-the-largest-engineering-hardware-makeathon/
@@ -3365,20 +2061,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - MakeHarvard 2025: The Largest Engineering Hardware Makeathon
 
@@ -3418,28 +2100,6 @@ detail_pages_collected: "175"
 
 - $7,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: WiNGHacks 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/winghacks-2025/
@@ -3453,20 +2113,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - WiNGHacks 2025
 
@@ -3500,28 +2146,6 @@ detail_pages_collected: "175"
 
 - $2,096
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: Hack SU 2025 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hack-su-2025/
@@ -3537,20 +2161,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hack SU 2025
 
@@ -3610,33 +2220,9 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 5
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=5
-
-- Detail links found: 10
 
 ### Detail 1: HackCWRU 2025 United States
 
@@ -3651,20 +2237,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackCWRU 2025
 
@@ -3698,28 +2270,6 @@ detail_pages_collected: "175"
 
 - $5,250
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: Duke AI Hackathon 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/duke-ai-hackathon-2024/
@@ -3731,20 +2281,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Duke AI Hackathon 2024
 
@@ -3776,28 +2312,6 @@ detail_pages_collected: "175"
 
 - $4,150
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Hack SoDA 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hack-soda-2024/
@@ -3813,20 +2327,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hack SoDA 2024
 
@@ -3862,28 +2362,6 @@ detail_pages_collected: "175"
 
 - $2,040
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: HackRU Fall 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackru-fall-2024/
@@ -3895,20 +2373,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackRU Fall 2024
 
@@ -3940,28 +2404,6 @@ detail_pages_collected: "175"
 
 - $14,232
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: HackUNT 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackunt-2024/
@@ -3977,20 +2419,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackUNT 2024
 
@@ -4026,28 +2454,6 @@ detail_pages_collected: "175"
 
 - $12,780
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: Qiskit Fall Fest 2024 - NC State University United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/qiskit-fall-fest-2024-nc-state-university/
@@ -4059,20 +2465,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Qiskit Fall Fest 2024 - NC State University
 
@@ -4102,28 +2494,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: Rutgers Health Hack 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/rutgers-health-hack-2024/
@@ -4139,20 +2509,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Rutgers Health Hack 2024
 
@@ -4188,28 +2544,6 @@ detail_pages_collected: "175"
 
 - $10,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: Golden Hack Impact Weekend 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/golden-hack-impact-weekend-2024/
@@ -4225,20 +2559,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Golden Hack Impact Weekend 2024
 
@@ -4288,28 +2608,6 @@ detail_pages_collected: "175"
 
 - $18,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: XR Midwest United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/xr-midwest/
@@ -4323,20 +2621,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - XR Midwest
 
@@ -4370,28 +2654,6 @@ detail_pages_collected: "175"
 
 - $4,900
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: HackHarvard 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackharvard-2024/
@@ -4405,20 +2667,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackHarvard 2024
 
@@ -4452,33 +2700,9 @@ detail_pages_collected: "175"
 
 - $6,250
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 6
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=6
-
-- Detail links found: 10
 
 ### Detail 1: PatriotHacks 2024 United States
 
@@ -4491,20 +2715,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - PatriotHacks 2024
 
@@ -4536,28 +2746,6 @@ detail_pages_collected: "175"
 
 - $13,826
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: OwlHacks - Fall 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/owlhacks-fall-2024/
@@ -4573,20 +2761,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - OwlHacks - Fall 2024
 
@@ -4622,28 +2796,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Welcome Back Mini Hack United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/welcome-back-mini-hack/
@@ -4655,20 +2807,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Welcome Back Mini Hack
 
@@ -4698,28 +2836,6 @@ detail_pages_collected: "175"
 
 - $1,250
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: AI for Urban Health - Prompt-A-Thon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/ai-for-urban-health-prompt-a-thon/
@@ -4735,20 +2851,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - AI for Urban Health - Prompt-A-Thon
 
@@ -4804,28 +2906,6 @@ detail_pages_collected: "175"
 
 - $500
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: Syracuse Open Data Day (2024) United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/syracuse-open-data-day-2024/
@@ -4841,20 +2921,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Syracuse Open Data Day (2024)
 
@@ -5010,28 +3076,6 @@ detail_pages_collected: "175"
 
 - $2,300
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: MHacks 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/mhacks-2024/
@@ -5043,20 +3087,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - MHacks 2024
 
@@ -5088,28 +3118,6 @@ detail_pages_collected: "175"
 
 - $40,940
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: hackUMBC Fall 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackumbc-fall-2024/
@@ -5123,20 +3131,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - hackUMBC Fall 2024
 
@@ -5170,28 +3164,6 @@ detail_pages_collected: "175"
 
 - $6,678
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: HackWesTX United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackwestx/
@@ -5201,20 +3173,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackWesTX
 
@@ -5244,28 +3202,6 @@ detail_pages_collected: "175"
 
 - $2,780
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: XR RACE @Santa Clara University United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/xr-race-santa-clara-university/
@@ -5279,20 +3215,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - XR RACE @Santa Clara University
 
@@ -5346,33 +3268,9 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 7
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=7
-
-- Detail links found: 10
 
 ### Detail 1: Fun Hackathon Weekend 2024 United States
 
@@ -5389,20 +3287,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Fun Hackathon Weekend 2024
 
@@ -5486,28 +3370,6 @@ detail_pages_collected: "175"
 
 - $200
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: PowerUpTech Tech Design Challenge United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/poweruptech-tech-design-challenge/
@@ -5519,20 +3381,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - PowerUpTech Tech Design Challenge
 
@@ -5564,28 +3412,6 @@ detail_pages_collected: "175"
 
 - $635
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: UWB Hacks AI United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/uwb-hacks-ai/
@@ -5601,20 +3427,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - UWB Hacks AI
 
@@ -5848,28 +3660,6 @@ detail_pages_collected: "175"
 
 - $8,850
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Philly Codefest 2024 at Drexel University United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/philly-codefest-2024-at-drexel-university/
@@ -5885,20 +3675,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Philly Codefest 2024 at Drexel University
 
@@ -5934,28 +3710,6 @@ detail_pages_collected: "175"
 
 - $2,500
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: UTA Datathon 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/uta-datathon-2024/
@@ -5971,20 +3725,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - UTA Datathon 2024
 
@@ -6020,28 +3760,6 @@ detail_pages_collected: "175"
 
 - $2,273
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: DiamondHacks 2024 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/diamondhacks-2024/
@@ -6055,20 +3773,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - DiamondHacks 2024
 
@@ -6102,28 +3806,6 @@ detail_pages_collected: "175"
 
 - $1,276
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: Code for Accessibility United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/code-for-accessibility/
@@ -6139,20 +3821,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Code for Accessibility
 
@@ -6186,28 +3854,6 @@ detail_pages_collected: "175"
 
 - $12,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: Analytics For Good Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/analytics-for-good-hackathon/
@@ -6221,20 +3867,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Analytics For Good Hackathon
 
@@ -6268,28 +3900,6 @@ detail_pages_collected: "175"
 
 - $15,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: Eduhacks 2023 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/eduhacks-2023/
@@ -6303,20 +3913,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Eduhacks 2023
 
@@ -6350,28 +3946,6 @@ detail_pages_collected: "175"
 
 - $17,451
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: CuseHacks 2023 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/cusehacks-2023/
@@ -6387,20 +3961,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - CuseHacks 2023
 
@@ -6436,33 +3996,9 @@ detail_pages_collected: "175"
 
 - $1,340
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 8
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=8
-
-- Detail links found: 10
 
 ### Detail 1: UB Hacking Fall 2023 United States
 
@@ -6479,20 +4015,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - UB Hacking Fall 2023
 
@@ -6528,28 +4050,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: VandyHacks X United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/vandyhacks-x/
@@ -6563,20 +4063,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - VandyHacks X
 
@@ -6610,28 +4096,6 @@ detail_pages_collected: "175"
 
 - $7,660
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Hack Dearborn: Disrupt Reality United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hack-dearborn-disrupt-reality/
@@ -6645,20 +4109,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hack Dearborn: Disrupt Reality
 
@@ -6804,28 +4254,6 @@ detail_pages_collected: "175"
 
 - $6,390
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Boston University Welcome Back MiniHack United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/boston-university-welcome-back-minihack/
@@ -6841,20 +4269,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Boston University Welcome Back MiniHack
 
@@ -6888,28 +4302,6 @@ detail_pages_collected: "175"
 
 - $1,250
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: Hacks for Humanity United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hacks-for-humanity-4/
@@ -6925,20 +4317,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hacks for Humanity
 
@@ -7002,28 +4380,6 @@ detail_pages_collected: "175"
 
 - $13,800
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: AI for Good Hackathon [Postponed] United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/ai-for-good-hackathon-postponed/
@@ -7037,20 +4393,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - AI for Good Hackathon [Postponed]
 
@@ -7084,28 +4426,6 @@ detail_pages_collected: "175"
 
 - $3,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: HackWesTX Fall 2023 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackwestx-fall-2023/
@@ -7119,20 +4439,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackWesTX Fall 2023
 
@@ -7164,28 +4470,6 @@ detail_pages_collected: "175"
 
 - $3,410
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: Tech Solutions to Reduce Sexually Transmitted Infections United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/tech-solutions-to-reduce-sexually-transmitted-infections/
@@ -7201,20 +4485,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Tech Solutions to Reduce Sexually Transmitted Infections
 
@@ -7284,28 +4554,6 @@ detail_pages_collected: "175"
 
 - $10,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: UWB ACM Hacks In Person United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/uwb-acm-hacks-in-person/
@@ -7321,20 +4569,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - UWB ACM Hacks In Person
 
@@ -7418,28 +4652,6 @@ detail_pages_collected: "175"
 
 - $2,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: SWEHacks '23 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/swehacks-23/
@@ -7455,20 +4667,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - SWEHacks '23
 
@@ -7524,33 +4722,9 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 9
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=9
-
-- Detail links found: 10
 
 ### Detail 1: Beantown Bash United States
 
@@ -7567,20 +4741,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Beantown Bash
 
@@ -7614,28 +4774,6 @@ detail_pages_collected: "175"
 
 - $420
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: Accessibility for All: Hacking for an Inclusive Future United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/accessibility-for-all-hacking-for-an-inclusive-future/
@@ -7651,20 +4789,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Accessibility for All: Hacking for an Inclusive Future
 
@@ -7698,28 +4822,6 @@ detail_pages_collected: "175"
 
 - $1,350
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Lehigh Hacks for Change United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/lehigh-hacks-for-change/
@@ -7733,20 +4835,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Lehigh Hacks for Change
 
@@ -7838,28 +4926,6 @@ detail_pages_collected: "175"
 
 - $500
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: HackTSU 2023 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hacktsu-2023/
@@ -7871,20 +4937,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackTSU 2023
 
@@ -7926,28 +4978,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: CornHacks 2023 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/cornhacks-2023/
@@ -7959,20 +4989,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - CornHacks 2023
 
@@ -8004,28 +5020,6 @@ detail_pages_collected: "175"
 
 - $3,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: HackUNT 2023 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackunt-2023/
@@ -8037,20 +5031,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackUNT 2023
 
@@ -8082,28 +5062,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: TechTogether New York 2023 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/techtogether-new-york-2023/
@@ -8117,20 +5075,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - TechTogether New York 2023
 
@@ -8164,28 +5108,6 @@ detail_pages_collected: "175"
 
 - $720
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: The Civicode United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/the-civicode/
@@ -8199,20 +5121,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - The Civicode
 
@@ -8246,28 +5154,6 @@ detail_pages_collected: "175"
 
 - $7,500
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: RDV Hacks United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/rdv-hacks/
@@ -8279,20 +5165,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - RDV Hacks
 
@@ -8334,28 +5206,6 @@ detail_pages_collected: "175"
 
 - $4,440
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: Hack K-State 2021 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hack-k-state-2021/
@@ -8367,20 +5217,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hack K-State 2021
 
@@ -8412,33 +5248,9 @@ detail_pages_collected: "175"
 
 - $1,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 10
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=10
-
-- Detail links found: 10
 
 ### Detail 1: MSU Hacks United States
 
@@ -8451,20 +5263,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - MSU Hacks
 
@@ -8492,32 +5290,6 @@ detail_pages_collected: "175"
 
 - Morgan State University
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: Astropreneurship, Space Medicine, and the Dataverse Hackathon 2020 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/astropreneurship-space-medicine-and-the-dataverse-hackathon-2020/
@@ -8529,20 +5301,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Astropreneurship, Space Medicine, and the Dataverse Hackathon 2020
 
@@ -8572,32 +5330,6 @@ detail_pages_collected: "175"
 
 - The Quantly Group
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Suncity Hack United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/suncity-hack/
@@ -8609,20 +5341,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Suncity Hack
 
@@ -8652,32 +5370,6 @@ detail_pages_collected: "175"
 
 - Association for Computing Machinery
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: HackAI Ohio State University - Artficial Intelligence Club United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackai-ohio-state-university-artficial-intelligence-club/
@@ -8689,20 +5381,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackAI Ohio State University - Artficial Intelligence Club
 
@@ -8728,32 +5406,6 @@ detail_pages_collected: "175"
 
 - AI Club at The Ohio State University
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: WCU Outdoor Gear Summit & Student Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/wcu-outdoor-gear-summit-student-hackathon/
@@ -8765,20 +5417,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - WCU Outdoor Gear Summit & Student Hackathon
 
@@ -8806,32 +5444,6 @@ detail_pages_collected: "175"
 
 - WCU College of Engineering and Technology
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: Babson Hackathon 2020 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/babson-hackathon-2020/
@@ -8845,20 +5457,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Babson Hackathon 2020
 
@@ -8898,32 +5496,6 @@ detail_pages_collected: "175"
 
 - $400 for the first-place teams (grads and undergrads)
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: 2020 Hack New Hampshire United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/2020-hack-new-hampshire/
@@ -8935,20 +5507,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - 2020 Hack New Hampshire
 
@@ -8988,32 +5546,6 @@ detail_pages_collected: "175"
 
 - Cash prizes worth up to $1,500
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: JHacks 2020 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/jhacks-2020/
@@ -9025,20 +5557,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - JHacks 2020
 
@@ -9066,32 +5584,6 @@ detail_pages_collected: "175"
 
 - JHacks
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: SteelHacks 2020 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/steelhacks-2020/
@@ -9101,20 +5593,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - SteelHacks 2020
 
@@ -9140,28 +5618,6 @@ detail_pages_collected: "175"
 
 - $2,750
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: El Paso Strong Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/el-paso-strong-hackathon/
@@ -9179,20 +5635,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - El Paso Strong Hackathon
 
@@ -9236,37 +5678,9 @@ detail_pages_collected: "175"
 
 - Microsoft and Cyborg Mobile
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 11
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=11
-
-- Detail links found: 10
 
 ### Detail 1: GGJ @ GSU United States
 
@@ -9279,20 +5693,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - GGJ @ GSU
 
@@ -9324,32 +5724,6 @@ detail_pages_collected: "175"
 
 - Aurora Game Development Club
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: Hack Arizona United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hack-arizona/
@@ -9359,20 +5733,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hack Arizona
 
@@ -9398,28 +5758,6 @@ detail_pages_collected: "175"
 
 - $25,530
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Local Hack Day Boston (BUild) United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/local-hack-day-boston-build/
@@ -9431,20 +5769,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Local Hack Day Boston (BUild)
 
@@ -9470,32 +5794,6 @@ detail_pages_collected: "175"
 
 - The Hack Day Local Team
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Healthcare Hackathon 2019 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/healthcare-hackathon-2019/
@@ -9505,20 +5803,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Healthcare Hackathon 2019
 
@@ -9582,28 +5866,6 @@ detail_pages_collected: "175"
 
 - $50,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: Hackathon | Draper University United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackathon-draper-university/
@@ -9621,20 +5883,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hackathon | Draper University
 
@@ -9672,32 +5920,6 @@ detail_pages_collected: "175"
 
 - Draper University
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: Open Source ERP Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/open-source-erp-hackathon-2/
@@ -9709,20 +5931,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Open Source ERP Hackathon
 
@@ -9754,32 +5962,6 @@ detail_pages_collected: "175"
 
 - Open Source ERPS
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: DragonHacks 2018 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/dragonhacks-2018/
@@ -9789,20 +5971,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - DragonHacks 2018
 
@@ -9828,28 +5996,6 @@ detail_pages_collected: "175"
 
 - $8,670
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: Hackathon | Build the Future of Gaming and Entertainment United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackathon-build-the-future-of-gaming-and-entertainment/
@@ -9865,20 +6011,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hackathon | Build the Future of Gaming and Entertainment
 
@@ -9918,32 +6050,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: UB Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/ub-hackathon/
@@ -9955,20 +6061,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - UB Hackathon
 
@@ -9996,32 +6088,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: SWE Hacks19 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/swe-hacks19/
@@ -10035,20 +6101,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - SWE Hacks19
 
@@ -10080,37 +6132,9 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 12
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=12
-
-- Detail links found: 10
 
 ### Detail 1: HawkHack Hackathon from Montclair State University United States
 
@@ -10125,20 +6149,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HawkHack Hackathon from Montclair State University
 
@@ -10172,32 +6182,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: 2019 ASA DataFest@RIT United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/2019-asa-datafest-rit/
@@ -10211,20 +6195,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - 2019 ASA DataFest@RIT
 
@@ -10258,32 +6228,6 @@ detail_pages_collected: "175"
 
 - Rochester Institute of Technology
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: HackPSU Spring 2019 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackpsu-spring-2019/
@@ -10293,20 +6237,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackPSU Spring 2019
 
@@ -10332,28 +6262,6 @@ detail_pages_collected: "175"
 
 - $3,900
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Steelhacks 2019 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/steelhacks-2019/
@@ -10363,20 +6271,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Steelhacks 2019
 
@@ -10402,28 +6296,6 @@ detail_pages_collected: "175"
 
 - $3,900
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: ITU Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/itu-hackathon/
@@ -10437,20 +6309,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - ITU Hackathon
 
@@ -10482,32 +6340,6 @@ detail_pages_collected: "175"
 
 - $1,000 cash prize pool
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: USC Blockathon 2019 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/usc-blockathon-2019/
@@ -10519,20 +6351,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - USC Blockathon 2019
 
@@ -10560,32 +6378,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: Developer Camp 2019 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/developer-camp-2019/
@@ -10601,20 +6393,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Developer Camp 2019
 
@@ -10654,32 +6432,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: Seattle Legal Tech - 3rd Annual 21st Century Lawyer CLE (3 CLE Pending) United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/seattle-legal-tech-3rd-annual-21st-century-lawyer-cle-3-cle-pending/
@@ -10695,20 +6447,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Seattle Legal Tech - 3rd Annual 21st Century Lawyer CLE (3 CLE Pending)
 
@@ -10738,32 +6476,6 @@ detail_pages_collected: "175"
 
 - Dan Lear
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: MadHacks 2018 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/madhacks-2018/
@@ -10773,20 +6485,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - MadHacks 2018
 
@@ -10810,28 +6508,6 @@ detail_pages_collected: "175"
 
 - $13,217
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: Global Cyber Security Initiative (GCSI) Conference 2018 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/global-cyber-security-initiative-gcsi-conference-2018/
@@ -10845,20 +6521,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Global Cyber Security Initiative (GCSI) Conference 2018
 
@@ -10886,37 +6548,9 @@ detail_pages_collected: "175"
 
 - Global Cyber Security Initiative (GCSI)
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 13
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=13
-
-- Detail links found: 10
 
 ### Detail 1: IDEAS Global Blockchain & Data Analytics Hackathon at Stanford University United States
 
@@ -10931,20 +6565,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - IDEAS Global Blockchain & Data Analytics Hackathon at Stanford University
 
@@ -10978,32 +6598,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: IDEAS Blockchain Hackathon at Stanford University United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/ideas-blockchain-hackathon-at-stanford-university/
@@ -11015,20 +6609,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - IDEAS Blockchain Hackathon at Stanford University
 
@@ -11060,32 +6640,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Automotive Revolution and Carloudy Innovation Hackathon at Purdue United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/automotive-revolution-and-carloudy-innovation-hackathon-at-purdue/
@@ -11099,20 +6653,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Automotive Revolution and Carloudy Innovation Hackathon at Purdue
 
@@ -11144,32 +6684,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Designathon on Tour: Urban Swarm Behavior United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/designathon-on-tour-urban-swarm-behavior/
@@ -11181,20 +6695,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Designathon on Tour: Urban Swarm Behavior
 
@@ -11226,32 +6726,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: Automotive Revolution and Carloudy Innovation Hackathon at Depaul United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/automotive-revolution-and-carloudy-innovation-hackathon-at-depaul/
@@ -11267,20 +6741,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Automotive Revolution and Carloudy Innovation Hackathon at Depaul
 
@@ -11314,32 +6774,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: TigerHacks 2018 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/tigerhacks-2018/
@@ -11349,20 +6783,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - TigerHacks 2018
 
@@ -11388,28 +6808,6 @@ detail_pages_collected: "175"
 
 - $3,540
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: Hack This. Help Kids. United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hack-this-help-kids/
@@ -11419,20 +6817,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hack This. Help Kids.
 
@@ -11458,28 +6842,6 @@ detail_pages_collected: "175"
 
 - $10,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: Bayer NY Metro Area Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/bayer-ny-metro-area-hackathon/
@@ -11491,20 +6853,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Bayer NY Metro Area Hackathon
 
@@ -11532,32 +6880,6 @@ detail_pages_collected: "175"
 
 - Bayer
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: BVB KLETech Alumni Bay Area Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/bvb-kletech-alumni-bay-area-hackathon/
@@ -11569,20 +6891,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - BVB KLETech Alumni Bay Area Hackathon
 
@@ -11622,32 +6930,6 @@ detail_pages_collected: "175"
 
 - Job interview @ INSZoom + Amazon gift card
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: DHack - Powered by AngelHack's Global Hackathon Series 2018 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/dhack-powered-by-angelhack-s-global-hackathon-series-2018/
@@ -11665,20 +6947,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - DHack - Powered by AngelHack's Global Hackathon Series 2018
 
@@ -11716,37 +6984,9 @@ detail_pages_collected: "175"
 
 - Invitation to AngelHack HACKcelerator
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 14
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=14
-
-- Detail links found: 10
 
 ### Detail 1: DHack - Powered by Detroit Startup Week, Wayne State University & AngelHack's Global Hackathon Series 2018 United States
 
@@ -11765,20 +7005,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - DHack - Powered by Detroit Startup Week, Wayne State University & AngelHack's Global Hackathon Series 2018
 
@@ -11818,32 +7044,6 @@ detail_pages_collected: "175"
 
 - Invitation to AngelHack HACKcelerator
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: #ExpeditionHacks - Combating Human Trafficking (Arlington, VA) United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/expeditionhacks-combating-human-trafficking-arlington-va/
@@ -11853,20 +7053,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - #ExpeditionHacks - Combating Human Trafficking (Arlington, VA)
 
@@ -11906,28 +7092,6 @@ detail_pages_collected: "175"
 
 - $3,500
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: JHacks 2018 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/jhacks-2018/
@@ -11939,20 +7103,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - JHacks 2018
 
@@ -11984,32 +7134,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: 7th Annual NYU Entrepreneurs Festival United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/7th-annual-nyu-entrepreneurs-festival/
@@ -12023,20 +7147,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - 7th Annual NYU Entrepreneurs Festival
 
@@ -12070,32 +7180,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: Sports, Arena & Entertainment Community Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/sports-arena-entertainment-community-hackathon/
@@ -12105,20 +7189,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Sports, Arena & Entertainment Community Hackathon
 
@@ -12152,28 +7222,6 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: STEM Atlanta Women & NSBE Presents - Stemology @ Kennesaw State University United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/stem-atlanta-women-nsbe-presents-stemology-kennesaw-state-university/
@@ -12185,20 +7233,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - STEM Atlanta Women & NSBE Presents - Stemology @ Kennesaw State University
 
@@ -12224,32 +7258,6 @@ detail_pages_collected: "175"
 
 - STEM Atlanta Women
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: SheHacks Boston United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/shehacks-boston/
@@ -12263,20 +7271,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - SheHacks Boston
 
@@ -12310,32 +7304,6 @@ detail_pages_collected: "175"
 
 - Prizes TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: InventYU 2017 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/inventyu-2017/
@@ -12349,20 +7317,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - InventYU 2017
 
@@ -12392,32 +7346,6 @@ detail_pages_collected: "175"
 
 - Yeshiva University InventYU 2017 Hackathon
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: Gators+ take VandyHacks United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/gators-take-vandyhacks/
@@ -12429,20 +7357,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Gators+ take VandyHacks
 
@@ -12474,32 +7388,6 @@ detail_pages_collected: "175"
 
 - Prize Pool - TBA
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: KONE Smart Buildings Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/kone-smart-buildings-hackathon/
@@ -12515,20 +7403,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - KONE Smart Buildings Hackathon
 
@@ -12564,37 +7438,9 @@ detail_pages_collected: "175"
 
 - Prize Pool - $10,000
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 15
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=15
-
-- Detail links found: 10
 
 ### Detail 1: Team Dynamics - ATX Hack for Change Workshop United States
 
@@ -12607,20 +7453,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Team Dynamics - ATX Hack for Change Workshop
 
@@ -12646,32 +7478,6 @@ detail_pages_collected: "175"
 
 - St. Edward's University
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: ORMIR / AXIS Re Future of Insurance Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/ormir-axis-re-future-of-insurance-hackathon/
@@ -12681,20 +7487,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - ORMIR / AXIS Re Future of Insurance Hackathon
 
@@ -12718,28 +7510,6 @@ detail_pages_collected: "175"
 
 - $10,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Hippo Hacks - GWU Data & Analytics Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hippo-hacks-gwu-data-analytics-hackathon/
@@ -12751,20 +7521,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hippo Hacks - GWU Data & Analytics Hackathon
 
@@ -12796,32 +7552,6 @@ detail_pages_collected: "175"
 
 - $500+
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Wired Hack 17.1 - 24 Hour Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/wired-hack-17-1-24-hour-hackathon/
@@ -12833,20 +7563,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Wired Hack 17.1 - 24 Hour Hackathon
 
@@ -12878,32 +7594,6 @@ detail_pages_collected: "175"
 
 - $1,500
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: TNGL Presents: HackHarassment United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/tngl-presents-hackharassment/
@@ -12921,20 +7611,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - TNGL Presents: HackHarassment
 
@@ -12976,32 +7652,6 @@ detail_pages_collected: "175"
 
 - Toyz Nation Gaming League
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: USF Social Entrepreneurship Innovation Conference & Tech4Good Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/usf-social-entrepreneurship-innovation-conference-tech4good-hackathon/
@@ -13017,20 +7667,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - USF Social Entrepreneurship Innovation Conference & Tech4Good Hackathon
 
@@ -13062,32 +7698,6 @@ detail_pages_collected: "175"
 
 - University of San Francisco School of Management
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: TAMU Diversity Accessibility Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/tamu-diversity-accessibility-hackathon/
@@ -13097,20 +7707,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - TAMU Diversity Accessibility Hackathon
 
@@ -13178,28 +7774,6 @@ detail_pages_collected: "175"
 
 - $5,000
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: CSG International Hackathon - University Student Challenge Spring 2017 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/csg-international-hackathon-university-student-challenge-spring-2017/
@@ -13211,20 +7785,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - CSG International Hackathon - University Student Challenge Spring 2017
 
@@ -13256,32 +7816,6 @@ detail_pages_collected: "175"
 
 - $2,100 / $700 each
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: Crimson Code: 5th Annual EECS Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/crimson-code-5th-annual-eecs-hackathon/
@@ -13293,20 +7827,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Crimson Code: 5th Annual EECS Hackathon
 
@@ -13334,32 +7854,6 @@ detail_pages_collected: "175"
 
 - ACM of Washington State University
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: ProfHacks 2017 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/profhacks-2017/
@@ -13373,20 +7867,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - ProfHacks 2017
 
@@ -13416,37 +7896,9 @@ detail_pages_collected: "175"
 
 - Rowan IEEE
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 16
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=16
-
-- Detail links found: 10
 
 ### Detail 1: Forge Jam X Global Game Jam 2017 United States
 
@@ -13459,20 +7911,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Forge Jam X Global Game Jam 2017
 
@@ -13502,32 +7940,6 @@ detail_pages_collected: "175"
 
 - The Forge @ LTU
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: Jabil Hackathon 2017 "ChatBots Assisting in the Manufacturing World" United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/jabil-hackathon-2017-chatbots-assisting-in-the-manufacturing-world/
@@ -13541,20 +7953,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Jabil Hackathon 2017 "ChatBots Assisting in the Manufacturing World"
 
@@ -13582,32 +7980,6 @@ detail_pages_collected: "175"
 
 - Jabil
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Camp Polyhacks United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/camp-polyhacks/
@@ -13619,20 +7991,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Camp Polyhacks
 
@@ -13660,32 +8018,6 @@ detail_pages_collected: "175"
 
 - Camp Poly Hacks
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Hackathon -StatFest 2016 - Illuminating Statistics via Dashboard United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackathon-statfest-2016-illuminating-statistics-via-dashboard/
@@ -13697,20 +8029,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hackathon -StatFest 2016 - Illuminating Statistics via Dashboard
 
@@ -13742,32 +8060,6 @@ detail_pages_collected: "175"
 
 - $250 gift card
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: Hack K-State United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hack-k-state/
@@ -13777,20 +8069,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Hack K-State
 
@@ -13816,28 +8094,6 @@ detail_pages_collected: "175"
 
 - $6,241
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: Invent:YU Israel Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/invent-yu-israel-hackathon/
@@ -13857,20 +8113,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Invent:YU Israel Hackathon
 
@@ -13908,32 +8150,6 @@ detail_pages_collected: "175"
 
 - [email protected]
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: 24-Hour Hackathon at Central Michigan University - Hosted by General Motors United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/24-hour-hackathon-at-central-michigan-university-hosted-by-general-motors/
@@ -13945,20 +8161,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - 24-Hour Hackathon at Central Michigan University - Hosted by General Motors
 
@@ -13988,32 +8190,6 @@ detail_pages_collected: "175"
 
 - Central Michigan University & General Motors
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: HackISU United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackisu/
@@ -14023,20 +8199,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackISU
 
@@ -14062,28 +8224,6 @@ detail_pages_collected: "175"
 
 - $3,760
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: Meet Goun Han before TechCrunch Disrupt SF Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/meet-goun-han-before-techcrunch-disrupt-sf-hackathon/
@@ -14095,20 +8235,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Meet Goun Han before TechCrunch Disrupt SF Hackathon
 
@@ -14134,32 +8260,6 @@ detail_pages_collected: "175"
 
 - WHOmentorsdotcom Inc.
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: Meet Goun Han before TechCrunch Disrupt San Francisco Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/meet-goun-han-before-techcrunch-disrupt-san-francisco-hackathon/
@@ -14171,20 +8271,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Meet Goun Han before TechCrunch Disrupt San Francisco Hackathon
 
@@ -14210,37 +8296,9 @@ detail_pages_collected: "175"
 
 - WHOmentorsdotcom Inc.
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 17
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=17
-
-- Detail links found: 10
 
 ### Detail 1: Spark Innovation Expo 2016: The Silicon Valley S.T.E.M. Competition! United States
 
@@ -14259,20 +8317,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Spark Innovation Expo 2016: The Silicon Valley S.T.E.M. Competition!
 
@@ -14300,32 +8344,6 @@ detail_pages_collected: "175"
 
 - Mountain View, Mountain View
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: Charity Sector Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/charity-sector-hackathon/
@@ -14339,20 +8357,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Charity Sector Hackathon
 
@@ -14376,32 +8380,6 @@ detail_pages_collected: "175"
 
 - Columbia
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: SPORTS HACKATHON United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/sports-hackathon/
@@ -14413,20 +8391,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - SPORTS HACKATHON
 
@@ -14450,32 +8414,6 @@ detail_pages_collected: "175"
 
 - New York
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: CSUCI SOCIHACKS GIRLS IN STEM/STEAM HACKATHON United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/csuci-socihacks-girls-in-stem-steam-hackathon/
@@ -14493,20 +8431,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - CSUCI SOCIHACKS GIRLS IN STEM/STEAM HACKATHON
 
@@ -14534,32 +8458,6 @@ detail_pages_collected: "175"
 
 - California State University Channel Islands, Camarillo
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: DandyHacks '16 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/dandyhacks-16/
@@ -14573,20 +8471,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - DandyHacks '16
 
@@ -14612,32 +8496,6 @@ detail_pages_collected: "175"
 
 - University of Rochester, Rochester
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: LehighHacks United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/lehighhacks/
@@ -14647,20 +8505,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - LehighHacks
 
@@ -14686,28 +8530,6 @@ detail_pages_collected: "175"
 
 - $6,080
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: California Baptist University C4TK Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/california-baptist-university-c4tk-hackathon/
@@ -14721,20 +8543,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - California Baptist University C4TK Hackathon
 
@@ -14760,32 +8568,6 @@ detail_pages_collected: "175"
 
 - California Baptist University, Riverside
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 8: UHack 2016 United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/uhack-2016/
@@ -14799,20 +8581,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - UHack 2016
 
@@ -14838,32 +8606,6 @@ detail_pages_collected: "175"
 
 - University of Miami Student Center Complex, Coral Gables
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 9: CSG INTERNATIONAL HACKATHON - UNIVERSITY STUDENT CHALLENGE United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/csg-international-hackathon-university-student-challenge/
@@ -14877,20 +8619,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - CSG INTERNATIONAL HACKATHON - UNIVERSITY STUDENT CHALLENGE
 
@@ -14920,32 +8648,6 @@ detail_pages_collected: "175"
 
 - $2,100 / $700 each
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 10: Winfo's 4th Annual Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/winfo-s-4th-annual-hackathon/
@@ -14955,20 +8657,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Winfo's 4th Annual Hackathon
 
@@ -14992,33 +8680,9 @@ detail_pages_collected: "175"
 
 - $0
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ## Listing Page 18
 
 - Listing page URL: https://us.allhackathons.com/themes/university/?page=18
-
-- Detail links found: 7
 
 ### Detail 1: Herothon United States
 
@@ -15037,20 +8701,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Herothon
 
@@ -15082,32 +8732,6 @@ detail_pages_collected: "175"
 
 - Draper University, San Mateo
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 2: TeenTechSF GLOBAL Youth Summit & World Pitch @Salesforce HQ United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/teentechsf-global-youth-summit-world-pitch-salesforce-hq/
@@ -15127,20 +8751,6 @@ detail_pages_collected: "175"
 - Date TBD
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - TeenTechSF GLOBAL Youth Summit & World Pitch @Salesforce HQ
 
@@ -15176,32 +8786,6 @@ detail_pages_collected: "175"
 
 - Salesforce HQ, San Francisco, San Francisco
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 3: Technica United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/technica/
@@ -15211,20 +8795,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Technica
 
@@ -15250,28 +8820,6 @@ detail_pages_collected: "175"
 
 - $2,750
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 4: Accelerated One Week Blockchain Tech Course United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/accelerated-one-week-blockchain-tech-course/
@@ -15283,20 +8831,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Accelerated One Week Blockchain Tech Course
 
@@ -15392,32 +8926,6 @@ detail_pages_collected: "175"
 
 - MSFTReactor, San Francisco
 
-- Official Website
-
-- Visit Website
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 5: HackPSU: Penn State's Learning Hackathon United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/hackpsu-penn-state-s-learning-hackathon/
@@ -15427,20 +8935,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - HackPSU: Penn State's Learning Hackathon
 
@@ -15470,28 +8964,6 @@ detail_pages_collected: "175"
 
 - $20,810
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 6: Binghamton University Coding For A Cause United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/binghamton-university-coding-for-a-cause/
@@ -15501,20 +8973,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Binghamton University Coding For A Cause
 
@@ -15540,28 +8998,6 @@ detail_pages_collected: "175"
 
 - $4,800
 
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States
-
 ### Detail 7: Revolution UC United States
 
 - Detail URL: https://us.allhackathons.com/hackathon/revolution-uc/
@@ -15571,20 +9007,6 @@ detail_pages_collected: "175"
 - Ended
 
 ## All Visible Page Text
-
-- All Hackathons
-
-- Home
-
-- Hackathons
-
-- About
-
-- Add hackathon
-
-- Log in
-
-- Back to Results
 
 - Revolution UC
 
@@ -15609,25 +9031,3 @@ detail_pages_collected: "175"
 - Prizes
 
 - $0
-
-- Hackathons
-
-- Search
-
-- Themes
-
-- Countries
-
-- Cities
-
-- All Hackathons
-
-- About
-
-- All Hackathons 2026
-
-- Privacy & terms
-
-- Terms of service
-
-- Hackathons in United States

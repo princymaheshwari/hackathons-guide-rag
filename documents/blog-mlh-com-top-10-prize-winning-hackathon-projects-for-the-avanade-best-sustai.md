@@ -97,7 +97,3 @@ Play and experimentation are not only key themes in hackathons, but according to
 Lee reminds us. “If we do what we’ve always done, we’ll get what we’ve always got. Only by trying new things, from different perspectives, will we discover new opportunities or solutions to problems that have previously evaded us”.
 
 Hackathons are a fantastic creative outlet that encourages experimentation and innovation. It has been wonderful to see a wide variety of creative solutions and encouraging to see the participants throw themselves into the Best Sustainability Hack Challenge.
-
-The post Top 10 Prize-Winning Hackathon Projects for the Avanade Best Sustainability Hack Challenge appeared first on Major League Hacking News .
-
-For further actions, you may consider blocking this person and/or reporting abuse

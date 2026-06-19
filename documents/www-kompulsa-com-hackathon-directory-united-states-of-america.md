@@ -220,7 +220,7 @@ Hack@Brown is a U.S. hackathon held in Providence , Rhode Island at Brown Univer
 
 COLLEGE HACKATHONS WITH TRAVEL SUPPORT:
 Cal Hacks (UC Berkeley) - calhacks.io
-^Special consideration for first-years 
+^Special consideration for first-years
 Hack the North (Waterloo) - hackthenorth.com
 HackMIT (MIT) - hackmit.org
 TreeHacks (Stanford) - treehacks.com
