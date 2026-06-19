@@ -63,20 +63,260 @@ Most source documents were collected into `documents/` using `scrape_url.py`, wh
 
 ## Chunking Strategy
 
-<!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
-     Include:
-     - Chunk size (characters or tokens) and why that size fits your documents
-     - Overlap size and why (or why not) you used overlap
-     - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
-     - What your final chunk count was across all documents -->
+Chunks are produced by `build_chunks.py`, which reads cleaned Markdown files from `documents/` and writes an inspectable flat JSON file to `processed/chunks.json`. This step intentionally does not create embeddings or a ChromaDB collection yet; the goal of Milestone 3 is to make the chunk boundaries easy to inspect before vectorizing anything.
 
-**Chunk size:**
+**Chunk size:** Target about 512 tokens per chunk, with a hard cap of 720 tokens.
 
-**Overlap:**
+**Overlap:** About 15% of the target chunk size, or roughly 77 tokens, when adjacent chunks are part of the same section. The script skips overlap when it would push a chunk over the 720-token cap or when the next block is a natural unit such as a Reddit comment, table row, or hackathon detail.
 
-**Why these choices fit your documents:**
+**Why these choices fit your documents:** The corpus mixes long guides, Reddit/Hacker News discussions, row-based tables, and hackathon directory entries. The chunker respects Markdown headings, row/comment/detail blocks, paragraphs, and sentence boundaries before falling back to token windows for oversized text. This keeps complete reviews, comments, event cards, tags, and project examples together whenever possible while still keeping chunks small enough for retrieval.
 
-**Final chunk count:**
+**Preprocessing before chunking:** The source documents were cleaned before this step. The chunking script also performs light final normalization by parsing front matter into metadata, unescaping HTML entities, stripping remaining simple HTML tags, preserving nearest section titles, and carrying source metadata into every chunk.
+
+**Final chunk count:** 334 chunks across 38 Markdown source documents.
+
+---
+
+## Sample Chunks
+
+**Sample 1 — Hackathon detail directory chunk**  
+Source: `documents/allhackathons_university_details.md`
+
+```text
+# BisonHacks 2026 United States (pages 1-18)
+
+## Listing Page 1
+
+- Listing page URL: https://us.allhackathons.com/themes/university/
+
+### Detail 1: BisonHacks 2026 United States
+
+- Detail URL: https://us.allhackathons.com/hackathon/bisonhacks-2026/
+
+## Visible Tags / Badges
+
+- Beginner
+
+- Machine Learning
+
+- Social
+
+- Ended
+
+## All Visible Page Text
+
+- BisonHacks 2026
+
+- Beginner
+
+- Machine Learning
+
+- Social
+
+- Washington
+
+- Ended
+
+- About This Hackathon
+
+- The Howard University Center for Digital Business is proud to present the 11th Annual #BISONHACKS Hackathon beginning on Saturday, February 21, 2026. #BISONHACKS Hackathon is a 24hr competition that encourages students to develop applications and ideas that automate, alert, organize, encourage, and educate. The hackathon is an opportunity for students to work together and bring their innovative ideas to life. In less than 24 hours, students working in teams of three to five can create applications on whatever platform they desire.
+
+- Event Dates
+
+- Feb. 21, 2026
+
+- to Feb. 22, 2026
+
+- Location
+
+- 2600 6th St NW, Washington, DC 20059, USA
+
+- Organizer
+
+- Howard University
+
+- Prizes
+
+- $0
+
+### Detail 2: Hoya Hacks 2026 United States
+
+- Detail URL: https://us.allhackathons.com/hackathon/hoya-hacks-2026/
+
+## Visible Tags / Badges
+
+- Beginner
+
+- Ended
+
+## All Visible Page Text
+
+- Hoya Hacks 2026
+
+- Beginner
+
+- Washington
+
+- Ended
+
+- About This Hackathon
+
+- Hackers, get ready to kick off the 2026 Hack Season in style! Hoya Hacks 2026 is thrilled to host you in-person at Georgetown University. Join us for an epic weekend of innovation and creativity from January 23–25, 2026, at the Healey Family Student Center. Let’s make it a hackathon to remember!
+
+- Event Dates
+
+- Jan. 23, 2026
+
+- to Jan. 25, 2026
+
+- Location
+
+- New South, 3700 Tondorf Rd, Washington, DC 20057, USA
+
+- Organizer
+
+- Hoya Hacks
+
+- Prizes
+
+- $4,500
+```
+
+**Sample 2 — Devpost team formation guide chunk**  
+Source: `documents/help-devpost-com-community-and-forming-teams-during-online-hackathons-devpost-co.md`
+
+```text
+# Community and forming teams during online hackathons - Devpost.com Help Center
+
+# Community and forming teams during online hackathons
+
+Online hackathons are missing the natural camaraderie found during in-person hackathons. When launching an online hackathon, think about how your participants are feeling. They are likely sitting at their computer and learning on their own about your hackathon and required tools. Help them out by connecting them with your team and other participants.
+
+The Devpost platform provides a few tools listed below to help you connect with participants and for them to connect with each other. You can also promote your own communities, discussion forums, or channels to fill the void of human interaction. As a hackathon manager, just be sure to foster these communication channels and ensure they are friendly, inclusive, and promote psychological safety.
+
+#### Devpost Discord
+
+Devpost has its own community on the Devpost Discord server where we host different hackathon channels and events. The community team at Devpost has set up our Discord server so anyone from within the community can check-in and access a specific hackathon’s chat to start teaming up.
+
+Devpost's Discord server has a specific channel for users to team up with one another. In order to utilize this team-up feature on your hackathon, go to your Manage area, click Edit Hackathon , then Hackathon Site , and toggle on Show Discord Team-Building Banners .
+
+#### Discussion Forums
+
+If participants would rather start a conversation about their ideas and get others to come to them, they may consider starting a thread on the competition Discussion Board. Participants don’t need to do a full reveal, but they should be sure to say enough about what they’d like to do / what they need to get potential teammates excited.
+
+#### Participants Tab
+
+Using the competition Participants tab, registrants can see who else is participating and look for teammates. If they see a profile they would like to team up with, they can introduce themselves through the platform and start a conversation.
+```
+
+**Sample 3 — MLH winning project examples chunk**  
+Source: `documents/blog-mlh-com-top-10-prize-winning-hackathon-projects-for-the-avanade-best-sustai.md`
+
+```text
+# Top 10 Prize-Winning Hackathon Projects for the Avanade Best Sustainability Hack Challenge - DEV Community
+
+Starting in September 2022, Avanade partnered with Major League Hacking (MLH) to run the “Best Sustainability Hack” challenge at 50 hackathons around the world.
+
+The challenge was inspiring. Participants were asked to make a genuine human impact using their ingenuity to address sustainability through the innovative use of technology. To demonstrate how they could create a more sustainable future and help the environment.
+
+“I continue to believe that hackathons and the tech community can be a huge power for good, enabling us to crowdsource solutions to important sustainability challenges the world faces today,” shared Lee Englestone, Developer Relations Lead at Avanade.
+
+With the “Best Sustainability Hack” proving to be a popular challenge amongst participants, the partnership resulted in over 400 sustainability-themed project submissions over the course of the 50 hackathons. Ranging in technology, approach, and sustainability issues addressed.
+
+“In particular, I like how hackathons are designed with action & experimentation in mind. In a world that suffers from excessive discussion around innovation, hackathons encourage immediate action & practical, tangible innovation. They also show the sheer power of community and how it can be leveraged for good.”
+
+Below are some of our top 10 favorite Avanade Best Sustainability hackathon projects to help inspire your next hack!
+
+## 1. Ecobot created by Isabella Lu , Justin Leong , Charlie Wright , and Daisy Zeng at EcoHacks
+
+The ocean and marine animals suffer severely from plastic pollution. To solve this issue, this team developed a YOLOv4 AI model that detects ocean plastic.
+
+“The ocean is heavily threatened by plastic pollution. 40% of the ocean surface is polluted by plastic, over a million animals die each year from plastic pollution, 1 in 3 fish caught for human consumption contain plastic and coral reefs odds of dying increase after encountering plastic. To solve this issue, we have developed Ecobot.
+
+Ecobot is a YOLOv4 AI model that can detect ocean plastic and locate it with a bounding box. We achieved up to 99% confidence in some bounding boxes! It was also our first time creating an AI model on our own, so we’re happy we ended up with a finished product. In addition, most of us had little experience with HTML/CSS, so we had to self-teach ourselves some of the necessary concepts within 48 hours.”
+
+## 2. Sowing is Growing created by Chloe Lodge and Thomas Dove at HackTheMidLands
+
+Sharing is caring but with seeds! Taking the concept of a seed library and moving it onto an online platform, this team developed a hack to make it easier for individuals to share seeds.
+
+“We were inspired by the Future Museum in Berlin which had a section on sustainable living and ideas to promote sustainability in the community. In this display, the idea of a seed library was described, where people can “take out” seeds from the library, grow plants with them and then “return” the seeds to the library from their grown plants. We wanted to take this idea and bring it online, and making it easier for people to share seeds with others in their local area.”
+```
+
+**Sample 4 — Hacker News leadership discussion chunk**  
+Source: `documents/news-ycombinator-com-ask-hn-how-does-one-lead-a-team-in-a-hackathon-hacker-news.md`
+
+```text
+# Ask HN: How does one lead a team in a hackathon? | Hacker News
+
+## Table 1
+
+### Row 3: Ask HN: How does one lead a team in a hackathon?
+
+### Row 4: 31 points by hackathrow on Sept 25, 2020 | hide | past | favorite | 25 comments
+
+### Row 5: I'm participating in a week-long hackathon in a few days and gathered a team together for an idea I've been exploring recently. I guess this means people are looking at me to be in charge and that's not a role that comes naturally to me. A few questions: - How do you get people excited and aligned to the same vision, so we're all pulling in the right direction? - My biggest concern is everyone will be remote, so there's no natural space for us to all occupy when working together. I'm looking for advice on how best to structure the week so we actually make it to the finish line. I'm guessing motivation will play a big part here. I'm definitely not experienced in leadership (I'm just a typical worker drone here) so advice is appreciated! Edit: Worth mentioning everyone on the team are engineers (with some extra skills on the side).
+
+### Row 6: raymondgh on Sept 25, 2020 | [–] A week-long hackathon, sounds fun!! I think the most important thing to do for a hackathon is often to set and agree with the team on what will be presented at the end. I emphasize presented and not built, because the biggest impact you can have is to influence future activity, not to solve all problems in a week. The story you tell with your presentation will be determine the future of the project, and the week's work should be prioritized based on what will best support the story you want to tell. That said, it can also be really fun to set the goal of actually solving something with the time you now have, and showing it off. Just try to avoid a compromise where you build something 50% to production and tell 50% of a compelling story... you'll end up with leftover, low-priority homework that doesn't fit into anyone's schedule
+
+### Row 8: thirtythree on Sept 25, 2020 | | [–] I've never taken part in a Hackathon but I thought it was all about building something. Creating a story seems very much like fluff. That's not something I would be interested in
+
+### Row 10: iovrthoughtthis on Sept 26, 2020 | | | [–] They started as one and the same but as in all multiplayer games, the meta evolves. As hackathons started giving away bigger and bigger prizes the participants more and more join to won said prizes. The Judges only get to judge what you present, so what you present becomes the most important aspect of the hackathon. You don’t need to build a solution to present it. And here we are.
+```
+
+**Sample 5 — Reddit winner strategy thread chunk**  
+Source: `documents/www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md`
+
+```text
+# Hackathon winners: Share your winning strategies and projects! : hackathon
+
+## Thread Metadata
+
+- Thread permalink: https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/
+
+- Capture note: Reddit JSON was unavailable, so this was parsed from old.reddit.com HTML.
+
+## Original Post
+
+- Score: 9
+
+- Permalink: https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/
+
+Obsessed with hackathon wins lately. If you’ve snagged a top spot, hit me with your tale—no gatekeeping, just real talk. What went down?
+
+Feel free to drop whatever vibes with you:
+
+- That killer project:what was it, and why’d you pick that idea over a million others?
+
+- Prize haul? (Cash? Swag? Job offers? Spill the numbers if you’re cool.)
+
+- Team vibes or solo grind—how’d you pull it off?
+
+- Pitch that sealed it—what made judges go “damn”?
+
+- One “aha” lesson or epic fail you’d laugh about now?
+
+### Comment 1
+
+- Score: 2 points
+
+- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/ohou5ri/
+
+won one last year, nothing crazy but top 3. biggest thing for us wasn’t the idea, it was how demoable it was
+
+we picked something super simple but visual, judges could get it in like 10 seconds. most teams overbuild and then can’t explain what they did we were a team of 3, split cleanly, one on frontend demo, one backend, i handled pitch and glue work. honestly the pitch mattered as much as the build aha moment was realizing judges care way more about clarity and impact than technical complexity. we cut half our features the night before and it actually helped also small thing, we prepped the demo like crazy so nothing broke live. that alone probably bumped us up
+
+### Comment 2
+
+- Score: 1 point
+
+- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/ohowmch/
+
+Awesome is it something you can share/show or is it copyright protected.
+
+Thanks for sharing. You are the first one to respond so let me Thank you. The idea to create this post was to let people share what they are capable of and pat their back for doing a wonderful job. At the same time its also a place for people to find inspiration and guidance, overcome fear, learn best practices and share success with community!
+
+Thank you once again! Keep posting more you participate!
+```
 
 ---
 
