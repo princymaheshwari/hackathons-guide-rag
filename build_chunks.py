@@ -25,6 +25,7 @@ OVERLAP_RATIO = 0.15
 TOKEN_RE = re.compile(r"\w+(?:[-']\w+)*|[^\w\s]", re.UNICODE)
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 SPECIAL_BLOCK_RE = re.compile(r"^###\s+(Row|Comment|Detail)\b.*", re.IGNORECASE)
+HARD_BOUNDARY_TYPES = {"detail", "row", "comment"}
 
 
 def safe_print(text: str = "") -> None:
@@ -121,7 +122,7 @@ def infer_source_type(path: Path, metadata: dict[str, str]) -> str:
         return "reddit"
     if "news.ycombinator.com" in url or filename.startswith("news-ycombinator-com"):
         return "hacker_news"
-    if "mlh.com" in url or "major league hacking" in metadata.get("title", "").lower():
+    if "mlh.io" in url or "mlh" in filename or "major league hacking" in metadata.get("title", "").lower():
         return "mlh"
     if "devpost.com" in url or "devpost" in filename:
         return "devpost"
@@ -374,18 +375,17 @@ def tail_overlap_blocks(blocks: list[TextBlock], overlap_tokens: int) -> list[Te
     return overlap
 
 
-def should_start_new_chunk(current: list[TextBlock], next_block: TextBlock) -> bool:
+def chunk_break_reason(current: list[TextBlock], next_block: TextBlock) -> str | None:
     if not current:
-        return False
+        return None
 
     current_tokens = sum(count_tokens(block.text) for block in current)
     next_tokens = count_tokens(next_block.text)
     if current_tokens + next_tokens > MAX_TOKENS:
-        return True
+        return "max_tokens"
 
-    hard_boundary_types = {"detail"}
-    if next_block.block_type in hard_boundary_types and current_tokens >= TARGET_TOKENS // 2:
-        return True
+    if next_block.block_type in HARD_BOUNDARY_TYPES and current_tokens >= TARGET_TOKENS // 2:
+        return "hard_boundary"
 
     previous_section = current[-1].section_title
     if (
@@ -394,9 +394,13 @@ def should_start_new_chunk(current: list[TextBlock], next_block: TextBlock) -> b
         and previous_section
         and next_block.section_title != previous_section
     ):
-        return True
+        return "section_boundary"
 
-    return False
+    return None
+
+
+def should_start_new_chunk(current: list[TextBlock], next_block: TextBlock) -> bool:
+    return chunk_break_reason(current, next_block) is not None
 
 
 def build_chunk_text(blocks: list[TextBlock]) -> str:
@@ -452,13 +456,14 @@ def chunk_document(document: SourceDocument) -> list[dict[str, object]]:
     for block in blocks:
         if not block.text.strip():
             continue
-        if should_start_new_chunk(current, block):
+        break_reason = chunk_break_reason(current, block)
+        if break_reason:
             chunks.append(make_chunk(document, current, len(chunks)))
             overlap = []
             if (
-                block.block_type not in {"detail", "row", "comment"}
+                break_reason in {"max_tokens", "section_boundary"}
+                and block.block_type not in HARD_BOUNDARY_TYPES
                 and current
-                and current[-1].section_title == block.section_title
             ):
                 overlap = tail_overlap_blocks(current, overlap_tokens)
                 overlap_tokens_count = sum(count_tokens(item.text) for item in overlap)
@@ -475,10 +480,27 @@ def chunk_document(document: SourceDocument) -> list[dict[str, object]]:
 
 
 def build_chunks(documents_dir: Path) -> list[dict[str, object]]:
+    document_paths = sorted(documents_dir.glob("*.md"))
+    if not document_paths:
+        raise ValueError(
+            f"No Markdown documents found in {documents_dir}. "
+            "Check that your source documents are saved as .md files with front matter."
+        )
+
     chunks: list[dict[str, object]] = []
-    for path in sorted(documents_dir.glob("*.md")):
+    zero_chunk_documents: list[str] = []
+    for path in document_paths:
         document = load_document(path)
-        chunks.extend(chunk_document(document))
+        document_chunks = chunk_document(document)
+        if not document_chunks:
+            zero_chunk_documents.append(path.name)
+        chunks.extend(document_chunks)
+
+    if zero_chunk_documents:
+        safe_print("Warning: the following document(s) produced zero chunks:")
+        for filename in zero_chunk_documents:
+            safe_print(f"- {filename}")
+
     return chunks
 
 
@@ -532,7 +554,12 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     args = parse_args()
-    chunks = build_chunks(args.documents_dir)
+    try:
+        chunks = build_chunks(args.documents_dir)
+    except ValueError as error:
+        safe_print(f"Error: {error}")
+        return 1
+
     write_chunks(chunks, args.output)
     stats = chunk_stats(chunks)
 
