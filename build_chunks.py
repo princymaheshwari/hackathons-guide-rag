@@ -25,6 +25,12 @@ OVERLAP_RATIO = 0.15
 TOKEN_RE = re.compile(r"\w+(?:[-']\w+)*|[^\w\s]", re.UNICODE)
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 SPECIAL_BLOCK_RE = re.compile(r"^###\s+(Row|Comment|Detail)\b.*", re.IGNORECASE)
+HN_FOOTER_RE = re.compile(
+    r"^(?:#+\s*Row\s+\d+:\s*)?"
+    r"Guidelines\s*\|\s*FAQ\s*\|\s*Lists\s*\|\s*API\s*\|\s*Security\s*\|\s*Legal\s*\|\s*Apply to YC\s*\|\s*Contact\s*$",
+    re.IGNORECASE,
+)
+HN_FOOTER_TABLE_RE = re.compile(r"^##\s+Table\s+\d+\s*$", re.IGNORECASE)
 HARD_BOUNDARY_TYPES = {"detail", "row", "comment"}
 
 
@@ -102,7 +108,24 @@ def clean_markdown_body(body: str) -> str:
     body = unescape(body)
     body = re.sub(r"<[^>\n]+>", "", body)
     body = body.replace("\r\n", "\n").replace("\r", "\n")
-    return body.strip() + "\n"
+    cleaned_lines: list[str] = []
+    skip_footer_table_heading = False
+
+    for line in body.splitlines():
+        stripped = line.strip()
+        if HN_FOOTER_RE.match(stripped):
+            skip_footer_table_heading = True
+            continue
+        if skip_footer_table_heading and not stripped:
+            continue
+        if skip_footer_table_heading and HN_FOOTER_TABLE_RE.match(stripped):
+            skip_footer_table_heading = False
+            continue
+
+        skip_footer_table_heading = False
+        cleaned_lines.append(line)
+
+    return "\n".join(cleaned_lines).strip() + "\n"
 
 
 def title_from_body(body: str, fallback: str) -> str:

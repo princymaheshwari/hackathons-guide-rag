@@ -5359,18 +5359,18 @@
   },
   {
     "chunk_id": "news-ycombinator-com-ask-hn-are-hackathons-still-worth-doing-hacker-news_0004",
-    "text": "### Row 20: atleastoptimal 3 months ago | | [–] Before AI people already used preexisting projects for hackathons.\n\n### Row 22: jleyank 3 months ago | | [–] Betteridge's Law. Unless it's more of an essay competition for text to feed the AI beast.\n\n### Row 24: Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact\n\n## Table 3",
+    "text": "### Row 20: atleastoptimal 3 months ago | | [–] Before AI people already used preexisting projects for hackathons.\n\n### Row 22: jleyank 3 months ago | | [–] Betteridge's Law. Unless it's more of an essay competition for text to feed the AI beast.",
     "source_file": "documents/news-ycombinator-com-ask-hn-are-hackathons-still-worth-doing-hacker-news.md",
     "source_filename": "news-ycombinator-com-ask-hn-are-hackathons-still-worth-doing-hacker-news.md",
     "source_url": "https://news.ycombinator.com/item?id=47077312",
     "source_type": "hacker_news",
     "raw_source_type": "html_table",
     "title": "Ask HN: Are hackathons still worth doing? | Hacker News",
-    "section_title": "Row 24: Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact",
+    "section_title": "Row 22: jleyank 3 months ago | | [–] Betteridge's Law. Unless it's more of an essay competition for text to feed the AI beast.",
     "chunk_position": 3,
-    "token_count": 85,
+    "token_count": 58,
     "char_start": 5506,
-    "char_end": 5851,
+    "char_end": 5752,
     "metadata": {
       "collected_at": "2026-06-17T10:07:15Z",
       "capture_method": "scrape_url.py:html_table"
@@ -5568,18 +5568,18 @@
   },
   {
     "chunk_id": "news-ycombinator-com-ask-hn-how-does-one-lead-a-team-in-a-hackathon-hacker-news_0011",
-    "text": "### Row 48: donatj on Sept 25, 2020 | | [–] For hackathons where you choose your own goal, scope is the killer. In my experience you're either stepping on each other the whole time or it's too big to finish. I've yet to see, the Goldilocks hackathon project, but if you can find it, that'd be ideal.\n\n### Row 50: neko_ranger on Sept 25, 2020 | | [–] Focus on fun, next time get your company's marketing team involved to design special hoodies for the event, limited to participants. Trading swag for participation worked well for me\n\n### Row 52: sokoloff on Sept 25, 2020 | | [–] Define the communications channels and clarify what is the signal that a decision is made versus when discussions are still happening. Since you're the lead, try to speak less and try to speak last.\n\n### Row 54: csours on Sept 25, 2020 | [–] Choose your tools beforehand and get them set up. Get the team set up on those tools. Amplify good ideas. Give ideas a time to live and kill them if they don't work during that time.\n\n### Row 56: Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact\n\n## Table 3",
+    "text": "### Row 48: donatj on Sept 25, 2020 | | [–] For hackathons where you choose your own goal, scope is the killer. In my experience you're either stepping on each other the whole time or it's too big to finish. I've yet to see, the Goldilocks hackathon project, but if you can find it, that'd be ideal.\n\n### Row 50: neko_ranger on Sept 25, 2020 | | [–] Focus on fun, next time get your company's marketing team involved to design special hoodies for the event, limited to participants. Trading swag for participation worked well for me\n\n### Row 52: sokoloff on Sept 25, 2020 | | [–] Define the communications channels and clarify what is the signal that a decision is made versus when discussions are still happening. Since you're the lead, try to speak less and try to speak last.\n\n### Row 54: csours on Sept 25, 2020 | [–] Choose your tools beforehand and get them set up. Get the team set up on those tools. Amplify good ideas. Give ideas a time to live and kill them if they don't work during that time.",
     "source_file": "documents/news-ycombinator-com-ask-hn-how-does-one-lead-a-team-in-a-hackathon-hacker-news.md",
     "source_filename": "news-ycombinator-com-ask-hn-how-does-one-lead-a-team-in-a-hackathon-hacker-news.md",
     "source_url": "https://news.ycombinator.com/item?id=24593074",
     "source_type": "hacker_news",
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
-    "section_title": "Row 56: Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact",
+    "section_title": "Row 54: csours on Sept 25, 2020 | [–] Choose your tools beforehand and get them set up. Get the team set up on those tools. Amplify good ideas. Give ideas a time to live and kill them if they don't work during that time.",
     "chunk_position": 10,
-    "token_count": 257,
+    "token_count": 230,
     "char_start": 17154,
-    "char_end": 18257,
+    "char_end": 18158,
     "metadata": {
       "collected_at": "2026-06-17T10:11:12Z",
       "capture_method": "scrape_url.py:html_table"
@@ -5807,26 +5807,7 @@
     "chunk_position": 11,
     "token_count": 301,
     "char_start": 16297,
-    "char_end": 17684,
-    "metadata": {
-      "collected_at": "2026-06-17T10:10:03Z",
-      "capture_method": "scrape_url.py:html_table"
-    }
-  },
-  {
-    "chunk_id": "news-ycombinator-com-i-know-a-guy-who-is-great-at-winning-hackathons-he-doesn-t_0013",
-    "text": "### Row 112: Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact\n\n## Table 4",
-    "source_file": "documents/news-ycombinator-com-i-know-a-guy-who-is-great-at-winning-hackathons-he-doesn-t.md",
-    "source_filename": "news-ycombinator-com-i-know-a-guy-who-is-great-at-winning-hackathons-he-doesn-t.md",
-    "source_url": "https://news.ycombinator.com/item?id=14043350",
-    "source_type": "hacker_news",
-    "raw_source_type": "html_table",
-    "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
-    "section_title": "Row 112: Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact",
-    "chunk_position": 12,
-    "token_count": 27,
-    "char_start": 17685,
-    "char_end": 17783,
+    "char_end": 17683,
     "metadata": {
       "collected_at": "2026-06-17T10:10:03Z",
       "capture_method": "scrape_url.py:html_table"
@@ -6761,82 +6742,6 @@
     "metadata": {
       "collected_at": "2026-06-17T10:04:42Z",
       "capture_method": "scrape_url.py"
-    }
-  },
-  {
-    "chunk_id": "www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2_0001",
-    "text": "# Hackathon winners: Share your winning strategies and projects! : hackathon\n\n## Thread Metadata\n\n- Thread permalink: https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/\n\n- Capture note: Reddit JSON was unavailable, so this was parsed from old.reddit.com HTML.\n\n## Original Post\n\n- Score: 9\n\n- Permalink: https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/\n\nObsessed with hackathon wins lately. If you’ve snagged a top spot, hit me with your tale—no gatekeeping, just real talk. What went down?\n\nFeel free to drop whatever vibes with you:\n\n- That killer project:what was it, and why’d you pick that idea over a million others?\n\n- Prize haul? (Cash? Swag? Job offers? Spill the numbers if you’re cool.)\n\n- Team vibes or solo grind—how’d you pull it off?\n\n- Pitch that sealed it—what made judges go “damn”?\n\n- One “aha” lesson or epic fail you’d laugh about now?\n\n### Comment 1\n\n- Score: 2 points\n\n- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/ohou5ri/\n\nwon one last year, nothing crazy but top 3. biggest thing for us wasn’t the idea, it was how demoable it was\n\nwe picked something super simple but visual, judges could get it in like 10 seconds. most teams overbuild and then can’t explain what they did we were a team of 3, split cleanly, one on frontend demo, one backend, i handled pitch and glue work. honestly the pitch mattered as much as the build aha moment was realizing judges care way more about clarity and impact than technical complexity. we cut half our features the night before and it actually helped also small thing, we prepped the demo like crazy so nothing broke live. that alone probably bumped us up",
-    "source_file": "documents/www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md",
-    "source_filename": "www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md",
-    "source_url": "https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/",
-    "source_type": "reddit",
-    "raw_source_type": "reddit_thread",
-    "title": "Hackathon winners: Share your winning strategies and projects! : hackathon",
-    "section_title": "Comment 1",
-    "chunk_position": 0,
-    "token_count": 397,
-    "char_start": 0,
-    "char_end": 1789,
-    "metadata": {
-      "collected_at": "2026-06-17T09:58:14Z",
-      "capture_method": "scrape_url.py:old_reddit_html"
-    }
-  },
-  {
-    "chunk_id": "www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2_0002",
-    "text": "### Comment 2\n\n- Score: 1 point\n\n- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/ohowmch/\n\nAwesome is it something you can share/show or is it copyright protected.\n\nThanks for sharing. You are the first one to respond so let me Thank you. The idea to create this post was to let people share what they are capable of and pat their back for doing a wonderful job. At the same time its also a place for people to find inspiration and guidance, overcome fear, learn best practices and share success with community!\n\nThank you once again! Keep posting more you participate!\n\n### Comment 3\n\n- Score: 0 points\n\n- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/oijqq9h/\n\nWell in order to get into a big tech company, you do need an average skill in main programming languages(Python, Java, C.. etc). But I think Companies care more about algorithms and how you come up with a solution rather than just the coding part. Now the coding part can be easily generated by AI’s but getting to the solution needs Analytical and intellectual thinking. Also if you want to win Hackathon’s, then from experience it’s less about your technical part and more about your Idea and how you present the idea. Judges care about it more. But of course you need to display a perfectly working demo but the coding part is all done by Ai you just need to know how to debug the errors and how to present it well.",
-    "source_file": "documents/www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md",
-    "source_filename": "www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md",
-    "source_url": "https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/",
-    "source_type": "reddit",
-    "raw_source_type": "reddit_thread",
-    "title": "Hackathon winners: Share your winning strategies and projects! : hackathon",
-    "section_title": "Comment 3",
-    "chunk_position": 1,
-    "token_count": 321,
-    "char_start": 1790,
-    "char_end": 3302,
-    "metadata": {
-      "collected_at": "2026-06-17T09:58:14Z",
-      "capture_method": "scrape_url.py:old_reddit_html"
-    }
-  },
-  {
-    "chunk_id": "www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2_0003",
-    "text": "### Comment 4\n\n- Score: 0 points\n\n- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/oke502r/\n\nThe pattern we keep seeing across winning projects is the same regardless of the category. The idea was specific enough that the judges could immediately picture the person it was built for.\n\nNot \"an AI tool for businesses\" but \"an AI that does this one thing for this exact type of person.\" That specificity is what makes a demo land. Judges have seen a hundred general purpose tools. A narrow solution to a real problem is memorable.\n\nThe pitch that seals it is almost always the one where the problem gets explained before the product does. Make them feel the pain first, then show the fix. We are actually running the FlowPrompt AI Hackathon right now if anyone here is looking for the next one. Three tracks, seed funding evaluation up to $100K, live pitch in LA June 26. Built more like an investment pipeline than a traditional competition. Applications close May 15. Application link in bio!\n\n### Comment 5\n\n- Score: 1 point\n\n- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/oqriefz/\n\nDoesn't scalability matter ?\n\n### Comment 6\n\n- Score: 0 points\n\n- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/oqs8l6o/\n\nScalability matters but it is a second conversation. The first conversation is whether you actually solved a real problem for a real person. Nail that and scalability becomes a strength. Lead with it before proving the core and it reads as avoidance.",
-    "source_file": "documents/www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md",
-    "source_filename": "www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md",
-    "source_url": "https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/",
-    "source_type": "reddit",
-    "raw_source_type": "reddit_thread",
-    "title": "Hackathon winners: Share your winning strategies and projects! : hackathon",
-    "section_title": "Comment 6",
-    "chunk_position": 2,
-    "token_count": 333,
-    "char_start": 3303,
-    "char_end": 4955,
-    "metadata": {
-      "collected_at": "2026-06-17T09:58:14Z",
-      "capture_method": "scrape_url.py:old_reddit_html"
-    }
-  },
-  {
-    "chunk_id": "www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2_0004",
-    "text": "### Comment 7\n\n- Score: 0 points\n\n- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/oqwzdmj/\n\nThe website doesn’t allow scalability? Are you sure about that?\n\n### Comment 8\n\n- Score: 0 points\n\n- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/oqze0zt/\n\nfair point but we are much more, have you tried out our software yet?",
-    "source_file": "documents/www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md",
-    "source_filename": "www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md",
-    "source_url": "https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/",
-    "source_type": "reddit",
-    "raw_source_type": "reddit_thread",
-    "title": "Hackathon winners: Share your winning strategies and projects! : hackathon",
-    "section_title": "Comment 8",
-    "chunk_position": 3,
-    "token_count": 100,
-    "char_start": 4956,
-    "char_end": 5404,
-    "metadata": {
-      "collected_at": "2026-06-17T09:58:14Z",
-      "capture_method": "scrape_url.py:old_reddit_html"
     }
   },
   {

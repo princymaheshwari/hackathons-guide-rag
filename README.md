@@ -73,7 +73,7 @@ Chunks are produced by `build_chunks.py`, which reads cleaned Markdown files fro
 
 **Preprocessing before chunking:** The source documents were cleaned before this step. The chunking script also performs light final normalization by parsing front matter into metadata, unescaping HTML entities, stripping remaining simple HTML tags, preserving nearest section titles, and carrying source metadata into every chunk.
 
-**Final chunk count:** 334 chunks across 38 Markdown source documents.
+**Final chunk count:** 400 chunks across 37 Markdown source documents.
 
 ---
 
@@ -264,7 +264,7 @@ Source: `documents/news-ycombinator-com-ask-hn-how-does-one-lead-a-team-in-a-hac
 ```
 
 **Sample 5 — Reddit winner strategy thread chunk**  
-Source: `documents/www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack-2.md`
+Source: `documents/www-reddit-com-hackathon-winners-share-your-winning-strategies-and-projects-hack.md`
 
 ```text
 # Hackathon winners: Share your winning strategies and projects! : hackathon
@@ -277,7 +277,7 @@ Source: `documents/www-reddit-com-hackathon-winners-share-your-winning-strategie
 
 ## Original Post
 
-- Score: 9
+- Score: 11
 
 - Permalink: https://www.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/
 
@@ -304,18 +304,6 @@ Feel free to drop whatever vibes with you:
 won one last year, nothing crazy but top 3. biggest thing for us wasn’t the idea, it was how demoable it was
 
 we picked something super simple but visual, judges could get it in like 10 seconds. most teams overbuild and then can’t explain what they did we were a team of 3, split cleanly, one on frontend demo, one backend, i handled pitch and glue work. honestly the pitch mattered as much as the build aha moment was realizing judges care way more about clarity and impact than technical complexity. we cut half our features the night before and it actually helped also small thing, we prepped the demo like crazy so nothing broke live. that alone probably bumped us up
-
-### Comment 2
-
-- Score: 1 point
-
-- Permalink: https://old.reddit.com/r/hackathon/comments/1sqwhv4/hackathon_winners_share_your_winning_strategies/ohowmch/
-
-Awesome is it something you can share/show or is it copyright protected.
-
-Thanks for sharing. You are the first one to respond so let me Thank you. The idea to create this post was to let people share what they are capable of and pat their back for doing a wonderful job. At the same time its also a place for people to find inspiration and guidance, overcome fear, learn best practices and share success with community!
-
-Thank you once again! Keep posting more you participate!
 ```
 
 ---
