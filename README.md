@@ -57,6 +57,7 @@ Most source documents were collected into `documents/` using `scrape_url.py`, wh
 | 34 | Types of Hackathons: A Complete Guide | Hackathon type explainer | https://www.linkedin.com/pulse/types-hackathons-complete-guide-hacktifycs-edn4f/ |
 | 35 | What's the smartest hackathon strategy you've seen actually win? | Reddit strategy thread | https://www.reddit.com/r/hackathon/comments/1s2di3z/whats_the_smartest_hackathon_strategy_youve_seen/ |
 | 36 | Types of Hackathons: Formats, Examples and How to Choose | Hackathon format/type guide | https://www.speedexam.net/blog/types-of-hackathons/ |
+| 37 | AllHackathons University Theme Hackathon Detail Pages | Paginated hackathon directory/detail pages | `documents/allhackathons_university_details.md` |
 
 ---
 
