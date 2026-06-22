@@ -2614,7 +2614,6 @@ Friday July 10, 2026
 
 10:30AM to Jul 16, 2:30PM EDT
 
-
 [Log In & Register](https://events.mlh.com/events/14284-global-hack-week-season-launch/register)
 
 ###### Who can attend?
@@ -2622,7 +2621,6 @@ Friday July 10, 2026
 Locations have different requirements for who can attend. This location is open to the following:
 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
-
 
 ### Website 2: Hack the 6ix
 - Card URL: [https://hackthe6ix.com/](https://hackthe6ix.com/)
@@ -2952,7 +2950,6 @@ Friday August 7, 2026
 
 10:00AM to Aug 13, 1:00PM EDT
 
-
 [Log In & Register](https://events.mlh.com/events/14312-global-hack-week-agents/register)
 
 ###### Event Description
@@ -2972,7 +2969,6 @@ Throughout GHW, we'll have daily workshops live-streamed on our Twitch to give y
 At GHW: Agents Week we will have plenty of challenges to keep you busy. Challenges will range from social challenges urging you to connect with other members of the community, technical challenges that will expand your coding skills, and design challenges to refine your skills as a creator and artist. Some of these challenges will be completed live on our twitch stream, so you can follow along and complete it with the community. We cannot wait to see all that you learn, build, and share.
 
 Earn experience points for yourself by completing our challenges throughout GHW. Challenges aren’t the only way to earn points. You can also receive a point each time you check in for a live session, so the more you attend, the more points you’ll rack up. They can be as simple as posting on your social media or as advanced as building a project and creating a full demo video for it. We’ll leave it to you to choose which challenges you want to take on. Feel free to work collaboratively with others on these.
-
 
 ### Website 4: HackPrix Season 3
 - Card URL: [https://s3.hackprix.tech/](https://s3.hackprix.tech/)
@@ -3210,7 +3206,6 @@ Friday June 12, 2026
 
 10:00AM to Jun 18, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at Global Hack Week: Social Good Week! Global Hack Week takes place throughout the year to give you a chance to complete technical challenges, network with the community, enjoy fun live sessions, build technical projects, and make new memories.
@@ -3228,7 +3223,6 @@ Throughout GHW, we'll have daily workshops live-streamed on our Twitch to give y
 Challenges will range from social challenges urging you to connect with other members of the community, technical challenges that will expand your coding skills, and design challenges to refine your skills as a creator and artist. Some of these challenges will be completed live on our twitch stream, so you can follow along and complete it with the community. We cannot wait to see all that you learn, build, and share.
 
 Earn experience points for yourself by completing our challenges throughout GHW. Challenges aren’t the only way to earn points. You can also receive a point each time you check in for a live session, so the more you attend, the more points you’ll rack up. They can be as simple as posting on your social media or as advanced as building a project and creating a full demo video for it. We’ll leave it to you to choose which challenges you want to take on. Feel free to work collaboratively with others on these.
-
 
 ### Website 7: Hack4Her
 - Card URL: [https://www.hack4her.com/](https://www.hack4her.com/)
@@ -4010,7 +4004,6 @@ The amount of time you would like to design for is completely up to you! You are
 Friday May 15, 2026
 
 12:00PM to May 17, 1:00PM EDT
-
 
 ###### Event Description
 
@@ -5138,7 +5131,6 @@ Friday May 8, 2026
 
 9:30AM to May 14, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at Global Hack Week: GenAI Week! Global Hack Week takes place throughout the year to give you a chance to complete technical challenges, network with the community, enjoy fun live sessions, build technical projects, and make new memories.
@@ -5162,7 +5154,6 @@ Earn experience points for yourself by completing our challenges throughout GHW.
 Locations have different requirements for who can attend. This location is open to the following:
 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
-
 
 ### Website 19: ConHacks 2026
 - Card URL: [https://conhacks.io](https://conhacks.io)
@@ -6351,7 +6342,6 @@ Dr. Animashree (Anima) Anandkumar is NVIDIA's former Director of AI Research and
 - Rendered title: LA Hacks
 - Final URL: [https://www.lahacks.com/](https://www.lahacks.com/)
 - Expanded FAQ/accordion controls: 6
-
 
 New Event
 
@@ -9660,7 +9650,6 @@ Friday April 17, 2026
 
 11:00AM to Apr 19, 1:00PM EDT
 
-
 ###### Event Description
 
 Howdy, Friends!
@@ -9788,7 +9777,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Closing Ceremony
 
 ###### Links & Resources
-
 
 ### Website 44: Hackathon Troyano 2026
 - Card URL: [https://hackathon.fif-uaq.mx/](https://hackathon.fif-uaq.mx/)
@@ -10899,7 +10887,6 @@ Friday April 10, 2026
 
 10:00AM to Apr 16, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at Global Hack Week: API Week! Global Hack Week takes place throughout the year to give you a chance to complete technical challenges, network with the community, enjoy fun live sessions, build technical projects, and make new memories.
@@ -10923,7 +10910,6 @@ Earn experience points for yourself by completing our challenges throughout GHW.
 Locations have different requirements for who can attend. This location is open to the following:
 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
-
 
 ### Website 55: Q-Hackathon
 - Card URL: [https://www.q-summit.com/hackathon](https://www.q-summit.com/hackathon)
@@ -11318,7 +11304,6 @@ Friday April 3, 2026
 
 7:00PM to Apr 5, 1:00PM EDT
 
-
 ###### Event Description
 
 Most hackathons are about building the flashiest feature. The MLH Meta Production Engineering Hackathon is different. We want you to build it, deploy it, and then keep it alive while the pressure turns up!
@@ -11463,11 +11448,9 @@ Can't find something you need? Check the Resources on Devpost: [https://pe-hacka
 
 ###### Links & Resources
 
-
 Amanda D'Avria
 
 Alex Gornet
-
 
 ### Website 59: Innovation Hacks
 - Card URL: [https://innovationhacks.dev/](https://innovationhacks.dev/)
@@ -13848,7 +13831,6 @@ WebLager A/S
 
 S-E-A - Syddansk Erhvervsakademi
 
-
 ##### Gold Sponsors
 
 Prosa
@@ -14380,7 +14362,6 @@ Friday March 13, 2026
 
 12:00PM to Mar 19, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at Global Hack Week: Cloud Week! Global Hack Week takes place throughout the year to give you a chance to complete technical challenges, network with the community, enjoy fun live sessions, build technical projects, and make new memories.
@@ -14404,7 +14385,6 @@ Earn experience points for yourself by completing our challenges throughout GHW.
 Locations have different requirements for who can attend. This location is open to the following:
 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
-
 
 ### Website 81: Electrothon : Labyrinth of Eternum
 - Card URL: [https://electrothon.nith.ac.in](https://electrothon.nith.ac.in)
@@ -14596,7 +14576,6 @@ BEST ALL-GIRLS TEAM
 Hardware
 
 BEST HARDWARE TRACK
-
 
 BEST USE OF GEMINI API
 
@@ -17193,7 +17172,6 @@ We're grateful to these organizations for their past support of DeerHacks.
 Uber
 
 iCube UTM
-
 
 AWS
 
@@ -20708,9 +20686,7 @@ Have questions or want to learn more? Reach out to us at admin@ctrlhackdel.com
 - Referenced by: SFHacks 2026
 - Capture status: Failed - only 180 visible characters were extracted (minimum 200)
 
-
 [Major League Hacking](https://www.mlh.com/)
-
 
 #### Welcome Back
 
@@ -25915,7 +25891,6 @@ Friday January 9, 2026
 
 12:00PM to Jan 15, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at GHW Beginners Week! Global Hack Week takes place throughout the year to give you a chance to complete technical challenges, network with the community, enjoy fun live sessions, build technical projects, and make new memories.
@@ -25934,7 +25909,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-
 ### Website 164: Hacks for Hackers
 - Card URL: [https://events.mlh.io/events/13143](https://events.mlh.io/events/13143)
 - Referenced by: Hacks for Hackers
@@ -25949,7 +25923,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 Friday January 2, 2026
 
 11:00AM to Jan 4, 12:00PM EDT
-
 
 ###### Event Description
 
@@ -26139,16 +26112,13 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-
 ###### Hacks for Hackers Devpost
 
 Want to know more about the rules, guidelines, and prizes? Check out the Devpost page!
 
 [Open link →](https://mlh.link/HacksforHackersDevpost)
 
-
 Utkarsh Tiwari
-
 
 ### Website 165: PEC Hacks 3.0
 - Card URL: [https://pechacks.org/](https://pechacks.org/)
@@ -26950,7 +26920,6 @@ Friday December 12, 2025
 
 12:00PM to Dec 18, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at Global Hack Week: AI/ML!
@@ -26975,14 +26944,12 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-
 ### Website 167: DigitalOcean Hackathon NY
 - Card URL: [https://mlh.io](https://mlh.io)
 - Referenced by: DigitalOcean Hackathon NY, DigitalOcean Hackathon SF
 - Rendered title: Major League Hacking | Hackathons and Developer Programs | Major League Hacking
 - Final URL: [https://www.mlh.com/](https://www.mlh.com/)
 - Expanded FAQ/accordion controls: 0
-
 
 Hackathons, fellowships, and DEV's online community. 5 million software creators learn, build, and share together.
 
@@ -26999,7 +26966,6 @@ Annual Events
 100
 
 Countries
-
 
 ##### Connecting the Tech Ecosystem
 
@@ -29934,7 +29900,6 @@ Friday November 7, 2025
 
 10:00AM to Nov 13, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at Global Hack Week: API!
@@ -29958,7 +29923,6 @@ Locations have different requirements for who can attend. This location is open 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
 
 ###### Links & Resources
-
 
 ### Website 195: SBUHacks
 - Card URL: [https://hack.sbcs.io](https://hack.sbcs.io)
@@ -31354,7 +31318,6 @@ Friday October 17, 2025
 
 11:00AM to Oct 19, 12:00PM EDT
 
-
 [Log In & Register](https://events.mlh.com/events/12537-open-source-hackfest/register)
 
 ###### Event Description
@@ -31375,14 +31338,11 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-
 ###### Hosted by
 
 Siddharth Shivkumar
 
-
 [Major League Hacking](https://www.mlh.com/)
-
 
 #### Welcome Back
 
@@ -31559,7 +31519,6 @@ Friday October 10, 2025
 
 11:00AM to Oct 16, 2:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at Global Hack Week: Open Source! Global Hack Week takes place throughout the year to give you a chance to complete technical challenges, network with the community, enjoy fun live sessions, build technical projects, and make new memories.
@@ -31585,7 +31544,6 @@ Locations have different requirements for who can attend. This location is open 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
 
 ###### Links & Resources
-
 
 ### Website 217: HackNC 2025
 - Card URL: [https://hacknc.com](https://hacknc.com)
@@ -32897,9 +32855,7 @@ Coming Soon!
 With <3 from the hexlabs team
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
-
 [Major League Hacking](https://www.mlh.com/)
-
 
 #### Welcome Back
 
@@ -33694,7 +33650,6 @@ Innovation Hub
 
 WAA
 
-
 Google Developer Groups
 
 More Sponsors Coming Soon!
@@ -34164,7 +34119,6 @@ Friday September 12, 2025
 
 10:00AM to Sep 18, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at GHW Data Week! Global Hack Week takes place throughout the year to give you a chance to complete technical challenges, network with the community, enjoy fun live sessions, build technical projects, and make new memories.
@@ -34182,7 +34136,6 @@ Locations have different requirements for who can attend. This location is open 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
 
 ###### Links & Resources
-
 
 ### Website 245: DSU DevHack 2.0
 - Card URL: [https://dsudevhack2.tech/](https://dsudevhack2.tech/)
@@ -34218,7 +34171,6 @@ Copyright © dsudevhack2.tech. All rights reserved. [Privacy Policy](https://dsu
 Friday August 29, 2025
 
 11:00AM to Aug 31, 12:00PM EDT
-
 
 ###### Event Description
 
@@ -34428,11 +34380,9 @@ Add Roo Code to VS Code
 
 [Open link →](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)
 
-
 ###### Roo Code Discord Server
 
 [Open link →](https://discord.gg/roocode)
-
 
 ### Website 247: Status Code 2
 - Card URL: [https://hackathon.iiitkalyani.ac.in/](https://hackathon.iiitkalyani.ac.in/)
@@ -34459,7 +34409,6 @@ Friday August 8, 2025
 
 10:00AM to Aug 14, 1:00PM EDT
 
-
 ###### Event Description
 
 Spend a week hacking with the MLH community at GHW Beginners Week! Global Hack Week takes place throughout the year to give you a chance to complete technical challenges, network with the community, enjoy fun live sessions, build technical projects, and make new memories.
@@ -34477,7 +34426,6 @@ Locations have different requirements for who can attend. This location is open 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
 
 ###### Links & Resources
-
 
 ### Website 250: TerraHacks2025
 - Card URL: [https://terrahacks.ca/](https://terrahacks.ca/)
@@ -34526,7 +34474,6 @@ Email copied to clipboard!
 Friday July 25, 2025
 
 11:00AM to Jul 27, 12:00PM EDT
-
 
 ###### Event Description
 
@@ -34720,11 +34667,9 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-
 ###### Hosted by
 
 Siddharth Shivkumar
-
 
 ### Website 252: Global Hack Week: Season Launch
 - Card URL: [https://events.mlh.io/events/12490-global-hack-week-season-launch](https://events.mlh.io/events/12490-global-hack-week-season-launch)
@@ -34740,7 +34685,6 @@ Siddharth Shivkumar
 Friday July 4, 2025
 
 11:00AM to Jul 10, 1:00PM EDT
-
 
 ###### Event Description
 
@@ -34766,7 +34710,4 @@ Check out the [schedule](https://ghw.mlh.io/schedule) for this week and join us 
 
 ###### Links & Resources
 
-
 Siddharth Shivkumar
-
-
