@@ -4,6 +4,24 @@
 documents that are easier to use for RAG, search, notes, and student research
 projects.
 
+For pages whose visible content appears only after JavaScript executes, enable
+the module's Playwright mode:
+
+```powershell
+python -m scrape_web "https://example.com" --js-rendered --output documents/example_rendered.md
+```
+
+Install its Chromium runtime once after installing requirements:
+
+```powershell
+python -m playwright install chromium
+```
+
+Playwright pages are converted from their rendered DOM rather than from one
+flattened text string. Headings, paragraphs, ordered and unordered lists,
+tables, blockquotes, code blocks, image alt text, and hyperlinks remain
+structured Markdown. CSS-hidden responsive copies are excluded.
+
 It handles:
 
 - Regular article or guide pages.
@@ -14,8 +32,6 @@ It handles:
 - Reddit threads as post-plus-comments Markdown.
 - Paginated pages, including listing pages where each card has a `Read more`
   detail page.
-
-```
 
 The module command is:
 
@@ -44,7 +60,8 @@ Or install just the dependencies if you only want to run with
 pip install -r requirements.txt
 ```
 
-The scraper uses `requests`, `beautifulsoup4`, `python-dotenv`, and `openpyxl`.
+The scraper uses `requests`, `beautifulsoup4`, `python-dotenv`, `openpyxl`, and
+`playwright`.
 
 ## Output
 
@@ -270,6 +287,45 @@ python scrape_url.py "https://example.com/article"
 python scrape_url.py "https://example.com/article" --include-visible-text
 python scrape_url.py "https://example.com/listings/" --page-end 10 --follow-read-more
 ```
+
+## Follow JavaScript-Rendered Event Cards
+
+Some listing pages make the entire card clickable and render both the listing
+and linked sites with JavaScript. Combine `--js-rendered` and
+`--follow-card-links` to render the MLH listing, preserve every card as a
+structured record, deduplicate its destination URLs, and render every unique
+linked website:
+
+```powershell
+python -m scrape_web "https://www.mlh.com/seasons/2026/events" --js-rendered --follow-card-links --card-group all --output documents/mlh_2026_event_details.md
+```
+
+Collect only upcoming cards:
+
+```powershell
+python -m scrape_web "https://www.mlh.com/seasons/2026/events" --js-rendered --follow-card-links --card-group upcoming --output documents/mlh_2026_upcoming_events.md
+```
+
+Test the first three cards before running the complete scrape:
+
+```powershell
+python -m scrape_web "https://www.mlh.com/seasons/2026/events" --js-rendered --follow-card-links --card-group all --card-limit 3 --output documents/mlh_2026_event_test.md
+```
+
+The output contains separate `Upcoming Events`, `Past Events`, and `Linked Event
+Websites` sections. Card metadata includes the event name, dates, location,
+format, region, classifications, and destination URL. Each unique linked site
+is rendered once, even if multiple cards point to it, and its natural document
+structure and links are retained. Before extraction, visible native details,
+FAQ cards, and accordion controls are expanded so both questions and answers
+are saved. Registration, login, filters, and unrelated navigation controls are
+not clicked. If an external site is unavailable or shows a bot challenge, its
+card metadata and failure status are saved while the scraper continues with the
+remaining sites.
+
+The full MLH run can visit hundreds of independent websites. Use
+`--js-workers 4` (the default) to limit concurrent browser tabs, or lower it if
+your machine is short on memory.
 
 This wrapper exists so older notes and project commands do not break.
 

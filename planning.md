@@ -17,7 +17,7 @@ The final system should answer grounded questions about student hackathon partic
 
 ## Documents
 
-The build will ingest Markdown files from `documents/`. The corpus includes scraped web pages, row-based Markdown from tabular sources, Reddit/Hacker News discussions, hackathon directory pages, and strategy guides. The main source set is:
+The build ingests 47 Markdown files from `documents/`. The corpus includes cleaned web pages, row-based tabular sources, Reddit/Hacker News discussions, hackathon directories, winner recaps, team and skill guides, job-preparation tradeoff discussions, and a Playwright-rendered MLH collection. The MLH source preserves structured event cards, renders each unique event website, and expands FAQ/accordion controls so both questions and answers enter the corpus.
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
@@ -58,6 +58,16 @@ The build will ingest Markdown files from `documents/`. The corpus includes scra
 | 35 | Are Hackathons Still Useful Today? | Opinion/community post | https://www.linkedin.com/posts/shireen-shamil-3aa53326a_are-hackathons-still-useful-today-hackathons-share-7382054820502892544-0Ivd/ |
 | 36 | How to Form a Winning Team for a Hackathon | Team formation article | https://www.linkedin.com/pulse/how-form-winning-team-ai500-hackathon-itcommunityuzb-jvsof/ |
 | 37 | Three Years in a Row Winning Hackathons | Personal winning reflection | https://medium.com/design-bootcamp/no-42-three-years-in-a-row-winning-hackathons-witnessing-growth-97a0a797ad8e |
+| 38 | GitLab AI Hackathon 2026: Meet the Winners | Concrete AI winning projects and judging outcomes | https://about.gitlab.com/blog/gitlab-ai-hackathon-2026-meet-the-winners/ |
+| 39 | 5 Roles Every Hackathon Team Needs | Complementary team roles and responsibilities | https://entrepreneurquarterly.com/5-roles-every-hackathon-team-needs/ |
+| 40 | How To Form A Winning Team For Hackathons: 5 Quick Tips | Practical team formation advice | https://eventornado.com/blog/how-to-form-a-winning-team-for-hackathons |
+| 41 | Forming a Team for Your Hackathon: Strategies for Success | Team composition and collaboration guidance | https://www.hackathonparty.com/blog/forming-a-team-for-your-hackathon-strategies-for-success |
+| 42 | Want to Win a Hackathon? Build the Right Team First | Community advice about team fit, roles, and execution | https://www.linkedin.com/posts/aryankyatham_want-to-win-a-hackathon-build-the-right-ugcPost-7252299894013526017-iY_Q/ |
+| 43 | Six Essentials for a Successful Hackathon | Team, facilitation, and execution essentials | https://www.nexerdigital.com/news-and-thoughts/six-essentials-for-a-successful-hackathon/ |
+| 44 | Essential Skills to Succeed in a Hackathon | Technical and nontechnical skill preparation | https://www.placementpreparation.io/blog/skills-required-to-succeed-in-a-hackathon/ |
+| 45 | Does Attending Hackathons Deviate Us From Getting Into Good Companies? | Reddit perspectives on hackathons versus LeetCode and interview preparation | https://www.reddit.com/r/leetcode/comments/1i1p8kp/does_attending_hackathons_deviate_us_from_getting/ |
+| 46 | Real Path to Becoming an Efficient Developer: DSA vs Competitive Programming vs LeetCode | Context for comparing project building with algorithm/interview practice | https://yuvrajscorpio.medium.com/real-path-to-becoming-an-efficient-developer-dsa-vs-competitive-programming-vs-leetcode-a0c9d5ffa4c1 |
+| 47 | MLH 2026 Event Schedule and Linked Event FAQs | Structured event metadata plus rendered linked websites and expanded FAQ answers | `documents/mlh_2026_event_details_with_faq.md` |
 
 ---
 
@@ -75,7 +85,7 @@ I implemented chunking as a two-stage process: recursive structural chunking fir
 
 **Stage 2 - semantic merging:** After structural chunks are embedded with `Qwen/Qwen3-Embedding-0.6B`, I compare cosine similarity for adjacent chunks within each source document. A pair can merge only when its similarity exceeds `SEMANTIC_MERGE_THRESHOLD` and its combined text remains within 720 Qwen tokens. Directory/detail entries, table rows, and Reddit or Hacker News comments are hard-boundary records and never merge regardless of similarity. Keeping these records atomic prevents a clean event, row, or comment from being diluted with a neighboring record or unrelated prose.
 
-The model inference and semantic merge computation run in batches on a Modal T4 GPU through `embed_and_merge_modal.py`. The local entrypoint reads the structural JSON, sends the chunks to the GPU function, receives the merged chunks and embeddings, then writes a clean `processed/chunks.json` for Git and a local-only `processed/chunks.embeddings.json` for ChromaDB. The full 477-chunk inference run completed in 114 seconds. This keeps expensive model inference off the CPU while preserving local control of the source files and vector database.
+The model inference and semantic merge computation run in batches on a Modal T4 GPU through `embed_and_merge_modal.py`. The local entrypoint reads the structural JSON, sends the chunks to the GPU function, receives the merged chunks and embeddings, then writes a clean `processed/chunks.json` for Git and a local-only `processed/chunks.embeddings.json` for ChromaDB. The validated 37-document baseline processed 477 chunks in 114 seconds; the expanded 47-document corpus requires a fresh run to establish its new count and runtime. This keeps expensive model inference off the CPU while preserving local control of the source files and vector database.
 
 **Reasoning:**
 
@@ -163,7 +173,7 @@ These questions are specific enough to grade. Each expected answer includes fact
 
 ```mermaid
 flowchart TD
-    A["Document Ingestion<br/>Markdown files from documents/<br/>scrape_web/scrape_url outputs from Reddit, MLH, Devpost, blogs, directories, tables"] --> B["Structural Chunking<br/>Qwen3 tokenizer<br/>512-720 tokens, 15% overlap<br/>Preserve headings, rows, comments, metadata"]
+    A["Document Ingestion<br/>47 Markdown files from documents/<br/>scrape_web static + Playwright rendering<br/>Reddit, MLH cards/FAQs, blogs, directories, tables"] --> B["Structural Chunking<br/>Qwen3 tokenizer<br/>512-720 tokens, 15% overlap<br/>Preserve headings, rows, comments, metadata"]
     B --> C["Embedding + Semantic Merge<br/>Modal T4 GPU<br/>SentenceTransformers + Qwen3-Embedding-0.6B<br/>adjacent cosine similarity + hard boundaries"]
     C --> D["Local Outputs + Vector Store<br/>clean chunks.json for Git<br/>local-only chunks.embeddings.json<br/>ChromaDB persistent collection"]
     D --> E["Retrieval<br/>Top-k=5 semantic search<br/>return chunks, metadata, distance scores"]

@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import os
 import re
 import sys
@@ -1126,6 +1127,173 @@ def discover_links_by_text(url: str, link_text: str) -> list[str]:
     return links
 
 
+def discover_embedded_event_cards(
+    url: str,
+    card_group: str = "all",
+) -> tuple[str, list[dict[str, object]]]:
+    """Extract JavaScript-rendered event cards from embedded page JSON."""
+    response = fetch_url(url)
+    if "html" not in response.headers.get("content-type", "").lower():
+        raise ValueError(f"Expected an HTML card-listing page: {url}")
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    listing_title = extract_title(soup, url)
+    group_keys = {
+        "upcoming": ("upcomingEvents",),
+        "past": ("pastEvents",),
+        "all": ("upcomingEvents", "pastEvents"),
+    }[card_group]
+    cards: list[dict[str, object]] = []
+    seen_urls: set[str] = set()
+
+    for script in soup.find_all("script", attrs={"type": "application/json"}):
+        raw_payload = script.string or script.get_text(strip=True)
+        if not raw_payload:
+            continue
+        try:
+            payload = json.loads(raw_payload)
+        except json.JSONDecodeError:
+            continue
+
+        props = payload.get("props") if isinstance(payload, dict) else None
+        if not isinstance(props, dict):
+            continue
+
+        for group_key in group_keys:
+            records = props.get(group_key)
+            if not isinstance(records, list):
+                continue
+
+            for record in records:
+                if not isinstance(record, dict):
+                    continue
+                href = record.get("websiteUrl") or record.get("url")
+                name = record.get("name")
+                if not isinstance(href, str) or not href.strip() or not name:
+                    continue
+
+                detail_url = urljoin(url, href.strip())
+                if detail_url in seen_urls:
+                    continue
+
+                card = dict(record)
+                card["card_group"] = group_key
+                card["detail_url"] = detail_url
+                cards.append(card)
+                seen_urls.add(detail_url)
+
+    if not cards:
+        raise ValueError(
+            "No embedded event-card records were found. This mode expects an "
+            "application/json page payload with upcomingEvents or pastEvents."
+        )
+
+    return listing_title, cards
+
+
+def card_record_lines(card: dict[str, object]) -> list[str]:
+    labels = (
+        ("name", "Event"),
+        ("status", "Status"),
+        ("dateRange", "Date range"),
+        ("startsAt", "Starts at"),
+        ("endsAt", "Ends at"),
+        ("location", "Location"),
+        ("formatType", "Format"),
+        ("region", "Region"),
+        ("websiteUrl", "Event website"),
+        ("detail_url", "Card destination"),
+        ("slug", "Slug"),
+        ("id", "Event ID"),
+    )
+    lines: list[str] = []
+    for key, label in labels:
+        value = card.get(key)
+        if value is None or value == "":
+            continue
+        lines.append(f"- {label}: {value}")
+
+    venue = card.get("venueAddress")
+    if isinstance(venue, dict):
+        venue_parts = [
+            str(venue.get(key)).strip()
+            for key in ("city", "state", "country")
+            if venue.get(key)
+        ]
+        if venue_parts:
+            lines.append(f"- Venue: {', '.join(venue_parts)}")
+    return lines
+
+
+def scrape_card_listing_to_markdown(
+    url: str,
+    output: Path | None,
+    title_override: str | None,
+    card_group: str,
+    card_limit: int | None,
+    reddit_max_comments: int,
+    reddit_sort: str,
+    include_reddit_authors: bool,
+) -> Path:
+    if card_limit is not None and card_limit < 1:
+        raise ValueError("--card-limit must be 1 or greater.")
+
+    listing_title, discovered_cards = discover_embedded_event_cards(url, card_group)
+    cards = discovered_cards[:card_limit] if card_limit else discovered_cards
+    sections: list[str] = []
+    successful_details = 0
+    failed_details = 0
+
+    for index, card in enumerate(cards, start=1):
+        event_name = clean_inline_text(str(card.get("name") or f"Event {index}"))
+        detail_url = str(card["detail_url"])
+        block = [f"## Card {index}: {event_name}", *card_record_lines(card)]
+
+        try:
+            content = extract_url_content(
+                detail_url,
+                None,
+                reddit_max_comments,
+                reddit_sort,
+                include_reddit_authors,
+                True,
+            )
+        except Exception as exc:
+            failed_details += 1
+            print(
+                f"Warning: could not scrape card detail URL {detail_url}: {exc}",
+                file=sys.stderr,
+            )
+        else:
+            successful_details += 1
+            block.extend(
+                [
+                    f"### Linked Detail Page: {content.title}",
+                    content.body_text,
+                ]
+            )
+
+        sections.append("\n\n".join(part for part in block if part))
+
+    title = title_override or f"{listing_title} - event card details"
+    extra_metadata = {
+        "card_group": card_group,
+        "cards_discovered": str(len(discovered_cards)),
+        "cards_collected": str(len(cards)),
+        "detail_pages_collected": str(successful_details),
+        "detail_pages_failed": str(failed_details),
+    }
+    return write_markdown_file(
+        url,
+        title,
+        "\n\n".join(sections),
+        "scrape_web:embedded_card_links",
+        "card_detail_pages",
+        extra_metadata,
+        output,
+    )
+
+
 def output_path_for(url: str, title: str, output: Path | None) -> Path:
     DOCUMENTS_DIR.mkdir(exist_ok=True)
 
@@ -1362,6 +1530,63 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         help="Visible link text to follow when using --follow-read-more. Default: Read more.",
     )
     parser.add_argument(
+        "--follow-card-links",
+        action="store_true",
+        help=(
+            "Follow JavaScript-rendered event cards whose destinations are stored "
+            "in embedded page JSON, such as MLH season event listings."
+        ),
+    )
+    parser.add_argument(
+        "--js-rendered",
+        action="store_true",
+        help=(
+            "Render pages with Playwright before converting their DOM to structured "
+            "Markdown. Combine with --follow-card-links to render every unique card "
+            "destination as well."
+        ),
+    )
+    parser.add_argument(
+        "--card-group",
+        choices=["upcoming", "past", "all"],
+        default="all",
+        help="Embedded event-card group to collect. Default: all.",
+    )
+    parser.add_argument(
+        "--card-limit",
+        type=int,
+        help="Optional maximum number of embedded event cards to collect.",
+    )
+    parser.add_argument(
+        "--js-workers",
+        type=int,
+        default=4,
+        help="Maximum linked JavaScript pages rendered concurrently. Default: 4.",
+    )
+    parser.add_argument(
+        "--scroll-iterations",
+        type=int,
+        default=4,
+        help="Scroll-and-wait passes for lazy JavaScript content. Default: 4.",
+    )
+    parser.add_argument(
+        "--wait-ms",
+        type=int,
+        default=1000,
+        help="Wait after loading and each scroll. Default: 1000 ms.",
+    )
+    parser.add_argument(
+        "--timeout-ms",
+        type=int,
+        default=60000,
+        help="Navigation timeout for each rendered page. Default: 60000 ms.",
+    )
+    parser.add_argument(
+        "--headed",
+        action="store_true",
+        help="Show Chromium while scraping JavaScript-rendered pages.",
+    )
+    parser.add_argument(
         "--include-visible-text",
         action="store_true",
         help=(
@@ -1394,7 +1619,66 @@ def main(argv: list[str] | None = None) -> int:
     args = parse_args(sys.argv[1:] if argv is None else argv)
 
     try:
-        if args.page_end is not None:
+        if args.follow_card_links and args.follow_read_more:
+            raise ValueError(
+                "Use either --follow-card-links or --follow-read-more, not both."
+            )
+        if args.follow_card_links and args.page_end is not None:
+            raise ValueError(
+                "--follow-card-links reads one embedded card listing and cannot be "
+                "combined with --page-end."
+            )
+        if args.js_rendered and args.page_end is not None:
+            raise ValueError(
+                "--js-rendered cannot be combined with --page-end. Rendered "
+                "pagination is not implemented."
+            )
+        if args.js_rendered and args.follow_read_more:
+            raise ValueError(
+                "--js-rendered cannot be combined with --follow-read-more."
+            )
+
+        if args.js_rendered:
+            from .rendered import (
+                scrape_rendered_card_listing_to_markdown,
+                scrape_rendered_url_to_markdown,
+            )
+
+            if args.follow_card_links:
+                saved_path = scrape_rendered_card_listing_to_markdown(
+                    args.url,
+                    args.output,
+                    args.title,
+                    args.card_group,
+                    args.card_limit,
+                    args.scroll_iterations,
+                    args.wait_ms,
+                    args.timeout_ms,
+                    args.js_workers,
+                    args.headed,
+                )
+            else:
+                saved_path = scrape_rendered_url_to_markdown(
+                    args.url,
+                    args.output,
+                    args.title,
+                    args.scroll_iterations,
+                    args.wait_ms,
+                    args.timeout_ms,
+                    args.headed,
+                )
+        elif args.follow_card_links:
+            saved_path = scrape_card_listing_to_markdown(
+                args.url,
+                args.output,
+                args.title,
+                args.card_group,
+                args.card_limit,
+                args.reddit_max_comments,
+                args.reddit_sort,
+                args.include_reddit_authors,
+            )
+        elif args.page_end is not None:
             saved_path = scrape_paginated_to_markdown(
                 args.url,
                 args.output,

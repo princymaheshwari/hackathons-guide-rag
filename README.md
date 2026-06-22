@@ -17,7 +17,7 @@ This knowledge is valuable because official hackathon pages usually explain date
 
 ## Document Sources
 
-Most source documents were collected into `documents/` using `scrape_url.py`, which saves each source as Markdown with front matter metadata such as title, source URL, source type, collection time, and capture method. The scraper handles normal web pages as cleaned Markdown; for tabular sources such as Google Sheets, CSV/TSV, XLSX, and HTML tables, it converts each row into a row-based Markdown section so field/value relationships survive retrieval. For Reddit threads, it stores the original post and readable comments in a Reddit-specific Markdown structure with permalinks for citation; it can use Reddit JSON/OAuth when available and falls back to old Reddit HTML when possible. 
+The corpus currently contains 47 Markdown source files in `documents/`. Most were collected with the reusable `scrape_web` CLI, which records front matter such as title, source URL, source type, collection time, and capture method. Normal pages are saved as cleaned, structure-aware Markdown; tabular sources such as Google Sheets, CSV/TSV, XLSX, and HTML tables become row-based Markdown so field/value relationships survive retrieval. Reddit threads retain the original post, readable comments, and citation links. JavaScript-heavy pages use Playwright: the MLH season collection preserves each event card, renders each unique linked event website, expands FAQ/accordion controls, and stores both questions and answers without flattening headings, paragraphs, lists, tables, or links.
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
@@ -58,6 +58,16 @@ Most source documents were collected into `documents/` using `scrape_url.py`, wh
 | 35 | What's the smartest hackathon strategy you've seen actually win? | Reddit strategy thread | https://www.reddit.com/r/hackathon/comments/1s2di3z/whats_the_smartest_hackathon_strategy_youve_seen/ |
 | 36 | Types of Hackathons: Formats, Examples and How to Choose | Hackathon format/type guide | https://www.speedexam.net/blog/types-of-hackathons/ |
 | 37 | AllHackathons University Theme Hackathon Detail Pages | Paginated hackathon directory/detail pages | `documents/allhackathons_university_details.md` |
+| 38 | GitLab AI Hackathon 2026: Meet the Winners | AI winner/project recap | https://about.gitlab.com/blog/gitlab-ai-hackathon-2026-meet-the-winners/ |
+| 39 | 5 Roles Every Hackathon Team Needs | Team role guide | https://entrepreneurquarterly.com/5-roles-every-hackathon-team-needs/ |
+| 40 | How To Form A Winning Team For Hackathons: 5 Quick Tips | Team formation guide | https://eventornado.com/blog/how-to-form-a-winning-team-for-hackathons |
+| 41 | Forming a Team for Your Hackathon: Strategies for Success | Team formation guide | https://www.hackathonparty.com/blog/forming-a-team-for-your-hackathon-strategies-for-success |
+| 42 | Want to Win a Hackathon? Build the Right Team First | Team-building community post | https://www.linkedin.com/posts/aryankyatham_want-to-win-a-hackathon-build-the-right-ugcPost-7252299894013526017-iY_Q/ |
+| 43 | Six Essentials for a Successful Hackathon | Team/process success guide | https://www.nexerdigital.com/news-and-thoughts/six-essentials-for-a-successful-hackathon/ |
+| 44 | Essential Skills to Succeed in a Hackathon | Skills and preparation guide | https://www.placementpreparation.io/blog/skills-required-to-succeed-in-a-hackathon/ |
+| 45 | Does Attending Hackathons Deviate Us From Getting Into Good Companies? | Reddit discussion comparing hackathons and LeetCode/job preparation | https://www.reddit.com/r/leetcode/comments/1i1p8kp/does_attending_hackathons_deviate_us_from_getting/ |
+| 46 | Real Path to Becoming an Efficient Developer: DSA vs Competitive Programming vs LeetCode | Job-preparation tradeoff guide | https://yuvrajscorpio.medium.com/real-path-to-becoming-an-efficient-developer-dsa-vs-competitive-programming-vs-leetcode-a0c9d5ffa4c1 |
+| 47 | MLH 2026 Event Schedule and Linked Event FAQs | Playwright-rendered event cards, unique event websites, and expanded FAQ answers | `documents/mlh_2026_event_details_with_faq.md` |
 
 ---
 
@@ -79,7 +89,7 @@ I implemented the strategy in two stages. The first stage performs recursive str
 
 **Semantic merge stage:** I embedded all structural chunks with `Qwen/Qwen3-Embedding-0.6B` and compared cosine similarity between adjacent chunks within each source document. A pair can merge only when it exceeds `SEMANTIC_MERGE_THRESHOLD`, remains at or below 720 Qwen tokens after concatenation, and contains no hard-boundary record. Directory/detail entries, table rows, and comments remain atomic regardless of similarity so their structured meaning is not mixed with neighboring content.
 
-The embedding and semantic merge work runs through `embed_and_merge_modal.py` on a Modal T4 GPU with batched inference. My full run processed all 477 structural chunks in 114 seconds. The local entrypoint writes `processed/chunks.json` without vectors for Git and `processed/chunks.embeddings.json` with vectors for local ChromaDB storage.
+The embedding and semantic merge work runs through `embed_and_merge_modal.py` on a Modal T4 GPU with batched inference. The validated 37-document baseline processed 477 structural chunks in 114 seconds. The local entrypoint writes `processed/chunks.json` without vectors for Git and `processed/chunks.embeddings.json` with vectors for local ChromaDB storage. Because the corpus now contains 47 documents, the next full rebuild will establish a new chunk count and runtime.
 
 ### Semantic Merge Evaluation
 
@@ -93,7 +103,67 @@ I temporarily lowered the threshold to `0.68` and reran the merge comparison aga
 
 I therefore restored `SEMANTIC_MERGE_THRESHOLD` to `0.75`. The near-miss score was driven by shared domain vocabulary rather than genuine topical continuity, confirming that `0.75` is appropriate for this corpus rather than overly conservative. No pairs merge at `0.75` in the final pipeline, and that is the correct outcome. Recursive structural chunking had already produced coherent, appropriately scoped chunks, leaving no beneficial consolidation opportunities for the semantic merge pass in this document set.
 
-**Final chunk count:** 477 chunks across 37 Markdown source documents.
+**Last validated baseline:** 477 chunks across the earlier 37-document corpus. The current source inventory is 47 Markdown documents; `build_chunks.py` prints the new structural count during the rebuild below, and the Modal step prints the final post-merge count.
+
+## Rebuild Through Retrieval
+
+Run these commands from the repository root in PowerShell. The cleanup removes only reproducible pipeline outputs; it does not touch the source files in `documents/`.
+
+### 1. Activate the environment and install dependencies
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python -m playwright install chromium
+```
+
+Modal authentication is already persistent after the first setup. On a new machine, run this once:
+
+```powershell
+modal setup
+```
+
+### 2. Remove stale generated outputs
+
+```powershell
+Remove-Item -LiteralPath "processed\chunks.json" -Force -ErrorAction SilentlyContinue
+Remove-Item -LiteralPath "processed\chunks.embeddings.json" -Force -ErrorAction SilentlyContinue
+Remove-Item -LiteralPath "processed\retrieval_test_results.json" -Force -ErrorAction SilentlyContinue
+Remove-Item -Path "processed\chunks.modal-smoke-test*.json" -Force -ErrorAction SilentlyContinue
+if (Test-Path -LiteralPath "chroma_db") { Remove-Item -LiteralPath "chroma_db" -Recurse -Force }
+```
+
+### 3. Build and inspect structural chunks
+
+```powershell
+python build_chunks.py --documents-dir documents --output processed/chunks.json --print-samples 5
+```
+
+This prints the total chunk count, minimum/average/maximum Qwen token counts, `over_max`, and five sample chunks. Confirm all 47 documents produced chunks before continuing.
+
+### 4. Embed and semantically merge on Modal
+
+```powershell
+modal run embed_and_merge_modal.py
+```
+
+This performs the full run, overwrites `processed/chunks.json` with the clean post-merge chunks, and writes the ignored `processed/chunks.embeddings.json` containing the vectors.
+
+### 5. Rebuild the local cosine Chroma collection
+
+```powershell
+python store_in_chroma.py
+```
+
+The script recreates `hackathon_guide`, stores text plus metadata and precomputed embeddings, and verifies that `collection.count()` matches the embedded chunk file.
+
+### 6. Run retrieval evaluation
+
+```powershell
+python evaluate_retrieval.py
+```
+
+This runs the five evaluation questions, prints each top-5 result and a top-distance summary, and writes `processed/retrieval_test_results.json`.
 
 ---
 

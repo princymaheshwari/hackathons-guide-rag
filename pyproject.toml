@@ -5,12 +5,13 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "scrape-web-cli"
 version = "0.1.0"
-description = "CLI-first web, Reddit, table, and paginated page scraper that saves Markdown documents."
+description = "CLI-first static and JavaScript-rendered web scraper that saves structured Markdown documents."
 readme = "scrape_web/README.md"
 requires-python = ">=3.10"
 dependencies = [
     "beautifulsoup4>=4.12.3",
     "openpyxl>=3.1.5",
+    "playwright>=1.50.0",
     "python-dotenv>=1.0.1",
     "requests>=2.32.3",
 ]
