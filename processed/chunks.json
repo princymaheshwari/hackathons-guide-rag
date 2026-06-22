@@ -9,6 +9,11 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: BisonHacks 2026 United States",
+    "block_types": [
+      "heading",
+      "paragraph",
+      "detail"
+    ],
     "chunk_position": 0,
     "token_count": 334,
     "char_start": 0,
@@ -28,6 +33,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: MakeCU United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 1,
     "token_count": 464,
     "char_start": 1160,
@@ -47,6 +55,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: ✰ LIVE AI Best Coast 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 2,
     "token_count": 690,
     "char_start": 2637,
@@ -66,6 +77,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Lehigh Fall 2025 Collegiate Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 3,
     "token_count": 525,
     "char_start": 2637,
@@ -85,6 +99,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: codeLinc 10 with Lincoln Financial & AWS United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 4,
     "token_count": 274,
     "char_start": 6787,
@@ -104,6 +121,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: codeLinc 10 with Lincoln Financial & AWS United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 5,
     "token_count": 260,
     "char_start": 6787,
@@ -123,6 +143,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: codeLinc 10 with Lincoln Financial & AWS United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 6,
     "token_count": 252,
     "char_start": 6787,
@@ -142,6 +165,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: codeLinc 10 with Lincoln Financial & AWS United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 7,
     "token_count": 259,
     "char_start": 6787,
@@ -161,6 +187,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Rutgers Health Hack 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 8,
     "token_count": 463,
     "char_start": 6787,
@@ -180,6 +209,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: MHacks 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 9,
     "token_count": 259,
     "char_start": 12623,
@@ -199,6 +231,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: PEDIHacks: Artificial Intelligence Imaging to Innovate for Inclusivity - AI^4 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 10,
     "token_count": 439,
     "char_start": 13500,
@@ -218,6 +253,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: HackRice 15 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 11,
     "token_count": 261,
     "char_start": 15430,
@@ -237,6 +275,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: Innovare Summit - Stanford University United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 12,
     "token_count": 656,
     "char_start": 16337,
@@ -256,6 +297,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Innovare Summit - Harvard University United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 13,
     "token_count": 651,
     "char_start": 19211,
@@ -275,6 +319,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: HackWesTX VI United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 14,
     "token_count": 287,
     "char_start": 22075,
@@ -294,6 +341,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Future of Data Hackathon 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 15,
     "token_count": 268,
     "char_start": 23090,
@@ -313,6 +363,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Future of Data Hackathon 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 16,
     "token_count": 291,
     "char_start": 23090,
@@ -332,6 +385,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: TigerVerse 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 17,
     "token_count": 575,
     "char_start": 23090,
@@ -351,6 +407,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: PantherHacks 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 18,
     "token_count": 562,
     "char_start": 28157,
@@ -370,6 +429,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Citrus Hack 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 19,
     "token_count": 257,
     "char_start": 29515,
@@ -389,6 +451,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: UTA Datathon 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 20,
     "token_count": 380,
     "char_start": 30434,
@@ -408,6 +473,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: SharkHack 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 21,
     "token_count": 364,
     "char_start": 31930,
@@ -427,6 +495,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: HackUSF 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 22,
     "token_count": 410,
     "char_start": 33419,
@@ -446,6 +517,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: WiCS 2025 Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 23,
     "token_count": 356,
     "char_start": 34959,
@@ -465,6 +539,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Illinois Design Challenge 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 24,
     "token_count": 326,
     "char_start": 36352,
@@ -484,6 +561,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: HackSLU United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 25,
     "token_count": 257,
     "char_start": 37680,
@@ -503,6 +583,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: 2025 Crack the Code Hackathon @ Concordia University Irvine United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 26,
     "token_count": 567,
     "char_start": 38625,
@@ -522,6 +605,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Emory Hacks 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 27,
     "token_count": 644,
     "char_start": 41239,
@@ -541,6 +627,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Dons DevFest United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 28,
     "token_count": 272,
     "char_start": 43859,
@@ -560,6 +649,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: RocketHacks 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 29,
     "token_count": 321,
     "char_start": 44907,
@@ -579,6 +671,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: Healthcare Hackathon with AI (H2AI) United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 30,
     "token_count": 397,
     "char_start": 46206,
@@ -598,6 +693,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Genius DevCamp United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 31,
     "token_count": 324,
     "char_start": 47713,
@@ -617,6 +715,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Genius DevCamp United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 32,
     "token_count": 584,
     "char_start": 47713,
@@ -636,6 +737,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Genius DevCamp United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 33,
     "token_count": 69,
     "char_start": 47713,
@@ -655,6 +759,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: [LIVE AI Ivy Plus] Harvard-Duke Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 34,
     "token_count": 706,
     "char_start": 52144,
@@ -674,6 +781,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: JumboHack 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 35,
     "token_count": 269,
     "char_start": 54594,
@@ -693,6 +803,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: JumboHack 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 36,
     "token_count": 389,
     "char_start": 54594,
@@ -712,6 +825,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: CuseHacks 2025 Datathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 37,
     "token_count": 502,
     "char_start": 54594,
@@ -731,6 +847,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: BisonHacks United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 38,
     "token_count": 281,
     "char_start": 59175,
@@ -750,6 +869,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: UB AI Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 39,
     "token_count": 386,
     "char_start": 60190,
@@ -769,6 +891,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: UB AI Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 40,
     "token_count": 510,
     "char_start": 60190,
@@ -788,6 +913,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: CrimsonCode Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 41,
     "token_count": 498,
     "char_start": 60190,
@@ -807,6 +935,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: MakeHarvard 2025: The Largest Engineering Hardware Makeathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 42,
     "token_count": 323,
     "char_start": 65178,
@@ -826,6 +957,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: WiNGHacks 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 43,
     "token_count": 306,
     "char_start": 66411,
@@ -845,6 +979,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: Hack SU 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 44,
     "token_count": 479,
     "char_start": 67494,
@@ -864,6 +1001,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: HackCWRU 2025 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 45,
     "token_count": 303,
     "char_start": 69258,
@@ -883,6 +1023,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: Duke AI Hackathon 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 46,
     "token_count": 413,
     "char_start": 70261,
@@ -902,6 +1045,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Hack SoDA 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 47,
     "token_count": 272,
     "char_start": 72010,
@@ -921,6 +1067,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: HackRU Fall 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 48,
     "token_count": 519,
     "char_start": 72901,
@@ -940,6 +1089,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Qiskit Fall Fest 2024 - NC State University United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 49,
     "token_count": 441,
     "char_start": 75013,
@@ -959,6 +1111,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Rutgers Health Hack 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 50,
     "token_count": 340,
     "char_start": 76454,
@@ -978,6 +1133,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Golden Hack Impact Weekend 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 51,
     "token_count": 465,
     "char_start": 77717,
@@ -997,6 +1155,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: XR Midwest United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 52,
     "token_count": 277,
     "char_start": 79729,
@@ -1016,6 +1177,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: HackHarvard 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 53,
     "token_count": 378,
     "char_start": 80734,
@@ -1035,6 +1199,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: OwlHacks - Fall 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 54,
     "token_count": 509,
     "char_start": 81978,
@@ -1054,6 +1221,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Welcome Back Mini Hack United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 55,
     "token_count": 257,
     "char_start": 83651,
@@ -1073,6 +1243,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: AI for Urban Health - Prompt-A-Thon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 56,
     "token_count": 467,
     "char_start": 84669,
@@ -1092,6 +1265,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Syracuse Open Data Day (2024) United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 57,
     "token_count": 370,
     "char_start": 86131,
@@ -1111,6 +1287,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Syracuse Open Data Day (2024) United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 58,
     "token_count": 246,
     "char_start": 86131,
@@ -1130,6 +1309,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Syracuse Open Data Day (2024) United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 59,
     "token_count": 258,
     "char_start": 86131,
@@ -1149,6 +1331,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Syracuse Open Data Day (2024) United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 60,
     "token_count": 260,
     "char_start": 86131,
@@ -1168,6 +1353,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: MHacks 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 61,
     "token_count": 410,
     "char_start": 86131,
@@ -1187,6 +1375,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: hackUMBC Fall 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 62,
     "token_count": 331,
     "char_start": 92311,
@@ -1206,6 +1397,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: HackWesTX United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 63,
     "token_count": 266,
     "char_start": 93485,
@@ -1225,6 +1419,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: XR RACE @Santa Clara University United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 64,
     "token_count": 435,
     "char_start": 94400,
@@ -1244,6 +1441,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Fun Hackathon Weekend 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 65,
     "token_count": 259,
     "char_start": 96197,
@@ -1263,6 +1463,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Fun Hackathon Weekend 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 66,
     "token_count": 271,
     "char_start": 96197,
@@ -1282,6 +1485,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Fun Hackathon Weekend 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 67,
     "token_count": 262,
     "char_start": 96197,
@@ -1301,6 +1507,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Fun Hackathon Weekend 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 68,
     "token_count": 250,
     "char_start": 96197,
@@ -1320,6 +1529,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: PowerUpTech Tech Design Challenge United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 69,
     "token_count": 641,
     "char_start": 100463,
@@ -1339,6 +1551,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: UWB Hacks AI United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 70,
     "token_count": 335,
     "char_start": 102441,
@@ -1358,6 +1573,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: UWB Hacks AI United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 71,
     "token_count": 256,
     "char_start": 102441,
@@ -1377,6 +1595,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: UWB Hacks AI United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 72,
     "token_count": 253,
     "char_start": 102441,
@@ -1396,6 +1617,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: UWB Hacks AI United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 73,
     "token_count": 259,
     "char_start": 102441,
@@ -1415,6 +1639,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: UWB Hacks AI United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 74,
     "token_count": 315,
     "char_start": 102441,
@@ -1434,6 +1661,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Philly Codefest 2024 at Drexel University United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 75,
     "token_count": 277,
     "char_start": 102441,
@@ -1453,6 +1683,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: UTA Datathon 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 76,
     "token_count": 380,
     "char_start": 107776,
@@ -1472,6 +1705,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: DiamondHacks 2024 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 77,
     "token_count": 269,
     "char_start": 109254,
@@ -1491,6 +1727,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Analytics For Good Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 78,
     "token_count": 568,
     "char_start": 110252,
@@ -1510,6 +1749,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: Eduhacks 2023 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 79,
     "token_count": 286,
     "char_start": 112530,
@@ -1529,6 +1771,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: CuseHacks 2023 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 80,
     "token_count": 635,
     "char_start": 113599,
@@ -1548,6 +1793,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: VandyHacks X United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 81,
     "token_count": 468,
     "char_start": 115397,
@@ -1567,6 +1815,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Hack Dearborn: Disrupt Reality United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 82,
     "token_count": 264,
     "char_start": 117003,
@@ -1586,6 +1837,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Hack Dearborn: Disrupt Reality United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 83,
     "token_count": 263,
     "char_start": 117003,
@@ -1605,6 +1859,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Hack Dearborn: Disrupt Reality United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 84,
     "token_count": 262,
     "char_start": 117003,
@@ -1624,6 +1881,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Boston University Welcome Back MiniHack United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 85,
     "token_count": 356,
     "char_start": 117003,
@@ -1643,6 +1903,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Hacks for Humanity United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 86,
     "token_count": 306,
     "char_start": 120795,
@@ -1662,6 +1925,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Hacks for Humanity United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 87,
     "token_count": 287,
     "char_start": 120795,
@@ -1681,6 +1947,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Hacks for Humanity United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 88,
     "token_count": 272,
     "char_start": 120795,
@@ -1700,6 +1969,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: AI for Good Hackathon [Postponed] United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 89,
     "token_count": 117,
     "char_start": 120795,
@@ -1719,6 +1991,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: AI for Good Hackathon [Postponed] United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 90,
     "token_count": 672,
     "char_start": 124615,
@@ -1738,6 +2013,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: AI for Good Hackathon [Postponed] United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 91,
     "token_count": 549,
     "char_start": 124615,
@@ -1757,6 +2035,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: HackWesTX Fall 2023 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 92,
     "token_count": 365,
     "char_start": 124615,
@@ -1776,6 +2057,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Tech Solutions to Reduce Sexually Transmitted Infections United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 93,
     "token_count": 464,
     "char_start": 132003,
@@ -1795,6 +2079,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Tech Solutions to Reduce Sexually Transmitted Infections United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 94,
     "token_count": 299,
     "char_start": 132003,
@@ -1814,6 +2101,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Tech Solutions to Reduce Sexually Transmitted Infections United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 95,
     "token_count": 269,
     "char_start": 132003,
@@ -1833,6 +2123,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: UWB ACM Hacks In Person United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 96,
     "token_count": 254,
     "char_start": 132003,
@@ -1852,6 +2145,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: UWB ACM Hacks In Person United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 97,
     "token_count": 369,
     "char_start": 137645,
@@ -1871,6 +2167,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: UWB ACM Hacks In Person United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 98,
     "token_count": 262,
     "char_start": 137645,
@@ -1890,6 +2189,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: UWB ACM Hacks In Person United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 99,
     "token_count": 270,
     "char_start": 137645,
@@ -1909,6 +2211,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: SWEHacks '23 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 100,
     "token_count": 430,
     "char_start": 137645,
@@ -1928,6 +2233,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: Accessibility for All: Hacking for an Inclusive Future United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 101,
     "token_count": 637,
     "char_start": 142945,
@@ -1947,6 +2255,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Lehigh Hacks for Change United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 102,
     "token_count": 394,
     "char_start": 145490,
@@ -1966,6 +2277,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Lehigh Hacks for Change United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 103,
     "token_count": 277,
     "char_start": 145490,
@@ -1985,6 +2299,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Lehigh Hacks for Change United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 104,
     "token_count": 264,
     "char_start": 145490,
@@ -2004,6 +2321,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: HackTSU 2023 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 105,
     "token_count": 628,
     "char_start": 145490,
@@ -2023,6 +2343,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: CornHacks 2023 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 106,
     "token_count": 502,
     "char_start": 152175,
@@ -2042,6 +2365,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: TechTogether New York 2023 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 107,
     "token_count": 541,
     "char_start": 153638,
@@ -2061,6 +2387,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: The Civicode United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 108,
     "token_count": 552,
     "char_start": 155534,
@@ -2080,6 +2409,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: RDV Hacks United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 109,
     "token_count": 390,
     "char_start": 157626,
@@ -2099,6 +2431,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: MSU Hacks United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 110,
     "token_count": 397,
     "char_start": 159112,
@@ -2118,6 +2453,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Suncity Hack United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 111,
     "token_count": 448,
     "char_start": 160461,
@@ -2137,6 +2475,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: WCU Outdoor Gear Summit & Student Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 112,
     "token_count": 370,
     "char_start": 162121,
@@ -2156,6 +2497,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Babson Hackathon 2020 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 113,
     "token_count": 334,
     "char_start": 163631,
@@ -2175,6 +2519,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: 2020 Hack New Hampshire United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 114,
     "token_count": 289,
     "char_start": 164895,
@@ -2194,6 +2541,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: SteelHacks 2020 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 115,
     "token_count": 433,
     "char_start": 165936,
@@ -2213,6 +2563,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: El Paso Strong Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 116,
     "token_count": 446,
     "char_start": 167471,
@@ -2232,6 +2585,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: Hack Arizona United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 117,
     "token_count": 447,
     "char_start": 169282,
@@ -2251,6 +2607,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Local Hack Day Boston (BUild) United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 118,
     "token_count": 226,
     "char_start": 170894,
@@ -2270,6 +2629,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Healthcare Hackathon 2019 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 119,
     "token_count": 584,
     "char_start": 171792,
@@ -2289,6 +2651,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Open Source ERP Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 120,
     "token_count": 259,
     "char_start": 173701,
@@ -2308,6 +2673,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Open Source ERP Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 121,
     "token_count": 626,
     "char_start": 174502,
@@ -2327,6 +2695,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Open Source ERP Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 122,
     "token_count": 600,
     "char_start": 174502,
@@ -2346,6 +2717,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Open Source ERP Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 123,
     "token_count": 403,
     "char_start": 174502,
@@ -2365,6 +2739,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: DragonHacks 2018 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 124,
     "token_count": 386,
     "char_start": 174502,
@@ -2384,6 +2761,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Hackathon | Build the Future of Gaming and Entertainment United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 125,
     "token_count": 108,
     "char_start": 183679,
@@ -2403,6 +2783,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Hackathon | Build the Future of Gaming and Entertainment United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 126,
     "token_count": 693,
     "char_start": 183679,
@@ -2422,6 +2805,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Hackathon | Build the Future of Gaming and Entertainment United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 127,
     "token_count": 438,
     "char_start": 183679,
@@ -2441,6 +2827,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: SWE Hacks19 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 128,
     "token_count": 451,
     "char_start": 183679,
@@ -2460,6 +2849,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: 2019 ASA DataFest@RIT United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 129,
     "token_count": 531,
     "char_start": 190827,
@@ -2479,6 +2871,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Steelhacks 2019 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 130,
     "token_count": 448,
     "char_start": 192948,
@@ -2498,6 +2893,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: USC Blockathon 2019 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 131,
     "token_count": 429,
     "char_start": 194535,
@@ -2517,6 +2915,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Developer Camp 2019 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 132,
     "token_count": 101,
     "char_start": 196110,
@@ -2536,6 +2937,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Developer Camp 2019 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 133,
     "token_count": 676,
     "char_start": 196110,
@@ -2555,6 +2959,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Developer Camp 2019 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 134,
     "token_count": 355,
     "char_start": 196110,
@@ -2574,6 +2981,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Developer Camp 2019 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 135,
     "token_count": 87,
     "char_start": 196110,
@@ -2593,6 +3003,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: Seattle Legal Tech - 3rd Annual 21st Century Lawyer CLE (3 CLE Pending) United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 136,
     "token_count": 674,
     "char_start": 201094,
@@ -2612,6 +3025,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: Global Cyber Security Initiative (GCSI) Conference 2018 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 137,
     "token_count": 256,
     "char_start": 203944,
@@ -2631,6 +3047,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: Global Cyber Security Initiative (GCSI) Conference 2018 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 138,
     "token_count": 660,
     "char_start": 204597,
@@ -2650,6 +3069,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: Global Cyber Security Initiative (GCSI) Conference 2018 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 139,
     "token_count": 503,
     "char_start": 204597,
@@ -2669,6 +3091,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: IDEAS Global Blockchain & Data Analytics Hackathon at Stanford University United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 140,
     "token_count": 328,
     "char_start": 204597,
@@ -2688,6 +3113,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Automotive Revolution and Carloudy Innovation Hackathon at Purdue United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 141,
     "token_count": 513,
     "char_start": 210874,
@@ -2707,6 +3135,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Designathon on Tour: Urban Swarm Behavior United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 142,
     "token_count": 89,
     "char_start": 213042,
@@ -2726,6 +3157,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Designathon on Tour: Urban Swarm Behavior United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 143,
     "token_count": 644,
     "char_start": 213042,
@@ -2745,6 +3179,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Designathon on Tour: Urban Swarm Behavior United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 144,
     "token_count": 703,
     "char_start": 213042,
@@ -2764,6 +3201,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Designathon on Tour: Urban Swarm Behavior United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 145,
     "token_count": 692,
     "char_start": 213042,
@@ -2783,6 +3223,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Designathon on Tour: Urban Swarm Behavior United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 146,
     "token_count": 678,
     "char_start": 213042,
@@ -2802,6 +3245,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Automotive Revolution and Carloudy Innovation Hackathon at Depaul United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 147,
     "token_count": 386,
     "char_start": 213042,
@@ -2821,6 +3267,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Hack This. Help Kids. United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 148,
     "token_count": 612,
     "char_start": 228535,
@@ -2840,6 +3289,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: BVB KLETech Alumni Bay Area Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 149,
     "token_count": 477,
     "char_start": 231073,
@@ -2859,6 +3311,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: DHack - Powered by AngelHack's Global Hackathon Series 2018 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 150,
     "token_count": 391,
     "char_start": 232883,
@@ -2878,6 +3333,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: DHack - Powered by Detroit Startup Week, Wayne State University & AngelHack's Global Hackathon Series 2018 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 151,
     "token_count": 401,
     "char_start": 234460,
@@ -2897,6 +3355,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: #ExpeditionHacks - Combating Human Trafficking (Arlington, VA) United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 152,
     "token_count": 509,
     "char_start": 236105,
@@ -2916,6 +3377,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: 7th Annual NYU Entrepreneurs Festival United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 153,
     "token_count": 483,
     "char_start": 238412,
@@ -2935,6 +3399,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Sports, Arena & Entertainment Community Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 154,
     "token_count": 611,
     "char_start": 240130,
@@ -2954,6 +3421,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: SheHacks Boston United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 155,
     "token_count": 433,
     "char_start": 242713,
@@ -2973,6 +3443,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: Gators+ take VandyHacks United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 156,
     "token_count": 458,
     "char_start": 244358,
@@ -2992,6 +3465,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: KONE Smart Buildings Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 157,
     "token_count": 305,
     "char_start": 245976,
@@ -3011,6 +3487,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Team Dynamics - ATX Hack for Change Workshop United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 158,
     "token_count": 203,
     "char_start": 247131,
@@ -3030,6 +3509,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: ORMIR / AXIS Re Future of Insurance Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 159,
     "token_count": 618,
     "char_start": 247961,
@@ -3049,6 +3531,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Wired Hack 17.1 - 24 Hour Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 160,
     "token_count": 437,
     "char_start": 250869,
@@ -3068,6 +3553,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: TNGL Presents: HackHarassment United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 161,
     "token_count": 281,
     "char_start": 252444,
@@ -3087,6 +3575,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: USF Social Entrepreneurship Innovation Conference & Tech4Good Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 162,
     "token_count": 268,
     "char_start": 253550,
@@ -3106,6 +3597,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: TAMU Diversity Accessibility Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 163,
     "token_count": 425,
     "char_start": 254736,
@@ -3125,6 +3619,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: TAMU Diversity Accessibility Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 164,
     "token_count": 256,
     "char_start": 254736,
@@ -3144,6 +3641,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: CSG International Hackathon - University Student Challenge Spring 2017 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 165,
     "token_count": 365,
     "char_start": 254736,
@@ -3163,6 +3663,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: ProfHacks 2017 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 166,
     "token_count": 491,
     "char_start": 258805,
@@ -3182,6 +3685,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Forge Jam X Global Game Jam 2017 United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 167,
     "token_count": 267,
     "char_start": 260658,
@@ -3201,6 +3707,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Camp Polyhacks United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 168,
     "token_count": 478,
     "char_start": 261654,
@@ -3220,6 +3729,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 5: Hack K-State United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 169,
     "token_count": 409,
     "char_start": 263514,
@@ -3239,6 +3751,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Invent:YU Israel Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 170,
     "token_count": 267,
     "char_start": 264965,
@@ -3258,6 +3773,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 8: HackISU United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 171,
     "token_count": 537,
     "char_start": 265943,
@@ -3277,6 +3795,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 10: Meet Goun Han before TechCrunch Disrupt San Francisco Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 172,
     "token_count": 479,
     "char_start": 268082,
@@ -3296,6 +3817,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: Charity Sector Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 173,
     "token_count": 526,
     "char_start": 269861,
@@ -3315,6 +3839,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: CSUCI SOCIHACKS GIRLS IN STEM/STEAM HACKATHON United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 174,
     "token_count": 441,
     "char_start": 272039,
@@ -3334,6 +3861,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: LehighHacks United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 175,
     "token_count": 417,
     "char_start": 273785,
@@ -3353,6 +3883,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: California Baptist University C4TK Hackathon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 176,
     "token_count": 256,
     "char_start": 275354,
@@ -3372,6 +3905,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 9: CSG INTERNATIONAL HACKATHON - UNIVERSITY STUDENT CHALLENGE United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 177,
     "token_count": 454,
     "char_start": 276486,
@@ -3391,6 +3927,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 1: Herothon United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 178,
     "token_count": 466,
     "char_start": 278106,
@@ -3410,6 +3949,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 2: TeenTechSF GLOBAL Youth Summit & World Pitch @Salesforce HQ United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 179,
     "token_count": 352,
     "char_start": 279829,
@@ -3429,6 +3971,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 3: Technica United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 180,
     "token_count": 178,
     "char_start": 281382,
@@ -3448,6 +3993,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 4: Accelerated One Week Blockchain Tech Course United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 181,
     "token_count": 591,
     "char_start": 282030,
@@ -3467,6 +4015,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 6: Binghamton University Coding For A Cause United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 182,
     "token_count": 437,
     "char_start": 284670,
@@ -3486,6 +4037,9 @@
     "raw_source_type": "paginated_detail_pages",
     "title": "BisonHacks 2026 United States (pages 1-18)",
     "section_title": "Detail 7: Revolution UC United States",
+    "block_types": [
+      "detail"
+    ],
     "chunk_position": 183,
     "token_count": 259,
     "char_start": 286263,
@@ -3505,6 +4059,10 @@
     "raw_source_type": "web_page",
     "title": "Top 10 Prize-Winning Hackathon Projects for the Avanade Best Sustainability Hack Challenge - DEV Community",
     "section_title": "1. Ecobot created by Isabella Lu , Justin Leong , Charlie Wright , and Daisy Zeng at EcoHacks",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 520,
     "char_start": 0,
@@ -3524,6 +4082,10 @@
     "raw_source_type": "web_page",
     "title": "Top 10 Prize-Winning Hackathon Projects for the Avanade Best Sustainability Hack Challenge - DEV Community",
     "section_title": "4. Crops+ created by Arnav Kumar , Abhigya Shridhar , and Gianni Crivello at AutumnHacks .",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 577,
     "char_start": 2501,
@@ -3543,6 +4105,10 @@
     "raw_source_type": "web_page",
     "title": "Top 10 Prize-Winning Hackathon Projects for the Avanade Best Sustainability Hack Challenge - DEV Community",
     "section_title": "7. Your Biggest Fan created by Larsnotlars Schuster and Nicolas Mendoza at jacobsHack!2022 .",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 2,
     "token_count": 523,
     "char_start": 4946,
@@ -3562,6 +4128,10 @@
     "raw_source_type": "web_page",
     "title": "Top 10 Prize-Winning Hackathon Projects for the Avanade Best Sustainability Hack Challenge - DEV Community",
     "section_title": "10. C4 – Carbon Media created by Rihab Ghosh , Tejas Kalpathi , Zea Khoja , and Zarik Khan at TiE University APP-A-THON 2022 .",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 3,
     "token_count": 556,
     "char_start": 7288,
@@ -3581,6 +4151,10 @@
     "raw_source_type": "web_page",
     "title": "Top 10 Prize-Winning Hackathon Projects for the Avanade Best Sustainability Hack Challenge - DEV Community",
     "section_title": "Summary",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 4,
     "token_count": 218,
     "char_start": 9606,
@@ -3600,6 +4174,10 @@
     "raw_source_type": "web_page",
     "title": "AI Hackathons: How to Prepare, Compete, and Win in 2026",
     "section_title": "Choose the Right AI Hackathon for Your Level",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 697,
     "char_start": 0,
@@ -3619,6 +4197,10 @@
     "raw_source_type": "web_page",
     "title": "AI Hackathons: How to Prepare, Compete, and Win in 2026",
     "section_title": "Practice the Top AI Hackathon Tools in Advance",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 681,
     "char_start": 3097,
@@ -3638,6 +4220,10 @@
     "raw_source_type": "web_page",
     "title": "AI Hackathons: How to Prepare, Compete, and Win in 2026",
     "section_title": "Form a Strong Team and Scope a Winnable Project",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 2,
     "token_count": 553,
     "char_start": 6304,
@@ -3657,6 +4243,10 @@
     "raw_source_type": "web_page",
     "title": "AI Hackathons: How to Prepare, Compete, and Win in 2026",
     "section_title": "Present What Judges Want and Plan Your Next Win",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 3,
     "token_count": 495,
     "char_start": 8652,
@@ -3676,6 +4266,10 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 4: SBHacks UC Santa Barbara",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 288,
     "char_start": 0,
@@ -3695,6 +4289,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 8: HackMIT",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 268,
     "char_start": 936,
@@ -3714,6 +4311,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 13: HackUTD UT Dallas",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 313,
     "char_start": 1872,
@@ -3733,6 +4333,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 17: DubHacks University of Washington",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 263,
     "char_start": 2975,
@@ -3752,6 +4355,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 21: MHacks University of Michigan",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 4,
     "token_count": 260,
     "char_start": 3832,
@@ -3771,6 +4377,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 26: HackRU Rutgers",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 5,
     "token_count": 315,
     "char_start": 4711,
@@ -3790,6 +4399,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 31: Hack the North Waterloo (Canada-USA)",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 6,
     "token_count": 315,
     "char_start": 5792,
@@ -3809,6 +4421,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 35: ETHGlobal Events",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 7,
     "token_count": 268,
     "char_start": 6862,
@@ -3828,6 +4443,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 39: AWS Hackathons",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 8,
     "token_count": 280,
     "char_start": 7812,
@@ -3847,6 +4465,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 43: Cornell HealthTech Hackathon",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 9,
     "token_count": 281,
     "char_start": 8753,
@@ -3866,6 +4487,9 @@
     "raw_source_type": "tabular_data",
     "title": "Edit",
     "section_title": "Row 46: TechCrunch Disrupt Hackathon",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 10,
     "token_count": 202,
     "char_start": 9750,
@@ -3885,6 +4509,10 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 2: innovationdojo.com.au",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 280,
     "char_start": 0,
@@ -3904,6 +4532,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 5: hackottawa.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 305,
     "char_start": 1289,
@@ -3923,6 +4554,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 8: fchacks.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 355,
     "char_start": 2504,
@@ -3942,6 +4576,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 11: tomsawano.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 303,
     "char_start": 4086,
@@ -3961,6 +4598,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 13: sbhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 4,
     "token_count": 255,
     "char_start": 5344,
@@ -3980,6 +4620,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 15: ellehacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 5,
     "token_count": 271,
     "char_start": 6384,
@@ -3999,6 +4642,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 17: hackmcwics.ca",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 6,
     "token_count": 259,
     "char_start": 7556,
@@ -4018,6 +4664,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 20: gfnhackathon.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 7,
     "token_count": 382,
     "char_start": 8524,
@@ -4037,6 +4686,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 23: hacksb.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 8,
     "token_count": 309,
     "char_start": 10082,
@@ -4056,6 +4708,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 25: nicholaslovejoy.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 9,
     "token_count": 257,
     "char_start": 11281,
@@ -4075,6 +4730,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 28: winhacks.ca",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 10,
     "token_count": 359,
     "char_start": 12526,
@@ -4094,6 +4752,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 30: igamecollege.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 11,
     "token_count": 258,
     "char_start": 13881,
@@ -4113,6 +4774,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 33: utace.club",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 12,
     "token_count": 323,
     "char_start": 14944,
@@ -4132,6 +4796,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 35: globaltravelhack.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 13,
     "token_count": 256,
     "char_start": 16273,
@@ -4151,6 +4818,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 38: futuretechfuturesociety.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 14,
     "token_count": 355,
     "char_start": 17337,
@@ -4170,6 +4840,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 41: hackathonhausaafrica.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 15,
     "token_count": 359,
     "char_start": 18767,
@@ -4189,6 +4862,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 44: saddahack.tech",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 16,
     "token_count": 307,
     "char_start": 20451,
@@ -4208,6 +4884,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 46: roboqube.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 17,
     "token_count": 387,
     "char_start": 21646,
@@ -4227,6 +4906,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 48: mcetonline.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 18,
     "token_count": 357,
     "char_start": 22765,
@@ -4246,6 +4928,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 51: hackfest.tech",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 19,
     "token_count": 310,
     "char_start": 23994,
@@ -4265,6 +4950,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 54: karunyahacks.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 20,
     "token_count": 348,
     "char_start": 25222,
@@ -4284,6 +4972,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 56: buhack.tech",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 21,
     "token_count": 280,
     "char_start": 26758,
@@ -4303,6 +4994,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 58: scholarsxp.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 22,
     "token_count": 317,
     "char_start": 27863,
@@ -4322,6 +5016,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 61: menahacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 23,
     "token_count": 321,
     "char_start": 28892,
@@ -4341,6 +5038,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 63: bisonhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 24,
     "token_count": 277,
     "char_start": 30200,
@@ -4360,6 +5060,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 66: seoulhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 25,
     "token_count": 279,
     "char_start": 31214,
@@ -4379,6 +5082,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 68: hackjlmann.github.io",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 26,
     "token_count": 266,
     "char_start": 32249,
@@ -4398,6 +5104,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 70: palyhacks.io",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 27,
     "token_count": 270,
     "char_start": 33447,
@@ -4417,6 +5126,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 73: futech.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 28,
     "token_count": 340,
     "char_start": 34465,
@@ -4436,6 +5148,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 76: quackathon.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 29,
     "token_count": 368,
     "char_start": 35810,
@@ -4455,6 +5170,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 78: dmemsociety.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 30,
     "token_count": 265,
     "char_start": 37199,
@@ -4474,6 +5192,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 80: hackviolet.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 31,
     "token_count": 262,
     "char_start": 38369,
@@ -4493,6 +5214,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 83: bckp.link",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 32,
     "token_count": 379,
     "char_start": 39467,
@@ -4512,6 +5236,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 86: mellonheads.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 33,
     "token_count": 339,
     "char_start": 41171,
@@ -4531,6 +5258,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 89: internhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 34,
     "token_count": 384,
     "char_start": 42504,
@@ -4550,6 +5280,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 91: westboroughhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 35,
     "token_count": 257,
     "char_start": 44204,
@@ -4569,6 +5302,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 94: edutechclub.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 36,
     "token_count": 363,
     "char_start": 45288,
@@ -4588,6 +5324,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 97: newtonhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 37,
     "token_count": 374,
     "char_start": 46906,
@@ -4607,6 +5346,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 99: marihacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 38,
     "token_count": 257,
     "char_start": 48393,
@@ -4626,6 +5368,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 101: schacks2.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 39,
     "token_count": 265,
     "char_start": 49443,
@@ -4645,6 +5390,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 104: hack-iot.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 40,
     "token_count": 324,
     "char_start": 50524,
@@ -4664,6 +5412,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 107: sepnyc.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 41,
     "token_count": 297,
     "char_start": 51765,
@@ -4683,6 +5434,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 109: hackxd2019.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 42,
     "token_count": 265,
     "char_start": 52892,
@@ -4702,6 +5456,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 112: cbbhacks.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 43,
     "token_count": 324,
     "char_start": 53956,
@@ -4721,6 +5478,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 114: viscomuxhackathon.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 44,
     "token_count": 266,
     "char_start": 55102,
@@ -4740,6 +5500,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 116: hackbeanpot.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 45,
     "token_count": 294,
     "char_start": 56234,
@@ -4759,6 +5522,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 119: shehacksvt.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 46,
     "token_count": 341,
     "char_start": 57426,
@@ -4778,6 +5544,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 121: kitahack.dscmy.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 47,
     "token_count": 293,
     "char_start": 58747,
@@ -4797,6 +5566,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 123: biomicrosystems.net",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 48,
     "token_count": 277,
     "char_start": 59858,
@@ -4816,6 +5588,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 126: csidsatm.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 49,
     "token_count": 329,
     "char_start": 60964,
@@ -4835,6 +5610,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 129: hack3.co",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 50,
     "token_count": 315,
     "char_start": 62243,
@@ -4854,6 +5632,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 131: beaverhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 51,
     "token_count": 261,
     "char_start": 63450,
@@ -4873,6 +5654,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 134: troyhack.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 52,
     "token_count": 361,
     "char_start": 64493,
@@ -4892,6 +5676,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 137: jrhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 53,
     "token_count": 330,
     "char_start": 65988,
@@ -4911,6 +5698,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 140: annaampersandryan.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 54,
     "token_count": 390,
     "char_start": 67261,
@@ -4930,6 +5720,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 143: vhacks.net",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 55,
     "token_count": 326,
     "char_start": 68871,
@@ -4949,6 +5742,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 146: eaglehacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 56,
     "token_count": 341,
     "char_start": 70167,
@@ -4968,6 +5764,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 148: mavhacks.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 57,
     "token_count": 280,
     "char_start": 71540,
@@ -4987,6 +5786,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 151: defhacks.co",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 58,
     "token_count": 289,
     "char_start": 72643,
@@ -5006,6 +5808,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 154: compeclub.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 59,
     "token_count": 357,
     "char_start": 73809,
@@ -5025,6 +5830,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 156: beyondaec.tech",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 60,
     "token_count": 284,
     "char_start": 75249,
@@ -5044,6 +5852,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 159: nhacks2020.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 61,
     "token_count": 337,
     "char_start": 76424,
@@ -5063,6 +5874,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 161: thesbschallenge.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 62,
     "token_count": 281,
     "char_start": 77643,
@@ -5082,6 +5896,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 164: hacktheram.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 63,
     "token_count": 319,
     "char_start": 78834,
@@ -5101,6 +5918,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 167: hackdecode.io",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 64,
     "token_count": 301,
     "char_start": 80153,
@@ -5120,6 +5940,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 169: stantecideahack.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 65,
     "token_count": 304,
     "char_start": 81388,
@@ -5139,6 +5962,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 171: flowercityhackathon.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 66,
     "token_count": 275,
     "char_start": 82605,
@@ -5158,6 +5984,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 173: cit59x.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 67,
     "token_count": 265,
     "char_start": 83745,
@@ -5177,6 +6006,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 176: pharmhack.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 68,
     "token_count": 339,
     "char_start": 84726,
@@ -5196,6 +6028,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 178: utdellhackathon2020.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 69,
     "token_count": 316,
     "char_start": 86121,
@@ -5215,6 +6050,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 180: hatchathon4kids.org",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 70,
     "token_count": 267,
     "char_start": 87385,
@@ -5234,6 +6072,9 @@
     "raw_source_type": "html_table",
     "title": "180+ Student Hackathons: Famous Hackathons To Participate In",
     "section_title": "Row 182: kodingkingdom.com",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 71,
     "token_count": 282,
     "char_start": 88525,
@@ -5253,6 +6094,10 @@
     "raw_source_type": "html_table",
     "title": "GitHub - amahjoor/Hackathons: compiled list of recurring hackathons. · GitHub",
     "section_title": "Row 5: HackMTY",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 262,
     "char_start": 0,
@@ -5272,6 +6117,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - amahjoor/Hackathons: compiled list of recurring hackathons. · GitHub",
     "section_title": "Row 16: YHack",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 266,
     "char_start": 835,
@@ -5291,6 +6139,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - amahjoor/Hackathons: compiled list of recurring hackathons. · GitHub",
     "section_title": "Row 26: CalHacks",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 259,
     "char_start": 1727,
@@ -5310,6 +6161,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - amahjoor/Hackathons: compiled list of recurring hackathons. · GitHub",
     "section_title": "Row 36: HackPrinceton",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 275,
     "char_start": 2538,
@@ -5329,6 +6183,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - amahjoor/Hackathons: compiled list of recurring hackathons. · GitHub",
     "section_title": "Row 46: Cornell Big Red Hacks",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 4,
     "token_count": 268,
     "char_start": 3422,
@@ -5348,6 +6205,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - amahjoor/Hackathons: compiled list of recurring hackathons. · GitHub",
     "section_title": "Row 9: SBU Hacks",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 5,
     "token_count": 269,
     "char_start": 4238,
@@ -5367,6 +6227,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - amahjoor/Hackathons: compiled list of recurring hackathons. · GitHub",
     "section_title": "Row 19: HackHPI",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 6,
     "token_count": 276,
     "char_start": 5108,
@@ -5386,6 +6249,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - amahjoor/Hackathons: compiled list of recurring hackathons. · GitHub",
     "section_title": "Row 26: Hack NYU",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 7,
     "token_count": 184,
     "char_start": 5958,
@@ -5405,6 +6271,10 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 3: Anko",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 265,
     "char_start": 0,
@@ -5424,6 +6294,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 9: Awesome Photoshop in 6 Days",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 293,
     "char_start": 869,
@@ -5443,6 +6316,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 15: Christmas Music Playlist",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 267,
     "char_start": 1902,
@@ -5462,6 +6338,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 21: Create creenshots from website URLs",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 299,
     "char_start": 2747,
@@ -5481,6 +6360,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 27: Developer typing Game",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 4,
     "token_count": 290,
     "char_start": 3776,
@@ -5500,6 +6382,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 33: Featherify",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 5,
     "token_count": 280,
     "char_start": 4735,
@@ -5519,6 +6404,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 39: HandeeSpace",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 6,
     "token_count": 293,
     "char_start": 5605,
@@ -5538,6 +6426,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 44: Image & Video Background Removal using Deep Learning",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 7,
     "token_count": 265,
     "char_start": 6574,
@@ -5557,6 +6448,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 49: Litic",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 8,
     "token_count": 257,
     "char_start": 7474,
@@ -5576,6 +6470,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 55: MoodPraiser",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 9,
     "token_count": 276,
     "char_start": 8353,
@@ -5595,6 +6492,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 61: Pagely",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 10,
     "token_count": 287,
     "char_start": 9208,
@@ -5614,6 +6514,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 66: Product Board",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 11,
     "token_count": 257,
     "char_start": 10075,
@@ -5633,6 +6536,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 72: ResumeCraft",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 12,
     "token_count": 283,
     "char_start": 10939,
@@ -5652,6 +6558,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 78: Sturmglas",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 13,
     "token_count": 268,
     "char_start": 11918,
@@ -5671,6 +6580,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 84: URL shortener and manager",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 14,
     "token_count": 278,
     "char_start": 12775,
@@ -5690,6 +6602,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 90: Mailsbe",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 15,
     "token_count": 294,
     "char_start": 13678,
@@ -5709,6 +6624,9 @@
     "raw_source_type": "html_table",
     "title": "GitHub - Olanetsoft/awesome-hackathon-projects: This is a curated list of amazing hackathon projects · GitHub",
     "section_title": "Row 92: Equit.io",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 16,
     "token_count": 100,
     "char_start": 14578,
@@ -5728,6 +6646,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 344,
     "char_start": 0,
@@ -5747,6 +6669,9 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 701,
     "char_start": 1368,
@@ -5766,6 +6691,9 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 2,
     "token_count": 679,
     "char_start": 1636,
@@ -5785,6 +6713,9 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 3,
     "token_count": 649,
     "char_start": 1636,
@@ -5804,6 +6735,9 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 4,
     "token_count": 665,
     "char_start": 1636,
@@ -5823,6 +6757,9 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 5,
     "token_count": 650,
     "char_start": 1636,
@@ -5842,6 +6779,9 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 6,
     "token_count": 646,
     "char_start": 1636,
@@ -5861,6 +6801,9 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 7,
     "token_count": 699,
     "char_start": 1636,
@@ -5880,6 +6823,9 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Positive energy",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 8,
     "token_count": 650,
     "char_start": 1636,
@@ -5899,6 +6845,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Welcoming newcomers",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 9,
     "token_count": 661,
     "char_start": 1636,
@@ -5918,6 +6868,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Cultivating Good Projects",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 10,
     "token_count": 609,
     "char_start": 31072,
@@ -5937,6 +6891,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Placing Newcomers into New Projects",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 11,
     "token_count": 553,
     "char_start": 33793,
@@ -5956,6 +6914,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Basic requirements",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 12,
     "token_count": 556,
     "char_start": 36737,
@@ -5975,6 +6937,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Sponsorship",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 13,
     "token_count": 682,
     "char_start": 39098,
@@ -5994,6 +6960,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Happy hours",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 14,
     "token_count": 693,
     "char_start": 42182,
@@ -6013,6 +6983,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Email attendees",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 15,
     "token_count": 535,
     "char_start": 45495,
@@ -6032,6 +7006,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Walk-through",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 16,
     "token_count": 535,
     "char_start": 47938,
@@ -6051,6 +7029,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "When you arrive early",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 17,
     "token_count": 514,
     "char_start": 50130,
@@ -6070,6 +7052,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Wrap-up",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 18,
     "token_count": 656,
     "char_start": 52173,
@@ -6089,6 +7075,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Guide",
     "section_title": "Post-mortem",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 19,
     "token_count": 153,
     "char_start": 55157,
@@ -6108,6 +7098,10 @@
     "raw_source_type": "web_page",
     "title": "Best Practices: Social Good Hackathons - Devpost.com Help Center",
     "section_title": "Best Practices: Social Good Hackathons",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 645,
     "char_start": 0,
@@ -6127,6 +7121,9 @@
     "raw_source_type": "web_page",
     "title": "Best Practices: Social Good Hackathons - Devpost.com Help Center",
     "section_title": "Best Practices: Social Good Hackathons",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 105,
     "char_start": 3158,
@@ -6146,6 +7143,10 @@
     "raw_source_type": "web_page",
     "title": "Community and forming teams during online hackathons - Devpost.com Help Center",
     "section_title": "Participants Tab",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 407,
     "char_start": 0,
@@ -6165,6 +7166,10 @@
     "raw_source_type": "web_page",
     "title": "8 Types of Internal Hackathons to Drive Innovation Within Your Organization",
     "section_title": "What is an internal hackathon?",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 519,
     "char_start": 0,
@@ -6184,6 +7189,10 @@
     "raw_source_type": "web_page",
     "title": "8 Types of Internal Hackathons to Drive Innovation Within Your Organization",
     "section_title": "Company hackathon example: Okta",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 600,
     "char_start": 2426,
@@ -6203,6 +7212,10 @@
     "raw_source_type": "web_page",
     "title": "8 Types of Internal Hackathons to Drive Innovation Within Your Organization",
     "section_title": "Company hackathon example: JLL Technologies",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 2,
     "token_count": 630,
     "char_start": 5203,
@@ -6222,6 +7235,10 @@
     "raw_source_type": "web_page",
     "title": "8 Types of Internal Hackathons to Drive Innovation Within Your Organization",
     "section_title": "Why run an internal hackathon at your company?",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 3,
     "token_count": 593,
     "char_start": 8124,
@@ -6241,6 +7258,10 @@
     "raw_source_type": "web_page",
     "title": "8 Types of Internal Hackathons to Drive Innovation Within Your Organization",
     "section_title": "Drive innovation with internal hackathons",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 4,
     "token_count": 389,
     "char_start": 10898,
@@ -6260,6 +7281,10 @@
     "raw_source_type": "web_page",
     "title": "Recent AI Hackathons Winners | lablab.ai",
     "section_title": "Bee Sentinel-X",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 517,
     "char_start": 0,
@@ -6279,6 +7304,10 @@
     "raw_source_type": "web_page",
     "title": "Recent AI Hackathons Winners | lablab.ai",
     "section_title": "Pedigree",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 524,
     "char_start": 2249,
@@ -6298,6 +7327,10 @@
     "raw_source_type": "web_page",
     "title": "Recent AI Hackathons Winners | lablab.ai",
     "section_title": "Sendero — Agentic travel ops on Arc",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 2,
     "token_count": 516,
     "char_start": 4522,
@@ -6317,6 +7350,10 @@
     "raw_source_type": "web_page",
     "title": "Recent AI Hackathons Winners | lablab.ai",
     "section_title": "JaaS — Jurisprudence-as-a-Service",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 3,
     "token_count": 255,
     "char_start": 6465,
@@ -6336,6 +7373,10 @@
     "raw_source_type": "web_page",
     "title": "Beginner Guide: Mastering Hackathons for Wins, Learning, and Referrals | by Sungjin Hong | Medium",
     "section_title": "0. Find a team",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 575,
     "char_start": 0,
@@ -6355,6 +7396,10 @@
     "raw_source_type": "web_page",
     "title": "Beginner Guide: Mastering Hackathons for Wins, Learning, and Referrals | by Sungjin Hong | Medium",
     "section_title": "Ultimate Goals (Personal) — Jobs :)",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 682,
     "char_start": 2176,
@@ -6374,6 +7419,10 @@
     "raw_source_type": "web_page",
     "title": "Hack the Travel. Recently, I have had quite a few people… | by Dan Stepanov | Medium",
     "section_title": "Hack the Travel",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 627,
     "char_start": 0,
@@ -6393,6 +7442,9 @@
     "raw_source_type": "web_page",
     "title": "Hack the Travel. Recently, I have had quite a few people… | by Dan Stepanov | Medium",
     "section_title": "Hack the Travel",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 631,
     "char_start": 2872,
@@ -6412,6 +7464,10 @@
     "raw_source_type": "web_page",
     "title": "No 42. Three Years in a Row Winning Hackathons 🏆 Witnessing Growth! | by Yan Liu | Bootcamp | Medium",
     "section_title": "The Journey: From Pitch to Presentation",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 564,
     "char_start": 0,
@@ -6431,6 +7487,10 @@
     "raw_source_type": "web_page",
     "title": "No 42. Three Years in a Row Winning Hackathons 🏆 Witnessing Growth! | by Yan Liu | Bootcamp | Medium",
     "section_title": "Reflections and Looking Forward",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 554,
     "char_start": 2499,
@@ -6450,6 +7510,10 @@
     "raw_source_type": "web_page",
     "title": "The 8 Best Websites to Find a Hackathon — The HackLife Guide 💾 💻🤓 | by Jonathan Allen Grant | Medium",
     "section_title": "4) HackathonsNear.Me",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 524,
     "char_start": 0,
@@ -6469,6 +7533,10 @@
     "raw_source_type": "web_page",
     "title": "The 8 Best Websites to Find a Hackathon — The HackLife Guide 💾 💻🤓 | by Jonathan Allen Grant | Medium",
     "section_title": "So — Which one is the best?",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 450,
     "char_start": 1897,
@@ -6488,6 +7556,10 @@
     "raw_source_type": "web_page",
     "title": "Why Hackathons Are Worth It: A Beginner’s Guide | by JAMHacks Team | Medium",
     "section_title": "So what can you learn?",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 636,
     "char_start": 0,
@@ -6507,6 +7579,10 @@
     "raw_source_type": "web_page",
     "title": "Why Hackathons Are Worth It: A Beginner’s Guide | by JAMHacks Team | Medium",
     "section_title": "Wrapping Up",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 475,
     "char_start": 3084,
@@ -6526,6 +7602,10 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: Are hackathons still worth doing? | Hacker News",
     "section_title": "Row 2: Ask HN: Are hackathons still worth doing? 13 points by kwar13 3 months ago | hide | past | favorite | 9 comments I used to love attending hackathons and also participating as mentor/judge at times. With the explosion of vibe coded submissions, 1- the number of submissions has exploded, 2- it's much harder to judge quality of project as it's mostly become judging the quality of tool they used. I'm not really throwing shade at using ai. There are parts where the vibe coding really shines, such as front-end dev which tends to do a great job at, but anything more complex I'm still not convinced. kbrannigan 3 months ago | [–] They are now vibeathons. Same thing but now it's how much do you write by hand, it's how much can you delegate to the LLM while you're writing by hand. That act of juggling has become an important part. People will just look for harder problems to solve. It will remain but differently foxandmouse 3 months ago | | [–] Exactly this. At a recent hackathon, I spent the bulk of my time actually engineering, building custom model architecture in Lua, wrangling a dataset, and waiting on training loops. The winning project? A slick UI wrapped around a basic LLM API call. It’s incredibly frustrating. The incentive structure at these events has completely shifted away from actual technical complexity toward whoever can build the prettiest ChatGPT wrapper in 6 hours.. idontwantthis 3 months ago | | [–] I never found that engineering helped much at the hackathons I went to. It was always a slick UI that didn't really do anything, and a good presentation. Gooblebrai 3 months ago | | | [–] As far as my experience goes, hackathons have never been about technical meritocracy but pitching and presentation lyaocean 3 months ago | | [–] Still worth it if you optimize for learning and people, not podiums. I only do events with explicit judging weights, then include a short architecture note so judges can see beyond the demo polish. The best outcome is usually meeting one solid future teammate, not winning. red_Seashell_32 3 months ago | | [–] Last hackathon I participated in was merely \"best presentation\". Code, app did not matter, it was idea and presentation what mattered. Thankfully, properly working app won that one, nonetheless they suck now. OccamsMirror 3 months ago | | [–] In my experience they've always been this way. Real engineers lose to idiots that can knock out a nice Wordpress website. Now the way real engineers lose to idiots that can vibe out a nice UI. Same same, but different. atleastoptimal 3 months ago | | [–] Before AI people already used preexisting projects for hackathons. jleyank 3 months ago | | [–] Betteridge's Law. Unless it's more of an essay competition for text to feed the AI beast.",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 666,
     "char_start": 0,
@@ -6545,6 +7625,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: Are hackathons still worth doing? | Hacker News",
     "section_title": "Row 8: foxandmouse 3 months ago | | [–] Exactly this. At a recent hackathon, I spent the bulk of my time actually engineering, building custom model architecture in Lua, wrangling a dataset, and waiting on training loops. The winning project? A slick UI wrapped around a basic LLM API call. It’s incredibly frustrating. The incentive structure at these events has completely shifted away from actual technical complexity toward whoever can build the prettiest ChatGPT wrapper in 6 hours..",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 346,
     "char_start": 2843,
@@ -6564,6 +7647,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: Are hackathons still worth doing? | Hacker News",
     "section_title": "Row 18: OccamsMirror 3 months ago | | [–] In my experience they've always been this way. Real engineers lose to idiots that can knock out a nice Wordpress website. Now the way real engineers lose to idiots that can vibe out a nice UI. Same same, but different.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 294,
     "char_start": 4300,
@@ -6583,6 +7669,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: Are hackathons still worth doing? | Hacker News",
     "section_title": "Row 22: jleyank 3 months ago | | [–] Betteridge's Law. Unless it's more of an essay competition for text to feed the AI beast.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 71,
     "char_start": 5506,
@@ -6602,6 +7691,10 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 5: I'm participating in a week-long hackathon in a few days and gathered a team together for an idea I've been exploring recently. I guess this means people are looking at me to be in charge and that's not a role that comes naturally to me. A few questions: - How do you get people excited and aligned to the same vision, so we're all pulling in the right direction? - My biggest concern is everyone will be remote, so there's no natural space for us to all occupy when working together. I'm looking for advice on how best to structure the week so we actually make it to the finish line. I'm guessing motivation will play a big part here. I'm definitely not experienced in leadership (I'm just a typical worker drone here) so advice is appreciated! Edit: Worth mentioning everyone on the team are engineers (with some extra skills on the side).",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 266,
     "char_start": 0,
@@ -6621,6 +7714,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 8: thirtythree on Sept 25, 2020 | | [–] I've never taken part in a Hackathon but I thought it was all about building something. Creating a story seems very much like fluff. That's not something I would be interested in",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 267,
     "char_start": 1085,
@@ -6640,6 +7736,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 14: trilinearnz on Sept 25, 2020 | | [–] My advice from leading shorter-term hack sessions at work and game jams: 1) Emphasise that the primary goal is for \"us to have fun\". This immediately takes the pressure off, and helps put the 'thon in perspective. 2) Emphasise a secondary goal of \"getting something complete\", regardless of whether it's the perfect product or not. For gamejams, it's usually a struggle to get a fully-buildable and playable game out the gate, so setting expectations low re: functionality makes sure you at least have a working product at the end of it. Once you have that, you can focus on incrementally introducing features. Again, this takes the pressure off. 3) Think of it less as leadership, and more of a case of \"filling in the blanks\". In those times where there is a bit of silence amongst the group in terms of what to do, simply speak up and say what you think could work well. Others will often be happy to just accept that and move forward. 4) If someone else has strong feelings about a certain decision or direction, hear them out and go with it if it makes sense to you. It's more about exchanging ideas as equals rather than the \"leader's\" way or the highway. 5) Your leadership will come most to the fore when it comes to coordinating a completed product as time wanes on. Often the team can get caught up in what they're doing, so you need to push a little to make sure things are on track. Things like: \"OK we have 2 days left. Shall we draw a line in the sand with the database by 12 noon, and then just focusing on tidying things up and making sure there are minimal bugs\"? 6) Proactively offer to help or contribute to what other members of your team are doing throughout the 'thon. A good way to to this is to have something specific in mind to contribute, and ask the person if they are OK if you do that. This takes the pressure off them to come up with something you can assist with themselves. Doing this role models good teamwork to the rest of the team, and they may start doing this amongst themselves too.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 685,
     "char_start": 2198,
@@ -6659,6 +7758,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 18: hibby on Sept 26, 2020 | | [–] Past experience for me is that we all usually get real high, come up with some terrible ideas and chaos ensues. Who knows what value we've added to the world at the end of it, but we've learned a few things and had some nice time away from being serious computer people. In other words, don't take yourself too seriously, and enjoy the time with your friends. Don't get too tied up in details, structure and just focus on how you can grow through the experience. Looking at the thread though, everyone else seems to be at serious computer people events, so my experience may not be relevant!",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 317,
     "char_start": 5040,
@@ -6678,6 +7780,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 20: chundicus on Sept 25, 2020 | | [–] I led a hackathon team in an in-person 24 hour hackathon, so it's not exactly the same but here's my advice: - Getting people excited means giving a good elevator pitch and following up with any specifics you've mapped out. Tell them what you're trying to solve, why you're solving it, and how. Engaging with feedback/criticism of the plan will help get interested people on board. Make sure you try to match people's interests to the work to be done. I.e. assigning a backend-oriented person to do frontend work is a great way to kill motivation (unless of course they've requested it). - For remote: make sure you have clear lines of communication and a clear delineation of work. Be available at a moment's notice to answer any questions. -- a Slack channel (or something similar) for your team for ad hoc, asynchronous communication is a good idea -- daily standups over video/voice would be a good idea. Make sure to take longer conversations offline as to keep everyone productive. - As far as structuring the week that's harder to answer. Map out the work to be done, break it up by person, and then giving a loose timeline with some wiggle room. Something like a Gantt chart could help here, but there are a number of ways you could organize this.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 4,
     "token_count": 300,
     "char_start": 6401,
@@ -6697,6 +7802,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 24: Invictus0 on Sept 25, 2020 | | [–] I've attended 14 hackathons and captained many of the teams so I think I can answer this question. The two big things are to assemble the right team and set expectations early. Everyone is at the hackathon for a different reason and everyone has a different specialty. Find a frontend guy and a backend girl and make sure they get to work on what they want to work on. Make sure everyone is on the same page with the project idea: no one is going to stay up all night for free to work on an idea they don't believe in. Set expectations for how many hours everyone is working, how often everyone should be checking in and pushing code, etc. Set a good example as well by doing your part. Be flexible and try to find the natural compromise on points of disagreement because there won't be time for extended arguments. A week long hackathon is a long time. People will have other things they need to attend to. Try to get everyone to schedule their time in advance and be open about what other plans may lie ahead. And remember to have fun! The most valuable thing that comes out of hackathons is your friendship with your teammates. Keep this in mind whenever disagreements arise.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 5,
     "token_count": 399,
     "char_start": 7705,
@@ -6716,6 +7824,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 30: seba_dos1 on Sept 25, 2020 | | [–] You haven't said how big your team is. From my experience, if your team has more than 4-5 people, you're entering a territory where managing people is going to become a significant role itself and not something that can be done on a side as you do your regular engineering. Teams this big often tend to either not finish at all or break up into several smaller ones. It's much easier for smaller teams to cooperate efficiently.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 6,
     "token_count": 320,
     "char_start": 9442,
@@ -6735,6 +7846,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 34: untog on Sept 25, 2020 | | [–] If it's a competition: find the member of your team that is best at presenting/pitching. Make sure they set a lot of time aside for practise, because to be honest that's the only thing that actually counts in the vast majority of hackathons. I kind of burned out on them for this exact reason: I toiled away making a working demo of my idea only to watch teams with a couple of design wireframes and a splashy presentation win. I thought a hackathon was more connected to the old school notion of programmers hacking things together... the vast majority of the time it is not. But hey, it is what it is, just know what you're getting into going in! (I wish there were more hackathons where it was required to demo a working prototype. Would emphasise the \"hack\" aspect of the whole thing!)",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 7,
     "token_count": 436,
     "char_start": 10676,
@@ -6754,6 +7868,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 40: hackathrow on Sept 25, 2020 | | [–] > The fact you think there is a \"right\" direction means it is not a hackathon but a work session. > If this not the programmers initative expect them to be looking for new jobs. For many programming is not a spectator sport. I am also a programmer :) This is a real hackathon, with no expectations of \"work\" that needs to be done. I just want to make sure we hit the finish line with an MVP is all.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 8,
     "token_count": 292,
     "char_start": 12554,
@@ -6773,6 +7890,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 44: zwayhowder on Sept 25, 2020 | | [–] Is the goal to win the hackathon or just hack together the best MVP you can in a week? If your goal is to win start practicing your pitch early. Choose who will talk from the team and while the rest of the team finishes the product they should be identifying the problem you are solving and practicing the pitch over and over again. The last 3 day hackathon I did we started practicing at the 1.5 day mark and smashed it. Despite our product consisting of just 17 lines of python code (ok with 500,000 lines of modules behind it) bechause we were comfortable pitching our product as a business solution instead of \"Look how cool our ML/AI whatsit is...\".",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 9,
     "token_count": 238,
     "char_start": 13656,
@@ -6792,6 +7912,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 46: josalhor on Sept 25, 2020 | | [–] I have participated in a few hackathons. My teams have won some. And they have lost some. All of the ones I have participated in were 24-36 hours long. This comment is probably not that useful for OP, but I will still publish it anyway. Here is my (current) recollection of thoughts: - In these short hackathons the probability of winning is inversely proportional to the amount of new technology you are using. I have seen teams quit because they got stuck in a particular issue and couldn’t finish their prototype in time. A similar thing almost happened to one of my teams. This is also a bit sad because it means that improving your chances to win implies reducing your chances to learn. - Leverage frameworks, libraries, and templates. My go-to example for this one is a web server. Imagine your team tries to implement a web server in C. If the team you’re competing against uses Django you are going to have a hard time to compete. My secret leverage is Unity. With Unity, you can create something in 3D very fast that looks nice with very few assets. Remember, unless the jury explicitly says otherwise, they care more about the product than the code. - Get your team on the same page. Because of the previous points, the worst thing that can happen is that some people on your team try very hard to win while others are just in for the experience. This will create friction. Get your team on the same page before starting. I can’t emphasize this one enough. - Clear communication. On one hackathon one of our members left for dinner for what was going to be 2h. He was absent for about 4-5h. What annoyed me from that experience was the lack of communication in our team. - I like to think before the hackathon starts there are no leaders, only developers. I believe leaders on short hackathons raise to the occasion on the spot. I’ve done it. But that wasn’t predetermined by any agreement. I’ve also followed people who led me. Whatever your role is, remember: you’re not an authority; don’t act like one. Responsibility is always collective. - Principle of least effort. I’ll repeat it: Your jury cares more about the product than your technology. If you only have 24 hours, then you don’t have 2h to spare to discuss the design. You should optimize the ratio of results/time. - (Post-Corona tip, whenever that comes) Come prepared. Come with Ethernet cables. A switch or two. Your batteries charged. I’ve seen wireless networks go down on these hackathons. On that occasion, our team didn’t even notice it because we were wired in.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 10,
     "token_count": 586,
     "char_start": 14562,
@@ -6811,6 +7934,9 @@
     "raw_source_type": "html_table",
     "title": "Ask HN: How does one lead a team in a hackathon? | Hacker News",
     "section_title": "Row 54: csours on Sept 25, 2020 | [–] Choose your tools beforehand and get them set up. Get the team set up on those tools. Amplify good ideas. Give ideas a time to live and kill them if they don't work during that time.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 11,
     "token_count": 279,
     "char_start": 17154,
@@ -6830,6 +7956,10 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 3: squeaky-clean on April 5, 2017 | parent | context | favorite | on: Hackathon hustlers who make a living from corporat... I know a guy who is great at winning hackathons. He doesn't make a living off it, but has definitely made at least 100k in the past few years (divided across his team, however). I entered my first hackathon last year, and it was one he was attending. It was really disappointing. Maybe it was just that specific hackathon? I knew \"the pitch\" was a big part of winning, but didn't expect it to be 99%. A few teams built some actual cool and functioning things in 24 hours. Ours was the only app with a real demo you could visit/download, rather than it only working locally on the dev's machine. But the only teams that reached the finals were the ones with great speakers and a good idea, even if it wasn't functional at all. The guy I know ended up winning the first prize at that event. His team had an amazing idea and a great pitch, but their \"app\" was a powerpoint presentation, and a couple static HTML pages that faked a dynamic user flow. It worked as long as you clicked the correct image map area, and entered values into text boxes that matched what was hard-coded into the next page. I had fun with my team and made new friends, but it was really discouraging to lose a \"hackathon\" mostly because the other team had better speakers and not for technical reasons. I guess I prefer game jams, no qualms about marketability or a pitch with empty promises. Maybe it's because game jams usually don't have financial prizes aside for the exposure?",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 400,
     "char_start": 0,
@@ -6849,6 +7979,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 8: pawadu on April 6, 2017 | | | [–] This is basically every sales guy I have ever met.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 285,
     "char_start": 1700,
@@ -6868,6 +8001,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 22: scardine on April 5, 2017 | | [–] I've helped organizing the last two editions of the FIESP Hackathon in Sao Paulo, Brazil. It is a big event for Latin America standards: 3 days, 40 teams of 5 hackers (200 contestants total). My pet peeve was always make the event more about \"the hacker experience\" and less about \"the best PPT wins\". Things we did: * PPT-free event: a team must show something working. * Startup teams trying to pitch an already working product were kicked out. * Each team must name one PR member, mentors and other staff should not interrupt anyone except this PR guy. * Ingenuity and implementation completeness were the main criteria (the least mockups the better). * Zero tolerance for antisocial behavior. We strive a lot do make sure \"the best hack\" wins.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 426,
     "char_start": 2861,
@@ -6887,6 +8023,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 32: tdumitrescu on April 6, 2017 | | | [–] Really? I'll take the developer who actually makes things work.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 271,
     "char_start": 4307,
@@ -6906,6 +8045,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 38: xkxx on April 6, 2017 | | [–] > No one questioned authenticity or whether it was actually a possible thing to make. Why didn't you call them out on their bullshit?",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 4,
     "token_count": 286,
     "char_start": 5229,
@@ -6925,6 +8067,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 46: tostitos1979 on April 5, 2017 | | [–] In NYC, there was a hackathon I attended a few years ago where everyone got the same problems (forget what it was called - comedy hackathon maybe?). It was about who could solve it fastest (or at all). Each problem was time-boxed, to be done in a short session, and as a team. They even had games (like Golden Eye) and other crazy social stuff (go out to 5 strangers at lunch time and make them say a binary string on video). We need more pure-tech fun hackathons like that IMHO.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 5,
     "token_count": 306,
     "char_start": 6379,
@@ -6944,6 +8089,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 54: thearn4 on April 5, 2017 | | [–] I've had similar experiences at some hackathon events. The local Startup Weekend event a few years ago was similar, but in some ways that is more predictably skewed to who can give the best pitch, so that one didn't rub me quite so bad. Along the same lines, there were a few local meetups where people were going to plan some ideas for innovative uses for public data sets, and what kind of data we should try and get released from the city & county. The whole thing ended up getting de-railed by non-tech \"thought leader in a turtleneck\" consultant types giving their personal pitches to market their brand, and nothing solid came out of that. Those who were interested in building something formed a separate group and went their own way. At the risk of sounding like a delicate snowflake, I would really enjoy more \"tech events for people who really want to get their hands dirty\".",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 6,
     "token_count": 380,
     "char_start": 7457,
@@ -6963,6 +8111,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 66: duiker101 on April 5, 2017 | | [–] I guess hackathons stopped being fun the moment that too many people that are not really \"hackers\" got involved. Unfortunately it's the typical thing that happens when something becomes too popular.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 7,
     "token_count": 287,
     "char_start": 8953,
@@ -6982,6 +8133,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 72: komali2 on April 5, 2017 | | [–] Reminds me of my friends' nightmare experience at the SF girls-only hackathon. My friends are both pretty darn good software engineers, and went to pick up some other floaters to build a team there. They got a project manager, who they tasked with finding them more engineers. Project manager comes back.... with 2 more project managers. So with their team of 2 engineers and 3 project managers they got very little product done. I think events like this shouldn't be called \"Hackathons.\" Maybe \"Pitch Events\" or something. If you can win without writing a single line of code (which I have seen at two SF \"hackathons\") it should not be a hackathon.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 8,
     "token_count": 404,
     "char_start": 9803,
@@ -7001,6 +8155,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 78: xphilter on April 5, 2017 | | [–] I've had similar experiences. At one \"hackathon\" I went to in Chicago, the winners made a powerpoint of a Coke vending machine with NFC payment...",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 9,
     "token_count": 274,
     "char_start": 11526,
@@ -7020,6 +8177,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 86: basseq on April 5, 2017 | | [–] It seems like there’s a spectrum between “pitch competition” (best idea wins) and “coding challenge” (best implementation wins). Hackathons are somewhere in the middle, but given the zeitgeist behind the “hacker” movement, I am not surprised that they are leaning more towards the pitch side. After all, corporations are looking for implementable ideas rather than cool bits of tech someone hacked out in 24 hours. Transparency in the process and clear expectations help here.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 10,
     "token_count": 282,
     "char_start": 12573,
@@ -7039,6 +8199,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 92: pavel_lishin on April 5, 2017 | | [–] At a company hackathon, we had a outside company sponsoring the hackathon, including a prize they would award to the best user of their API. It was kind of a clunky API, and their product didn't really fit what we did, so my teammate and I decided to use it - hoping that we'd be the only ones to use the API, and therefore winners by default. We didn't win. Obviously, I'm biased, but I think our product was more promising both in terms of realistic use of the technology, and in terms of the possibility of going to market quickly. But our demo wasn't as shiny, we were from a remote office so people didn't really know who we were, and neither of us were particularly charismatic presenters. Presentation matters. This has been impressed on us repeatedly; the joke is now that whoever manages to snag the UI/UX person first for their team is going to win.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 11,
     "token_count": 318,
     "char_start": 13652,
@@ -7058,6 +8221,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 100: doktrin on April 5, 2017 | | [–] The idea that hackathons can favor style over substance rings true with me. Sometimes people get unfairly screwed by a bad judging panel. This is particularly true when evaluating technical merit : I've literally seen judges swoon over cool looking Axure / Pidoco presentations. However, it goes deeper than that as not even all developers (myself included) are always as good at evaluating technical merit as we think we are - particularly if the solution involves a lot of math.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 12,
     "token_count": 297,
     "char_start": 14921,
@@ -7077,6 +8243,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 108: elastic_church on April 5, 2017 | | [–] yeah that was my experience with a few hackathons too, it wasn't at all what I expected. And a powerpoint presentation with static HTML pages got a prize in that one as well. I usually go to get in the zone with some new technologies around like minded people, and not really about the theme of the hackathon itself. A lot of hackathons have tons of tertiary prizes and networking opportunities. Unlike other places with a tech scene, Silicon Valley has an industry that caters to unskilled and wannabe programmers that aren't currently into programming at all. Hackathons, Meetups and the coding schools are at the center of that. So you shouldn't expect actual deep technology discussions at those particular things, you will be underwhelmed.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 13,
     "token_count": 364,
     "char_start": 16069,
@@ -7096,6 +8265,9 @@
     "raw_source_type": "html_table",
     "title": "I know a guy who is great at winning hackathons. He doesn't make a living off it... | Hacker News",
     "section_title": "Row 110: aanm1988 on April 5, 2017 | [–] I won a hackathon at work once with a mostly faked out app. It was still a neat idea, we just ran out of time to do more.",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 14,
     "token_count": 61,
     "char_start": 17517,
@@ -7115,6 +8287,10 @@
     "raw_source_type": "web_page",
     "title": "How to Win an AI Hackathon: Build a Solution that Actually Matters | by Tatiana Fesenko | Medium",
     "section_title": "1. Solve a Problem Everyone Understands",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 553,
     "char_start": 0,
@@ -7134,6 +8310,10 @@
     "raw_source_type": "web_page",
     "title": "How to Win an AI Hackathon: Build a Solution that Actually Matters | by Tatiana Fesenko | Medium",
     "section_title": "Decompose Before You Delegate",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 510,
     "char_start": 2365,
@@ -7153,6 +8333,10 @@
     "raw_source_type": "web_page",
     "title": "How to Win an AI Hackathon: Build a Solution that Actually Matters | by Tatiana Fesenko | Medium",
     "section_title": "The Critical Truth: Always Verify AI Output",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 2,
     "token_count": 561,
     "char_start": 4619,
@@ -7172,6 +8356,10 @@
     "raw_source_type": "web_page",
     "title": "How to Win an AI Hackathon: Build a Solution that Actually Matters | by Tatiana Fesenko | Medium",
     "section_title": "Bringing It All Together: What Actually Wins",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 3,
     "token_count": 321,
     "char_start": 7379,
@@ -7191,6 +8379,10 @@
     "raw_source_type": "web_page",
     "title": "25+ Trending Hackathon Project Ideas for Beginners (2026)",
     "section_title": "Types of hackathons",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 513,
     "char_start": 0,
@@ -7210,6 +8402,10 @@
     "raw_source_type": "web_page",
     "title": "25+ Trending Hackathon Project Ideas for Beginners (2026)",
     "section_title": "2. Intelligent Virtual Assistant",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 531,
     "char_start": 2435,
@@ -7229,6 +8425,10 @@
     "raw_source_type": "web_page",
     "title": "25+ Trending Hackathon Project Ideas for Beginners (2026)",
     "section_title": "1. Weather App Using Real-Time API",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 2,
     "token_count": 504,
     "char_start": 4780,
@@ -7248,6 +8448,10 @@
     "raw_source_type": "web_page",
     "title": "25+ Trending Hackathon Project Ideas for Beginners (2026)",
     "section_title": "15. Book Exchange Network",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 3,
     "token_count": 503,
     "char_start": 6927,
@@ -7267,6 +8471,10 @@
     "raw_source_type": "web_page",
     "title": "25+ Trending Hackathon Project Ideas for Beginners (2026)",
     "section_title": "Tips to win a hackathon",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 4,
     "token_count": 504,
     "char_start": 9068,
@@ -7286,6 +8494,10 @@
     "raw_source_type": "web_page",
     "title": "25+ Trending Hackathon Project Ideas for Beginners (2026)",
     "section_title": "4. Brainstorm for the validation of the concept",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 5,
     "token_count": 550,
     "char_start": 11402,
@@ -7305,6 +8517,10 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons | Brightidea",
     "section_title": "Hackathon Subcategories",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 697,
     "char_start": 0,
@@ -7324,6 +8540,9 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons | Brightidea",
     "section_title": "Hackathon Subcategories",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 620,
     "char_start": 3577,
@@ -7343,6 +8562,9 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons | Brightidea",
     "section_title": "Hackathon Subcategories",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 2,
     "token_count": 475,
     "char_start": 6407,
@@ -7362,6 +8584,10 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 4: 4",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 259,
     "char_start": 0,
@@ -7381,6 +8607,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 9: 9",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 274,
     "char_start": 993,
@@ -7400,6 +8629,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 4: 14",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 285,
     "char_start": 2075,
@@ -7419,6 +8651,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 2: 19",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 275,
     "char_start": 3207,
@@ -7438,6 +8673,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 1: 24",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 4,
     "token_count": 280,
     "char_start": 4302,
@@ -7457,6 +8695,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 6: 29",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 5,
     "token_count": 279,
     "char_start": 5410,
@@ -7476,6 +8717,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 5: 34",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 6,
     "token_count": 294,
     "char_start": 6487,
@@ -7495,6 +8739,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 4: 39",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 7,
     "token_count": 283,
     "char_start": 7604,
@@ -7514,6 +8761,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 4: 44",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 8,
     "token_count": 289,
     "char_start": 8715,
@@ -7533,6 +8783,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 5: 50",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 9,
     "token_count": 302,
     "char_start": 9846,
@@ -7552,6 +8805,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 6: GraphQL",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 10,
     "token_count": 279,
     "char_start": 10932,
@@ -7571,6 +8827,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 6: Full-Stack Developer",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 11,
     "token_count": 273,
     "char_start": 12060,
@@ -7590,6 +8849,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 4: AI-Powered Adaptive (trained on response patterns; limited by question-bank breadth)",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 12,
     "token_count": 268,
     "char_start": 13184,
@@ -7609,6 +8871,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 3: Debug production incidents",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 13,
     "token_count": 265,
     "char_start": 14230,
@@ -7628,6 +8893,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 2: Code correctness",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 14,
     "token_count": 262,
     "char_start": 15348,
@@ -7647,6 +8915,9 @@
     "raw_source_type": "html_table",
     "title": "50+ Hackathon Ideas for 2026: Beginner to Advanced",
     "section_title": "Row 5: Speed and accuracy",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 15,
     "token_count": 194,
     "char_start": 16493,
@@ -7666,6 +8937,10 @@
     "raw_source_type": "html_table",
     "title": "Are hackathons good, bad, or overrated?",
     "section_title": "Row 1: Backend Engineer",
+    "block_types": [
+      "heading",
+      "row"
+    ],
     "chunk_position": 0,
     "token_count": 272,
     "char_start": 0,
@@ -7685,6 +8960,9 @@
     "raw_source_type": "html_table",
     "title": "Are hackathons good, bad, or overrated?",
     "section_title": "Row 2: Take-Home Project",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 1,
     "token_count": 316,
     "char_start": 1140,
@@ -7704,6 +8982,9 @@
     "raw_source_type": "html_table",
     "title": "Are hackathons good, bad, or overrated?",
     "section_title": "Row 4: Edge Case Handling (boundary inputs, error states)",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 2,
     "token_count": 287,
     "char_start": 2407,
@@ -7723,6 +9004,9 @@
     "raw_source_type": "html_table",
     "title": "Are hackathons good, bad, or overrated?",
     "section_title": "Row 1: Problem-solving approach",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 3,
     "token_count": 316,
     "char_start": 3546,
@@ -7742,6 +9026,9 @@
     "raw_source_type": "html_table",
     "title": "Are hackathons good, bad, or overrated?",
     "section_title": "Row 5: Speed and accuracy",
+    "block_types": [
+      "row"
+    ],
     "chunk_position": 4,
     "token_count": 262,
     "char_start": 4974,
@@ -7761,6 +9048,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Directory: United States Of America",
     "section_title": "TeenHacks",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 531,
     "char_start": 0,
@@ -7780,6 +9071,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Directory: United States Of America",
     "section_title": "Hackathons In Texas",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 485,
     "char_start": 2055,
@@ -7799,6 +9094,10 @@
     "raw_source_type": "web_page",
     "title": "Hackathon Directory: United States Of America",
     "section_title": "Hackathons That Accept High School Students",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 2,
     "token_count": 376,
     "char_start": 3910,
@@ -7818,6 +9117,10 @@
     "raw_source_type": "web_page",
     "title": "Are Hackathons Still Useful Today? | Shireen Shamil",
     "section_title": "Are Hackathons Still Useful? The Shift to AI Dominance",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 498,
     "char_start": 0,
@@ -7837,6 +9140,9 @@
     "raw_source_type": "web_page",
     "title": "Are Hackathons Still Useful Today? | Shireen Shamil",
     "section_title": "Are Hackathons Still Useful? The Shift to AI Dominance",
+    "block_types": [
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 425,
     "char_start": 2456,
@@ -7856,6 +9162,10 @@
     "raw_source_type": "web_page",
     "title": "How to Form a Winning Team for a Hackathon",
     "section_title": "4. Pitcher / Marketer — the communicator",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 561,
     "char_start": 0,
@@ -7875,6 +9185,10 @@
     "raw_source_type": "web_page",
     "title": "How to Form a Winning Team for a Hackathon",
     "section_title": "Ready to form your winning team?",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 498,
     "char_start": 2429,
@@ -7894,6 +9208,10 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons: A Complete Guide",
     "section_title": "3. Student Hackathons",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 576,
     "char_start": 0,
@@ -7913,6 +9231,10 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons: A Complete Guide",
     "section_title": "7. Internal Hackathons",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 1,
     "token_count": 566,
     "char_start": 2931,
@@ -7932,6 +9254,10 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons: A Complete Guide",
     "section_title": "Why Participate in Hackathons?",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 2,
     "token_count": 569,
     "char_start": 5739,
@@ -7951,6 +9277,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "Win Hackathons Guide: The Origin Story",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 527,
     "char_start": 0,
@@ -7970,6 +9300,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "The Hackathon Idea Should Come With A Good Story",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 618,
     "char_start": 2222,
@@ -7989,6 +9323,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "The Hackathon Idea Should Demo Well",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 2,
     "token_count": 696,
     "char_start": 4937,
@@ -8008,6 +9346,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "The Idea Should Be Technically Advanced",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 3,
     "token_count": 611,
     "char_start": 8244,
@@ -8027,6 +9369,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "API Prizes: A Word of Caution",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 4,
     "token_count": 696,
     "char_start": 10995,
@@ -8046,6 +9392,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "Ship the Minimum Viable Product",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 5,
     "token_count": 619,
     "char_start": 14210,
@@ -8065,6 +9415,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "Be Visually Creative",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 6,
     "token_count": 664,
     "char_start": 16771,
@@ -8084,6 +9438,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "Be Maximally Approachable",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 7,
     "token_count": 687,
     "char_start": 19757,
@@ -8103,6 +9461,10 @@
     "raw_source_type": "web_page",
     "title": "Win Hackathons In 2022: Step-By-Step Guide | NickSingh.com",
     "section_title": "Conclusion",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 8,
     "token_count": 445,
     "char_start": 23029,
@@ -8122,6 +9484,11 @@
     "raw_source_type": "reddit_thread",
     "title": "Hackathon winners: Share your winning strategies and projects! : hackathon",
     "section_title": "Comment 1",
+    "block_types": [
+      "heading",
+      "paragraph",
+      "comment"
+    ],
     "chunk_position": 0,
     "token_count": 443,
     "char_start": 0,
@@ -8141,6 +9508,9 @@
     "raw_source_type": "reddit_thread",
     "title": "Hackathon winners: Share your winning strategies and projects! : hackathon",
     "section_title": "Comment 3",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 1,
     "token_count": 348,
     "char_start": 1791,
@@ -8160,6 +9530,9 @@
     "raw_source_type": "reddit_thread",
     "title": "Hackathon winners: Share your winning strategies and projects! : hackathon",
     "section_title": "Comment 5",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 2,
     "token_count": 293,
     "char_start": 3304,
@@ -8179,6 +9552,9 @@
     "raw_source_type": "reddit_thread",
     "title": "Hackathon winners: Share your winning strategies and projects! : hackathon",
     "section_title": "Comment 8",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 3,
     "token_count": 229,
     "char_start": 4548,
@@ -8198,6 +9574,10 @@
     "raw_source_type": "reddit_thread",
     "title": "[MEGATHREAD] Post your hackathon ideas here : AI_Agents",
     "section_title": "Original Post",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 360,
     "char_start": 0,
@@ -8217,6 +9597,9 @@
     "raw_source_type": "reddit_thread",
     "title": "[MEGATHREAD] Post your hackathon ideas here : AI_Agents",
     "section_title": "Comment 4",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 1,
     "token_count": 337,
     "char_start": 1466,
@@ -8236,6 +9619,9 @@
     "raw_source_type": "reddit_thread",
     "title": "[MEGATHREAD] Post your hackathon ideas here : AI_Agents",
     "section_title": "Comment 7",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 2,
     "token_count": 270,
     "char_start": 2598,
@@ -8255,6 +9641,9 @@
     "raw_source_type": "reddit_thread",
     "title": "[MEGATHREAD] Post your hackathon ideas here : AI_Agents",
     "section_title": "Comment 11",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 3,
     "token_count": 315,
     "char_start": 3548,
@@ -8274,6 +9663,9 @@
     "raw_source_type": "reddit_thread",
     "title": "[MEGATHREAD] Post your hackathon ideas here : AI_Agents",
     "section_title": "Comment 15",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 4,
     "token_count": 395,
     "char_start": 4585,
@@ -8293,6 +9685,9 @@
     "raw_source_type": "reddit_thread",
     "title": "[MEGATHREAD] Post your hackathon ideas here : AI_Agents",
     "section_title": "Comment 19",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 5,
     "token_count": 315,
     "char_start": 6036,
@@ -8312,6 +9707,9 @@
     "raw_source_type": "reddit_thread",
     "title": "[MEGATHREAD] Post your hackathon ideas here : AI_Agents",
     "section_title": "Comment 22",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 6,
     "token_count": 303,
     "char_start": 7088,
@@ -8331,6 +9729,9 @@
     "raw_source_type": "reddit_thread",
     "title": "[MEGATHREAD] Post your hackathon ideas here : AI_Agents",
     "section_title": "Comment 27",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 7,
     "token_count": 310,
     "char_start": 8110,
@@ -8350,6 +9751,11 @@
     "raw_source_type": "reddit_thread",
     "title": "What’s the smartest hackathon strategy you’ve seen actually win? : hackathon",
     "section_title": "Comment 1",
+    "block_types": [
+      "heading",
+      "paragraph",
+      "comment"
+    ],
     "chunk_position": 0,
     "token_count": 353,
     "char_start": 0,
@@ -8369,6 +9775,9 @@
     "raw_source_type": "reddit_thread",
     "title": "What’s the smartest hackathon strategy you’ve seen actually win? : hackathon",
     "section_title": "Comment 3",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 1,
     "token_count": 271,
     "char_start": 1509,
@@ -8388,6 +9797,9 @@
     "raw_source_type": "reddit_thread",
     "title": "What’s the smartest hackathon strategy you’ve seen actually win? : hackathon",
     "section_title": "Comment 6",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 2,
     "token_count": 484,
     "char_start": 2602,
@@ -8407,6 +9819,11 @@
     "raw_source_type": "reddit_thread",
     "title": "Where do you guys discover good AI hackathons/opportunities? : hackathon",
     "section_title": "Comment 1",
+    "block_types": [
+      "heading",
+      "paragraph",
+      "comment"
+    ],
     "chunk_position": 0,
     "token_count": 273,
     "char_start": 0,
@@ -8426,6 +9843,9 @@
     "raw_source_type": "reddit_thread",
     "title": "Where do you guys discover good AI hackathons/opportunities? : hackathon",
     "section_title": "Comment 5",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 1,
     "token_count": 299,
     "char_start": 1074,
@@ -8445,6 +9865,9 @@
     "raw_source_type": "reddit_thread",
     "title": "Where do you guys discover good AI hackathons/opportunities? : hackathon",
     "section_title": "Comment 8",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 2,
     "token_count": 265,
     "char_start": 2131,
@@ -8464,6 +9887,9 @@
     "raw_source_type": "reddit_thread",
     "title": "Where do you guys discover good AI hackathons/opportunities? : hackathon",
     "section_title": "Comment 12",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 3,
     "token_count": 276,
     "char_start": 3079,
@@ -8483,6 +9909,9 @@
     "raw_source_type": "reddit_thread",
     "title": "Where do you guys discover good AI hackathons/opportunities? : hackathon",
     "section_title": "Comment 13",
+    "block_types": [
+      "comment"
+    ],
     "chunk_position": 4,
     "token_count": 80,
     "char_start": 3996,
@@ -8502,6 +9931,10 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons: Formats, Examples and How to Choose",
     "section_title": "1. Design Hackathons",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 509,
     "char_start": 0,
@@ -8521,6 +9954,10 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons: Formats, Examples and How to Choose",
     "section_title": "Tools and Platforms Commonly Used in",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 549,
     "char_start": 2575,
@@ -8540,6 +9977,10 @@
     "raw_source_type": "web_page",
     "title": "Types of Hackathons: Formats, Examples and How to Choose",
     "section_title": "Conclusion",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 2,
     "token_count": 134,
     "char_start": 4927,
@@ -8559,6 +10000,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "🔎 What This Guide Covers",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 602,
     "char_start": 0,
@@ -8578,6 +10023,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "✨ What Sets It Apart",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 539,
     "char_start": 2912,
@@ -8597,6 +10046,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "🔗 Register/Join here :",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 2,
     "token_count": 524,
     "char_start": 5436,
@@ -8616,6 +10069,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "❄️ Complete AI Agent Hackathon (FEB)",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 3,
     "token_count": 684,
     "char_start": 7612,
@@ -8635,6 +10092,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "❄️ Mistral AI Worldwide Hackathon (FEB-MAR)",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 4,
     "token_count": 615,
     "char_start": 10184,
@@ -8654,6 +10115,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "❄️ Agents & Robotics HackXelerator (MAR-APR)",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 5,
     "token_count": 589,
     "char_start": 12667,
@@ -8673,6 +10138,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "How long do hackathons usually last?",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 6,
     "token_count": 591,
     "char_start": 15129,
@@ -8692,6 +10161,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "🎯 How to Choose the Right Hackathon for You",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 7,
     "token_count": 521,
     "char_start": 17932,
@@ -8711,6 +10184,10 @@
     "raw_source_type": "web_page",
     "title": "The Ultimate Guide to the Best, Free Hackathons in 2026 (Full Year)",
     "section_title": "⭐ Final Thoughts: Your Next Great Project Starts Here",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 8,
     "token_count": 372,
     "char_start": 20096,
@@ -8730,6 +10207,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "1. AI-Powered Mental Health Companion",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 0,
     "token_count": 573,
     "char_start": 0,
@@ -8749,6 +10230,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "5. Real-Time Anomaly Detection for Fraud Prevention",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 1,
     "token_count": 606,
     "char_start": 2723,
@@ -8768,6 +10253,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "8. Sign Language to Text/Voice Translator",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 2,
     "token_count": 508,
     "char_start": 5773,
@@ -8787,6 +10276,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "3. Multi-Device Fitness Tracking App",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 3,
     "token_count": 576,
     "char_start": 7971,
@@ -8806,6 +10299,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "7. Micro-Habit Gamification Platform",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 4,
     "token_count": 610,
     "char_start": 10829,
@@ -8825,6 +10322,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "3. Lightweight Vulnerability Assessment Tool",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 5,
     "token_count": 571,
     "char_start": 13692,
@@ -8844,6 +10345,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "7. Automated Penetration Testing Reporting Dashboard",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 6,
     "token_count": 542,
     "char_start": 16646,
@@ -8863,6 +10368,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "2. Supply Chain Verification Using Blockchain",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 7,
     "token_count": 511,
     "char_start": 19217,
@@ -8882,6 +10391,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "7. Tokenized Real Estate Fractional Ownership DApp",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 8,
     "token_count": 638,
     "char_start": 21755,
@@ -8901,6 +10414,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "3. Automated Drip Irrigation System",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 9,
     "token_count": 611,
     "char_start": 24795,
@@ -8920,6 +10437,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "2. Medicine Adherence and Reminder Application",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 10,
     "token_count": 554,
     "char_start": 27597,
@@ -8939,6 +10460,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "2. Carbon Footprint Tracker",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 11,
     "token_count": 599,
     "char_start": 30133,
@@ -8958,6 +10483,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "How to Choose the Right Hackathon Project Idea",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 12,
     "token_count": 646,
     "char_start": 33026,
@@ -8977,6 +10506,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "Conclusion",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 13,
     "token_count": 592,
     "char_start": 36113,
@@ -8996,6 +10529,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "5. Should I use pre-built templates or open-source libraries?",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 14,
     "token_count": 515,
     "char_start": 38925,
@@ -9015,6 +10552,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "11. How can I select the right domain or theme for a hackathon project?",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 15,
     "token_count": 570,
     "char_start": 41212,
@@ -9034,6 +10575,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "17. Which skills are honed during hackathons?",
+    "block_types": [
+      "paragraph",
+      "heading"
+    ],
     "chunk_position": 16,
     "token_count": 506,
     "char_start": 43918,
@@ -9053,6 +10598,10 @@
     "raw_source_type": "web_page",
     "title": "45+ Top Hackathon Project Ideas: Build, Innovate, & Win",
     "section_title": "20. How can I showcase scalability in hackathon projects?",
+    "block_types": [
+      "heading",
+      "paragraph"
+    ],
     "chunk_position": 17,
     "token_count": 268,
     "char_start": 46286,

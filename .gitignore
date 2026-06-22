@@ -16,6 +16,10 @@ env/
 chroma_db/
 chroma/
 
+# Generated embedding outputs
+processed/chunks.embeddings.json
+processed/chunks.modal-smoke-test*.json
+
 # Codex local planning/context
 .codex/
 show_what_you_know_unofficial_guide.md

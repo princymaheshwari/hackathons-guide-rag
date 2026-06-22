@@ -456,6 +456,7 @@ def make_chunk(
     token_count = count_tokens(text)
     section_titles = [block.section_title for block in blocks if block.section_title]
     section_title = section_titles[-1] if section_titles else None
+    block_types = list(dict.fromkeys(block.block_type for block in blocks))
     chunk_id = f"{document.path.stem}_{position + 1:04d}"
 
     return {
@@ -468,6 +469,7 @@ def make_chunk(
         "raw_source_type": document.metadata.get("source_type"),
         "title": document.title,
         "section_title": section_title,
+        "block_types": block_types,
         "chunk_position": position,
         "token_count": token_count,
         "char_start": min(block.char_start for block in blocks),
