@@ -65,15 +65,33 @@ Most source documents were collected into `documents/` using `scrape_url.py`, wh
 
 Chunks are produced by `build_chunks.py`, which reads cleaned Markdown files from `documents/` and writes an inspectable flat JSON file to `processed/chunks.json`. This step intentionally does not create embeddings or a ChromaDB collection yet; the goal of Milestone 3 is to make the chunk boundaries easy to inspect before vectorizing anything.
 
+I implemented the strategy in two stages. The first stage performs recursive structural chunking from Markdown headings, paragraphs, table rows, comment/detail records, and token limits. The second stage embeds those structural chunks and evaluates adjacent chunks from the same source for possible semantic merging.
+
 **Chunk size:** Target about 512 tokens per chunk, with a hard cap of 720 tokens.
 
 **Overlap:** About 15% of the target chunk size, or roughly 77 tokens, when adjacent chunks are part of the same section. The script skips overlap when it would push a chunk over the 720-token cap or when the next block is a natural unit such as a Reddit comment, table row, or hackathon detail.
 
 **Token measurement:** Token counts are calculated with the actual `Qwen/Qwen3-Embedding-0.6B` tokenizer loaded through `transformers`. This replaces approximate regex counting, so each `token_count` in `processed/chunks.json` and every chunk-size decision use the same tokenization that the embedding model processes. Oversized text windows are split using the same Qwen token IDs.
 
-**Why these choices fit your documents:** The corpus mixes long guides, Reddit/Hacker News discussions, row-based tables, and hackathon directory entries. The chunker respects Markdown headings, row/comment/detail blocks, paragraphs, and sentence boundaries before falling back to token windows for oversized text. This keeps complete reviews, comments, event cards, tags, and project examples together whenever possible while still keeping chunks small enough for retrieval.
+**Why these choices fit the documents:** The corpus mixes long guides, Reddit/Hacker News discussions, row-based tables, and hackathon directory entries. The chunker respects Markdown headings, row/comment/detail blocks, paragraphs, and sentence boundaries before falling back to token windows for oversized text. This keeps complete reviews, comments, event cards, tags, and project examples together whenever possible while still keeping chunks small enough for retrieval.
 
 **Preprocessing before chunking:** The source documents were cleaned before this step. The chunking script also performs light final normalization by parsing front matter into metadata, unescaping HTML entities, stripping remaining simple HTML tags, preserving nearest section titles, and carrying source metadata into every chunk.
+
+**Semantic merge stage:** I embedded all structural chunks with `Qwen/Qwen3-Embedding-0.6B` and compared cosine similarity between adjacent chunks within each source document. A pair can merge only when it exceeds `SEMANTIC_MERGE_THRESHOLD`, remains at or below 720 Qwen tokens after concatenation, and contains no hard-boundary record. Directory/detail entries, table rows, and comments remain atomic regardless of similarity so their structured meaning is not mixed with neighboring content.
+
+The embedding and semantic merge work runs through `embed_and_merge_modal.py` on a Modal T4 GPU with batched inference. My full run processed all 477 structural chunks in 114 seconds. The local entrypoint writes `processed/chunks.json` without vectors for Git and `processed/chunks.embeddings.json` with vectors for local ChromaDB storage.
+
+### Semantic Merge Evaluation
+
+I evaluated the initial `0.75` merge threshold against all 440 adjacent chunk pairs in the real corpus. Similarity scores ranged from `0.293844` to `0.980701`, with a mean of `0.646766` and a median of `0.647636`.
+
+Most pairs were excluded by structural safeguards before threshold comparison could produce a merge. Of the 440 adjacent pairs, 350 involved at least one hard-boundary directory/detail, table-row, or comment chunk, and 215 would have exceeded the 720-token maximum if combined. These categories overlap: 126 pairs failed both rules. Only one pair remained eligible under all structural and size rules, and its similarity score of `0.696593` did not exceed the initial `0.75` threshold.
+
+The single closest eligible pair to the threshold scored `0.696593`. It came from `documents/www-speedexam-net-types-of-hackathons-formats-examples-and-how-to-choose.md`, between chunks `_0002` and `_0003`. I manually reviewed this pair to determine whether the `0.75` threshold was too strict. The left chunk was a taxonomy of hackathon types, including Ideathons, Corporate Hackathons, Social Good Hackathons, Student Hackathons, Internal Hackathons, and Themed Hackathons. The right chunk shifted to preparation advice about setting realistic goals, using mentors, and choosing tools and platforms.
+
+I temporarily lowered the threshold to `0.68` and reran the merge comparison against the saved embeddings without recomputing them. Across all 440 adjacent pairs, this was the only additional pair that would have merged. Although the chunks shared hackathon-related vocabulary, they represented genuinely different subtopics. Combining them would have diluted retrieval: a query about hackathon types could also surface unrelated preparation advice, while a preparation query could retrieve the taxonomy list.
+
+I therefore restored `SEMANTIC_MERGE_THRESHOLD` to `0.75`. The near-miss score was driven by shared domain vocabulary rather than genuine topical continuity, confirming that `0.75` is appropriate for this corpus rather than overly conservative. No pairs merge at `0.75` in the final pipeline, and that is the correct outcome. Recursive structural chunking had already produced coherent, appropriately scoped chunks, leaving no beneficial consolidation opportunities for the semantic merge pass in this document set.
 
 **Final chunk count:** 477 chunks across 37 Markdown source documents.
 

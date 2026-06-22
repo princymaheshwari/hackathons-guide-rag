@@ -63,17 +63,25 @@ The build will ingest Markdown files from `documents/`. The corpus includes scra
 
 ## Chunking Strategy
 
+I implemented chunking as a two-stage process: recursive structural chunking first, followed by an embedding-based semantic merge pass. This preserves the source documents' natural Markdown organization before using vector similarity as a second check on adjacent boundaries.
+
+**Stage 1 - recursive/structural chunking:** `build_chunks.py` splits each cleaned Markdown document using headings, paragraph boundaries, table rows, comment blocks, detail records, sentences, and finally token windows for oversized text. It targets 512 tokens, enforces a 720-token maximum, and applies 15% overlap at section or length boundaries when the next block is not an atomic structured record.
+
 **Chunk size:** Target 512 tokens per chunk, with a working upper range of about 720 tokens for longer natural sections before splitting further.
 
 **Overlap:** 15% overlap, approximately 77 tokens when the chunk is near the 512-token target.
 
 **Token measurement:** All chunk sizes are measured with the tokenizer loaded from `Qwen/Qwen3-Embedding-0.6B`. Using the embedding model's actual tokenizer instead of a regex approximation ensures that the token counts written to `chunks.json` exactly match what the embedding model processes. Oversized text is also divided using Qwen token IDs, so the 720-token limit is enforced in the same token space.
 
+**Stage 2 - semantic merging:** After structural chunks are embedded with `Qwen/Qwen3-Embedding-0.6B`, I compare cosine similarity for adjacent chunks within each source document. A pair can merge only when its similarity exceeds `SEMANTIC_MERGE_THRESHOLD` and its combined text remains within 720 Qwen tokens. Directory/detail entries, table rows, and Reddit or Hacker News comments are hard-boundary records and never merge regardless of similarity. Keeping these records atomic prevents a clean event, row, or comment from being diluted with a neighboring record or unrelated prose.
+
+The model inference and semantic merge computation run in batches on a Modal T4 GPU through `embed_and_merge_modal.py`. The local entrypoint reads the structural JSON, sends the chunks to the GPU function, receives the merged chunks and embeddings, then writes a clean `processed/chunks.json` for Git and a local-only `processed/chunks.embeddings.json` for ChromaDB. The full 477-chunk inference run completed in 114 seconds. This keeps expensive model inference off the CPU while preserving local control of the source files and vector database.
+
 **Reasoning:**
 
 The corpus is mostly paragraph-based long-form Markdown: blog posts, Devpost help pages, MLH articles, project guides, and Hacker News/Reddit discussions. A 512-token target is large enough to hold one complete paragraph group or one compact section with its heading, but small enough to avoid mixing unrelated ideas such as event discovery, team formation, judging, and travel reimbursement into the same vector. For longer natural sections, allowing up to about 720 tokens avoids cutting a coherent section too aggressively.
 
-The chunker should be recursive first and semantic second. It should respect Markdown structure before falling back to smaller units: front matter, headings, subheadings, table rows, Reddit comment blocks, paragraphs, then sentences. After that structure-aware split, it should group nearby related paragraphs or row blocks into chunks close to the 512-token target. This matters because some sources are long guides with sections, while others are row-based tables or short community comments.
+The chunker is recursive first and semantic second. It respects Markdown structure before falling back to smaller units: front matter, headings, subheadings, table rows, Reddit comment blocks, paragraphs, then sentences. After that structure-aware split, it groups nearby related paragraphs or row blocks into chunks close to the 512-token target. This matters because some sources are long guides with sections, while others are row-based tables or short community comments.
 
 The 15% overlap protects against the boundary failure where a heading appears in one chunk and the answer appears in the next, or where a Reddit comment's context is split from the advice. Too little overlap would produce orphaned chunks that mention "this event" or "this strategy" without enough context. Too much overlap would create duplicate retrieval results and waste context window space.
 
@@ -91,13 +99,15 @@ For tabular Markdown, each table row should be treated as a natural unit wheneve
 
 I will know chunks are too small if retrieval returns fragments without enough context to answer, such as a tag list with no event name or advice without the problem it responds to. I will know chunks are too large if one retrieved chunk contains several unrelated topics and the generated answer cites a source that only partially supports the claim.
 
+I tested the semantic stage against the complete corpus rather than assuming that similarity-based merging would necessarily reduce the chunk count. The initial `0.75` threshold produced no merges because the structural stage had already created coherent chunks and nearly every adjacent pair was either atomic or too large to combine. The measured corpus-level findings are documented in README.md. A read-only follow-up at `0.68` identified one predicted merge with similarity `0.696593` and a combined length of 683 tokens. I have not allowed that result to rewrite either chunk file pending manual review.
+
 ---
 
 ## Retrieval Approach
 
 **Embedding model:** `Qwen/Qwen3-Embedding-0.6B` through `SentenceTransformer()` from `sentence-transformers==5.6.0`.
 
-This deliberately differs from the course-recommended `all-MiniLM-L6-v2`. Qwen3-Embedding-0.6B is heavier than MiniLM, so the first download and CPU inference will be slower, but it is still local and does not require an API key. The 0.6B variant is the right size choice for this project; the 4B and 8B variants are too large for a CPU-only student environment. The model is Apache-2.0 licensed and ungated, so `.env.example` does not need a Hugging Face token for this model.
+This deliberately differs from the course-recommended `all-MiniLM-L6-v2`. Qwen3-Embedding-0.6B is heavier than MiniLM and was impractically slow on my CPU, so document embedding and semantic merging run on a temporary Modal T4 GPU instead. This is still direct model inference rather than a hosted embedding API, and it does not require a model-provider API key. The 0.6B variant is the right size choice for this project; the 4B and 8B variants would use more GPU memory without being necessary for this corpus. The model is Apache-2.0 licensed and ungated, so `.env.example` does not need a Hugging Face token.
 
 The code should import `SentenceTransformer` directly and instantiate:
 
@@ -153,9 +163,9 @@ These questions are specific enough to grade. Each expected answer includes fact
 
 ```mermaid
 flowchart TD
-    A["Document Ingestion<br/>Markdown files from documents/<br/>scrape_web/scrape_url outputs from Reddit, MLH, Devpost, blogs, directories, tables"] --> B["Chunking<br/>Recursive + Semantic Chunker<br/>Qwen3-Embedding-0.6B tokenizer<br/>512-720 tokens, 15% overlap<br/>Preserve headings, rows, comments, metadata"]
-    B --> C["Embedding<br/>SentenceTransformers<br/>Qwen/Qwen3-Embedding-0.6B"]
-    C --> D["Vector Store<br/>ChromaDB local persistent collection<br/>chunk text + embedding + metadata"]
+    A["Document Ingestion<br/>Markdown files from documents/<br/>scrape_web/scrape_url outputs from Reddit, MLH, Devpost, blogs, directories, tables"] --> B["Structural Chunking<br/>Qwen3 tokenizer<br/>512-720 tokens, 15% overlap<br/>Preserve headings, rows, comments, metadata"]
+    B --> C["Embedding + Semantic Merge<br/>Modal T4 GPU<br/>SentenceTransformers + Qwen3-Embedding-0.6B<br/>adjacent cosine similarity + hard boundaries"]
+    C --> D["Local Outputs + Vector Store<br/>clean chunks.json for Git<br/>local-only chunks.embeddings.json<br/>ChromaDB persistent collection"]
     D --> E["Retrieval<br/>Top-k=5 semantic search<br/>return chunks, metadata, distance scores"]
     E --> F["Generation<br/>Groq llama-3.3-70b-versatile<br/>grounded answer with citations<br/>decline when context is insufficient"]
 ```

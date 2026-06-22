@@ -356,4 +356,3 @@ def main(
     safe_print(f"Clean chunks written locally to: {clean_destination}")
     safe_print(f"Chunks with embeddings written locally to: {embeddings_destination}")
     print_merge_examples(result["merge_examples"])
-
