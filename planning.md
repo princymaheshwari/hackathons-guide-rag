@@ -77,6 +77,8 @@ I implemented chunking as a two-stage process: recursive structural chunking fir
 
 **Stage 1 - recursive/structural chunking:** `build_chunks.py` splits each cleaned Markdown document using headings, paragraph boundaries, table rows, comment blocks, detail records, sentences, and finally token windows for oversized text. It targets 512 tokens, enforces a 720-token maximum, and applies 15% overlap at section or length boundaries when the next block is not an atomic structured record.
 
+Before structural chunking, `clean_rendered_document.py` normalizes the large Playwright-rendered MLH collection. It removes image-only markup, converts leaked raw HTML fragments into readable Markdown, removes punctuation/template artifacts, and deduplicates exact responsive copies within each linked website. Event metadata, meaningful text links, FAQ questions and answers, schedules, prizes, project descriptions, and source boundaries remain intact.
+
 **Chunk size:** Target 512 tokens per chunk, with a working upper range of about 720 tokens for longer natural sections before splitting further.
 
 **Overlap:** 15% overlap, approximately 77 tokens when the chunk is near the 512-token target.

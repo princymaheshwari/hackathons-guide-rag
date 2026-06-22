@@ -123,7 +123,15 @@ Modal authentication is already persistent after the first setup. On a new machi
 modal setup
 ```
 
-### 2. Remove stale generated outputs
+### 2. Clean rendered source artifacts
+
+```powershell
+python clean_rendered_document.py documents/mlh_2026_event_details_with_faq.md
+```
+
+This idempotent pass removes image-only markup, converts raw HTML fragments into readable Markdown, strips punctuation/template noise, and deduplicates exact responsive copies within each linked event website while preserving event cards, useful links, FAQ answers, schedules, prizes, and project descriptions.
+
+### 3. Remove stale generated outputs
 
 ```powershell
 Remove-Item -LiteralPath "processed\chunks.json" -Force -ErrorAction SilentlyContinue
@@ -133,7 +141,7 @@ Remove-Item -Path "processed\chunks.modal-smoke-test*.json" -Force -ErrorAction 
 if (Test-Path -LiteralPath "chroma_db") { Remove-Item -LiteralPath "chroma_db" -Recurse -Force }
 ```
 
-### 3. Build and inspect structural chunks
+### 4. Build and inspect structural chunks
 
 ```powershell
 python build_chunks.py --documents-dir documents --output processed/chunks.json --print-samples 5
@@ -141,7 +149,7 @@ python build_chunks.py --documents-dir documents --output processed/chunks.json 
 
 This prints the total chunk count, minimum/average/maximum Qwen token counts, `over_max`, and five sample chunks. Confirm all 47 documents produced chunks before continuing.
 
-### 4. Embed and semantically merge on Modal
+### 5. Embed and semantically merge on Modal
 
 ```powershell
 modal run embed_and_merge_modal.py
@@ -149,7 +157,7 @@ modal run embed_and_merge_modal.py
 
 This performs the full run, overwrites `processed/chunks.json` with the clean post-merge chunks, and writes the ignored `processed/chunks.embeddings.json` containing the vectors.
 
-### 5. Rebuild the local cosine Chroma collection
+### 6. Rebuild the local cosine Chroma collection
 
 ```powershell
 python store_in_chroma.py
@@ -157,7 +165,7 @@ python store_in_chroma.py
 
 The script recreates `hackathon_guide`, stores text plus metadata and precomputed embeddings, and verifies that `collection.count()` matches the embedded chunk file.
 
-### 6. Run retrieval evaluation
+### 7. Run retrieval evaluation
 
 ```powershell
 python evaluate_retrieval.py

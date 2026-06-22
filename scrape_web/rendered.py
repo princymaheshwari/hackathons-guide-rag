@@ -10,7 +10,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit, urlunsplit
 
-from bs4 import BeautifulSoup, NavigableString, Tag
+from bs4 import BeautifulSoup, Comment, NavigableString, Tag
 from playwright.async_api import (
     Browser,
     Page,
@@ -117,6 +117,8 @@ def normalize_visible_text(text: str) -> str:
 
 
 def _inline_markdown(node: object, base_url: str) -> str:
+    if isinstance(node, Comment):
+        return ""
     if isinstance(node, NavigableString):
         text = str(node)
         if re.fullmatch(
@@ -133,8 +135,7 @@ def _inline_markdown(node: object, base_url: str) -> str:
     if name == "br":
         return "\n"
     if name == "img":
-        alt = clean_inline_text(str(node.get("alt") or ""))
-        return f"[Image: {alt}]" if alt else ""
+        return ""
 
     content = "".join(_inline_markdown(child, base_url) for child in node.children)
     content = re.sub(r"[ \t]+", " ", content)

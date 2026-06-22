@@ -318,10 +318,11 @@ format, region, classifications, and destination URL. Each unique linked site
 is rendered once, even if multiple cards point to it, and its natural document
 structure and links are retained. Before extraction, visible native details,
 FAQ cards, and accordion controls are expanded so both questions and answers
-are saved. Registration, login, filters, and unrelated navigation controls are
-not clicked. If an external site is unavailable or shows a bot challenge, its
-card metadata and failure status are saved while the scraper continues with the
-remaining sites.
+are saved. Image-only DOM elements are omitted because they add visual URLs and
+alt-text noise without useful RAG context. Registration, login, filters, and
+unrelated navigation controls are not clicked. If an external site is
+unavailable or shows a bot challenge, its card metadata and failure status are
+saved while the scraper continues with the remaining sites.
 
 The full MLH run can visit hundreds of independent websites. Use
 `--js-workers 4` (the default) to limit concurrent browser tabs, or lower it if

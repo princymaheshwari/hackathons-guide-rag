@@ -13,7 +13,6 @@ detail_pages_failed: "27"
 expanded_faq_controls: "1024"
 scroll_iterations: "4"
 ---
-
 # 2026 Season Schedule // Major League Hacking - rendered event websites
 
 ## Upcoming Events
@@ -180,7 +179,7 @@ scroll_iterations: "4"
 - Mode: IN-PERSON
 - Event link: [Open event page](https://hackdavis.io/)
 
-### Card 17: NMIT Hacks 
+### Card 17: NMIT Hacks
 - Date: MAY 08 - 10
 - Starts (UTC): 2026-05-08T18:00:00Z
 - Ends (UTC): 2026-05-10T22:30:00Z
@@ -210,7 +209,7 @@ scroll_iterations: "4"
 - Mode: IN-PERSON
 - Event link: [Open event page](https://conhacks.io)
 
-### Card 20: Hack Arizona 
+### Card 20: Hack Arizona
 - Date: APR 25 - 26
 - Starts (UTC): 2026-04-25T13:00:00Z
 - Ends (UTC): 2026-04-26T19:00:00Z
@@ -502,7 +501,7 @@ scroll_iterations: "4"
 - Mode: IN-PERSON
 - Event link: [Open event page](https://jachacks.pages.dev/)
 
-### Card 49: HackSMU VII 
+### Card 49: HackSMU VII
 - Date: APR 11 - 12
 - Starts (UTC): 2026-04-11T13:00:00Z
 - Ends (UTC): 2026-04-12T22:00:00Z
@@ -641,11 +640,11 @@ scroll_iterations: "4"
 - Mode: IN-PERSON
 - Event link: [Open event page](https://hackpsu.org/)
 
-### Card 63: AthenaHacks 
+### Card 63: AthenaHacks
 - Date: MAR 28 - 29
 - Starts (UTC): 2026-03-28T15:00:00Z
 - Ends (UTC): 2026-03-29T22:00:00Z
-- Location: Los Angeles , California 
+- Location: Los Angeles , California
 - Region: AMER
 - Status: ended
 - Mode: IN-PERSON
@@ -889,7 +888,7 @@ scroll_iterations: "4"
 - Date: MAR 07 - 08
 - Starts (UTC): 2026-03-07T12:00:00Z
 - Ends (UTC): 2026-03-08T20:30:00Z
-- Location:  Richardson, Texas
+- Location: Richardson, Texas
 - Region: AMER
 - Status: ended
 - Mode: IN-PERSON
@@ -1049,7 +1048,7 @@ scroll_iterations: "4"
 - Date: FEB 21 - 22
 - Starts (UTC): 2026-02-21T15:00:00Z
 - Ends (UTC): 2026-02-22T22:00:00Z
-- Location:  New Brunswick, New Jersey 
+- Location: New Brunswick, New Jersey
 - Region: AMER
 - Status: ended
 - Mode: IN-PERSON
@@ -1077,7 +1076,7 @@ scroll_iterations: "4"
 - Mode: IN-PERSON
 - Event link: [Open event page](https://hl26.kcltech.co.uk)
 
-### Card 106: Hack@URI 
+### Card 106: Hack@URI
 - Date: FEB 21 - 22
 - Starts (UTC): 2026-02-21T14:00:00Z
 - Ends (UTC): 2026-02-22T22:00:00Z
@@ -1541,7 +1540,7 @@ scroll_iterations: "4"
 - Date: JAN 23 - 25
 - Starts (UTC): 2026-01-23T01:11:11Z
 - Ends (UTC): 2026-01-25T15:00:00Z
-- Location: Houston, TX 
+- Location: Houston, TX
 - Region: AMER
 - Status: ended
 - Mode: IN-PERSON
@@ -1644,7 +1643,7 @@ scroll_iterations: "4"
 - Date: JAN 10 - 11
 - Starts (UTC): 2026-01-10T13:00:00Z
 - Ends (UTC): 2026-01-11T23:00:00Z
-- Location: Hamilton, Ontario 
+- Location: Hamilton, Ontario
 - Region: AMER
 - Status: ended
 - Mode: IN-PERSON
@@ -1841,7 +1840,7 @@ scroll_iterations: "4"
 - Mode: IN-PERSON
 - Event link: [Open event page](https://www.emoryhacks.com/)
 
-### Card 181: UniHack 
+### Card 181: UniHack
 - Date: NOV 14 - 16
 - Starts (UTC): 2025-11-14T12:00:00Z
 - Ends (UTC): 2025-11-16T20:00:00Z
@@ -1975,7 +1974,7 @@ scroll_iterations: "4"
 - Date: NOV 07 - 09
 - Starts (UTC): 2025-11-07T21:00:00Z
 - Ends (UTC): 2025-11-09T23:59:59Z
-- Location: Miami, FL 
+- Location: Miami, FL
 - Region: AMER
 - Status: ended
 - Mode: IN-PERSON
@@ -2014,7 +2013,7 @@ scroll_iterations: "4"
 - Date: NOV 06 - 08
 - Starts (UTC): 2025-11-06T14:30:00Z
 - Ends (UTC): 2025-11-08T19:00:00Z
-- Location: CDMX, Iztapalapa 
+- Location: CDMX, Iztapalapa
 - Region: AMER
 - Status: ended
 - Mode: IN-PERSON
@@ -2117,7 +2116,7 @@ scroll_iterations: "4"
 - Date: OCT 24 - 26
 - Starts (UTC): 2025-10-24T22:00:00Z
 - Ends (UTC): 2025-10-26T00:00:00Z
-- Location: Orlando, Florida 
+- Location: Orlando, Florida
 - Region: AMER
 - Status: ended
 - Mode: IN-PERSON
@@ -2638,23 +2637,11 @@ Major League Hacking
 - Final URL: [https://hackthe6ix.com/](https://hackthe6ix.com/)
 - Expanded FAQ/accordion controls: 7
 
-[[Image: ht6 icon]](https://hackthe6ix.com/#hero)
-
 [About](https://hackthe6ix.com/#about) [Sponsors](https://hackthe6ix.com/#sponsors) [Projects](https://hackthe6ix.com/#projects) [FAQ](https://hackthe6ix.com/#faq) Contact Us
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=blue)
-
-[Image: Falling Radish]
-
-[Image: radish hide]
 
 July 17-19, 2026
 
-⋅
-
 Toronto
-
-⋅
 
 In‑Person
 
@@ -2700,31 +2687,25 @@ Each year, our sponsors unite thousands of emerging developers, designers, and b
 
 Become a Sponsor
 
-[Image: Purple Hills] [Image: Big Grass]
-
-[Image: cute candle]
-
 Our Sponsors Thank you to our sponsors for making Hack the 6ix possible!
 
-[[Image: Base44]](https://www.base44.com)
+[Base44](https://www.base44.com)
 
-[[Image: Bruce Power]](https://www.brucepower.com) [[Image: QNX]](https://blackberry.qnx.com)
+[Bruce Power](https://www.brucepower.com) [QNX](https://blackberry.qnx.com)
 
-[[Image: Chexy]](https://www.chexy.com)
+[Chexy](https://www.chexy.com)
 
-[[Image: Shopify]](https://www.shopify.com)
+[Shopify](https://www.shopify.com)
 
-[[Image: Poparide]](https://www.poparide.com/)
+[Poparide](https://www.poparide.com/)
 
-[[Image: Backboard.io]](https://backboard.io)
+[Backboard.io](https://backboard.io)
 
-[[Image: ElevenLabs]](https://elevenlabs.io)
+[ElevenLabs](https://elevenlabs.io)
 
-[[Image: FDM]](https://www.fdmgroup.com)
+[FDM](https://www.fdmgroup.com)
 
-[[Image: Warp]](https://www.warp.dev)
-
-[Image: Door and glow background]
+[Warp](https://www.warp.dev)
 
 Explore previous projects At our last hackathon, teams showcased their creativity and ingenuity to bring outstanding projects to life. Unlock the impossible and leave your mark—be the next team to create a groundbreaking innovation and build your legacy.
 
@@ -2732,21 +2713,19 @@ TurretGuard 1ST PLACE
 
 "TurretGuard is an Al-powered turret that detects drowning in real time and launches an inflatable buoy using physics-based targeting, saving lives in seconds where lifeguards may be too late." - the TurretGuard team
 
-[[Image: Turret]](https://devpost.com/software/turretguard)
+[Turret](https://devpost.com/software/turretguard)
 
 IntelliDrive 2nd PLACE
 
 “Control hardware with an LLM through natural language. All autonomous - no CV or pre-processing” — the IntelliDrive team
 
-[[Image: IntelliDrive]](https://devpost.com/software/intelli-drive)
+[IntelliDrive](https://devpost.com/software/intelli-drive)
 
 hermes 3rd PLACE
 
 “your generalist phone calling agent, never waste time on the phone ever again, book reservations, haircuts, find out information and more all with one prompt” — the hermes team
 
-[[Image: hermes]](https://devpost.com/software/hermes-vfeob3)
-
-[Image: pathway]
+[hermes](https://devpost.com/software/hermes-vfeob3)
 
 FAQ
 
@@ -2782,707 +2761,181 @@ Teams can have between 1–4 members. You're welcome to apply with an existing t
 
 Still Have Questions? Stir your message into our teacup and we’ll pour out a reply as soon as we can. You can reach out to us at
 
-[Image: eclair and teacup]
-
 hello@hackthe6ix.com
-
-[Image: lamp]
-
-[Image: cat] [Image: paw]
 
 ##### Meet The Team!
 
 Winston Yu Co-chair
 
-[[Image: Winston Yu - Co-chair][Image: bunny]](https://www.linkedin.com/in/winstonyou/)
+[Winston Yu - Co-chair](https://www.linkedin.com/in/winstonyou/)
 
 Kelvin Nguyen Co-chair
 
-[[Image: Kelvin Nguyen - Co-chair][Image: bunny]](https://www.linkedin.com/in/nguyen-kelvin/)
+[Kelvin Nguyen - Co-chair](https://www.linkedin.com/in/nguyen-kelvin/)
 
 Frederic Pu Mentor/Advisor/House Plant
 
-[[Image: Frederic Pu - Mentor/Advisor/House Plant][Image: bunny]](https://www.linkedin.com/in/fpunny/)
+[Frederic Pu - Mentor/Advisor/House Plant](https://www.linkedin.com/in/fpunny/)
 
 Andy Suri Operations Exec
 
-[[Image: Andy Suri - Operations Exec][Image: bunny]](https://www.linkedin.com/in/andy-suri-645bb531a/)
+[Andy Suri - Operations Exec](https://www.linkedin.com/in/andy-suri-645bb531a/)
 
 Halle Chan Design Exec
 
-[[Image: Halle Chan - Design Exec][Image: bunny]](https://www.linkedin.com/in/hallechan/)
+[Halle Chan - Design Exec](https://www.linkedin.com/in/hallechan/)
 
 Muskaan Opel Operations Director
 
-[[Image: Muskaan Opel - Operations Director][Image: bunny]](https://www.linkedin.com/in/muskaan-opel/)
+[Muskaan Opel - Operations Director](https://www.linkedin.com/in/muskaan-opel/)
 
 Sasha Boruk Web Dev Exec
 
-[[Image: Sasha Boruk - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/sashaboruk/)
+[Sasha Boruk - Web Dev Exec](https://www.linkedin.com/in/sashaboruk/)
 
 Ferdinand Zhang Web Dev Exec
 
-[[Image: Ferdinand Zhang - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/ferdinand-simmons-zhang-39ba62297/)
+[Ferdinand Zhang - Web Dev Exec](https://www.linkedin.com/in/ferdinand-simmons-zhang-39ba62297/)
 
 Dawoud Opel Design Exec
 
-[Image: Dawoud Opel - Design Exec][Image: bunny]
-
 Lucas Jin BD Exec
 
-[[Image: Lucas Jin - BD Exec][Image: bunny]](https://www.linkedin.com/in/lucas--jin/)
+[Lucas Jin - BD Exec](https://www.linkedin.com/in/lucas--jin/)
 
 Maira Opel BD Director
 
-[[Image: Maira Opel - BD Director][Image: bunny]](https://www.linkedin.com/in/maira-opel-a8a072296/)
+[Maira Opel - BD Director](https://www.linkedin.com/in/maira-opel-a8a072296/)
 
 Jeffrey Zang BOD
 
-[[Image: Jeffrey Zang - BOD][Image: bunny]](https://www.linkedin.com/in/jeffreyzang/)
+[Jeffrey Zang - BOD](https://www.linkedin.com/in/jeffreyzang/)
 
 Antoinette Erin Manalo Design Director
 
-[[Image: Antoinette Erin Manalo - Design Director][Image: bunny]](https://www.linkedin.com/in/erin-manalo/)
+[Antoinette Erin Manalo - Design Director](https://www.linkedin.com/in/erin-manalo/)
 
 David Hui Mentor/Advisor/Board
 
-[[Image: David Hui - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/d1h/)
+[David Hui - Mentor/Advisor/Board](https://www.linkedin.com/in/d1h/)
 
 Jacklyn Biggin Mentor/Advisor
 
-[[Image: Jacklyn Biggin - Mentor/Advisor][Image: bunny]](https://www.linkedin.com/in/jacklynbiggin/)
+[Jacklyn Biggin - Mentor/Advisor](https://www.linkedin.com/in/jacklynbiggin/)
 
 Sunni Xue BD Exec
 
-[[Image: Sunni Xue - BD Exec][Image: bunny]](https://www.linkedin.com/in/sunni-xue/)
+[Sunni Xue - BD Exec](https://www.linkedin.com/in/sunni-xue/)
 
 Yanzi Guo Mentor/Advisor/Board
 
-[[Image: Yanzi Guo - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/yanzig/)
+[Yanzi Guo - Mentor/Advisor/Board](https://www.linkedin.com/in/yanzig/)
 
 Lindsay Xie Web Dev Director
 
-[[Image: Lindsay Xie - Web Dev Director][Image: bunny]](https://www.linkedin.com/in/lindsayxie/)
+[Lindsay Xie - Web Dev Director](https://www.linkedin.com/in/lindsayxie/)
 
 Kaiser Tam Operations Director
 
-[[Image: Kaiser Tam - Operations Director][Image: bunny]](https://www.linkedin.com/in/kaisertam/)
+[Kaiser Tam - Operations Director](https://www.linkedin.com/in/kaisertam/)
 
 Daniel Ganjali Operations Exec
 
-[[Image: Daniel Ganjali - Operations Exec][Image: bunny]](https://www.linkedin.com/in/daniel-ganjali-792bab30a/)
+[Daniel Ganjali - Operations Exec](https://www.linkedin.com/in/daniel-ganjali-792bab30a/)
 
 James Liang Finance Director
 
-[[Image: James Liang - Finance Director][Image: bunny]](https://www.linkedin.com/in/james-liang-/)
+[James Liang - Finance Director](https://www.linkedin.com/in/james-liang-/)
 
 Justin Rui BD Exec
 
-[[Image: Justin Rui - BD Exec][Image: bunny]](https://www.linkedin.com/in/justin-rui-801375355/)
+[Justin Rui - BD Exec](https://www.linkedin.com/in/justin-rui-801375355/)
 
 Kim Guo Design Director
 
-[[Image: Kim Guo - Design Director][Image: bunny]](https://www.linkedin.com/in/kbrqin/)
+[Kim Guo - Design Director](https://www.linkedin.com/in/kbrqin/)
 
 Annika Xu Design Exec
 
-[[Image: Annika Xu - Design Exec][Image: bunny]](https://www.linkedin.com/in/annika-h-xu/)
+[Annika Xu - Design Exec](https://www.linkedin.com/in/annika-h-xu/)
 
 Jessica Lu Design Exec
 
-[[Image: Jessica Lu - Design Exec][Image: bunny]](https://www.linkedin.com/in/jessica-lu-677672351/)
+[Jessica Lu - Design Exec](https://www.linkedin.com/in/jessica-lu-677672351/)
 
 Emerson Ni Marketing Exec
 
-[[Image: Emerson Ni - Marketing Exec][Image: bunny]](https://www.linkedin.com/in/emerson-ni/)
+[Emerson Ni - Marketing Exec](https://www.linkedin.com/in/emerson-ni/)
 
 Vienna Zhao Operations Exec
 
-[[Image: Vienna Zhao - Operations Exec][Image: bunny]](https://www.linkedin.com/in/vienna-zhao-207b402b5/)
+[Vienna Zhao - Operations Exec](https://www.linkedin.com/in/vienna-zhao-207b402b5/)
 
 Karen Wang BD Exec
 
-[[Image: Karen Wang - BD Exec][Image: bunny]](https://www.linkedin.com/in/karen-wang-12b471227/)
+[Karen Wang - BD Exec](https://www.linkedin.com/in/karen-wang-12b471227/)
 
 Ansh Singh Marketing Director
 
-[[Image: Ansh Singh - Marketing Director][Image: bunny]](https://www.linkedin.com/in/anshsinghh/)
+[Ansh Singh - Marketing Director](https://www.linkedin.com/in/anshsinghh/)
 
 Austin Jian Web Dev Exec
 
-[[Image: Austin Jian - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/austin-jian/)
+[Austin Jian - Web Dev Exec](https://www.linkedin.com/in/austin-jian/)
 
 Jason Der Web Dev Exec
 
-[[Image: Jason Der - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/jason-der/)
+[Jason Der - Web Dev Exec](https://www.linkedin.com/in/jason-der/)
 
 Sharisse Ji Web Dev Exec
 
-[[Image: Sharisse Ji - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/sharisseji/)
+[Sharisse Ji - Web Dev Exec](https://www.linkedin.com/in/sharisseji/)
 
 Mahek Patel BD Exec
 
-[[Image: Mahek Patel - BD Exec][Image: bunny]](https://www.linkedin.com/in/mahekp/)
+[Mahek Patel - BD Exec](https://www.linkedin.com/in/mahekp/)
 
 Dorothy Zheng Relationships Director
 
-[[Image: Dorothy Zheng - Relationships Director][Image: bunny]](https://www.linkedin.com/in/dorothy-zheng07/)
+[Dorothy Zheng - Relationships Director](https://www.linkedin.com/in/dorothy-zheng07/)
 
 Daniel Ye Operations Exec
 
-[[Image: Daniel Ye - Operations Exec][Image: bunny]](https://www.linkedin.com/in/daniel-ye-b5954b215/)
+[Daniel Ye - Operations Exec](https://www.linkedin.com/in/daniel-ye-b5954b215/)
 
 Parsa Finance Exec
 
-[[Image: Parsa - Finance Exec][Image: bunny]](https://www.linkedin.com/in/parsameshkini/)
+[Parsa - Finance Exec](https://www.linkedin.com/in/parsameshkini/)
 
 Gordon Lin Mentor/Advisor/Board
 
-[[Image: Gordon Lin - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/gordon-lin/)
+[Gordon Lin - Mentor/Advisor/Board](https://www.linkedin.com/in/gordon-lin/)
 
 Justin Xue Web Dev Exec
 
-[[Image: Justin Xue - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/justin-xue5/)
+[Justin Xue - Web Dev Exec](https://www.linkedin.com/in/justin-xue5/)
 
 Daniel Pu Web dev director
 
-[[Image: Daniel Pu - Web dev director][Image: bunny]](https://www.linkedin.com/in/dtpu/)
+[Daniel Pu - Web dev director](https://www.linkedin.com/in/dtpu/)
 
 Michael Zhang Operations Exec
 
-[[Image: Michael Zhang - Operations Exec][Image: bunny]](https://www.linkedin.com/in/fangjing-michael-zhang/)
+[Michael Zhang - Operations Exec](https://www.linkedin.com/in/fangjing-michael-zhang/)
 
 Shaoming Wu BD Exec
 
-[[Image: Shaoming Wu - BD Exec][Image: bunny]](https://www.linkedin.com/in/shaoming-wu/)
+[Shaoming Wu - BD Exec](https://www.linkedin.com/in/shaoming-wu/)
 
 Vickie Chen Relationships Exec
 
-[[Image: Vickie Chen - Relationships Exec][Image: bunny]](https://www.linkedin.com/in/vickiecchen/)
+[Vickie Chen - Relationships Exec](https://www.linkedin.com/in/vickiecchen/)
 
 Elrich Chen BD Exec
 
-[[Image: Elrich Chen - BD Exec][Image: bunny]](https://www.linkedin.com/in/elrich-chen/)
-
-Winston Yu Co-chair
-
-[[Image: Winston Yu - Co-chair][Image: bunny]](https://www.linkedin.com/in/winstonyou/)
-
-Kelvin Nguyen Co-chair
-
-[[Image: Kelvin Nguyen - Co-chair][Image: bunny]](https://www.linkedin.com/in/nguyen-kelvin/)
-
-Frederic Pu Mentor/Advisor/House Plant
-
-[[Image: Frederic Pu - Mentor/Advisor/House Plant][Image: bunny]](https://www.linkedin.com/in/fpunny/)
-
-Andy Suri Operations Exec
-
-[[Image: Andy Suri - Operations Exec][Image: bunny]](https://www.linkedin.com/in/andy-suri-645bb531a/)
-
-Halle Chan Design Exec
-
-[[Image: Halle Chan - Design Exec][Image: bunny]](https://www.linkedin.com/in/hallechan/)
-
-Muskaan Opel Operations Director
-
-[[Image: Muskaan Opel - Operations Director][Image: bunny]](https://www.linkedin.com/in/muskaan-opel/)
-
-Sasha Boruk Web Dev Exec
-
-[[Image: Sasha Boruk - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/sashaboruk/)
-
-Ferdinand Zhang Web Dev Exec
-
-[[Image: Ferdinand Zhang - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/ferdinand-simmons-zhang-39ba62297/)
-
-Dawoud Opel Design Exec
-
-[Image: Dawoud Opel - Design Exec][Image: bunny]
-
-Lucas Jin BD Exec
-
-[[Image: Lucas Jin - BD Exec][Image: bunny]](https://www.linkedin.com/in/lucas--jin/)
-
-Maira Opel BD Director
-
-[[Image: Maira Opel - BD Director][Image: bunny]](https://www.linkedin.com/in/maira-opel-a8a072296/)
-
-Jeffrey Zang BOD
-
-[[Image: Jeffrey Zang - BOD][Image: bunny]](https://www.linkedin.com/in/jeffreyzang/)
-
-Antoinette Erin Manalo Design Director
-
-[[Image: Antoinette Erin Manalo - Design Director][Image: bunny]](https://www.linkedin.com/in/erin-manalo/)
-
-David Hui Mentor/Advisor/Board
-
-[[Image: David Hui - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/d1h/)
-
-Jacklyn Biggin Mentor/Advisor
-
-[[Image: Jacklyn Biggin - Mentor/Advisor][Image: bunny]](https://www.linkedin.com/in/jacklynbiggin/)
-
-Sunni Xue BD Exec
-
-[[Image: Sunni Xue - BD Exec][Image: bunny]](https://www.linkedin.com/in/sunni-xue/)
-
-Yanzi Guo Mentor/Advisor/Board
-
-[[Image: Yanzi Guo - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/yanzig/)
-
-Lindsay Xie Web Dev Director
-
-[[Image: Lindsay Xie - Web Dev Director][Image: bunny]](https://www.linkedin.com/in/lindsayxie/)
-
-Kaiser Tam Operations Director
-
-[[Image: Kaiser Tam - Operations Director][Image: bunny]](https://www.linkedin.com/in/kaisertam/)
-
-Daniel Ganjali Operations Exec
-
-[[Image: Daniel Ganjali - Operations Exec][Image: bunny]](https://www.linkedin.com/in/daniel-ganjali-792bab30a/)
-
-James Liang Finance Director
-
-[[Image: James Liang - Finance Director][Image: bunny]](https://www.linkedin.com/in/james-liang-/)
-
-Justin Rui BD Exec
-
-[[Image: Justin Rui - BD Exec][Image: bunny]](https://www.linkedin.com/in/justin-rui-801375355/)
-
-Kim Guo Design Director
-
-[[Image: Kim Guo - Design Director][Image: bunny]](https://www.linkedin.com/in/kbrqin/)
-
-Annika Xu Design Exec
-
-[[Image: Annika Xu - Design Exec][Image: bunny]](https://www.linkedin.com/in/annika-h-xu/)
-
-Jessica Lu Design Exec
-
-[[Image: Jessica Lu - Design Exec][Image: bunny]](https://www.linkedin.com/in/jessica-lu-677672351/)
-
-Emerson Ni Marketing Exec
-
-[[Image: Emerson Ni - Marketing Exec][Image: bunny]](https://www.linkedin.com/in/emerson-ni/)
-
-Vienna Zhao Operations Exec
-
-[[Image: Vienna Zhao - Operations Exec][Image: bunny]](https://www.linkedin.com/in/vienna-zhao-207b402b5/)
-
-Karen Wang BD Exec
-
-[[Image: Karen Wang - BD Exec][Image: bunny]](https://www.linkedin.com/in/karen-wang-12b471227/)
-
-Ansh Singh Marketing Director
-
-[[Image: Ansh Singh - Marketing Director][Image: bunny]](https://www.linkedin.com/in/anshsinghh/)
-
-Austin Jian Web Dev Exec
-
-[[Image: Austin Jian - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/austin-jian/)
-
-Jason Der Web Dev Exec
-
-[[Image: Jason Der - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/jason-der/)
-
-Sharisse Ji Web Dev Exec
-
-[[Image: Sharisse Ji - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/sharisseji/)
-
-Mahek Patel BD Exec
-
-[[Image: Mahek Patel - BD Exec][Image: bunny]](https://www.linkedin.com/in/mahekp/)
-
-Dorothy Zheng Relationships Director
-
-[[Image: Dorothy Zheng - Relationships Director][Image: bunny]](https://www.linkedin.com/in/dorothy-zheng07/)
-
-Daniel Ye Operations Exec
-
-[[Image: Daniel Ye - Operations Exec][Image: bunny]](https://www.linkedin.com/in/daniel-ye-b5954b215/)
-
-Parsa Finance Exec
-
-[[Image: Parsa - Finance Exec][Image: bunny]](https://www.linkedin.com/in/parsameshkini/)
-
-Gordon Lin Mentor/Advisor/Board
-
-[[Image: Gordon Lin - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/gordon-lin/)
-
-Justin Xue Web Dev Exec
-
-[[Image: Justin Xue - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/justin-xue5/)
-
-Daniel Pu Web dev director
-
-[[Image: Daniel Pu - Web dev director][Image: bunny]](https://www.linkedin.com/in/dtpu/)
-
-Michael Zhang Operations Exec
-
-[[Image: Michael Zhang - Operations Exec][Image: bunny]](https://www.linkedin.com/in/fangjing-michael-zhang/)
-
-Shaoming Wu BD Exec
-
-[[Image: Shaoming Wu - BD Exec][Image: bunny]](https://www.linkedin.com/in/shaoming-wu/)
-
-Vickie Chen Relationships Exec
-
-[[Image: Vickie Chen - Relationships Exec][Image: bunny]](https://www.linkedin.com/in/vickiecchen/)
-
-Elrich Chen BD Exec
-
-[[Image: Elrich Chen - BD Exec][Image: bunny]](https://www.linkedin.com/in/elrich-chen/)
-
-Winston Yu Co-chair
-
-[[Image: Winston Yu - Co-chair][Image: bunny]](https://www.linkedin.com/in/winstonyou/)
-
-Kelvin Nguyen Co-chair
-
-[[Image: Kelvin Nguyen - Co-chair][Image: bunny]](https://www.linkedin.com/in/nguyen-kelvin/)
-
-Frederic Pu Mentor/Advisor/House Plant
-
-[[Image: Frederic Pu - Mentor/Advisor/House Plant][Image: bunny]](https://www.linkedin.com/in/fpunny/)
-
-Andy Suri Operations Exec
-
-[[Image: Andy Suri - Operations Exec][Image: bunny]](https://www.linkedin.com/in/andy-suri-645bb531a/)
-
-Halle Chan Design Exec
-
-[[Image: Halle Chan - Design Exec][Image: bunny]](https://www.linkedin.com/in/hallechan/)
-
-Muskaan Opel Operations Director
-
-[[Image: Muskaan Opel - Operations Director][Image: bunny]](https://www.linkedin.com/in/muskaan-opel/)
-
-Sasha Boruk Web Dev Exec
-
-[[Image: Sasha Boruk - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/sashaboruk/)
-
-Ferdinand Zhang Web Dev Exec
-
-[[Image: Ferdinand Zhang - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/ferdinand-simmons-zhang-39ba62297/)
-
-Dawoud Opel Design Exec
-
-[Image: Dawoud Opel - Design Exec][Image: bunny]
-
-Lucas Jin BD Exec
-
-[[Image: Lucas Jin - BD Exec][Image: bunny]](https://www.linkedin.com/in/lucas--jin/)
-
-Maira Opel BD Director
-
-[[Image: Maira Opel - BD Director][Image: bunny]](https://www.linkedin.com/in/maira-opel-a8a072296/)
-
-Jeffrey Zang BOD
-
-[[Image: Jeffrey Zang - BOD][Image: bunny]](https://www.linkedin.com/in/jeffreyzang/)
-
-Antoinette Erin Manalo Design Director
-
-[[Image: Antoinette Erin Manalo - Design Director][Image: bunny]](https://www.linkedin.com/in/erin-manalo/)
-
-David Hui Mentor/Advisor/Board
-
-[[Image: David Hui - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/d1h/)
-
-Jacklyn Biggin Mentor/Advisor
-
-[[Image: Jacklyn Biggin - Mentor/Advisor][Image: bunny]](https://www.linkedin.com/in/jacklynbiggin/)
-
-Sunni Xue BD Exec
-
-[[Image: Sunni Xue - BD Exec][Image: bunny]](https://www.linkedin.com/in/sunni-xue/)
-
-Yanzi Guo Mentor/Advisor/Board
-
-[[Image: Yanzi Guo - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/yanzig/)
-
-Lindsay Xie Web Dev Director
-
-[[Image: Lindsay Xie - Web Dev Director][Image: bunny]](https://www.linkedin.com/in/lindsayxie/)
-
-Kaiser Tam Operations Director
-
-[[Image: Kaiser Tam - Operations Director][Image: bunny]](https://www.linkedin.com/in/kaisertam/)
-
-Daniel Ganjali Operations Exec
-
-[[Image: Daniel Ganjali - Operations Exec][Image: bunny]](https://www.linkedin.com/in/daniel-ganjali-792bab30a/)
-
-James Liang Finance Director
-
-[[Image: James Liang - Finance Director][Image: bunny]](https://www.linkedin.com/in/james-liang-/)
-
-Justin Rui BD Exec
-
-[[Image: Justin Rui - BD Exec][Image: bunny]](https://www.linkedin.com/in/justin-rui-801375355/)
-
-Kim Guo Design Director
-
-[[Image: Kim Guo - Design Director][Image: bunny]](https://www.linkedin.com/in/kbrqin/)
-
-Annika Xu Design Exec
-
-[[Image: Annika Xu - Design Exec][Image: bunny]](https://www.linkedin.com/in/annika-h-xu/)
-
-Jessica Lu Design Exec
-
-[[Image: Jessica Lu - Design Exec][Image: bunny]](https://www.linkedin.com/in/jessica-lu-677672351/)
-
-Emerson Ni Marketing Exec
-
-[[Image: Emerson Ni - Marketing Exec][Image: bunny]](https://www.linkedin.com/in/emerson-ni/)
-
-Vienna Zhao Operations Exec
-
-[[Image: Vienna Zhao - Operations Exec][Image: bunny]](https://www.linkedin.com/in/vienna-zhao-207b402b5/)
-
-Karen Wang BD Exec
-
-[[Image: Karen Wang - BD Exec][Image: bunny]](https://www.linkedin.com/in/karen-wang-12b471227/)
-
-Ansh Singh Marketing Director
-
-[[Image: Ansh Singh - Marketing Director][Image: bunny]](https://www.linkedin.com/in/anshsinghh/)
-
-Austin Jian Web Dev Exec
-
-[[Image: Austin Jian - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/austin-jian/)
-
-Jason Der Web Dev Exec
-
-[[Image: Jason Der - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/jason-der/)
-
-Sharisse Ji Web Dev Exec
-
-[[Image: Sharisse Ji - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/sharisseji/)
-
-Mahek Patel BD Exec
-
-[[Image: Mahek Patel - BD Exec][Image: bunny]](https://www.linkedin.com/in/mahekp/)
-
-Dorothy Zheng Relationships Director
-
-[[Image: Dorothy Zheng - Relationships Director][Image: bunny]](https://www.linkedin.com/in/dorothy-zheng07/)
-
-Daniel Ye Operations Exec
-
-[[Image: Daniel Ye - Operations Exec][Image: bunny]](https://www.linkedin.com/in/daniel-ye-b5954b215/)
-
-Parsa Finance Exec
-
-[[Image: Parsa - Finance Exec][Image: bunny]](https://www.linkedin.com/in/parsameshkini/)
-
-Gordon Lin Mentor/Advisor/Board
-
-[[Image: Gordon Lin - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/gordon-lin/)
-
-Justin Xue Web Dev Exec
-
-[[Image: Justin Xue - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/justin-xue5/)
-
-Daniel Pu Web dev director
-
-[[Image: Daniel Pu - Web dev director][Image: bunny]](https://www.linkedin.com/in/dtpu/)
-
-Michael Zhang Operations Exec
-
-[[Image: Michael Zhang - Operations Exec][Image: bunny]](https://www.linkedin.com/in/fangjing-michael-zhang/)
-
-Shaoming Wu BD Exec
-
-[[Image: Shaoming Wu - BD Exec][Image: bunny]](https://www.linkedin.com/in/shaoming-wu/)
-
-Vickie Chen Relationships Exec
-
-[[Image: Vickie Chen - Relationships Exec][Image: bunny]](https://www.linkedin.com/in/vickiecchen/)
-
-Elrich Chen BD Exec
-
-[[Image: Elrich Chen - BD Exec][Image: bunny]](https://www.linkedin.com/in/elrich-chen/)
-
-Winston Yu Co-chair
-
-[[Image: Winston Yu - Co-chair][Image: bunny]](https://www.linkedin.com/in/winstonyou/)
-
-Kelvin Nguyen Co-chair
-
-[[Image: Kelvin Nguyen - Co-chair][Image: bunny]](https://www.linkedin.com/in/nguyen-kelvin/)
-
-Frederic Pu Mentor/Advisor/House Plant
-
-[[Image: Frederic Pu - Mentor/Advisor/House Plant][Image: bunny]](https://www.linkedin.com/in/fpunny/)
-
-Andy Suri Operations Exec
-
-[[Image: Andy Suri - Operations Exec][Image: bunny]](https://www.linkedin.com/in/andy-suri-645bb531a/)
-
-Halle Chan Design Exec
-
-[[Image: Halle Chan - Design Exec][Image: bunny]](https://www.linkedin.com/in/hallechan/)
-
-Muskaan Opel Operations Director
-
-[[Image: Muskaan Opel - Operations Director][Image: bunny]](https://www.linkedin.com/in/muskaan-opel/)
-
-Sasha Boruk Web Dev Exec
-
-[[Image: Sasha Boruk - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/sashaboruk/)
-
-Ferdinand Zhang Web Dev Exec
-
-[[Image: Ferdinand Zhang - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/ferdinand-simmons-zhang-39ba62297/)
-
-Dawoud Opel Design Exec
-
-[Image: Dawoud Opel - Design Exec][Image: bunny]
-
-Lucas Jin BD Exec
-
-[[Image: Lucas Jin - BD Exec][Image: bunny]](https://www.linkedin.com/in/lucas--jin/)
-
-Maira Opel BD Director
-
-[[Image: Maira Opel - BD Director][Image: bunny]](https://www.linkedin.com/in/maira-opel-a8a072296/)
-
-Jeffrey Zang BOD
-
-[[Image: Jeffrey Zang - BOD][Image: bunny]](https://www.linkedin.com/in/jeffreyzang/)
-
-Antoinette Erin Manalo Design Director
-
-[[Image: Antoinette Erin Manalo - Design Director][Image: bunny]](https://www.linkedin.com/in/erin-manalo/)
-
-David Hui Mentor/Advisor/Board
-
-[[Image: David Hui - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/d1h/)
-
-Jacklyn Biggin Mentor/Advisor
-
-[[Image: Jacklyn Biggin - Mentor/Advisor][Image: bunny]](https://www.linkedin.com/in/jacklynbiggin/)
-
-Sunni Xue BD Exec
-
-[[Image: Sunni Xue - BD Exec][Image: bunny]](https://www.linkedin.com/in/sunni-xue/)
-
-Yanzi Guo Mentor/Advisor/Board
-
-[[Image: Yanzi Guo - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/yanzig/)
-
-Lindsay Xie Web Dev Director
-
-[[Image: Lindsay Xie - Web Dev Director][Image: bunny]](https://www.linkedin.com/in/lindsayxie/)
-
-Kaiser Tam Operations Director
-
-[[Image: Kaiser Tam - Operations Director][Image: bunny]](https://www.linkedin.com/in/kaisertam/)
-
-Daniel Ganjali Operations Exec
-
-[[Image: Daniel Ganjali - Operations Exec][Image: bunny]](https://www.linkedin.com/in/daniel-ganjali-792bab30a/)
-
-James Liang Finance Director
-
-[[Image: James Liang - Finance Director][Image: bunny]](https://www.linkedin.com/in/james-liang-/)
-
-Justin Rui BD Exec
-
-[[Image: Justin Rui - BD Exec][Image: bunny]](https://www.linkedin.com/in/justin-rui-801375355/)
-
-Kim Guo Design Director
-
-[[Image: Kim Guo - Design Director][Image: bunny]](https://www.linkedin.com/in/kbrqin/)
-
-Annika Xu Design Exec
-
-[[Image: Annika Xu - Design Exec][Image: bunny]](https://www.linkedin.com/in/annika-h-xu/)
-
-Jessica Lu Design Exec
-
-[[Image: Jessica Lu - Design Exec][Image: bunny]](https://www.linkedin.com/in/jessica-lu-677672351/)
-
-Emerson Ni Marketing Exec
-
-[[Image: Emerson Ni - Marketing Exec][Image: bunny]](https://www.linkedin.com/in/emerson-ni/)
-
-Vienna Zhao Operations Exec
-
-[[Image: Vienna Zhao - Operations Exec][Image: bunny]](https://www.linkedin.com/in/vienna-zhao-207b402b5/)
-
-Karen Wang BD Exec
-
-[[Image: Karen Wang - BD Exec][Image: bunny]](https://www.linkedin.com/in/karen-wang-12b471227/)
-
-Ansh Singh Marketing Director
-
-[[Image: Ansh Singh - Marketing Director][Image: bunny]](https://www.linkedin.com/in/anshsinghh/)
-
-Austin Jian Web Dev Exec
-
-[[Image: Austin Jian - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/austin-jian/)
-
-Jason Der Web Dev Exec
-
-[[Image: Jason Der - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/jason-der/)
-
-Sharisse Ji Web Dev Exec
-
-[[Image: Sharisse Ji - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/sharisseji/)
-
-Mahek Patel BD Exec
-
-[[Image: Mahek Patel - BD Exec][Image: bunny]](https://www.linkedin.com/in/mahekp/)
-
-Dorothy Zheng Relationships Director
-
-[[Image: Dorothy Zheng - Relationships Director][Image: bunny]](https://www.linkedin.com/in/dorothy-zheng07/)
-
-Daniel Ye Operations Exec
-
-[[Image: Daniel Ye - Operations Exec][Image: bunny]](https://www.linkedin.com/in/daniel-ye-b5954b215/)
-
-Parsa Finance Exec
-
-[[Image: Parsa - Finance Exec][Image: bunny]](https://www.linkedin.com/in/parsameshkini/)
-
-Gordon Lin Mentor/Advisor/Board
-
-[[Image: Gordon Lin - Mentor/Advisor/Board][Image: bunny]](https://www.linkedin.com/in/gordon-lin/)
-
-Justin Xue Web Dev Exec
-
-[[Image: Justin Xue - Web Dev Exec][Image: bunny]](https://www.linkedin.com/in/justin-xue5/)
-
-Daniel Pu Web dev director
-
-[[Image: Daniel Pu - Web dev director][Image: bunny]](https://www.linkedin.com/in/dtpu/)
-
-Michael Zhang Operations Exec
-
-[[Image: Michael Zhang - Operations Exec][Image: bunny]](https://www.linkedin.com/in/fangjing-michael-zhang/)
-
-Shaoming Wu BD Exec
-
-[[Image: Shaoming Wu - BD Exec][Image: bunny]](https://www.linkedin.com/in/shaoming-wu/)
-
-Vickie Chen Relationships Exec
-
-[[Image: Vickie Chen - Relationships Exec][Image: bunny]](https://www.linkedin.com/in/vickiecchen/)
-
-Elrich Chen BD Exec
-
-[[Image: Elrich Chen - BD Exec][Image: bunny]](https://www.linkedin.com/in/elrich-chen/)
+[Elrich Chen - BD Exec](https://www.linkedin.com/in/elrich-chen/)
 
 How was your experience with our website?
-
-[Image: star] [Image: star] [Image: star] [Image: star] [Image: star]
 
 Hack The 6ix
 
@@ -3540,7 +2993,7 @@ Major League Hacking
 - Final URL: [https://s3.hackprix.tech/](https://s3.hackprix.tech/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: HackPrix]](https://s3.hackprix.tech/) [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/apac?utm_source=apac-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
+[HackPrix](https://s3.hackprix.tech/)
 
 [Hyderabad, India](https://maps.app.goo.gl/rb92hysFVshZMy2J6)
 
@@ -3564,27 +3017,15 @@ A weekend of happy hacking and fun.
 
 Days
 
-00
-
 Hours
 
-00
-
 Minutes
-
-00
 
 Seconds
 
 About HackPrix
 
 ##### Hackprix is about community, collaboration, and creating together.
-
-[Image: Festival performer]
-
-[Image: Main stage crowd]
-
-[Image: Festival drinks]
 
 Date:
 
@@ -3646,56 +3087,6 @@ Compete
 
 Engage
 
-Build For Better
-
-Innovate
-
-Network
-
-Compete
-
-Engage
-
-Build For Better
-
-Innovate
-
-Network
-
-Compete
-
-Engage
-
-Build For Better
-
-Innovate
-
-Network
-
-Compete
-
-Engage
-
-Build For Better
-
-Innovate
-
-Network
-
-Compete
-
-Engage
-
-Build For Better
-
-Innovate
-
-Network
-
-Compete
-
-Engage
-
 Don't Miss Out!
 
 ##### Come Build with US
@@ -3734,8 +3125,6 @@ Made with ❤️ by [Fahad](https://linkedin.com/in/sfahad-dev)
 - Final URL: [https://www.jamhacks.ca/](https://www.jamhacks.ca/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Logo] [Image: 10 balloon]
-
 ##### Learn, Connect, Innovate
 
 ##### June 12-14, 2026 • In-Person @ University of Waterloo
@@ -3758,191 +3147,21 @@ Connect with high school students from all across Canada, meet industry experts,
 
 Bring your party spirit and gear up for a weekend filled with fun activities, free meals, and one-of-a-kind swag! We've got a spread of activities planned for the entire weekend. Celebrate a decade of JAMHacks with us!
 
-[Image: balloon-long-0]
-
-[Image: balloon-round-1]
-
-[Image: balloon-long-2]
-
-[Image: balloon-round-3]
-
-[Image: JamJam]
-
-[Image: 10 Years of JAMHacks Banner]
-
-[Image: Grape Rack] [Image: Grapevine JamJam]
-
-[[Image: Waterloo Engineering]](https://uwaterloo.ca/engineering/)
+[Waterloo Engineering](https://uwaterloo.ca/engineering/)
 
 The University of Waterloo continues to support JAMHacks, building the next generation of innovators, entrepreneurs, and creators. Step into Canada's largest engineering school — a pipeline for engineering talent for the world's leading companies. Ranked among the top 50 engineering schools globally, the school's reputation for excellence is built on the foundation of co-op education and a bold history of innovation.
 
-[Image: String]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
-[Image: Past JAMHacks Photos]
-
 #### Sponsors
 
-[[Image: Waterloo Region Chinese Canadian Association]](https://waterloocca.com/)
+[Waterloo Region Chinese Canadian Association](https://waterloocca.com/)
 
-[[Image: Citadel]](https://www.citadel.com/)
+[Citadel](https://www.citadel.com/)
 
-[[Image: DeepAI]](https://deepai.org/) [[Image: University of Waterloo]](https://uwaterloo.ca/) [[Image: WStore]](https://wstore.uwaterloo.ca/) [[Image: Warp]](https://www.warp.dev/) [[Image: T-Shirt Elephant]](https://www.tshirtelephant.com/) [[Image: getcracked]](https://www.getcracked.io) [[Image: mobbin]](https://mobbin.com/) [[Image: upluseducation]](https://www.upluseducation.ca/) [[Image: tks]](https://www.tks.world/) [[Image: PCBWay]](https://www.pcbway.com/) [[Image: Jukebox]](https://www.jukeboxprint.com/) [[Image: NordVPN]](https://nordvpn.com/hackathons?rel="nofollow") [[Image: Incogni]](https://incogni.com/) [[Image: NordPass]](https://nordpass.com/) [[Image: Saily]](https://saily.com/) [[Image: NordProtect]](https://nordprotect.com/) [[Image: Nexos.ai]](https://nexos.ai/) [[Image: Domino's]](https://www.dominos.com/) [[Image: Noon Moment]](https://noonmoment.com) [[Image: .xyz]](https://gen.xyz/)
+[DeepAI](https://deepai.org/) [University of Waterloo](https://uwaterloo.ca/) [WStore](https://wstore.uwaterloo.ca/) [Warp](https://www.warp.dev/) [T-Shirt Elephant](https://www.tshirtelephant.com/) [getcracked](https://www.getcracked.io) [mobbin](https://mobbin.com/) [upluseducation](https://www.upluseducation.ca/) [tks](https://www.tks.world/) [PCBWay](https://www.pcbway.com/) [Jukebox](https://www.jukeboxprint.com/) [NordVPN](https://nordvpn.com/hackathons?rel="nofollow") [Incogni](https://incogni.com/) [NordPass](https://nordpass.com/) [Saily](https://saily.com/) [NordProtect](https://nordprotect.com/) [Nexos.ai](https://nexos.ai/) [Domino's](https://www.dominos.com/) [Noon Moment](https://noonmoment.com) [.xyz](https://gen.xyz/)
 
 #### Partners
 
-[[Image: Waterloo Engineering]](https://uwaterloo.ca/engineering) [[Image: Hack the North]](https://hackthenorth.com/) [[Image: Major League Hacking]](https://mlh.io/) [[Image: Hack Club]](https://hackclub.com/fiscal-sponsorship) [[Image: Waterloo Chinese Canadian Association Youth Club]](https://www.instagram.com/wccayouth) [[Image: Tail'ed Community]](https://community.tailed.ca/) [[Image: UWaterloo Women in Engineering]](https://uwaterloo.ca/women-in-engineering/) [[Image: UWaterloo Engineering Outreach]](https://uwaterloo.ca/engineering-outreach/) [[Image: Hack the 6ix]](https://hackthe6ix.com/)
-
-[Image: Leaves Background]
-
-[Image: Co-leads section vine]
-
-[Image: andrewDai]
-
-[Image: andrewDai]
-
-[Image: aileenGao]
-
-[Image: aileenGao]
-
-[Image: Web and tech section vine]
-
-[Image: thanosanPrathifkumar]
-
-[Image: thanosanPrathifkumar]
-
-[Image: alanLiu]
-
-[Image: alanLiu]
-
-[Image: radeanRashed]
-
-[Image: radeanRashed]
-
-[Image: owenWu]
-
-[Image: owenWu]
-
-[Image: Logistics section vine]
-
-[Image: ahaanJacob]
-
-[Image: ahaanJacob]
-
-[Image: sunniXue]
-
-[Image: sunniXue]
-
-[Image: aidenWang]
-
-[Image: aidenWang]
-
-[Image: elishaWong]
-
-[Image: elishaWong]
-
-[Image: milesYu]
-
-[Image: milesYu]
-
-[Image: Finance section vine]
-
-[Image: elizabethLiu]
-
-[Image: elizabethLiu]
-
-[Image: sohamDave]
-
-[Image: sohamDave]
-
-[Image: yiXinHong]
-
-[Image: yiXinHong]
-
-[Image: jerryLiu]
-
-[Image: jerryLiu]
-
-[Image: Marketing section vine]
-
-[Image: luningWang]
-
-[Image: luningWang]
-
-[Image: prinakaBasu]
-
-[Image: prinakaBasu]
-
-[Image: xinyaoHuang]
-
-[Image: xinyaoHuang]
-
-[Image: cindyMa]
-
-[Image: cindyMa]
+[Waterloo Engineering](https://uwaterloo.ca/engineering) [Hack the North](https://hackthenorth.com/) [Major League Hacking](https://mlh.io/) [Hack Club](https://hackclub.com/fiscal-sponsorship) [Waterloo Chinese Canadian Association Youth Club](https://www.instagram.com/wccayouth) [Tail'ed Community](https://community.tailed.ca/) [UWaterloo Women in Engineering](https://uwaterloo.ca/women-in-engineering/) [UWaterloo Engineering Outreach](https://uwaterloo.ca/engineering-outreach/) [Hack the 6ix](https://hackthe6ix.com/)
 
 Frequently Asked Questions
 
@@ -3986,11 +3205,7 @@ Still have a question?
 
 Reach out to us at hello@jamhacks.ca
 
-[[Image: Instagram]](https://www.instagram.com/jamhacks) [[Image: LinkedIn]](https://www.linkedin.com/company/jamhacks) [[Image: Medium]](https://medium.com/@jam_hacks)
-
-[Image: Sitting Jam]
-
-$ /$
+[Instagram](https://www.instagram.com/jamhacks) [LinkedIn](https://www.linkedin.com/company/jamhacks) [Medium](https://medium.com/@jam_hacks)
 
 ### Website 6: Global Hack Week: Hacking for Good
 - Card URL: [https://events.mlh.io/events/14302-global-hack-week-hacking-for-good](https://events.mlh.io/events/14302-global-hack-week-hacking-for-good)
@@ -4042,41 +3257,19 @@ Major League Hacking
 - Final URL: [https://www.hack4her.com/](https://www.hack4her.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Doodle Rosa Inicio]
-
-[Image: Sol]
-
-[Image: Estrella]
-
-[Image: Doodle Fuerte]
-
-[Image: Logo ARCA]
-
 00
 
 días
 
-00
-
 horas
-
-00
 
 minutos
 
-00
-
 segundos
-
-[Image: Rectangle Background]
-
-[Image: HACK] [Image: 4] [Image: HER]
 
 6 y 7 DE JUNIO DE 2026
 
 [¡Regístrate ahora!](https://www.hack4her.com/registro) [Discord](https://discord.gg/nPj88kyzkm)
-
-[Image: Logo WIT]
 
 #### acerca de
 nosotras
@@ -4172,63 +3365,7 @@ Desarrollar una solución de IA capaz de aprender un proceso entre sistemas web 
 
 #### EQUIPO
 
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Foto del miembro del equipo]
-
-[Image: Estrella]
-
-[Image: Flor]
-
-[Image: Sol]
-
 #### COLABORADOR
-
-[Image: Logo de Arca Continental]
 
 Por segundo año consecutivo, la colaboración entre Arca Continental y el Tecnológico de Monterrey hace posible Hack4Her. Quienes destaquen en el reto podrán abrir la puerta a futuras oportunidades y formar parte de proyectos dentro del Digital Nest de Arca Continental.
 
@@ -4241,34 +3378,6 @@ A través de su Digital Nest, Arca Continental integra expertos en tecnología d
 ¡En Hack4Her nos comprometemos a que nunca falte la diversión!
 
 Mira cómo se vivió la edición de Hack4Her 2025.
-
-[Image: Foto 1]
-
-[Image: Foto 2]
-
-[Image: Foto 3]
-
-[Image: Foto 4]
-
-[Image: Foto 5]
-
-[Image: Foto 6]
-
-[Image: Foto 7]
-
-[Image: Foto 8]
-
-[Image: Foto 9]
-
-[Image: Foto 10]
-
-[Image: Foto 11]
-
-[Image: Foto 12]
-
-[Image: Foto 13]
-
-[Image: Foto 14]
 
 #### PREGUNTAS
 FRECUENTES
@@ -4333,17 +3442,9 @@ Correo
 
 [Políticas de privacidad](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)
 
-[Image: Logo H4H]
-
 Hecho con 💜 por el equipo de Hack4Her
 
 ¡Estamos aquí para lo que necesites!
-
-[Image: Ada Guía]
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-$ /$
 
 ### Website 8: MPC Hacks
 - Card URL: [https://mpchacks.com](https://mpchacks.com)
@@ -4351,8 +3452,6 @@ $ /$
 - Rendered title: MPC Hacks: Inter-University Hackathon
 - Final URL: [https://mpchacks.com/](https://mpchacks.com/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 About Hacker Profile Application [Instagram](https://www.instagram.com/mpchacks/) Hacker Manual Sponsors FAQ [LinkedIn](https://www.linkedin.com/company/mpchacks/)
 
@@ -4390,20 +3489,12 @@ spring '27
 
 [Visit 2026.quackhacks.org](https://2026.quackhacks.org/)
 
-$ /$
-
 ### Website 10: HackHCC
 - Card URL: [https://hackhcc.org/](https://hackhcc.org/)
 - Referenced by: HackHCC
 - Rendered title: HackHCC: CodeRunners
 - Final URL: [https://hackhcc.org/](https://hackhcc.org/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=gray)
-
-[Image: Cyberpunk background]
-
-[Image: HackHCC: Coderunners Logo]
 
 That's a wrap on Coderunners! Thanks to everyone who hacked with us.
 
@@ -4540,37 +3631,21 @@ Crafted for first time hackathon participants or even people who don't even know
 
 The General track is jacked in for you to flatline your limiters and unleash your full creative chrome. Ghost the protocols hardwired by the corpos and run wild in the neon dark.
 
-[For more info check our hacker pack →](https://hackhcc.gitbook.io/hackhcc-docs)
-
-###### GENERAL TRACK
-
-0 1
-
 1st Place
 
 $200
 
 Amazon Gift Card × each member (4)
 
-0 2
-
 2nd Place
 
 $150
-
-Amazon Gift Card × each member (4)
 
 0 3
 
 3rd Place
 
 $100
-
-Amazon Gift Card × each member (4)
-
-###### BEGINNER TRACK
-
-0 1
 
 1st Place
 
@@ -4578,8 +3653,6 @@ $100
 
 Amazon Gift Card + NordVPN Bundle × each member (4)
 
-0 2
-
 2nd Place
 
 $50
@@ -4592,17 +3665,11 @@ Amazon Gift Card + Saily/Incogni Bundle × each member (4)
 
 $50
 
-Amazon Gift Card + Saily/Incogni Bundle × each member (4)
-
 ###### CHALLENGES
-
-0 1
 
 ###### Best Use of AI
 
 NexosAI
-
-0 2
 
 ###### Best Solo Hack
 
@@ -4610,17 +3677,11 @@ Raspberry Pi 5 Kit
 
 ###### RAFFLE
 
-0 1
-
 Beats by Dre
-
-0 2
 
 Raspberry Pi 5 Kit
 
 ###### TYPING CHALLENGE
-
-###### Typing Challenge
 
 Hackerbox
 
@@ -4630,9 +3691,9 @@ Powered by the best in tech
 
 ##### NEXUS
 
-[[Image: ITServe]](https://www.itserve.org/)
+[ITServe](https://www.itserve.org/)
 
-[[Image: HCC]](https://www.hccs.edu/community--partners/entrepreneurial-initiatives/center-for-entrepreneurship---southwest/)
+[HCC](https://www.hccs.edu/community--partners/entrepreneurial-initiatives/center-for-entrepreneurship---southwest/)
 
 ###### GRID
 
@@ -4640,29 +3701,29 @@ Powered by the best in tech
 
 ###### CIRCUIT
 
-[[Image: DataVox]](https://www.datavox.net/)
+[DataVox](https://www.datavox.net/)
 
-[[Image: Tanches]](https://tanches.com/)
+[Tanches](https://tanches.com/)
 
-[[Image: AT&T]](https://www.att.com/)
+[AT&T](https://www.att.com/)
 
 ###### SHARD
 
-[[Image: PureButtons]](https://www.purebuttons.com/)
+[PureButtons](https://www.purebuttons.com/)
 
-[[Image: GitBook]](https://www.gitbook.com/)
+[GitBook](https://www.gitbook.com/)
 
-[[Image: NordVPN]](https://nordvpn.com/)
+[NordVPN](https://nordvpn.com/)
 
-[[Image: NordPass]](https://nordpass.com/)
+[NordPass](https://nordpass.com/)
 
-[[Image: NordProtect]](https://nordprotect.com/)
+[NordProtect](https://nordprotect.com/)
 
-[[Image: Incogni]](https://incogni.com/)
+[Incogni](https://incogni.com/)
 
-[[Image: Saily]](https://saily.com/)
+[Saily](https://saily.com/)
 
-[[Image: Nexos]](https://hackhcc.org/)
+[Nexos](https://hackhcc.org/)
 
 ###### INTERESTED IN SPONSORING?
 
@@ -4674,13 +3735,9 @@ Contact Us→
 
 The minds behind HACKHCC: CODERUNNERS
 
-[Image: Directors icon]
-
 ###### Directors
 
 01
-
-[Image: Arian Din-Kirkebo]
 
 ###### Arian Din-Kirkebo
 
@@ -4688,99 +3745,51 @@ Co-Director
 
 02
 
-[Image: John Pierre]
-
 ###### John Pierre
 
 Co-Director
 
-[Image: Website & Tech icon]
-
 ###### Website & Tech
-
-01
-
-[Image: Gabriel Morales]
 
 ###### Gabriel Morales
 
 Website & Tech
 
-02
-
-[Image: Khizar Ahmed]
-
 ###### Khizar Ahmed
 
 Website & Tech
 
-[Image: Marketing & Design icon]
-
 ###### Marketing & Design
-
-01
-
-[Image: Madison Emshousen]
 
 ###### Madison Emshousen
 
 Marketing & Design
 
-02
-
-[Image: Lara Iskandar]
-
 ###### Lara Iskandar
 
 Marketing & Design
 
-[Image: Logistics icon]
-
 ###### Logistics
-
-01
-
-[Image: Nelson Aviles]
 
 ###### Nelson Aviles
 
 Logistics
 
-02
-
-[Image: Nahom Mulugeta]
-
 ###### Nahom Mulugeta
 
 Logistics
 
-[Image: Sponsorship & Hospitality icon]
-
 ###### Sponsorship & Hospitality
-
-01
-
-[Image: Manuel Orozco]
 
 ###### Manuel Orozco
 
 Sponsorship & Hospitality
 
-02
-
-[Image: Taki Boubekri]
-
 ###### Taki Boubekri
-
-Sponsorship & Hospitality
 
 03
 
-[Image: Oyinade (Comfort) Balogun]
-
 ###### Oyinade (Comfort) Balogun
-
-Sponsorship & Hospitality
 
 ##### FAQ
 
@@ -4816,8 +3825,6 @@ Still have questions?
 
 Contact Us
 
-$ /$
-
 ### Website 11: DesignVerse
 - Card URL: [https://www.designverseucr.org/](https://www.designverseucr.org/)
 - Referenced by: DesignVerse
@@ -4825,45 +3832,21 @@ $ /$
 - Final URL: [https://www.designverseucr.org/](https://www.designverseucr.org/)
 - Expanded FAQ/accordion controls: 13
 
-$
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: left cloud] [Image: right cloud]
-
-[Image: dv logo sign]
-
 University of California, Riverside
 
 May 16-17, 2026
 
 0
 
-0
-
 days
-
-0
-
-0
 
 hours
 
-0
-
-0
-
 minutes
-
-0
-
-0
 
 seconds
 
 [Check-In!](https://minerva-sage.vercel.app/designverse/checkin) [Apply Now!](https://minerva-sage.vercel.app/designverse/forms/participant)
-
-[Image: lamp with bulbs] [Image: lamp with bulbs] [Image: bakery shop] [Image: left grass box] [Image: right grass box]
 
 ABOUT US
 
@@ -4872,8 +3855,6 @@ DesignVerse is the first and only **24-hour beginner-friendly** Design-a-Thon ho
 At DesignVerse, our goal is to empower our community of students who are interested in design-like thinking and provide career developmental opportunities through our **workshops**, **mentorship**, and **networking events**.
 
 We welcome all undergraduate, graduate, and high school students for a lively weekend filled with creativity, networking, mentorship, and more!
-
-[Image: bunny] [Image: matcha] [Image: taiyaki]
 
 SUPPORT US
 
@@ -4889,13 +3870,9 @@ Have experience leading, using Figma, or coordinating groups? Share your knowled
 
 [Volunteer](https://minerva-sage.vercel.app/designverse/forms/volunteer)
 
-[Image: coffee cup] [Image: coffee beans]
-
 SCHEDULE
 
 Pacific Standard Time (PST)
-
-[Image: coffee beans] [Image: moka pot]
 
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
@@ -4903,187 +3880,109 @@ No events scheduled.
 
 KEYNOTE SPEAKERS
 
-[[Image: Vijaya sai Munduru]Vijaya sai MunduruLead Member of Technical Staff @ Salesforce](https://www.linkedin.com/in/vmunduru/)
+[Vijaya sai MunduruLead Member of Technical Staff @ Salesforce](https://www.linkedin.com/in/vmunduru/)
 
-[[Image: Karthik Bodducherla]Karthik BodducherlaDirector, Applications Development @ IQVIA](https://www.linkedin.com/in/karthikbodducherla/)
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
+[Karthik BodducherlaDirector, Applications Development @ IQVIA](https://www.linkedin.com/in/karthikbodducherla/)
 
 JUDGES
 
-[[Image: Chi Esmabe]Chi EsmabeSenior UI/UX Designer @ Tinuiti](https://www.linkedin.com/in/chiesmabe/)
+[Chi EsmabeSenior UI/UX Designer @ Tinuiti](https://www.linkedin.com/in/chiesmabe/)
 
-[[Image: Sua Lee]Sua LeeVisual and Product Designer @ TruAbutment](https://www.linkedin.com/in/designersualee/)
+[Sua LeeVisual and Product Designer @ TruAbutment](https://www.linkedin.com/in/designersualee/)
 
-[[Image: Vijaya sai Munduru]Vijaya sai MunduruLead Member of Technical Staff @ Salesforce](https://www.linkedin.com/in/vmunduru/)
-
-[[Image: Karthik Bodducherla]Karthik BodducherlaDirector, Applications Development @ IQVIA](https://www.linkedin.com/in/karthikbodducherla/)
-
-[[Image: Priyanka Malla]Priyanka MallaIT Project Manager @ Foundation Building Materials](https://www.linkedin.com/in/mpriyanka08/)
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
+[Priyanka MallaIT Project Manager @ Foundation Building Materials](https://www.linkedin.com/in/mpriyanka08/)
 
 PANELISTS
 
-[[Image: Vijaya sai Munduru]Vijaya sai MunduruLead Member of Technical Staff @ Salesforce](https://www.linkedin.com/in/vmunduru/)
+[Steven HuangFounder and Product Builder @ HumanVector](https://www.linkedin.com/in/steventhuang/)
 
-[[Image: Karthik Bodducherla]Karthik BodducherlaDirector, Applications Development @ IQVIA](https://www.linkedin.com/in/karthikbodducherla/)
+[Stephanie Mae MauricioIncoming Design Strategy Intern @ MongoDB](https://www.linkedin.com/in/stephanie-mae-mauricio/)
 
-[[Image: Steven Huang]Steven HuangFounder and Product Builder @ HumanVector](https://www.linkedin.com/in/steventhuang/)
-
-[[Image: Stephanie Mae Mauricio]Stephanie Mae MauricioIncoming Design Strategy Intern @ MongoDB](https://www.linkedin.com/in/stephanie-mae-mauricio/)
-
-[[Image: Manisha Varma Kamarushi]Manisha Varma KamarushiCustomer Experience Analyst @ Charter Communications](https://www.linkedin.com/in/manishavarmak/)
+[Manisha Varma KamarushiCustomer Experience Analyst @ Charter Communications](https://www.linkedin.com/in/manishavarmak/)
 
 TRACKS
 
 Slice of Insight
 
-[Image: Slice of Insight]
-
-[Image: Slice of Insight]
-
 Uncover real user needs and translate insights into a clear, evidence-driven problem statement.
 
 Cookie Cutter Challenge
-
-[Image: Cookie Cutter Challenge]
-
-[Image: Cookie Cutter Challenge]
 
 Bring concepts to life through rapid, testable, and iterative prototypes.
 
 Pudding Success On
 
-[Image: Pudding Success On]
-
-[Image: Pudding Success On]
-
 Turn your concept into a pitch that feels polished, persuasive, and investment-ready.
 
 Framaccino
-
-[Image: Framaccino]
-
-[Image: Framaccino]
 
 Create polished, high-fidelity interactive experiences using Framer.
 
 The Perfect Blend
 
-[Image: The Perfect Blend]
-
-[Image: The Perfect Blend]
-
 Design visually refined, accessible, and consistent interfaces alongside cafe theme.
 
 SPONSORS
 
-[[Image: Snapchat]](https://www.snapchat.com/) [[Image: Creat'R Lab]](https://library.ucr.edu/research-support/making-and-innovation/creatr-lab-makerspace) [[Image: Progressive Graphics]](https://progressive-graphics.com/Progressive_Graphics/shop/home) [[Image: Associated Students of UCR]](https://asucr.ucr.edu/) [[Image: UCR School of Business]](https://business.ucr.edu/) [[Image: Notion]](https://www.notion.com/) [[Image: Framer]](https://www.framer.com/) [[Image: Axure RP]](https://www.axure.com/) [[Image: Balsamiq]](https://balsamiq.com/) [[Image: Pure Buttons]](https://www.purebuttons.com/) [[Image: Monster Energy]](https://www.monsterenergy.com/en-us/) [[Image: Raising Cane's]](https://raisingcanes.com/home/) [[Image: Happy Hacking Keyboards]](https://hhkeyboard.us/)
+[Snapchat](https://www.snapchat.com/) [Creat'R Lab](https://library.ucr.edu/research-support/making-and-innovation/creatr-lab-makerspace) [Progressive Graphics](https://progressive-graphics.com/Progressive_Graphics/shop/home) [Associated Students of UCR](https://asucr.ucr.edu/) [UCR School of Business](https://business.ucr.edu/) [Notion](https://www.notion.com/) [Axure RP](https://www.axure.com/) [Balsamiq](https://balsamiq.com/) [Pure Buttons](https://www.purebuttons.com/) [Monster Energy](https://www.monsterenergy.com/en-us/) [Raising Cane's](https://raisingcanes.com/home/) [Happy Hacking Keyboards](https://hhkeyboard.us/)
 
 RESOURCES
 
-[[Image: Resource]](https://www.figma.com)
+[Resource](https://www.figma.com)
 
 Figma
 
 A tool for designing and building prototypes for user interfaces.
 
-[[Image: Resource]](https://dribbble.com)
+[Resource](https://dribbble.com)
 
 Dribble
 
 An online platform for designers to find and share inspirations!
 
-[[Image: Resource]](https://www.miro.com)
+[Resource](https://www.miro.com)
 
 Miro
 
 A remote collaboration tool to build large scale design projects.
 
-[Image: turtle]
-
-[Image: bread]
-
-[Image: pie]
-
-[Image: hanging plant]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
-[Image: Team divider]
-
 Meet The Team
 
-[[Image: Arielle Haryanto]Arielle HaryantoCo-Director](https://www.linkedin.com/in/arielle-haryanto/)
+[Arielle HaryantoCo-Director](https://www.linkedin.com/in/arielle-haryanto/)
 
-[[Image: Kaitlin Ching]Kaitlin ChingCo-Director](https://www.linkedin.com/in/kaitlinching/)
+[Kaitlin ChingCo-Director](https://www.linkedin.com/in/kaitlinching/)
 
-[[Image: Anisha Nawar]Anisha NawarOperations](https://www.linkedin.com/in/anisha-nawar/)
+[Anisha NawarOperations](https://www.linkedin.com/in/anisha-nawar/)
 
-[[Image: Ashna Pradhan]Ashna PradhanOperations](https://www.linkedin.com/in/ashna-pradhan/)
+[Ashna PradhanOperations](https://www.linkedin.com/in/ashna-pradhan/)
 
-[[Image: John Zhou]John ZhouSponsorship](https://www.linkedin.com/in/john-shiqi-zhou/)
+[John ZhouSponsorship](https://www.linkedin.com/in/john-shiqi-zhou/)
 
-[[Image: Saanvi Dalal]Saanvi DalalSponsorship](https://www.linkedin.com/in/saanvi-dalal/)
+[Saanvi DalalSponsorship](https://www.linkedin.com/in/saanvi-dalal/)
 
-[[Image: Jasmine Trinh]Jasmine TrinhPublic Relations](https://www.linkedin.com/in/jasminetrinh/)
+[Jasmine TrinhPublic Relations](https://www.linkedin.com/in/jasminetrinh/)
 
-[[Image: Suki Huang]Suki HuangPublic Relations](https://www.linkedin.com/in/suki-huang-b84929391/)
+[Suki HuangPublic Relations](https://www.linkedin.com/in/suki-huang-b84929391/)
 
-[[Image: Kaegan Chee]Kaegan CheeMarketing](https://www.linkedin.com/in/kaegan-chee/)
+[Kaegan CheeMarketing](https://www.linkedin.com/in/kaegan-chee/)
 
-[[Image: Kaylie Zhao]Kaylie ZhaoMarketing](https://www.linkedin.com/in/kaylie-zhao/)
+[Kaylie ZhaoMarketing](https://www.linkedin.com/in/kaylie-zhao/)
 
-[[Image: Charleen Chen]Charleen ChenUI/UX](https://www.linkedin.com/in/charleenschen/)
+[Charleen ChenUI/UX](https://www.linkedin.com/in/charleenschen/)
 
-[[Image: Sweden Agunenye]Sweden AgunenyeSoftware Engineering](https://www.linkedin.com/in/swedenagu/)
+[Sweden AgunenyeSoftware Engineering](https://www.linkedin.com/in/swedenagu/)
 
-[[Image: Jane Lee]Jane LeeSoftware Engineering](https://www.linkedin.com/in/janeyunlee/)
+[Jane LeeSoftware Engineering](https://www.linkedin.com/in/janeyunlee/)
 
-[[Image: Jimmy Munoz]Jimmy MunozSoftware Engineering](https://www.linkedin.com/in/jimmy-munoz-8a7a47290/)
+[Jimmy MunozSoftware Engineering](https://www.linkedin.com/in/jimmy-munoz-8a7a47290/)
 
-[[Image: Adi Chander]Adi ChanderSoftware Engineering](https://www.linkedin.com/in/adi-chander/)
+[Adi ChanderSoftware Engineering](https://www.linkedin.com/in/adi-chander/)
 
-[[Image: Hannah Hwang]Hannah HwangSoftware Engineering](https://www.linkedin.com/in/hhannahwang/)
+[Hannah HwangSoftware Engineering](https://www.linkedin.com/in/hhannahwang/)
 
-[[Image: Kevin Loritsch]Kevin LoritschSoftware Engineering](https://www.linkedin.com/in/kevin-loritsch/)
+[Kevin LoritschSoftware Engineering](https://www.linkedin.com/in/kevin-loritsch/)
 
-[[Image: Charlene Wan]Charlene WanIntern](https://www.linkedin.com/in/charlene-wan-683bb126b/)
+[Charlene WanIntern](https://www.linkedin.com/in/charlene-wan-683bb126b/)
 
 FREQUENTLY ASKED QUESTIONS
 
@@ -5116,8 +4015,6 @@ FREQUENTLY ASKED QUESTIONS
 The amount of time you would like to design for is completely up to you! You are not required to spend the entire time designing, as we also encourage participants to visit the various events and workshops that will be hosted throughout the event! While it is highly recommended to submit a project, you are not required to! You can attend the workshops and get to know the network around you. However, those who submit a project can put it on their portfolio and be considered for various prizes and awards.
 
 ###### My question is not here.
-
-/$
 
 ### Website 12: Midnight Hackathon
 - Card URL: [https://events.mlh.io/events/14061-midnight-hackathon-may-2026](https://events.mlh.io/events/14061-midnight-hackathon-may-2026)
@@ -5178,8 +4075,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 2: How to Build on Midnight Using AI
 
-- Day (ET): Friday (ET)
-
 - PT: 12:00 PM PT
 
 - ET: 3:00 PM ET
@@ -5220,43 +4115,19 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Mini-Event Schedule
 
-##### Table
-
 ###### Row 1: Team Formation Mini-Event
-
-- Day (ET): Friday (ET)
-
-- PT: 10:00 AM PT
-
-- ET: 1:00 PM ET
-
-- UK: 6:00 PM UK
-
-- IST: 10:30 PM IST
 
 - Event: Team Formation Mini-Event
 
 ###### Hackathon Schedule
 
-##### Table
-
 ###### Row 1: Hacking Begins
 
 - Day (ET): Thursday (ET)
 
-- PT: 10:00 AM PT
-
-- ET: 1:00 PM ET
-
-- UK: 6:00 PM UK
-
-- IST: 10:30 PM IST
-
 - Event: Hacking Begins
 
 ###### Row 2: Opening Ceremony
-
-- Day (ET): Friday (ET)
 
 - PT: 9:00 AM PT
 
@@ -5284,8 +4155,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 4: Hacking Ends / Final Submission due on Devpost
 
-- Day (ET): Sunday (ET)
-
 - PT: 8:45 AM PT
 
 - ET: 11:45 AM ET
@@ -5298,29 +4167,11 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 5: Closing Ceremony
 
-- Day (ET): Sunday (ET)
-
-- PT: 9:00 AM PT
-
-- ET: 12:00 PM ET
-
-- UK: 5:00 PM UK
-
-- IST: 9:30 PM IST
-
 - Event: Closing Ceremony
 
 ###### Row 6: Final Winners Announced
 
 - Day (ET): Thursday (ET)
-
-- PT: 9:00 AM PT
-
-- ET: 12:00 PM ET
-
-- UK: 5:00 PM UK
-
-- IST: 9:30 PM IST
 
 - Event: Final Winners Announced
 
@@ -5372,13 +4223,13 @@ Amanda D'Avria
 - Final URL: [https://www.kenthackit.co.uk/](https://www.kenthackit.co.uk/)
 - Expanded FAQ/accordion controls: 12
 
-MLH Trust Badge [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/eu?utm_source=eu-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
+MLH Trust Badge
 
 Navigation Menu
 
 Social Media Logos
 
-Reduced gap from 12px to 8px, added align-items [[Image: Instagram]](https://www.instagram.com/kenthackit/) [[Image: Discord]](https://discord.com/invite/aBmuJaYMgD)
+Reduced gap from 12px to 8px, added align-items [Instagram](https://www.instagram.com/kenthackit/) [Discord](https://discord.com/invite/aBmuJaYMgD)
 
 #### KENTHACKIT
 
@@ -5404,15 +4255,9 @@ Countdown Section for KentHackIt
 
 Days
 
-0
-
 Hours
 
-0
-
 Minutes
-
-0
 
 Seconds
 
@@ -5494,17 +4339,17 @@ Coming soon...
 
 ##### Partners
 
-[[Image: Major League Hacking]](https://mlh.io/)
+[Major League Hacking](https://mlh.io/)
 
-[[Image: Hackathons UK]](https://www.hackathons.org.uk/)
+[Hackathons UK](https://www.hackathons.org.uk/)
 
-[[Image: University of Kent School of Computing]](https://www.kent.ac.uk/school-of-computing)
+[University of Kent School of Computing](https://www.kent.ac.uk/school-of-computing)
 
 ##### Past Sponsors
 
-[[Image: For Good Tech]](https://forgood.tech/)
+[For Good Tech](https://forgood.tech/)
 
-[[Image: RMS Diagnostics]](https://www.youtube.com/@rmsdiagnostics)
+[RMS Diagnostics](https://www.youtube.com/@rmsdiagnostics)
 
 Back to Top Button
 
@@ -5514,8 +4359,6 @@ Back to Top Button
 - Rendered title: MasseyHacks XII
 - Final URL: [https://masseyhacks.ca/](https://masseyhacks.ca/)
 - Expanded FAQ/accordion controls: 13
-
-[Image: MasseyHacks XII Logo]
 
 #### MasseyHacks XII
 
@@ -5528,9 +4371,6 @@ MasseyHacks XII has concluded! See you at MasseyHacks XIII in 2027!
 MasseyHacks is a high school hackathon perfect for students fascinated by the world of technology. This 24-hour event is an opportunity for students to explore the realm of computer science and bring their creative ideas to life by developing a project of their own. Never written a line of code in your life? Already created a robot to do your homework? No matter your skill level, we invite you to join us as a hacker to participate in workshops, engage in countless activities, and meet other like-minded students! Create memories and guide the story of your STEM journey at MasseyHacks XII!
 
 ##### Gallery
-
-- [Image: MasseyHacks gallery image 1]
-- [Image: MasseyHacks gallery image 2]
 
 #### Schedule
 
@@ -5692,15 +4532,15 @@ The MasseyHacks XI [transparency report](https://masseyhacks.ca/assets/transpare
 
 ###### Gold
 
-[[Image: st]](https://www.stclaircollege.ca)
+[st](https://www.stclaircollege.ca)
 
 ###### Silver
 
-[[Image: LendCity]](https://lendcity.ca/) [[Image: University of Waterloo]](https://uwaterloo.ca/science/)
+[LendCity](https://lendcity.ca/) [University of Waterloo](https://uwaterloo.ca/science/)
 
 ###### Bronze
 
-[[Image: University of British Columbia - Faculty of Applied Science]](https://engineering.ubc.ca) [[Image: Brilliant]](https://brilliant.org/) [[Image: CodeCrafters]](https://codecrafters.io/) [[Image: Leading Aces]](https://www.leadingaces.com/) [[Image: MNSi]](https://www.mnsi.net/) [[Image: Uoft]](https://web.cs.toronto.edu) [[Image: uwin]](https://www.uwindsor.ca/business/) [[Image: shopify]](https://www.shopify.com/ppc/online-store?term=shopify&adid=784124018876&campaignid=15436644439&branded_enterprise=1&BOID=brand&utm_medium=cpc&utm_source=google&matchtype=e&network=g&gad_source=1&gad_campaignid=15436644439&gbraid=0AAAAADp4t0prWvdvQ0aqaglABe8lJsDuU&gclid=CjwKCAjwtcHPBhADEiwAWo3sJp7-Bj43OSdQXsLJ1SfERgf8U-brOWC16bMt-TWFq9-WJZ1VCD0F6xoCZMgQAvD_BwE) [[Image: rocket]](https://rocketinnovationstudio.ca) [[Image: ie]](https://windsor.ieee.ca)
+[University of British Columbia - Faculty of Applied Science](https://engineering.ubc.ca) [Brilliant](https://brilliant.org/) [CodeCrafters](https://codecrafters.io/) [Leading Aces](https://www.leadingaces.com/) [MNSi](https://www.mnsi.net/) [Uoft](https://web.cs.toronto.edu) [uwin](https://www.uwindsor.ca/business/) [shopify](https://www.shopify.com/ppc/online-store?term=shopify&adid=784124018876&campaignid=15436644439&branded_enterprise=1&BOID=brand&utm_medium=cpc&utm_source=google&matchtype=e&network=g&gad_source=1&gad_campaignid=15436644439&gbraid=0AAAAADp4t0prWvdvQ0aqaglABe8lJsDuU&gclid=CjwKCAjwtcHPBhADEiwAWo3sJp7-Bj43OSdQXsLJ1SfERgf8U-brOWC16bMt-TWFq9-WJZ1VCD0F6xoCZMgQAvD_BwE) [rocket](https://rocketinnovationstudio.ca) [ie](https://windsor.ieee.ca)
 
 ### Website 15: INTERHACK BCN
 - Card URL: [https://www.interhackbcn.com](https://www.interhackbcn.com)
@@ -5708,12 +4548,6 @@ The MasseyHacks XI [transparency report](https://masseyhacks.ca/assets/transpare
 - Rendered title: INTERHACK BCN
 - Final URL: [https://www.interhackbcn.com/](https://www.interhackbcn.com/)
 - Expanded FAQ/accordion controls: 9
-
-[Image: English] [Image: Català]
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/eu?utm_source=eu-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
-
-[Image: INTERHACK BCN]
 
 9–10 MAY 2026
 
@@ -5733,18 +4567,6 @@ A 36-hour sprint where a designer from one school, a coder from another, and a d
 
 Everyone is invited! Laptop, student ID, and curiosity to stay awake for 36 hours? You belong here. We don't care about your major or which logo is on your tuition bill.
 
-[Image: Venue 1]
-
-[Image: Venue 2]
-
-[Image: Venue 3]
-
-[Image: Venue 4]
-
-[Image: Venue 5]
-
-[Image: Venue 6]
-
 Barcelona Activa
 
 PRIZE POOL
@@ -5759,15 +4581,11 @@ Stop building in a bubble. We are finally bringing together every student in Bar
 
 Run the show. Be the engine behind the event. Help us bridge the gap between campuses and experience the chaos from the inside.
 
-Applications Closed
-
 Assistant applications are now closed. Thank you to everyone who signed up!
 
 ###### JOIN AS PARTICIPANT
 
 Applications are open! Register now and secure your spot.
-
-Applications Closed
 
 Applications are now closed. Thank you to everyone who applied!
 
@@ -5899,31 +4717,27 @@ Our partners support an open, interuniversity space where ideas mix, skills comp
 
 ###### Main Sponsor
 
-[[Image: Inibsa]](https://inibsa.es)
+[Inibsa](https://inibsa.es)
 
 ###### Challenge Sponsors
 
-[[Image: Damm]](https://www.damm.com/es) [[Image: Qualcomm]](https://www.qualcomm.com)
+[Damm](https://www.damm.com/es) [Qualcomm](https://www.qualcomm.com)
 
 ###### Institutional Partners
 
-[[Image: Ajuntament de Barcelona]](https://www.barcelona.cat) [[Image: Barcelona Activa]](https://www.barcelonactiva.cat) [[Image: Bit Habitat]](https://www.bithabitat.barcelona)
+[Ajuntament de Barcelona](https://www.barcelona.cat) [Barcelona Activa](https://www.barcelonactiva.cat) [Bit Habitat](https://www.bithabitat.barcelona)
 
 ###### University Partners
 
-[[Image: UB]](https://web.ub.edu) [[Image: UAB]](https://www.uab.cat) [[Image: Barcelona Knowledge Alliance]](https://www.bka.cat) [[Image: UPC]](https://www.upc.edu) [[Image: UPF]](https://www.upf.edu)
+[UB](https://web.ub.edu) [UAB](https://www.uab.cat) [Barcelona Knowledge Alliance](https://www.bka.cat) [UPC](https://www.upc.edu) [UPF](https://www.upf.edu)
 
 ###### Venue Partners
 
-[[Image: 42 Barcelona]](https://www.42barcelona.com/es/)
-
-[Image: Barcelona Talent Digital]
+[42 Barcelona](https://www.42barcelona.com/es/)
 
 ###### Supporting Partners
 
-[Image: EHUB]
-
-[[Image: Mobile World Capital Barcelona]](https://www.mwcbarcelona.com/mobile-world-capital-barcelona) [[Image: Tail'ed Community]](https://tailed.ca)
+[Mobile World Capital Barcelona](https://www.mwcbarcelona.com/mobile-world-capital-barcelona) [Tail'ed Community](https://tailed.ca)
 
 Interested in sponsoring INTERHACK BCN?
 
@@ -5942,106 +4756,106 @@ Prizes are subject to change
 
 ALL GENERAL TECHNICAL DESIGN BUSINESS SPONSOR NON-PROFIT MLH
 
-###### Best Hack for Social Good1st Place: 2026 Macbook Neo2nd Place: Electric Scooter[Image: 2026 Macbook Neo][Image: Electric Scooter]ELIGIBILITY CRITERIA
+###### Best Hack for Social Good1st Place: 2026 Macbook Neo2nd Place: Electric ScooterELIGIBILITY CRITERIA
 
 Encapsulate your authentic idea of what "social good" can look like. All entries are automatically considered for this prize category. The Student Startup Center believes that a great idea can go a long way with the right support. They are offering an automatic interview for their Entrepreneur in Residence (EIR) program to the winning team of the Best Hack for Social Good. This opportunity is designed to help students continue building their project into a viable business throughout the school year. • The Prize: A guaranteed interview for the EIR program, which includes milestone-based funding to support your startup's growth. • Eligibility: To be eligible for this specific prize, the entire team must consist of current UC Davis students.
 
-###### Hacker's Choice AwardHackDavis Swag Bag (Tote, Stickers, Keychains)[Image: HackDavis Swag Bag (Tote, Stickers, Keychains)]ELIGIBILITY CRITERIA
+###### Hacker's Choice AwardHackDavis Swag Bag (Tote, Stickers, Keychains)ELIGIBILITY CRITERIA
 
 Awarded to the project with the most votes from our 2026 hackers. All entries are automatically considered for this prize category. Vote for any project but your own!
 
-###### Most Technically Challenging HackAULA F75 75% Wireless Mechanical Keyboard[Image: AULA F75 75% Wireless Mechanical Keyboard]ELIGIBILITY CRITERIA
+###### Most Technically Challenging HackAULA F75 75% Wireless Mechanical KeyboardELIGIBILITY CRITERIA
 
 Projects must showcase breadth and application of technical knowledge. Focuses on use of advanced technical tools + algorithms/data structures, integration of multiple technologies, quality of implementation, displays technical depth, graded on performance/scalability.
 
-###### Best Beginner HackKOORUI 24 Inch Curved Monitor[Image: KOORUI 24 Inch Curved Monitor]ELIGIBILITY CRITERIA
+###### Best Beginner HackKOORUI 24 Inch Curved MonitorELIGIBILITY CRITERIA
 
 Every team member must be a first-time hacker in order to qualify. Demonstrate a high level of growth through this project. Foster creativity and collaboration within the team and display a commitment to building skills.
 
-###### Best Interdisciplinary Hack$50 Amazon Giftcard[Image: $50 Amazon Giftcard]ELIGIBILITY CRITERIA
+###### Best Interdisciplinary Hack$50 Amazon GiftcardELIGIBILITY CRITERIA
 
 Leverage multiple perspectives across different disciplines to create a more well-rounded project. At least one member of the team needs to be a non-CS/CSE/otherwise CS-related major in order to qualify.
 
-###### Most Creative HackMini Projector[Image: Mini Projector]ELIGIBILITY CRITERIA
+###### Most Creative HackMini ProjectorELIGIBILITY CRITERIA
 
 Projects should demonstrate originality, showcase out-of-the-box thinking, and captivate its audience.
 
-###### Best Hardware HackLogitech G305 Lightspeed Wireless Gaming Mouse[Image: Logitech G305 Lightspeed Wireless Gaming Mouse]ELIGIBILITY CRITERIA
+###### Best Hardware HackLogitech G305 Lightspeed Wireless Gaming MouseELIGIBILITY CRITERIA
 
 Effectively integrate a hardware component to your final project. The final project should be functional, user-friendly, and interactive.
 
-###### Best Hack for Social JusticeGoogle TV Streamer 4K[Image: Google TV Streamer 4K]ELIGIBILITY CRITERIA
+###### Best Hack for Social JusticeGoogle TV Streamer 4KELIGIBILITY CRITERIA
 
 Hack must address a social justice issue such as racial inequality, economic injustice, environmental justice, etc. This project should develop tangible solutions and/or raise awareness on these topics.
 
-###### Best User ResearchChatGPT+ (4 month subscription)[Image: ChatGPT+ (4 month subscription)]ELIGIBILITY CRITERIA
+###### Best User ResearchChatGPT+ (4 month subscription)ELIGIBILITY CRITERIA
 
 Awarded to a well-researched project that keeps its userbase in mind with an inclusive design aimed to maximize accessibility.
 
-###### Best Entrepreneurship HackThe North Face Borealis Backpack[Image: The North Face Borealis Backpack]ELIGIBILITY CRITERIA
+###### Best Entrepreneurship HackThe North Face Borealis BackpackELIGIBILITY CRITERIA
 
 No Code Required. A project that focuses on viability and persuasive power through presentation on the product/service you're trying to sell, relevant customer segments, distribution channels, and associated revenue/profit models.
 
-###### Best Statistical ModelBluetooth Speaker[Image: Bluetooth Speaker]ELIGIBILITY CRITERIA
+###### Best Statistical ModelBluetooth SpeakerELIGIBILITY CRITERIA
 
 Projects must use exploratory data analysis (EDA) to guide their modeling decisions and hypotheses. Final models should include significance tests and be evaluated with metrics like MSE, R², adjusted R², precision, or recall, demonstrating clear statistical reasoning aligned with the project's core question or goal.
 
-###### Best AI/ML Hack (Sponsored by Anthropic)$750 in Claude API credits[Image: $750 in Claude API credits]ELIGIBILITY CRITERIA
+###### Best AI/ML Hack (Sponsored by Anthropic)$750 in Claude API creditsELIGIBILITY CRITERIA
 
 Project must have unique/creative AI functionality, clean data, accuracy in metrics, presence of high-quality data, utilizing relevant algorithms + ML libraries and/or cloud platforms for development. Participants should show how they collected their data and explain how their AI imitates the human mind. We encourage that models work accurately on unseen circumstances (displays versatility). Sponsored by Anthropic.
 
-###### Best UI/UX Design (Sponsored by Figma)Sony WH-1000XM5 Wireless Noise-Canceling Headphones[Image: Sony WH-1000XM5 Wireless Noise-Canceling Headphones]ELIGIBILITY CRITERIA
+###### Best UI/UX Design (Sponsored by Figma)Sony WH-1000XM5 Wireless Noise-Canceling HeadphonesELIGIBILITY CRITERIA
 
 Project uses Figma to create beautiful design and intuitive web experiences that bring joy to users. Shows that the project is not only functional but also delightful, demonstrates wireframing in Figma, responsive design and promotes intuitive user experiences. Sponsored by Figma.
 
-###### Best Use of DAC Materials (Sponsored by Davis Autonomy Club)$10,000 Daytona infrastructure credits[Image: $10,000 Daytona infrastructure credits]ELIGIBILITY CRITERIA
+###### Best Use of DAC Materials (Sponsored by Davis Autonomy Club)$10,000 Daytona infrastructure creditsELIGIBILITY CRITERIA
 
 Project must incorporate one or more of DAC's materials with a vision-based AI pipeline, implementing and/or configuring concepts such as Vision-Language Models (VLMs) or Vision-Language-Action Models (VLAs) to connect real-world visual perception to physical robotic behavior. Sponsored by the Davis Autonomy Club.
 
-###### Best use of Reconstruct (Sponsored by Reconstruct)$125 Visa Gift Card per team member[Image: $125 Visa Gift Card per team member]ELIGIBILITY CRITERIA
+###### Best use of Reconstruct (Sponsored by Reconstruct)$125 Visa Gift Card per team memberELIGIBILITY CRITERIA
 
 Most creative use of Reconstruct in their project. Project must use Reconstruct in a prominent and efficient way to qualify for this prize track. Sponsored by Reconstruct.
 
-###### Best Hack for Women's CenterAnker Nano 3-in-1 Portable iPhone Charger[Image: Anker Nano 3-in-1 Portable iPhone Charger]ELIGIBILITY CRITERIA
+###### Best Hack for Women's CenterAnker Nano 3-in-1 Portable iPhone ChargerELIGIBILITY CRITERIA
 
 Projects must create a digital system to track donations as they come in and go out. Wellspring is looking for a straightforward, easy-to-use digital tool that helps staff and volunteers quickly log donated items, track how they are distributed, and generate basic reports when needed.
 
-###### Best Use of Gemini APIGoogle Swag Kits[Image: Google Swag Kits]ELIGIBILITY CRITERIA
+###### Best Use of Gemini APIGoogle Swag KitsELIGIBILITY CRITERIA
 
 It's time to push the boundaries of what's possible with AI using Google Gemini. Check out the Gemini API to build AI-powered apps that make your friends say WHOA. So, what can Gemini do for your hackathon project? • Understand language like a human and build a chatbot that gives personalized advice • Analyze info like a supercomputer and create an app that summarizes complex research papers • Generate creative content like code, scripts, music, and more Think of the possibilities… what will you build with the Google Gemini API this weekend? Judged by MLH.
 
-###### Best Use of ElevenLabsWireless Earbuds[Image: Wireless Earbuds]ELIGIBILITY CRITERIA
+###### Best Use of ElevenLabsWireless EarbudsELIGIBILITY CRITERIA
 
 Deploy natural, human-sounding audio with ElevenLabs. Create realistic, dynamic, and emotionally expressive voices for any project, from interactive AI companions to narrated stories and voice-enabled apps. ElevenLabs will empower you to build rich, immersive experiences without the need for actors or complex audio production, using simply the power of AI. Integrate fully autonomous audio experiences into your hack with ElevenLabs and give your project a voice, along with giving your team the chance to win some wireless earbuds! Judged by MLH.
 
-###### Best Use of SolanaLedger Nano S Plus[Image: Ledger Nano S Plus]ELIGIBILITY CRITERIA
+###### Best Use of SolanaLedger Nano S PlusELIGIBILITY CRITERIA
 
 The world of development is evolving fast and Solana is leading the charge with a network built to handle all of your infrastructure needs. Forget high fees and slow confirmations, it's time to build applications that are fast, efficient, and scalable. Harness Solana's core advantages like blazing fast execution and near-zero transaction costs to make your hackathon ideas become real world projects. With Solana, the possibilities are endless. • Create a game, social app, or consumer product that relies on instant, high-frequency transactions. • Design a sophisticated trading, lending, or decentralized exchange (DEX). • Build a prototype for supply chain, identity, or payments that can handle massive, real-world volume. Show us how you can innovate with Solana for a chance to win some cool prizes for you and each member of your team! Judged by MLH.
 
-###### Best Use of BackboardTile Essentials Pack[Image: Tile Essentials Pack]ELIGIBILITY CRITERIA
+###### Best Use of BackboardTile Essentials PackELIGIBILITY CRITERIA
 
 Every AI model API is stateless by default. That means your app forgets everything the second a session ends. State management should be the first step of any AI build, regardless of what LLM you are using, and Backboard gives you that for free. But Backboard is not just state management. It is a single, unified API built on the world's #1 AI memory that gives you everything you need in one place: long-term memory, RAG, embeddings, tool calls, model routing across 17,000+ LLMs, and persistent context that stays alive across every page refresh, session, and user. No stitching together five different services. One API. One integration. Built on the best memory in AI. Here's just a small list of things Backboard can make possible for your AI app! • AI-powered Travel Guide: Remembers allergies and preferences from past trips. • Personalized Fitness Coach: Adjusts workouts based on progress and injury history. • Smart Home Controller: Learns routines over time to anticipate lighting and climate preferences! Use Backboard to build a seamless, persistent user experience without the usual infrastructure headache! Each winning team member will receive a Tiles Essentials Pack because, just like AI, we all need an occasional reminder of where things are! Judged by MLH.
 
-###### Best Use of VultrPortable Screens[Image: Portable Screens]ELIGIBILITY CRITERIA
+###### Best Use of VultrPortable ScreensELIGIBILITY CRITERIA
 
 Vultr empowers hackers to bring their high-performance projects to life instantly; providing everything from the speed of one-click deployment and scalable cloud compute, to specialized Vultr Cloud GPUs that can power AI-driven applications. We want you to push the limits of what can be built when infrastructure is no longer the bottleneck! Sign up for a Vultr account today and claim your free cloud credits! Take your next hack to the cloud with Vultr for a chance to win some awesome portable screens for you and your team! Judged by MLH.
 
-###### Best Use of MongoDB AtlasM5Stack IoT Kit[Image: M5Stack IoT Kit]ELIGIBILITY CRITERIA
+###### Best Use of MongoDB AtlasM5Stack IoT KitELIGIBILITY CRITERIA
 
 MongoDB Atlas takes the leading modern database and makes it accessible in the cloud! Get started with a $50 credit for students or sign up for the Atlas free forever tier (no credit card required). Along with a suite of services and functionalities, you'll have everything you need to manage all of your data, and you can get a headstart with free resources from MongoDB University! Build a hack using MongoDB Atlas for a chance to win a M5Stack IoT Kit for you and each member of your group. Judged by MLH.
 
-###### Best Domain Name from GoDaddy RegistryDigital Gift Card[Image: Digital Gift Card]ELIGIBILITY CRITERIA
+###### Best Domain Name from GoDaddy RegistryDigital Gift CardELIGIBILITY CRITERIA
 
 GoDaddy Registry is giving you everything you need to be the best hacker no matter where you are. Register your domain name with GoDaddy Registry for a chance to win some amazing prizes! Judged by MLH.
 
-### Website 17: NMIT Hacks 
+### Website 17: NMIT Hacks
 - Card URL: [https://nmithacks.com](https://nmithacks.com)
-- Referenced by: NMIT Hacks 
+- Referenced by: NMIT Hacks
 - Rendered title: NMIT Hacks 2026
 - Final URL: [https://www.nmithacks.com/](https://www.nmithacks.com/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: NMIT Hacks]](https://www.nmithacks.com/)
+[NMIT Hacks](https://www.nmithacks.com/)
 
 - [Home](https://www.nmithacks.com/)
 - [About](https://www.nmithacks.com/#about)
@@ -6053,15 +4867,9 @@ GoDaddy Registry is giving you everything you need to be the best hacker no matt
 - [FAQs](https://www.nmithacks.com/#faqs)
 - [Contact](https://www.nmithacks.com/#contact)
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/apac?utm_source=apac-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
 Your browser does not support the video tag.
 
-[Image: NMIT Hacks Logo]
-
 Powered by
-
-[Image: GitHub]
 
 National-Level 48-Hours Hackathon
 
@@ -6077,159 +4885,25 @@ Nitte University, Bangalore campus
 
 Registrations
 
-[Image: Registrations]
-
 On-Campus Participations
-
-[Image: On-Campus Participations]
 
 Reach on Social Media
 
-[Image: Reach on Social Media]
-
 ###### About NMIT Hacks
-
-[Image: About Us]
 
 NMIT Hacks builds a nationwide community of student innovators — connecting participants from top institutions with industry mentors. Over multiple editions we provide learning, collaboration and career-growth opportunities through a mix of digital and on-campus activities.
 
 ###### Expect Great Things
 
-[Image: Expect great things]
-
 Mentors from industry, hands-on workshops, and curated challenges give you the tools to build, present, and scale great ideas. Expect mentorship, judged tracks, and prizes that help projects move forward.
 
 ###### All Students Welcome!
-
-[Image: All Students Welcome]
 
 Beginners and experienced hackers both thrive here — no entry fee required. Teams, solo participants, and students from any discipline are encouraged to join, learn, and collaborate.
 
 ##### Gallery
 
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
-[Image: Gallery Image]
-
 ##### Tracks
-
-[Image: Game Dev]
 
 ###### Game Dev
 
@@ -6237,51 +4911,29 @@ Bring virtual worlds to life, crafting captivating and interactive gaming experi
 
 Active Track
 
-[Image: IOT]
-
 ###### IOT
 
 Witness the convergence of software and hardware to implement solutions that leverage the power of IoT.
-
-Active Track
-
-[Image: AI & ML]
 
 ###### AI & ML
 
 Push the boundaries of intelligent systems in the cutting-edge world of AI & ML.
 
-Active Track
-
-[Image: Blockchain / Cybersecurity]
-
 ###### Blockchain / Cybersecurity
 
 Secure decentralized systems and protect digital assets in the evolving landscape of Web3 and security.
-
-Active Track
-
-[Image: Open Innovation]
 
 ###### Open Innovation
 
 Embrace the freedom to explore tech frontiers, fostering ideas that break boundaries.
 
-Active Track
-
 ##### Prizes
 
 ₹ 30,000
 
-[Image: 2nd Place]
-
 ₹ 50,000
 
-[Image: 1st Place]
-
 ₹ 20,000
-
-[Image: 3rd Place]
 
 Track Prizes
 
@@ -6289,81 +4941,45 @@ Track Prizes
 
 ##### Our Sponsors
 
-[[Image: GitHub]GitHubTitle Sponsor](https://github.com/)
+[GitHubTitle Sponsor](https://github.com/)
 
-[[Image: Yellow Hills AI]Yellow Hills AIPlatinum Sponsor](https://yellowhills.ai/) [[Image: Hul-Chul LOGO]HulChulReferral Partner](https://hulchul.in/)
-
-[Image: Logitech LOGO]
+[Yellow Hills AIPlatinum Sponsor](https://yellowhills.ai/) [HulChulReferral Partner](https://hulchul.in/)
 
 ###### Logitech
 
 Platinum Sponsor
 
-[[Image: HackCulture]HackCulturePlatinum Sponsor](https://hackculture.in/) [[Image: Render LOGO]RenderSilver Sponsor](https://render.com/) [[Image: DEVFOLIO LOGO]DevfolioCommunity Partner](https://devfolio.co/) [[Image: MLH LOGO]Major League HackingCommunity Partner](https://mlh.io/) [[Image: DEV ARMY LOGO]theDevArmyCommunity Partner](https://thedevarmy.com/)
-
-[Image: Backboard Logo]
+[HackCulturePlatinum Sponsor](https://hackculture.in/) [RenderSilver Sponsor](https://render.com/) [DevfolioCommunity Partner](https://devfolio.co/) [Major League HackingCommunity Partner](https://mlh.io/) [theDevArmyCommunity Partner](https://thedevarmy.com/)
 
 ###### backboard.io
 
 MLH League Partner
 
-[Image: ElevenLabs Logo]
-
 ###### ElevenLabs
-
-MLH League Partner
-
-[Image: Google Cloud Logo]
 
 ###### Google Cloud
 
-MLH League Partner
-
-[Image: Snowflake Logo]
-
 ###### Snowflake
-
-MLH League Partner
-
-[Image: Solana Logo]
 
 ###### Solana
 
-MLH League Partner
-
-[Image: Vultr Logo]
-
 ###### Vultr
 
-MLH League Partner
-
-[Image: MongoDB Logo]
-
 ###### MongoDB
-
-MLH League Partner
-
-[Image: OS Code LOGO]
 
 ###### OSCode
 
 Ecosystem Partner
 
-[Image: n8n LOGO]
-
 ###### n8n
 
 In-kind Sponsor
 
-[[Image: Featherless LOGO]FeatherlessIn-kind Sponsor](https://featherless.ai/)
-
-[Image: .xyz LOGO]
+[FeatherlessIn-kind Sponsor](https://featherless.ai/)
 
 ###### .xyz
 
 In-kind Sponsor
-
-[Image: Give My Certificate LOGO]
 
 ###### Give My Certificate
 
@@ -6490,25 +5106,17 @@ Check-out
 
 Tech Team Operations Team Sponsorship Team Design Team Social Media Team Content Team DevFolio Team
 
-[Image: Abhay Surya]
-
 ###### Abhay Surya
 
 Tech Co-Lead
-
-[Image: Gurucharan M]
 
 ###### Gurucharan M
 
 Tech Co-Lead
 
-[Image: Alex Catchick]
-
 ###### Alex Catchick
 
 Tech Mentor
-
-[Image: Yashas C Raju]
 
 ###### Yashas C Raju
 
@@ -6518,33 +5126,19 @@ Tech Mentor
 
 ###### 1. What is a Hackathon?
 
-+
-
 ###### 2. Is this an online event?
-
-+
 
 ###### 3. Who can participate?
 
-+
-
 ###### 4. How can I get involved?
-
-+
 
 ###### 5. What is the limit on the team size?
 
-+
-
 ###### 6. Is there a registration fee?
-
-+
 
 More
 
 ##### Contact Us
-
-[Image: Nitte Meenakshi Institute of Technology] [Image: NMIT Hacks Logo]
 
 You can visit us 😊
 
@@ -6661,57 +5255,55 @@ Presenting Sponsor
 
 PRESENTING SPONSOR
 
-[[Image: Conestoga Computing Society]](https://conestogacomputingsociety.com/)
+[Conestoga Computing Society](https://conestogacomputingsociety.com/)
 
 Sponsor Grid
 
 Row 1: Lovable & ElevenLabs
 
-[[Image: Lovable]](https://lovable.dev/)
+[Lovable](https://lovable.dev/)
 
-[[Image: ElevenLabs]](https://elevenlabs.io/)
+[ElevenLabs](https://elevenlabs.io/)
 
 Row 2: Featherless & GitHub
 
-[[Image: Featherless AI]](https://featherless.ai/)
+[Featherless AI](https://featherless.ai/)
 
-[[Image: GitHub]](https://github.com/)
+[GitHub](https://github.com/)
 
 Row 3: Pure Buttons & Framer
 
-[[Image: Pure Buttons]](https://www.purebuttons.com/)
-
-[[Image: Framer]](https://www.framer.com/)
+[Pure Buttons](https://www.purebuttons.com/)
 
 Row 4: Scout & Black Belt World
 
-[[Image: Scout]](https://scoutqa.ai/)
+[Scout](https://scoutqa.ai/)
 
-[[Image: Black Belt World]](https://blackbeltworld.ca/locations/kitchener/)
+[Black Belt World](https://blackbeltworld.ca/locations/kitchener/)
 
 Row 5: Nord Security - NordVPN & Incogni
 
-[[Image: NordVPN]](https://nordvpn.com/hackathons)
+[NordVPN](https://nordvpn.com/hackathons)
 
-[[Image: Incogni]](https://incogni.com/)
+[Incogni](https://incogni.com/)
 
 Row 6: Nord Security - NordPass & Saily
 
-[[Image: NordPass]](https://nordpass.com/)
+[NordPass](https://nordpass.com/)
 
-[[Image: Saily]](https://saily.com/)
+[Saily](https://saily.com/)
 
 Row 7: Nord Security - NordProtect & Nexos.ai
 
-[[Image: NordProtect]](https://nordprotect.com/)
+[NordProtect](https://nordprotect.com/)
 
-[[Image: Nexos.ai]](https://nexos.ai/)
+[Nexos.ai](https://nexos.ai/)
 
 COMMUNITY PARTNERS
 
 ##### COMMUNITY PARTNERS
 
-[[Image: Conestoga Students Inc (CSI)]](https://www.conestogastudents.com/) [[Image: Conestoga Entrepreneurship Collective]](https://research.conestogac.on.ca/conestoga-entrepreneurship-collective) [[Image: VentureLab Tech]](https://research.conestogac.on.ca/conestoga-entrepreneurship-collective/programs/venturelab) [[Image: Tail'ed]](https://tailed.ca/) [[Image: GDG on Campus - Conestoga College]](https://gdg.community.dev/gdg-on-campus-conestoga-college-waterloo-campus-waterloo-canada/) [[Image: IT Club - Conestoga College]](https://www.linkedin.com/company/itclub-conestoga/) [[Image: Conestoga Cyber Security Association (CCSA)]](https://www.conestogastudents.com/organisation/6465/)
+[Conestoga Students Inc (CSI)](https://www.conestogastudents.com/) [Conestoga Entrepreneurship Collective](https://research.conestogac.on.ca/conestoga-entrepreneurship-collective) [VentureLab Tech](https://research.conestogac.on.ca/conestoga-entrepreneurship-collective/programs/venturelab) [Tail'ed](https://tailed.ca/) [GDG on Campus - Conestoga College](https://gdg.community.dev/gdg-on-campus-conestoga-college-waterloo-campus-waterloo-canada/) [IT Club - Conestoga College](https://www.linkedin.com/company/itclub-conestoga/) [Conestoga Cyber Security Association (CCSA)](https://www.conestogastudents.com/organisation/6465/)
 
 SCHEDULE
 
@@ -6781,8 +5373,6 @@ Split among team. Certificate. Bragging rights. Free ticket to ConHacks 2027. Ac
 
 $400 CAD
 
-Split among team. Certificate. Bragging rights. Free ticket to ConHacks 2027. Access to CCS exec opportunities.
-
 ###### CATEGORY PRIZES
 
 ###### Best Beginner Hack
@@ -6793,13 +5383,9 @@ Outstanding project created entirely by a team of first-time hackers.
 
 ###### Best UI/UX
 
-$200 CAD
-
 Most intuitive design, seamless user flow, and superior visual polish.
 
 ###### Best Tech Complexity
-
-$200 CAD
 
 Most impressive code, algorithm, or backend engineering.
 
@@ -6865,15 +5451,11 @@ MEET THE ORGANIZERS
 
 ##### MEET THE ORGANIZERS
 
-[Image: Anish Reddy]
-
 ###### Anish Reddy
 
 Lead Organizer
 
 [LinkedIn](https://www.linkedin.com/in/anishreddyk/)
-
-[Image: Muhammad Inshal Farid]
 
 ###### Inshal Farid
 
@@ -6881,39 +5463,27 @@ Deputy Organizer
 
 [LinkedIn](https://www.linkedin.com/in/minshal/)
 
-[Image: Praise Prince]
-
 ###### Praise Prince
 
 Team Member
 
 [LinkedIn](https://www.linkedin.com/in/praiseprince/)
 
-[Image: Jerin Pious]
-
 ###### Jerin Pious
-
-Team Member
 
 [LinkedIn](https://www.linkedin.com/in/jerin-pious/)
 
-[Image: Arsh Chauhan]
-
 ###### Arsh Chauhan
-
-Team Member
 
 [LinkedIn](https://www.linkedin.com/in/arshchau/)
 
 APPLICATIONS CLOSED
 
-We've hit our limit! Applications for ConHacks 2026 are now closed.
-
 See you next year!
 
-### Website 20: Hack Arizona 
+### Website 20: Hack Arizona
 - Card URL: [https://hack.arizona.edu/](https://hack.arizona.edu/)
-- Referenced by: Hack Arizona 
+- Referenced by: Hack Arizona
 - Rendered title: Home | Hack Arizona
 - Final URL: [https://hack.arizona.edu/](https://hack.arizona.edu/)
 - Expanded FAQ/accordion controls: 2
@@ -6972,21 +5542,15 @@ HackDay delivered innovation, teamwork, and big ideas. 52 students built 22 proj
 
 To view all projects from Hack Arizona 2025, please visit our [DevPost](https://hack-arizona-2025.devpost.com/project-gallery)!
 
-[Image: Students in Library]
-
 ###### What is Hack Arizona?
 
 Hack AZ is a signature academic event at the University of Arizona and the premier hackathon event in the Southwestern United States.
 
 A hackathon is a time bound event that offers participants an opportunity to work together in teams to develop solutions to a specific problem.
 
-[Image: Students in Green Room]
-
 ###### Who can participate?
 
 Event participation is open to undergraduate and graduate students in the state of Arizona!
-
-[Image: Students with Bear Down Poster]
 
 ###### How do I get involved?
 
@@ -7017,10 +5581,6 @@ HACKAZ@ARIZONA.EDU
 - Final URL: [https://broncohacks.org/](https://broncohacks.org/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
-
-[Image: Balloon]
-
 #### BRONCOHACKS
 
 Hosted by Cal Poly Pomona
@@ -7035,8 +5595,6 @@ April 25–26
 
 BroncoHacks is a 24-hour event where students come together in teams of 1 to 4 members to develop projects that align with our event themes. Whether you're just starting or already an experienced coder, we welcome you to join our community of passionate hackers!
 
-[Image: Billy using a laptop] [Image: decor]
-
 ##### Cal Poly Pomona's Student-Led Hackathon Committee
 
 BroncoHacks is a student-led organization with the intended goal of bringing hackathon culture to CPP and the surrounding area. Since its establishment in 2023, Broncohacks has held "MiniHack", a 6 hour hackathon intended for beginners every fall, as well as BroncoHacks, a 24-hour in-person hackathon every spring. Our upcoming event, BroncoHacks 2026, will be held at the College of Business Administration and is open to students from all colleges, completely free of entry!
@@ -7047,8 +5605,6 @@ BroncoHacks is a student-led organization with the intended goal of bringing hac
 - Rendered title: KeanUHackThis
 - Final URL: [https://www.keanuhackthis.com/](https://www.keanuhackthis.com/)
 - Expanded FAQ/accordion controls: 0
-
-[Image: KeanUHackThis Cougar]
 
 #### KeanUHackThis,Redefined.Spring 2027.
 
@@ -7067,15 +5623,13 @@ Completely free. 24-hour overnight hackathon at Kean University. Open to all und
 
 TOP BAR
 
-[[Image: Discord]](https://discord.gg/hxfC5sp6H6) [[Image: Instagram]](https://www.instagram.com/hackabull/) [[Image: LinkedIn]](https://www.linkedin.com/company/shpe-usf/)
+[Discord](https://discord.gg/hxfC5sp6H6) [Instagram](https://www.instagram.com/hackabull/) [LinkedIn](https://www.linkedin.com/company/shpe-usf/)
 
-MLH BADGE ! [[Image: MLH 2026]](https://mlh.io)
+MLH BADGE ! [MLH 2026](https://mlh.io)
 
 HERO
 
 Website Logo
-
-#### [Image: HackaBull logo]
 
 HERO SUBTITLES (GROUPED so spacing stays consistent)
 
@@ -7087,7 +5641,7 @@ HERO APPLY CTA
 
 [APPLY NOW](https://luma.com/d7jhn2yp)
 
-SHPE LOGO (clickable link) [Image: SHPE]
+SHPE LOGO (clickable link)
 
 ABOUT
 
@@ -7095,23 +5649,13 @@ ABOUT
 
 Join Hackabull 2026, the seventh edition of USF's flagship 36-hour hackathon where innovation meets community. Collaborate with passionate hackers, turn bold ideas into real projects, and explore cutting-edge technology through workshops, mentorship, and sponsor challenges.
 
-36-hours event All meals provided <button class="pill-btn">+2000$ in Prizes</button> 200+ hackers
+36-hours event All meals provided +2000$ in Prizes 200+ hackers
 
 Want to learn more? Check our [FAQ](https://www.hackabull.com/#faq)
 
 TRACKS
 
 ##### TRACKS
-
-[Image: Tech for good]
-
-[Image: Art design]
-
-[Image: Hello world]
-
-[Image: Hardware]
-
-[Image: Healthcare]
 
 ###### Tech for good
 
@@ -7123,11 +5667,7 @@ JUDGES
 
 Meet the industry leaders and experts behind evaluating your projects!
 
-‹
-
-[Image: Judge Name] Linda Nguyen Microsoft [Image: Judge Name] Ijlal Sultan Bank of America [Image: Judge Name] Hung Truong Microsoft [Image: Judge Name] Jose Ramirez Meta [Image: Judge Name] Maho Pacheco Microsoft [Image: Judge Name] Nima Karimian USF [Image: Judge Name] Samuel Gonzalez Github [Image: Judge Name] Shashank Singh Bank of America [Image: Judge Name] Anny Dang SPRK [Image: Judge Name] Lily Hernandez Citi [Image: Judge Name] Maria Zapata Apple [Image: Judge Name] Neeraj Pillai Amazon [Image: Judge Name] Vijaya Kumar Katta Infinite Computer [Image: Judge Name] Yukti Lnu FM [Image: Judge Name] Tony Nguyen Tesla, Microsoft [Image: Judge Name] Shalini Sivasamy Webster Bank [Image: Judge Name] Linh T. Phan Whatnot [Image: Judge Name] Omar Lopez Jabil [Image: Judge Name] Yesha Patel IBM [Image: Judge Name] Tameem Tantawy AWS,Dropbox [Image: Judge Name] Mrunal Gangan JP Morgan Chase [Image: Judge Name] Kabir Sheikh Citi, Delta Air Lines
-
-›
+Linda Nguyen Microsoft Ijlal Sultan Bank of America Hung Truong Microsoft Jose Ramirez Meta Maho Pacheco Microsoft Nima Karimian USF Samuel Gonzalez Github Shashank Singh Bank of America Anny Dang SPRK Lily Hernandez Citi Maria Zapata Apple Neeraj Pillai Amazon Vijaya Kumar Katta Infinite Computer Yukti Lnu FM Tony Nguyen Tesla, Microsoft Shalini Sivasamy Webster Bank Linh T. Phan Whatnot Omar Lopez Jabil Yesha Patel IBM Tameem Tantawy AWS,Dropbox Mrunal Gangan JP Morgan Chase Kabir Sheikh Citi, Delta Air Lines
 
 GALLERY
 
@@ -7135,81 +5675,17 @@ GALLERY
 
 Check out our 2025 hackathons!
 
-[Image: Hackjam 2025] [Image: Hackjam 2025] [Image: Hackjam 2025] [Image: Hackjam 2025] [Image: Hackjam 2025]
-
-‹ ›
-
 HACKABULL 2025 & HACKJAM 2025
 
 SPONSORS
 
 ##### Sponsors & Partners
 
-[Image: MLH]
-
-[Image: NAULT]
-
-[Image: Microsoft]
-
-[Image: Velera]
-
-[[Image: Pure Buttons]](https://mlh.link/MLH-PureButtons-hackathons)
-
-[Image: Robobulls]
-
-[Image: SASE]
-
-[Image: WICSE]
-
-[Image: AMGEN]
-
-[Image: DTCC]
-
-[Image: SLATE]
+[Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons)
 
 Marquee ticker
 
-[Image: MLH]
-
-[Image: Microsoft]
-
-[Image: Velera]
-
-[Image: Pure Buttons]
-
-[Image: Robobulls]
-
-[Image: SASE]
-
-[Image: WICSE]
-
-[Image: NAULT]
-
-[Image: SLATE]
-
 Duplicate for seamless loop
-
-[Image: MLH]
-
-[Image: Microsoft]
-
-[Image: Velera]
-
-[Image: Pure Buttons]
-
-[Image: Robobulls]
-
-[Image: SASE]
-
-[Image: WICSE]
-
-[Image: NAULT]
-
-[Image: AMGEN]
-
-[Image: DTCC]
-
-[Image: SLATE]
 
 FAQ
 
@@ -7240,10 +5716,6 @@ Volunteers will be assigned shifts, so you won't need to be there the entire tim
 - Final URL: [https://www.bearhacks.com/](https://www.bearhacks.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Bear on left cloud] [Image: Bear on right cloud]
-
-[Image: BearHacks 2026]
-
 April 24th - 26th · Sheridan HMC Campus
 
 [Apply to Mentor](https://forms.gle/tHDDWRAXR5jy9guL9) [Apply to Judge](https://forms.gle/YBuZTevR6GorHKap6)
@@ -7264,21 +5736,11 @@ Problem-Solving
 
 Led to 12+ high-paying SWE internships!
 
-[Image: High-paying internships]
-
 $5000+ worth in prizes!
-
-[Image: Prizes]
 
 Core memories to be made!
 
-[Image: Core memories]
-
 ##### LAST YEAR WE HAD...
-
-[Image: Dartboard] [Image: Last year stats] [Image: Bee dart] [Image: Bee dart] [Image: Bee dart]
-
-[Image: Bear aiming] [Image: Bear throwing]
 
 ##### SCHEDULE OVERVIEW
 
@@ -7306,25 +5768,25 @@ Closing ceremony
 
 ##### OUR SPONSORS
 
-[[Image: Distributive]](https://distributive.network/)
+[Distributive](https://distributive.network/)
 
-[[Image: Google]](https://gdg.community.dev/gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada/)
+[Google](https://gdg.community.dev/gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada/)
 
-[[Image: City of Mississauga]](https://www.mississauga.ca/)
+[City of Mississauga](https://www.mississauga.ca/)
 
-[[Image: Scotiabank]](https://www.scotiabank.com/) [[Image: Tangerine]](https://www.tangerine.ca/)
+[Scotiabank](https://www.scotiabank.com/) [Tangerine](https://www.tangerine.ca/)
 
-[[Image: ElevenLabs]](https://elevenlabs.io/) [[Image: Backboard]](https://backboard.io/)
+[ElevenLabs](https://elevenlabs.io/) [Backboard](https://backboard.io/)
 
-[[Image: Red Bull]](https://www.redbull.com/ca-en) [[Image: Costco]](https://www.costco.ca/) [[Image: Gong Cha]](https://share.google/0bqJKKFGeopjq5mGw)
+[Red Bull](https://www.redbull.com/ca-en) [Costco](https://www.costco.ca/) [Gong Cha](https://share.google/0bqJKKFGeopjq5mGw)
 
-[[Image: Krispy Kreme]](https://krispykreme.ca) [[Image: MLH]](https://mlh.io/) [[Image: SiberX]](https://siberx.org/)
+[Krispy Kreme](https://krispykreme.ca) [MLH](https://mlh.io/) [SiberX](https://siberx.org/)
 
-[[Image: Cravings Co]](https://www.instagram.com/cravings__co?utm_source=bearhacks) [[Image: Featherless AI]](https://featherless.ai/) [[Image: Mobbin]](https://mobbin.com/)
+[Cravings Co](https://www.instagram.com/cravings__co?utm_source=bearhacks) [Featherless AI](https://featherless.ai/) [Mobbin](https://mobbin.com/)
 
-[[Image: NordVPN]](https://nordvpn.com/hackathons) [[Image: NordPass]](https://nordpass.com/) [[Image: Saily]](https://saily.com/)
+[NordVPN](https://nordvpn.com/hackathons) [NordPass](https://nordpass.com/) [Saily](https://saily.com/)
 
-[[Image: Incogni]](https://incogni.com/) [[Image: Nexos AI]](https://nexos.ai/) [[Image: SSU]](https://www.thessu.ca/)
+[Incogni](https://incogni.com/) [Nexos AI](https://nexos.ai/) [SSU](https://www.thessu.ca/)
 
 ##### Frequently asked questions
 
@@ -7380,337 +5842,137 @@ See you there. 🍯
 
 – Team BearHacks
 
-[Image: Bear final message]
-
 ##### Meet the team
-
-[Image: Cadline Boakye]
-
-[Image: Frame]
 
 ###### Cadline Boakye
 
 Illustration PM
 
-[Image: Emma Oliveira]
-
-[Image: Frame]
-
 ###### Emma Oliveira
 
 Illustrator
 
-[Image: Hanyi (Tracy) Jiang]
-
-[Image: Frame]
-
 ###### Hanyi (Tracy) Jiang
-
-Illustrator
-
-[Image: Hino Ing]
-
-[Image: Frame]
 
 ###### Hino Ing
 
-Illustrator
-
-[Image: Gowon An]
-
-[Image: Frame]
-
 ###### Gowon An
-
-Illustrator
-
-[Image: Rileigh Belarmino]
-
-[Image: Frame]
 
 ###### Rileigh Belarmino
 
-Illustrator
-
-[Image: Fatima Z.]
-
-[Image: Frame]
-
 ###### Fatima Z.
-
-Illustrator
-
-[Image: Imran Yafith]
-
-[Image: Frame]
 
 ###### Imran Yafith
 
 Co-Director
 
-[Image: Taimoor Aleem]
-
-[Image: Frame]
-
 ###### Taimoor Aleem
 
 Co-Director
-
-[Image: Aleks Bursac]
-
-[Image: Frame]
 
 ###### Aleks Bursac
 
 Founder
 
-[Image: Maram Jawass]
-
-[Image: Frame]
-
 ###### Maram Jawass
 
 Logistics Lead
-
-[Image: Maryam Elhamidi]
-
-[Image: Frame]
 
 ###### Maryam Elhamidi
 
 Logistics Lead
 
-[Image: Anya Popova]
-
-[Image: Frame]
-
 ###### Anya Popova
 
 Logistics
 
-[Image: George Farag]
-
-[Image: Frame]
-
 ###### George Farag
-
-Logistics
-
-[Image: Olesia Kuzminova]
-
-[Image: Frame]
 
 ###### Olesia Kuzminova
 
-Logistics
-
-[Image: Vidhi Kalal]
-
-[Image: Frame]
-
 ###### Vidhi Kalal
-
-Logistics
-
-[Image: Mikaela Olarte]
-
-[Image: Frame]
 
 ###### Mikaela Olarte
 
 Marketing Lead
 
-[Image: Rita Zhang]
-
-[Image: Frame]
-
 ###### Rita Zhang
 
 Marketing
-
-[Image: Adam Shaldam]
-
-[Image: Frame]
 
 ###### Adam Shaldam
 
 Marketing
 
-[Image: Seyon Sri]
-
-[Image: Frame]
-
 ###### Seyon Sri
 
 AV Lead / Marketing
-
-[Image: Frederik Hansen]
-
-[Image: Frame]
 
 ###### Frederik Hansen
 
 Outreach Lead
 
-[Image: Zack Overend]
-
-[Image: Frame]
-
 ###### Zack Overend
 
 Outreach
 
-[Image: Julius Nillo]
-
-[Image: Frame]
-
 ###### Julius Nillo
-
-Outreach
-
-[Image: Nicole Morenas]
-
-[Image: Frame]
 
 ###### Nicole Morenas
 
-Outreach
-
-[Image: Harsheta Sharma]
-
-[Image: Frame]
-
 ###### Harsheta Sharma
 
-Outreach
-
-[Image: Connor Uhrig]
-
-[Image: Frame]
-
 ###### Connor Uhrig
-
-Outreach
-
-[Image: Audrey Man]
-
-[Image: Frame]
 
 ###### Audrey Man
 
 Catering Lead
 
-[Image: Rishin Patel]
-
-[Image: Frame]
-
 ###### Rishin Patel
 
 Catering
-
-[Image: Tauheed Attar]
-
-[Image: Frame]
 
 ###### Tauheed Attar
 
 Catering
 
-[Image: Jon Marien]
-
-[Image: Frame]
-
 ###### Jon Marien
 
 Developer Lead
-
-[Image: Sebastian Vega]
-
-[Image: Frame]
 
 ###### Sebastian Vega
 
 Developer
 
-[Image: Aman Purohit]
-
-[Image: Frame]
-
 ###### Aman Purohit
-
-Developer
-
-[Image: Yves Donato]
-
-[Image: Frame]
 
 ###### Yves Donato
 
-Developer
-
-[Image: Nayan Mapara]
-
-[Image: Frame]
-
 ###### Nayan Mapara
-
-Developer
-
-[Image: Iman Kamran]
-
-[Image: Frame]
 
 ###### Iman Kamran
 
 Design Lead
 
-[Image: Olivia Ho]
-
-[Image: Frame]
-
 ###### Olivia Ho
 
 Web Design Lead
-
-[Image: Brianna Wright]
-
-[Image: Frame]
 
 ###### Brianna Wright
 
 Web Design Lead
 
-[Image: Allen Lin]
-
-[Image: Frame]
-
 ###### Allen Lin
 
 Design Advisor
-
-[Image: Adelaine Santaso]
-
-[Image: Frame]
 
 ###### Adelaine Santaso
 
 Design
 
-[Image: Sarah Al-Fkeih]
-
-[Image: Frame]
-
 ###### Sarah Al-Fkeih
 
-Design
-
-[Image: Xi (Celeste) Yan]
-
-[Image: Frame]
-
 ###### Xi (Celeste) Yan
-
-Design
 
 ### Website 25: HackUPC
 - Card URL: [https://hackupc.com](https://hackupc.com)
@@ -7719,37 +5981,17 @@ Design
 - Final URL: [https://hackupc.com/](https://hackupc.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: hackupc-logo] HackUPC
+HackUPC
 
 [Login](https://my.hackupc.com/)
 
-[Image: Dragon Frame 1]
-
-[Image: Dragon Frame 2]
-
-[Image: Cloud]
-
-[Image: Cloud]
-
-[Image: Cloud]
-
-[Image: Cloud]
-
-[Image: Hack UPC]
-
-[Image: Choose character]
-
-[[Image: Arch]HACKER](https://my.hackupc.com/user/signup/hacker/) [[Image: Arch]VOLUNTEER](https://my.hackupc.com/user/signup/volunteer/)
+[HACKER](https://my.hackupc.com/user/signup/hacker/) [VOLUNTEER](https://my.hackupc.com/user/signup/volunteer/)
 
 HackUPC: code the legend
-
-[Image: Dragon]
 
 What is a hackathon ?
 
 The word hackathon is a combination of the words " **HACK** ", standing for creative problem-solving, and **"MARATHON"** . These are awesome events full of creativity, technology, and passionate tech-related students of different skill ranges collaborating and creating. During a certain period of time, attendees work in **TEAMS** to develop apps, games, robots… literally anything you want to **BUILD & LEARN** about!
-
-[Image: HackUPC Logo]
 
 About HackUPC
 
@@ -7783,17 +6025,11 @@ Contact us
 
 Teaser
 
-[Image: Open teaser]
-
 Aftermovie
-
-[Image: Open aftermovie]
 
 DURING THE EVENT
 
 Coding is the main part of HackUPC, but we have many more activities!
-
-[Image: Map Desktop]
 
 THE MISSION: HACKUPC
 
@@ -7809,19 +6045,13 @@ In our live page you will find it out! It will be available before HackUPC so th
 
 We Also Provide
 
-[Image: Food]
-
 We've got you covered, we even have midnight snacks. Throughout the event there will be snacks, drinks, and coffee to revive your energy.
 
 Food
 
-[Image: Sleeping]
-
 We will provide some air mattresses both nights so you may descend into a deep slumber. While supplies last! Check out the [FAQs](https://hackupc.com/#faqs) for more info.
 
 Sleeping
-
-[Image: Sponsors]
 
 You can also visit our sponsors' stands or meet them remotely! They'll be available during the day and would love to talk to you! (You might get some swag as well)
 
@@ -7831,33 +6061,15 @@ FAQs
 
 About HackUPC
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What is HackUPC?
-
-[Image: answer image]
 
 HackUPC is the first student hackathon in Spain. This will be our eleventh edition with lots of side activities to learn new technologies, meet interesting people and have fun. Come and make history with us!
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 When is HackUPC?
-
-[Image: answer image]
 
 The opening ceremony starts at 7:00 p.m. on Friday, April 24th. We expect to close this year’s edition by 5:00 p.m. on Sunday, April 26th.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 Where is HackUPC?
-
-[Image: answer image]
 
 HackUPC will take place in
 
@@ -7865,35 +6077,17 @@ HackUPC will take place in
 
 FIB and ETSETB buildings (A3, A4, A5 and A6) in sunny Barcelona. Expect temperatures from 15ºC to 25ºC!
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What does HackUPC provide?
-
-[Image: answer image]
 
 HackUPC is free for all accepted hackers. We will provide you with Wi-Fi, swag, workspaces with power outlets (Type F plug), and meals (including breakfast, lunch, dinner, and snacks during the night). There will be access to the showers in a specific schedule (they will be in the gym so if you don't like shared showers, bring also a swimming suit). For the nights we will have mattresses to relax in the sleep-enabled classrooms (there will not be one mattress per person).
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What can I build?
-
-[Image: answer image]
 
 You can build any tech-related project. We do not have restrictions over the topic. Some examples are web pages, mobile apps, hardware projects, games, an API... Remember that you can also use a variety of hardware components, from Arduino kits and Raspberry Pi's, to Amazon Echo dots and Myo Arm. Once the event starts you will have the catalogue will all the available hardware on
 
 [my.hackupc.com](https://my.hackupc.com)
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What should I bring?
-
-[Image: answer image]
 
 All attendees must bring the following:
 
@@ -7908,37 +6102,17 @@ Other common checklist items include:
 
 We will send you a more detailed checklist once you’re accepted.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What are the judging criteria?
-
-[Image: answer image]
 
 Projects will mainly be judged based on technical difficulty, innovation, overall learning experience, and also, on their usability and design by a panel of selected judges from the industry. Check our competition rules on our
 
 [live page](https://live.hackupc.com/)
 
-.
-
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What if I have any dietary restrictions?
-
-[Image: answer image]
 
 Since beta 1.0, we’ve been able to support a range of dietary preferences, including vegan, vegetarian, gluten-free, and any type of allergies. If you have any specific requirements different than allergies, just select vegetarian or reach out to us and we’ll make sure to take care of you!
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 Do you have a code of conduct?
-
-[Image: answer image]
 
 Yes, here they are: Our
 
@@ -7952,37 +6126,17 @@ TL;DR: Be respectful, harassment and abuse are never tolerated.
 
 Travel Reimbursement
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 Is travel reimbursement available?
-
-[Image: answer image]
 
 Of course! The quantity varies depending on where you come from. We pay half of the travel costs, with a maximum of €50 for Spaniards outside of Catalonia, up to €120 if you are coming from Europe and up to a range between €120 and €200 if you come from outside Europe. We want to give all of you the opportunity to join us! However, note that not all participants will be eligible to receive travel reimbursement. In the end, we have a limited budget, and we want to help our participants, but we are a student organization and we have limited resources.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 When and how do I request it?
-
-[Image: answer image]
 
 All the process will happen through
 
-[my.hackupc.com](https://my.hackupc.com)
-
 . Once you are accepted to the hackathon, you will need to confirm your spot. At that moment, you will be able to ask for travel reimbursement. Select the option if you want to request it. In case the option doesn't show, that means that we have run out of travel reimbursement. After that, you will need to submit the tickets for your travel expenses, note that we only accept tickets from plane, train, or bus with a minimum total amount of €50.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 Travel reimbursement conditions and steps
-
-[Image: answer image]
 
 To be eligible for Travel Reimbursement, participants must meet all of the following criteria:
 
@@ -7993,55 +6147,25 @@ To be eligible for Travel Reimbursement, participants must meet all of the follo
 5. **Attendance**: • You must be able to demonstrate active participation and minimum attendance at the event. Participation in meals, workshops, activities, and other official events may be considered.
 6. **Post-Event**: • After the hackathon, you must upload your Devpost link to the platform.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 When do I get the money?
-
-[Image: answer image]
 
 If you have followed the steps correctly, you may receive the money in your PayPal account around 2 months after HackUPC. We are sorry for the delay, but it takes time to check everything.
 
 Applications
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 Who can attend?
-
-[Image: answer image]
 
 Students from all around the world who are at least 14 years old at the time of the event can apply. You can be in the university, vocational training, high school, etc. For participants under 18, we will request a letter of approval signed by parents or a legal guardian to attend.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What if I am not a student?
-
-[Image: answer image]
 
 As long as you graduated a year before the event (April 24th, 2025), or later, you can still be accepted as a hacker. Nevertheless, if that isn't your case, and you don't want to miss HackUPC, you can apply as a mentor!
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What if I don't have coding experience?
-
-[Image: answer image]
 
 It's completely fine! We would love to receive your application! In fact, you come here to learn, so you don't need any previous experience.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 How to make a good application?
-
-[Image: answer image]
 
 Try to make a difference amongst other hackers, tell us why you want to come to HackUPC, and avoid generating a default answer with an AI, as that will probably void your application, be creative and don't use AI! However, above all, remember to be humble.
 
@@ -8049,31 +6173,15 @@ Try to make a difference amongst other hackers, tell us why you want to come to 
 
 , you can find a great post in which are detailed all the steps to make your application even greater. Make sure you check it out!
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 When will I be accepted?
-
-[Image: answer image]
 
 All your applications are reviewed one by one, by the organizing team. We will do batches of acceptance once a bunch of them are reviewed, stay tuned to our social media to know when this happens and check your email or
 
 [MyHackUPC dashboard](https://my.hackupc.com)
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 Why have I not been accepted yet?
 
-[Image: answer image]
-
 As mentioned before, all your applications are reviewed one by one, by the organizing team. Check out your status in
-
-[MyHackUPC dashboard](https://my.hackupc.com)
-
-.
 
 The status can be:
 
@@ -8082,55 +6190,25 @@ The status can be:
 - **Waitlisted**, we are sorry to inform that by now we ran out of spots, but if we have an available spot in the future we will let you know
 - **Expired**, email us to see if there is still a spot available for you.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 How does applying in teams work?
-
-[Image: answer image]
 
 When you apply, you can create or join a team. Remember that you're able to change your decision up until you, or someone in your team, is accepted. Once the team has one acceptance, you can not change the members. When more than 50% of the team members are accepted, the remaining ones are automatically accepted. Note that teams created in the registration are not definitive, so you can change your team during the hackathon.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What if, in the application, I can not join my friends' team?
-
-[Image: answer image]
 
 If someone in your team has already been accepted you will not be able to join their team. But don’t worry! If you cannot join your friends in the application, it doesn't mean that you can not join them during the event. But remember that the maximum size team is 4 people.
 
 Teams
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What if I don't have a team?
-
-[Image: answer image]
 
 No need to worry! Part of the fun of a hackathon is meeting new people. We will have a team building activity at the beginning of the event for everyone to meet and form teams.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 What is the max team size?
-
-[Image: answer image]
 
 If myTeam.size() <= 4, you're good to go. Teams up to 4 members are welcome. Keep in mind that if your team is bigger, you won't be able to participate in any HackUPC competition or challenge, so you should split into multiple teams.
 
-[Image: support left] [Image: support right]
-
-[Image: torch]
-
 Can I change my team during the hackathon? How?
-
-[Image: answer image]
 
 Yes, in fact, we encourage you to team up with hackers you meet there. You'll meet awesome people! To change your team, you don’t have to notify us, just adjust your team members in the final project submission.
 
@@ -8140,71 +6218,67 @@ DM us on Instagram at @hackupc or, if you want to contact us via email, drop us 
 
 If your issue is related to Travel Reimbursement, write us at reimbursements@hackupc.com
 
-[Image: Biene dragon]
-
 Stay tuned, and don't miss a bit
 
 Check our social media networks
 
 SPONSORS
 
-[[Image: bendingspoons]Go to website](https://www.bendingspoons.com/)
+[Go to website](https://www.bendingspoons.com/)
 
-[[Image: HP]Go to website](https://www.hp.com/)
+[Go to website](https://www.hp.com/)
 
-[[Image: pears]Go to website](https://pears.com)
+[Go to website](https://pears.com)
 
-[[Image: mecalux]Go to website](https://www.mecalux.es)
+[Go to website](https://www.mecalux.es)
 
-[[Image: inditexTech]Go to website](https://www.inditexcareers.com)
+[Go to website](https://www.inditexcareers.com)
 
-[[Image: jetbrains]Go to website](https://www.jetbrains.com/)
+[Go to website](https://www.jetbrains.com/)
 
-[[Image: Smadex]Go to website](https://www.smadex.com/)
+[Go to website](https://www.smadex.com/)
 
-[[Image: Skyscanner]Go to website](https://www.skyscanner.com/)
+[Go to website](https://www.skyscanner.com/)
 
-[[Image: Qualcomm]Go to website](https://www.qualcomm.com/)
+[Go to website](https://www.qualcomm.com/)
 
-[[Image: Airbus]Go to website](https://www.airbus.com/)
+[Go to website](https://www.airbus.com/)
 
-[[Image: thinkupc]Go to website](https://www.thinkupc.com/en/)
+[Go to website](https://www.thinkupc.com/en/)
 
 PARTNERS
 
-[[Image: upc]Go to website](https://www.upc.edu/)
+[Go to website](https://www.upc.edu/)
 
-[[Image: fib]Go to website](https://www.fib.upc.edu/)
+[Go to website](https://www.fib.upc.edu/)
 
-[[Image: telecos]Go to website](https://telecos.upc.edu/)
+[Go to website](https://telecos.upc.edu/)
 
-[[Image: CFIS]Go to website](https://cfis.upc.edu/)
+[Go to website](https://cfis.upc.edu/)
 
-[[Image: Taller de So]Go to website](https://tdso.upc.edu)
+[Go to website](https://tdso.upc.edu)
 
-[[Image: mlh]Go to website](https://mlh.io/eu)
+[Go to website](https://mlh.io/eu)
 
-[[Image: coeinf]Go to website](https://enginyeriainformatica.cat/dones-coeinf/)
+[Go to website](https://enginyeriainformatica.cat/dones-coeinf/)
 
-[[Image: granini]Go to website](https://www.granini.com/)
+[Go to website](https://www.granini.com/)
 
-[[Image: nissin]Go to website](https://www.nissinfoods.com/)
+[Go to website](https://www.nissinfoods.com/)
 
-[[Image: club_mate]Go to website](https://clubmate.es/)
+[Go to website](https://clubmate.es/)
 
-[[Image: nestle]Go to website](https://www.nestle.com/)
+[Go to website](https://www.nestle.com/)
 
-[[Image: daim]Go to website](https://bakerandbaker.eu/es-es/products/our-licensed-brands/daim)
+[Go to website](https://bakerandbaker.eu/es-es/products/our-licensed-brands/daim)
 
-[[Image: chupachups]Go to website](https://www.chupachups.es/)
+[Go to website](https://www.chupachups.es/)
 
-[[Image: caprice]Go to website](https://papadopoulou.gr/en/brand/caprice/)
+[Go to website](https://papadopoulou.gr/en/brand/caprice/)
 
 The organization behind HackUPC
 
 Hackers@UPC is a non-profit student organization at Universitat Politècnica de Catalunya.
-
-[Image: Logotype of HackersAtUPC]
 
 Throughout the year, we organize national and international events in order to promote science and technology among students and create a great community in the technological world. We also attend hackathons worldwide as a team.
 
@@ -8214,35 +6288,27 @@ Our mission is to foster learning, designing, and building to turn students' ide
 
 THROUGHOUT THE YEARS
 
-[Image: Sword Image]
+[altText](https://s2016.hackupc.com/)
 
-[Image: Previous]
+[altText](https://f2016.hackupc.com/)
 
-[[Image: altText]](https://s2016.hackupc.com/)
+[altText](https://f2017.hackupc.com/)
 
-[[Image: altText]](https://f2016.hackupc.com/)
+[altText](https://w2017.hackupc.com/)
 
-[[Image: altText]](https://f2017.hackupc.com/)
+[altText](https://2018.hackupc.com/)
 
-[[Image: altText]](https://w2017.hackupc.com/)
+[altText](https://2019.hackupc.com/)
 
-[[Image: altText]](https://2018.hackupc.com/)
+[altText](https://2021.hackupc.com/)
 
-[[Image: altText]](https://2019.hackupc.com/)
+[altText](https://2022.hackupc.com/)
 
-[Image: altText]
+[altText](https://2023.hackupc.com/)
 
-[[Image: altText]](https://2021.hackupc.com/)
+[altText](https://2024.hackupc.com/)
 
-[[Image: altText]](https://2022.hackupc.com/)
-
-[[Image: altText]](https://2023.hackupc.com/)
-
-[[Image: altText]](https://2024.hackupc.com/)
-
-[[Image: altText]](https://2025.hackupc.com)
-
-[Image: Next]
+[altText](https://2025.hackupc.com)
 
 [2025 site](https://2025.hackupc.com/)
 
@@ -8263,25 +6329,23 @@ Made with ❤️ by [Hackers@UPC](https://hackersatupc.org/)
 
 Particles.js container
 
-[Image: Hacktech Logo]
-
 April 24 - 26, 2026
 
-Use below for hacker Application <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2bu7U7FyYgXEfdyfWSOjPSmEdSeE_j9nPpUv4b1lj07Emhw/viewform?usp=sf_link" class="btn" data-btn target="_blank" style="flex: 0 1 auto; margin: 0px;">I'm a Hacker</a> <a href="https://hacktech2025.devpost.com/" class="btn" data-btn target="_blank" style="display: inline-flex; align-items: center; justify-content: center; gap: 4px; padding: 12px 24px;"> 2025 Devpost <i class="fas fa-external-link-alt" style="font-size: 0.8em; transform: translateY(-1px);"></i> </a> Notification bubble modal <div class="btn-wrapper"> <button onclick="openUpdatesModal()" class="btn" data-btn>I'm a Hacker!</button> <div class="notification-bubble">!</div> </div> No notifaction modal <button onclick="openUpdatesModal()" class="btn" data-btn>I'm a Hacker!</button>
+Use below for hacker Application [I'm a Hacker](https://docs.google.com/forms/d/e/1FAIpQLSf2bu7U7FyYgXEfdyfWSOjPSmEdSeE_j9nPpUv4b1lj07Emhw/viewform?usp=sf_link) [2025 Devpost](https://hacktech2025.devpost.com/) Notification bubble modal
+
+I'm a Hacker!
+
+No notifaction modal I'm a Hacker!
 
 [Hacker Live Site!](https://hack.caltech.edu/live)
 
-!
-
 I'm a Sponsor/Judge!
-
-[Image: Hacker banner] [Image: Hacker banner background]
 
 - #ABOUT SECTION
 
 ##### Hacktech 2025 RECAP
 
-<p class="section-text" data-reveal="bottom"> Our mission is to create "Realistic Impact," which entails encouraging participants to create projects that could be feasibly implemented in real-world scenarios to make tangible change. </p>
+Our mission is to create "Realistic Impact," which entails encouraging participants to create projects that could be feasibly implemented in real-world scenarios to make tangible change.
 
 2025 Stats:
 
@@ -8297,12 +6361,8 @@ I'm a Sponsor/Judge!
 
 Hacktech is Caltech's annual intercollegiate hackathon. During the 36‑hour event, participants will collaborate in teams of 1 to 4 members to develop projects that align with our themes. Whether you're a seasoned coder or a beginner, Hacktech invites you to join a vibrant community of problem solvers, dreamers, and builders on Caltech's campus. Check out our [2025 Devpost](https://hacktech2025.devpost.com/) to see the amazing projects our hackers built during our 2025 event!
 
-[Image: Hacktech Preview 1] [Image: Hacktech Preview 2] [Image: Hacktech Preview 3] [Image: Hacktech Preview 4] [Image: Hacktech Preview 5] [Image: Hacktech Preview 6]
-
 For 2026, our tracks have not yet been finalized, but for reference, here were our 2025 tracks: Healthcare, Finance/Data Analytics, and Sustainability.
 What's New for 2026? This year we are excited to implement much of your feedback from last year's event, and plan to continue hosting a fully in-person event with the same general venue setup as last year. Check back here later to see updates on our tracks and other event details!
-
-[Image: About Image]
 
 - #SPEAKERS SECTION
 
@@ -8314,9 +6374,15 @@ Hacktech would not be the same without the contributions of our speakers, whose 
 
 START OF SPEAKER BOX CONTAINER
 
-- [Image: Placeholder] [Intro Speaker](https://hack.caltech.edu/) Time TBD location TBD TBD <p class="card-text"> Dr. Kip Thorne is a Nobel laureate in Physics, the Feynman Professor of Theoretical Physics, Emeritus, at Caltech, renowned for his pioneering contributions to gravitational physics and astrophysics, and co-founded LIGO project. </p>
-- [Image: Placeholder] [Topic TBD](https://hack.caltech.edu/) Time TBD location TBD TBD <p class="card-text"> Adam D'Angelo is the co-founder and CEO of Quora, and recieved his Bachelors from Caltech. Before establishing Quora in 2009, he served as Chief Technology Officer and Vice President of Engineering at Facebook. </p>
-- [Image: Placeholder] [Topic TBD](https://hack.caltech.edu/) Time TBD location TBD TBD <p class="card-text"> Dr. Animashree (Anima) Anandkumar is NVIDIA's former Director of AI Research and the current Bren Professor at Caltech. She specializes in large-scale machine learning, non-convex optimization and high-dimensional statistics. </p>
+- [Intro Speaker](https://hack.caltech.edu/) Time TBD location TBD TBD
+
+Dr. Kip Thorne is a Nobel laureate in Physics, the Feynman Professor of Theoretical Physics, Emeritus, at Caltech, renowned for his pioneering contributions to gravitational physics and astrophysics, and co-founded LIGO project.
+
+- [Topic TBD](https://hack.caltech.edu/) Time TBD location TBD TBD
+
+Adam D'Angelo is the co-founder and CEO of Quora, and recieved his Bachelors from Caltech. Before establishing Quora in 2009, he served as Chief Technology Officer and Vice President of Engineering at Facebook.
+
+Dr. Animashree (Anima) Anandkumar is NVIDIA's former Director of AI Research and the current Bren Professor at Caltech. She specializes in large-scale machine learning, non-convex optimization and high-dimensional statistics.
 
 ### Website 27: LA Hacks
 - Card URL: [https://lahacks.com/](https://lahacks.com/)
@@ -8326,8 +6392,6 @@ START OF SPEAKER BOX CONTAINER
 - Expanded FAQ/accordion controls: 6
 
 [Skip to main content](https://www.lahacks.com/#main-content)
-
-[[Image: Major League Hacking 2027 Season Trust Badge]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2027-season&utm_content=white)
 
 New Event
 
@@ -8371,15 +6435,11 @@ Projects
 
 Tracks
 
-[Image: Sustain the Spark]
-
 Sustain the Spark
 
 Sustain the Spark
 
 Our planet's future hangs in the balance, and one bold idea can tip the scales. This track welcomes grassroots innovation and is your space to cultivate projects combating climate change, reducing waste, or accelerating the transition to clean energy. Your project can help the world sustain its spark for years to come.
-
-[Image: Catalyst for Care]
 
 Catalyst for Care
 
@@ -8387,15 +6447,11 @@ Catalyst for Care
 
 The pulse of progress beats strongest where it matters the most: human health. This track challenges you to develop solutions that revolutionize the patient-provider experience. From optimizing hospital logistics and streamlining diagnostics to building tools that enhance wellness, your creation will be the catalyst for a healthier world.
 
-[Image: Light the Way]
-
 Light the Way
 
 Light the Way
 
 A single idea can unlock a universe of knowledge. This track invites you to transform the future of education by making learning accessible to all. You can create projects with accessibility features or interactive learning platforms. How will your spark light up the classrooms of tomorrow?
-
-[Image: Flicker to Flow]
 
 Flicker to Flow
 
@@ -8403,25 +6459,17 @@ Flicker to Flow
 
 With all the chaos of the world, how can we turn the flickers into a flowstate? Use this track to focus on enhancing how we work, play, and connect. Whether you automate mundane chores, organize a chaotic schedule, or create a platform that promotes better work-life balance, show us how you can transform friction into function.
 
-[Image: Agentverse - Search & Discovery of Agents]
-
-Agentverse - Search & Discovery of Agents
-
 Agentverse - Search & Discovery of Agents
 
 Build and Register AI Agents on Agentverse, discoverable via ASI:One, that turn user intent into real, executable outcomes.
 
 Past Projects
 
-[Image: Proud Puangmaha]
-
 Proud Puangmaha
 
 LA Hacks 2025 3rd place winner
 
 "LA Hacks was the perfect launchpad for OpenSesame.Work, our AI agent co-pilot for job applications. In just 36 hours, we went from a vague idea to a working product with real users testing it live, thanks to mentors who pushed our thinking on both tech and UX. It was the first time we saw how quickly a hackathon can turn a scrappy concept into something people actually want to use."
-
-[Image: OpenSesame.Work]
 
 OpenSesame.Work
 
@@ -8431,15 +6479,11 @@ Say "Open Sesame" to Your Next Job Opportunity!
 
 [View on Devpost](https://devpost.com/software/opensesame-work)
 
-[Image: Puneet Bajaj]
-
 Puneet Bajaj
 
 LA Hacks 2025 2nd place winner
 
 "LAHacks wasn’t just a hackathon — it was a launchpad. From incredible mentors to on-stage pitching in front of 300+ people, everything was thoughtfully organised and inspiring. It was truly an unforgettable weekend."
-
-[Image: Lumos]
 
 Lumos
 
@@ -8449,15 +6493,11 @@ An AI-powered glasses help Alzheimer's patients recognize loved ones, remember r
 
 [View on Devpost](https://devpost.com/software/lumos-f8h0mn)
 
-[Image: Daniel Odicho]
-
 Daniel Odicho
 
 LA Hacks 2025 1st place winner
 
 "To think is to ideate, to do is to build, to speak is to pitch. Hackathons encapsulate the beauty of life."
-
-[Image: Alto]
 
 Alto
 
@@ -8469,57 +6509,29 @@ Find, Fix, and Deploy Mobile Bug Fixes - Autonomously, in Minutes.
 
 ##### Gallery
 
-[Image: Previous]
-
-[Image: Gallery Image 1]
-
 Opening ceremony getting underway!
-
-[Image: Gallery Image 2]
 
 Hackers upping their knowledge at workshops
 
-[Image: Gallery Image 3]
-
 Judges repping some LA Hacks following their briefing
-
-[Image: Gallery Image 4]
 
 Snack time! 🍪
 
-[Image: Gallery Image 5]
-
 Puppy Corner?!? 🐶🐶🐶
-
-[Image: Gallery Image 6]
 
 Some yummy meals!
 
-[Image: Gallery Image 7]
-
 Hackers hard at work in Pauley Pavilion
-
-[Image: Gallery Image 8]
 
 Lettuce Eating Contest 🥬
 
-[Image: Gallery Image 9]
-
 Happy hackers with their food!
 
-[Image: Next]
-
 ##### Spotlight
-
-[Image: Previous]
-
-[Image: Sam Altman]
 
 ###### Sam Altman
 
 Sam Altman is the CEO of OpenAI and former President of Y Combinator. He has served as a speaker and judge at LA Hacks 2014, offering insights from his work at the forefront of artificial intelligence, startups, and emerging technology.
-
-[Image: Next]
 
 Frequently Asked Questions
 
@@ -8539,351 +6551,213 @@ Meet our organizer team.
 
 View All Exec Design Finance HackOps Marketing Sponsorships Tech
 
-[Image: Roland Yang]
-
 Roland Yang
 
 Exec
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/yangroland/)
-
-[Image: Asmi Kawatkar]
+[LinkedIn](https://www.linkedin.com/in/yangroland/)
 
 Asmi Kawatkar
 
 Exec
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/asmi-kawatkar/)
-
-[Image: Zoey Ho]
+[LinkedIn](https://www.linkedin.com/in/asmi-kawatkar/)
 
 Zoey Ho
 
 Hackops Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/zoeyho)
-
-[Image: Aneesh Ratnala]
+[LinkedIn](https://www.linkedin.com/in/zoeyho)
 
 Aneesh Ratnala
 
 Hackops Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/aneeshratnala/)
-
-[Image: Armaan Bassi]
+[LinkedIn](https://www.linkedin.com/in/aneeshratnala/)
 
 Armaan Bassi
 
 Hackops
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/armaanbassi/)
-
-[Image: Elaine Guan]
+[LinkedIn](https://www.linkedin.com/in/armaanbassi/)
 
 Elaine Guan
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/elainegguan/)
-
-[Image: John Connell]
+[LinkedIn](https://www.linkedin.com/in/elainegguan/)
 
 John Connell
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/john-connell-cs/)
-
-[Image: Henry McNamara]
+[LinkedIn](https://www.linkedin.com/in/john-connell-cs/)
 
 Henry McNamara
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/hmac213/)
-
-[Image: Kasie Yang]
+[LinkedIn](https://www.linkedin.com/in/hmac213/)
 
 Kasie Yang
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/kasiekexinyang/)
-
-[Image: Christine Han]
+[LinkedIn](https://www.linkedin.com/in/kasiekexinyang/)
 
 Christine Han
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/christine-han-80b079331/)
-
-[Image: Charles Zhu]
+[LinkedIn](https://www.linkedin.com/in/christine-han-80b079331/)
 
 Charles Zhu
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/charles-zhu-a56546234)
-
-[Image: Himani Jha]
+[LinkedIn](https://www.linkedin.com/in/charles-zhu-a56546234)
 
 Himani Jha
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/himanijha/)
-
-[Image: Mehul Paparaju]
+[LinkedIn](https://www.linkedin.com/in/himanijha/)
 
 Mehul Paparaju
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/mehul-p-9288a6313)
-
-[Image: Kelley Zhang]
+[LinkedIn](https://www.linkedin.com/in/mehul-p-9288a6313)
 
 Kelley Zhang
 
-Hackops
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/kelleyvzhang/)
-
-[Image: Andrew Meng]
+[LinkedIn](https://www.linkedin.com/in/kelleyvzhang/)
 
 Andrew Meng
 
 Finance Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/andrew-meng-cs/)
-
-[Image: Vishal Dandamudi]
+[LinkedIn](https://www.linkedin.com/in/andrew-meng-cs/)
 
 Vishal Dandamudi
 
 Finance
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/vishaldandamudi/)
-
-[Image: Rohan Deshpande]
+[LinkedIn](https://www.linkedin.com/in/vishaldandamudi/)
 
 Rohan Deshpande
 
 Finance
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/rohan-deshpande-423b36235/)
-
-[Image: Jason Choy]
+[LinkedIn](https://www.linkedin.com/in/rohan-deshpande-423b36235/)
 
 Jason Choy
 
 Sponsorships Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/jasonchoy5/)
-
-[Image: William McCormack]
+[LinkedIn](https://www.linkedin.com/in/jasonchoy5/)
 
 William McCormack
 
 Sponsorships Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/william-mccormack-ucla/)
-
-[Image: Cody Chang]
+[LinkedIn](https://www.linkedin.com/in/william-mccormack-ucla/)
 
 Cody Chang
 
 Sponsorships
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/codyychang/)
-
-[Image: Ritvik Irigireddy]
+[LinkedIn](https://www.linkedin.com/in/codyychang/)
 
 Ritvik Irigireddy
 
-Sponsorships
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/ritvikir/)
-
-[Image: David Doberstein]
+[LinkedIn](https://www.linkedin.com/in/ritvikir/)
 
 David Doberstein
 
-Sponsorships
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/david-doberstein)
-
-[Image: Samuel Ma]
+[LinkedIn](https://www.linkedin.com/in/david-doberstein)
 
 Samuel Ma
 
-Sponsorships
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/ma-samuel/)
-
-[Image: Manda Cai]
+[LinkedIn](https://www.linkedin.com/in/ma-samuel/)
 
 Manda Cai
 
-Sponsorships
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/manda-cai-78a155271)
-
-[Image: Sophia Voudouris]
+[LinkedIn](https://www.linkedin.com/in/manda-cai-78a155271)
 
 Sophia Voudouris
 
-Sponsorships
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/sophia-voudouris-0959292a3/)
-
-[Image: Fanny Huang]
+[LinkedIn](https://www.linkedin.com/in/sophia-voudouris-0959292a3/)
 
 Fanny Huang
 
 Design Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/fa-huang/)
-
-[Image: Maggie Ju]
+[LinkedIn](https://www.linkedin.com/in/fa-huang/)
 
 Maggie Ju
 
 Design
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/maggie-ju/)
-
-[Image: Edin Le]
+[LinkedIn](https://www.linkedin.com/in/maggie-ju/)
 
 Edin Le
 
-Design
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/edinle/)
-
-[Image: Gina Namkung]
+[LinkedIn](https://www.linkedin.com/in/edinle/)
 
 Gina Namkung
 
-Design
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/gina-namkung)
-
-[Image: Matthew Chen]
+[LinkedIn](https://www.linkedin.com/in/gina-namkung)
 
 Matthew Chen
 
-Design
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/mattchen34/)
-
-[Image: Haley Lee]
+[LinkedIn](https://www.linkedin.com/in/mattchen34/)
 
 Haley Lee
 
-Design
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/haley-lee-779436347/)
-
-[Image: Harris Song]
+[LinkedIn](https://www.linkedin.com/in/haley-lee-779436347/)
 
 Harris Song
 
 Marketing Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/harris-song/)
-
-[Image: Prarepim Adunpadungsak]
+[LinkedIn](https://www.linkedin.com/in/harris-song/)
 
 Prarepim Adunpadungsak
 
 Marketing
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/prarepim/)
-
-[Image: Anne Do]
+[LinkedIn](https://www.linkedin.com/in/prarepim/)
 
 Anne Do
 
-Marketing
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/doanneda/)
-
-[Image: Tawny Huang]
+[LinkedIn](https://www.linkedin.com/in/doanneda/)
 
 Tawny Huang
 
-Marketing
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/tawny-huang-5a5411360/)
-
-[Image: Jay Thapar]
+[LinkedIn](https://www.linkedin.com/in/tawny-huang-5a5411360/)
 
 Jay Thapar
 
-Marketing
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/jay-thapar/)
-
-[Image: Tom Binford]
+[LinkedIn](https://www.linkedin.com/in/jay-thapar/)
 
 Tom Binford
 
 Tech Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/tombinford/)
-
-[Image: Brayden Tam]
+[LinkedIn](https://www.linkedin.com/in/tombinford/)
 
 Brayden Tam
 
 Tech Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/braydentam/)
-
-[Image: Ashutosh Sundresh]
+[LinkedIn](https://www.linkedin.com/in/braydentam/)
 
 Ashutosh Sundresh
 
 Tech
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/asund/)
-
-[Image: Gavin Sonntag]
+[LinkedIn](https://www.linkedin.com/in/asund/)
 
 Gavin Sonntag
 
-Tech
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/gavin-sonntag)
-
-[Image: Spandan Patel]
+[LinkedIn](https://www.linkedin.com/in/gavin-sonntag)
 
 Spandan Patel
 
-Tech
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/spandan-p/)
-
-[Image: Sarah Zhao]
+[LinkedIn](https://www.linkedin.com/in/spandan-p/)
 
 Sarah Zhao
 
-Tech
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/sarah-zhao-566943269/)
-
-[Image: Tom Tang]
+[LinkedIn](https://www.linkedin.com/in/sarah-zhao-566943269/)
 
 Tom Tang
 
-Tech
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/tom-tang-0492aa279/)
-
-$ /$
+[LinkedIn](https://www.linkedin.com/in/tom-tang-0492aa279/)
 
 ### Website 28: UWB Hacks 26: The Future!
 - Card URL: [https://uwbhacks.com](https://uwbhacks.com)
@@ -8891,8 +6765,6 @@ $ /$
 - Rendered title: UWB Hacks 2026
 - Final URL: [https://www.uwbhacks.com/](https://www.uwbhacks.com/)
 - Expanded FAQ/accordion controls: 0
-
-$ /$
 
 X
 
@@ -8906,23 +6778,7 @@ Friday, April 24 - Sunday, April 26, 2026
 
 [SEE THE INNOVATIONS](https://uwb-hacks-the-future.devpost.com/project-gallery) [SPONSOR US](https://www.uwbhacks.com/sponsor)
 
-$
-
 [Judge Portal](https://www.uwbhacks.com/judging)
-
-/$
-
-[Image: 0 days left]
-
-[Image: 300+ Hackers]
-
-[Image: 88 Submitted Projects]
-
-[Image: 11 Month of Hacking Events]
-
-[Image: 14 Hackathon Weekend Events]
-
-[Image: The future is closer than you think. Stay tuned for more...]
 
 #### UWB Association for Computing Machinery
 
@@ -8933,114 +6789,64 @@ UWB ACM is a chapter of the Association of Computing Machinery at UWB dedicated 
 ##### HACKEROON
 PRIZES
 
-$
-
 White Owala
-
-[Image: Image of White Owala]
 
 800 Hackeroons
 
 Black Owala
 
-[Image: Image of Black Owala]
-
 800 Hackeroons
 
 Avanade Rucksack
-
-[Image: Image of Avanade Rucksack]
 
 700 Hackeroons
 
 Anker Portable Chargers
 
-[Image: Image of Anker Portable Chargers]
-
 700 Hackeroons
 
 Lego Mini F1 Car 6-Pack
-
-[Image: Image of Lego Mini F1 Car 6-Pack]
 
 600 Hackeroons
 
 Avanade Mug + Mug Warmer
 
-[Image: Image of Avanade Mug + Mug Warmer]
-
 500 Hackeroons
 
 Avanade Picnic Blanket
-
-[Image: Image of Avanade Picnic Blanket]
 
 500 Hackeroons
 
 Lego Sunflower
 
-[Image: Image of Lego Sunflower]
-
 400 Hackeroons
 
 Lego Rose
 
-[Image: Image of Lego Rose]
-
-400 Hackeroons
-
 Lego Cherry Blossom
-
-[Image: Image of Lego Cherry Blossom]
-
-400 Hackeroons
 
 Lego Lotus Flower
 
-[Image: Image of Lego Lotus Flower]
-
-400 Hackeroons
-
 Avanade Bluetooth Tracker
-
-[Image: Image of Avanade Bluetooth Tracker]
 
 300 Hackeroons
 
 Avanade Tumbling Tower Blocks
 
-[Image: Image of Avanade Tumbling Tower Blocks]
-
-300 Hackeroons
-
 Avanade Fanny Pack
 
-[Image: Image of Avanade Fanny Pack]
-
-300 Hackeroons
-
 Car Keychain
-
-[Image: Image of Car Keychain]
 
 50 Hackeroons
 
 Cat Keychain
 
-[Image: Image of Cat Keychain]
-
 50 Hackeroons
 
 [Go To Hackeroon Shop!](https://www.uwbhacks.com/hackeroon-shop)
 
-/$
-
 ##### HACKEROON
 LEADERBOARD
-
-$
-
-[Image: User Profile Photo]
 
 1
 
@@ -9048,15 +6854,11 @@ Vatsal Patel
 
 1400 H$
 
-[Image: User Profile Photo]
-
 2
 
 Vatsalya Dabhi
 
 1300 H$
-
-[Image: User Profile Photo]
 
 3
 
@@ -9064,23 +6866,17 @@ Michael Gilbert
 
 1300 H$
 
-[Image: User Profile Photo]
-
 4
 
 Nipun Saini
 
 1275 H$
 
-[Image: User Profile Photo]
-
 5
 
 Matteo
 
 1225 H$
-
-/$
 
 ##### LAST YEAR'S
 PROJECTS
@@ -9102,8 +6898,6 @@ I.N.S.H.
 ##### StillMe
 
 StillMe brings comfort and connection to people with dementia and their families, combining calendars, messages, memories, and reminders into one easy app.
-
-[Image: StillMe project preview]
 
 [View StillMe](https://devpost.com/software/remembrall-vlkwr8) [View All Projects!](https://uwb-hacks-save-the-world.devpost.com/project-gallery)
 
@@ -9129,13 +6923,9 @@ Snacks
 
 10:00 AM - 11:00 AM
 
-ARC Overlook
-
 Opening Ceremony
 
 11:00 AM - 12:00 PM
-
-ARC Overlook
 
 Intro to Google AI Studio
 
@@ -9147,25 +6937,17 @@ Brunch
 
 12:30 PM - 2:00 PM
 
-ARC Overlook
-
 Avanade Fireside Chat
 
 2:00 PM - 3:00 PM
-
-ARC Overlook
 
 Dinner
 
 4:00 PM - 4:45 PM
 
-ARC Overlook
-
 Prototype & Pitch Workshop
 
 4:20 PM - 5:20 PM
-
-ARC Overlook
 
 Hacking with GitHub Copilot
 
@@ -9177,25 +6959,9 @@ DAY 1
 
 ##### MEET THE TEAM
 
-[Image: Jonah Uellenberg] [Image: Sohan Dandu] [Image: Nainoo Gobindpuri] [Image: Meeti Gobindpuri] [Image: Sarinna Thaiy] [Image: Nandini Mistry] [Image: Preeti Gobindpuri] [Image: Ruthie Lartey] [Image: Alan Talavera] [Image: Kenneth Angeles] [Image: Phohanh Tran] [Image: Reagan George] [Image: Melody Behdarvandian] [Image: Mao Nishio] [Image: Rasajna Kolusu] [Image: Davina Loekito] [Image: Isabella Ta] [Image: Ashley Tsang] [Image: Seyeon Park] [Image: Prashamsa Bandarapu]
-
-[Image: Jonah Uellenberg] [Image: Sohan Dandu] [Image: Nainoo Gobindpuri] [Image: Meeti Gobindpuri] [Image: Sarinna Thaiy] [Image: Nandini Mistry] [Image: Preeti Gobindpuri] [Image: Ruthie Lartey] [Image: Alan Talavera] [Image: Kenneth Angeles] [Image: Phohanh Tran] [Image: Reagan George] [Image: Melody Behdarvandian] [Image: Mao Nishio] [Image: Rasajna Kolusu] [Image: Davina Loekito] [Image: Isabella Ta] [Image: Ashley Tsang] [Image: Seyeon Park] [Image: Prashamsa Bandarapu]
-
 Select one of our wonderful hackathon organizers to learn more about them!
 
 ##### SPONSORS
-
-[[Image: Avanade Logo]](https://www.avanade.com/en-us)
-
-[[Image: WSECU Logo]](https://wsecu.org/)
-
-[[Image: Pepsi Logo]](https://www.pepsi.com/)
-
-[[Image: Starbucks Logo]](https://www.starbucks.com/)
-
-[[Image: Club Council Logo]](https://www.uwb.edu/sea/clubs/club-council)
-
-[[Image: Services & Activities Fee Committee Logo]](https://depts.washington.edu/safcom/)
 
 #### FAQ
 
@@ -9229,10 +6995,6 @@ What else can I do at UWB Hacks 2026?
 
 In addition to the hackathon, participants will have the opportunity to attend interactive workshops, networking sessions, and other engaging activities. These will include insightful talks from industry professionals and hands-on learning experiences designed to align with this year's The Future theme.
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-$ /$
-
 ### Website 29: FullyHacks
 - Card URL: [https://fullyhacks.acmcsuf.com/](https://fullyhacks.acmcsuf.com/)
 - Referenced by: FullyHacks
@@ -9240,19 +7002,9 @@ $ /$
 - Final URL: [https://fullyhacks.acmcsuf.com/](https://fullyhacks.acmcsuf.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: SunRays]
-
-[[Image: MLH logo]](https://www.mlh.com/seasons/2026/events) [Image: Ocean Ceiling] [Image: FullyHacks Logo] [Image: Submarine]
-
-[Image: Menu]
-
 about sponsor team faq [user portal](https://fullyhacks.acmcsuf.com/apply)
 
-[Image: Hero Mountains] [Image: Bubbles 1] [Image: Bubbles 2] [Image: Bubbles 3] [Image: School of Fish] [Image: Fully Hacks Text]
-
 #### csuf cs building - april 18-19
-
-[Image: Bottle Background]
 
 #### 0d : 0h : 0m
 
@@ -9274,16 +7026,12 @@ about sponsor team faq [user portal](https://fullyhacks.acmcsuf.com/apply)
 
 #### about us
 
-[Image: JellyFishGroup]
-
 ##### We are Cal State University
 Fullerton's (CSUF)
 student-run hackathon.
 We plan to host 400
 students for a 24-hour
 coding event in April 2026.
-
-[Image: Frame]
 
 ##### Choose Your Roll
 
@@ -9299,67 +7047,41 @@ Work in teams to develop innovative solutions and present your projects to indus
 
 Help guide participants manage their ideas and cultivate an environment that ensures a smooth and enjoyable experience for everyone.
 
-[Image: Octopus] [Image: Capybara] [Image: Fish]
-
-[Image: Turtles]
-
 #### Sponsors
 
-[Image: Game Machine Top]
-
-[Image: Game Machine Glass]
-
-[Image: Hoop] [Image: Hoop] [Image: Hoop]
-
-[[Image: Ditto AI]](https://ditto.ai/) [[Image: Figma]](https://www.figma.com/) [[Image: Incogni – Data Broker Removal Service]](https://incogni.com/) [[Image: nexos.ai – All-in-one AI Platform]](https://nexos.ai/) [[Image: ACM at CSUF]](https://acmcsuf.com/) [[Image: NordPass – Password Manager]](https://nordpass.com/) [[Image: NordProtect – Identity Theft Protection]](https://nordprotect.com/) [[Image: NordVPN – Secure VPN Service]](https://nordvpn.com/hackathons) [[Image: Saily – eSIM Data for Travel]](https://saily.com/) [[Image: Neon - Fast Postgres Databases]](https://neon.com/) [[Image: Esri - Geographic Information System (GIS) Software]](https://www.esri.com/)
-
-[Image: Game Machine Base]
-
-[Image: PufferFish] [Image: Fish]
+[Ditto AI](https://ditto.ai/) [Figma](https://www.figma.com/) [Incogni – Data Broker Removal Service](https://incogni.com/) [nexos.ai – All-in-one AI Platform](https://nexos.ai/) [ACM at CSUF](https://acmcsuf.com/) [NordPass – Password Manager](https://nordpass.com/) [NordProtect – Identity Theft Protection](https://nordprotect.com/) [NordVPN – Secure VPN Service](https://nordvpn.com/hackathons) [Saily – eSIM Data for Travel](https://saily.com/) [Neon - Fast Postgres Databases](https://neon.com/) [Esri - Geographic Information System (GIS) Software](https://www.esri.com/)
 
 #### our team
 
 Director Web Design Finance Marketing Operations
 
-[Image: Previous team]
-
-[Image: Max Rivas] [Image: Bubble]
-
 ###### Max Rivas
 
 Director
-
-[Image: Mark Garcia] [Image: Bubble]
 
 ###### Mark Garcia
 
 Director
 
-[Image: Next team]
-
 ##### FAQ
 
-What is FullyHacks?[Image: Anchor] When is FullyHacks?[Image: Anchor] Who can participate?[Image: Anchor] Will there be travel reimbursements?[Image: Anchor] What can I build?[Image: Anchor] Do I need to have a team?[Image: Anchor] I have no experience at all, can I still participate?[Image: Anchor] What should I bring?[Image: Anchor] When are applications due?[Image: Anchor] When will I know my application status?[Image: Anchor] What is the MLH Code of Conduct?[Image: Anchor]
+What is FullyHacks? When is FullyHacks? Who can participate? Will there be travel reimbursements? What can I build? Do I need to have a team? I have no experience at all, can I still participate? What should I bring? When are applications due? When will I know my application status? What is the MLH Code of Conduct?
 
 ##### Contact Us
 
 fullyhacks@acmcsuf.com
 
-[[Image: LinkedIn]](https://www.linkedin.com/company/fullyhacks/)
+[LinkedIn](https://www.linkedin.com/company/fullyhacks/)
 
-[[Image: Instagram]](https://www.instagram.com/fullyhacks/)
+[Instagram](https://www.instagram.com/fullyhacks/)
 
-[[Image: Discord]](https://acmcsuf.com/discord)
+[Discord](https://acmcsuf.com/discord)
 
-[[Image: ACM]](https://acmcsuf.com/)
+[ACM](https://acmcsuf.com/)
 
 Back to Top
 
-[Image: Arrow]
-
 © 2026 FullyHacks. All Rights Reserved.
-
-[Image: Atlantis]
 
 ### Website 30: Victor Hacks
 - Card URL: [https://victorhacks.com/](https://victorhacks.com/)
@@ -9367,8 +7089,6 @@ Back to Top
 - Rendered title: VictorHacks 2026 | The Northern Kentucky University Hackathon
 - Final URL: [https://victorhacks.com/](https://victorhacks.com/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 00 DAYS
 
@@ -9384,23 +7104,13 @@ Back to Top
 
 REGISTER SELF CHECK-IN EVENT DETAILS
 
-[Image: hero]
-
 ##### The Saga of VictorHacks
 
 VictorHacks is a 24-hour in-person student hackathon at Northern Kentucky University, taking place on April 18-19 at the [Health Innovation Center / Founders Hall](https://share.google/OGmpkhPEjDGdEnqKE). We invite you to join a shield-wall of motivated students for a legendary weekend of code, community, and innovation!
 
 You don't have to be a computer science major or an expert to attend; like any great raid, we need a diverse crew. It is a journey for students of all skill levels to build, learn, and conquer together.
 
-[Image: Google Developer Groups Build with AI Banner]
-
 ###### Supported By
-
-[Image: College of Informatics] [Image: Blue North] [Image: NKU CINSAM]
-
-[Image: Google]
-
-[Image: ElevenLabs] [Image: Featherless.ai] [Image: Developer Student Clubs] [Image: GitHub] [Image: MLH] [Image: PureButtons]
 
 ##### Choose your Track
 
@@ -9418,15 +7128,11 @@ The most outstanding project of VictorHacks 2026.
 
 Generative AI & LLMs
 
-[Image: Featherless Logo]
-
 ###### The Bifröst Bridge (Featherless.ai)
 
 Content: Conference access for all participants for one month. Prize Sponsorship: 1st Prize: Featherless Scale Plan worth $300 2nd Prize: Featherless Scale Plan worth $150 3rd Prize: Featherless Scale Plan worth $75
 
 Best with ElevenLabs
-
-[Image: ElevenLabs Logo]
 
 ###### Voice of the Gods
 
@@ -9464,7 +7170,7 @@ How do I sign up to be a mentor/judge/volunteer?
 
 I have a different question!
 
-[Image: VictorHacks Logo] VictorHacks
+VictorHacks
 
 © 2026 VictorHacks. All rights reserved.
 
@@ -9483,15 +7189,9 @@ Made by Aaditya
 
 Days
 
-0
-
 Hours
 
-0
-
 Minutes
-
-0
 
 Seconds
 
@@ -9506,42 +7206,6 @@ April 18th-19th, 2026
 Launching this spring, LakerHacks is SUNY Oswego's student-led annual hackathon—a multi-day event where students design, code, and innovate. With hands-on workshops, talks from industry professionals, and fun activities, it's the perfect place to learn, create, and connect.
 
 ##### Sponsors (descending by sponsor amount)
-
-[Image: The Major League Hacking Logo.]
-
-[Image: CSA Logo]
-
-[Image: The Micron Logo, a stylized Micron.]
-
-[Image: The Sicura Logo, a stylized helmet, with the words Sicura emblazoned next to it.]
-
-[[Image: The NordVPN Logo, a stylized white mountain against a blue backdrop, with the words nordVPN flanking it from the right.]](https://nordvpn.com/coupon/deal/?coupon=hackathons&utm_medium=affiliate&utm_term=&utm_content&utm_source=aff92203&utm_campaign=off600)
-
-[[Image: The NordPass Logo, a stylized white mountain against a teal backdrop, with the words NordPass flanking it from the right.]](https://nordpass.com)
-
-[[Image: The NordVPN Logo, a stylized white mountain against a blue backdrop, with the words nordVPN flanking it from the right.]](https://nordprotect.com)
-
-[[Image: The incogni logo, the word incogni with a filled in o.]](https://incogni.com)
-
-[[Image: The Saily logo]](https://saily.com)
-
-[[Image: The NexosAI logo]](https://nexos.ai)
-
-[Image: The EnterPro Logo, a left bracket, front slash, and right bracket.]
-
-[Image: The HackUpstate logo, with the words HackUpstate in a teal.]
-
-[Image: The Novelis Logo, just the words Novelis.]
-
-[Image: HCIO Logo]
-
-[Image: Paul Austin]
-
-[[Image: The Pure Buttons Logo, simply saying Pure.]](https://www.purebuttons.com/?srsltid=AfmBOoo5bib-OYWHxFo0P4wkjrZjo4adA0nY-JRo45LtwVvGGkSRa10_)
-
-[Image: The Kenwood Connect logo, a stylized shield to the left, emblazoned with an open book on the top left, a graduation cap on the top right, a torch on the bottom left, and a globe on the bottom right. To the right of the shield are the words Kenwood.]
-
-[Image: The Wonzones Calzones logo, simply a circle around the words Wonzones Calzones.]
 
 Looking to sponsor? Email us at lakerhacks@oswego.edu for more details!
 
@@ -9567,15 +7231,11 @@ Students Helping Oz Peers
 
 Auxiliary Services
 
-[Image: Students collaborating at a hackathon]
-
 ##### Why Hack?
 
 Build something great, collaborate with like-minded innovators, and make an impact.
 
 [Register Now](https://forms.gle/q8KpPixbczVfDdMs9)
-
-[Image: Students presenting their hackathon project]
 
 ##### What to Expect
 
@@ -9585,131 +7245,63 @@ Solve real challenges, get expert mentorship, and compete for prizes.
 
 ##### FAQ
 
-[
-
 What is a hackathon? [1
-
-]
 
 Who can participate? [1
 
-]
-
 What if I don't have a team? [1
-
-]
 
 What if I don't have any coding experience? [1
 
-]
-
 What if I don't have an idea? [! ]
-
-]
 
 ##### Meet Our Team
 
-[ [Image: Joseph Vega's profile picture] ]
-
 Joseph Vega
-
-[ ]
 
 Director
 
-[!
-
-]
-
 Shrishtika Bajracharya
-
-[ ]
 
 Co-director/MLH head of contact
 
-[!
-
-]
-
 Aditya Raj Singh
-
-[ ]
 
 Devpost & Registration Manager
 
-[!
-
-]
-
 Ananta Bhowmick Antik
-
-[ ]
 
 Marketing Coordinator
 
-[ [Image: Bivushi Basnet's profile picture] ]
-
 Bivushi Basnet
-
-[ ]
 
 Logistics Director
 
-[ [Image: Ethanael Moody (Me!)'s profile picture] ]
-
 Ethanael Moody (Me!)
-
-[ ]
 
 Web Developer
 
-[ [Image: Jack Gallagher's profile picture] ]
-
 Jack Gallagher
-
-[ ]
 
 Sponsorship Coordinator
 
-[ [Image: Jace Dunlap's profile picture] ]
-
 Jace Dunlap
-
-[ ]
 
 Art Director
 
-[!
-
-]
-
 Praneeta Pradhan
-
-[ ]
 
 Budget Manager
 
-[ [Image: Riley Nixon's profile picture] ]
-
 Riley Nixon
-
-[! ]
 
 Live Event Coordinator
 
-[!
-
-]
-
 Yashaswi Shrestha
-
-[ ]
 
 Sponsorship Coordinator
 
 ##### Ready to Hack?
-
-[Register Now](https://forms.gle/q8KpPixbczVfDdMs9)
 
 ###### Quick Links
 
@@ -9738,13 +7330,13 @@ Sponsorship Coordinator
 - Final URL: [https://www.georgehacks.org/](https://www.georgehacks.org/)
 - Expanded FAQ/accordion controls: 3
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white) preloade /preload
+preloade /preload
 
 Header
 
-<div class="header__logo"> <a href="#home"><img src="assets/images/logo/logo.png" alt=""></a> </div> /#main-nav <a target="_blank" class="tf-button btn-effect" href="https://app.youform.com/forms/yk5gfurm"> <span class="boder-fade"></span> <span class="effect">Sign In</span> </a> <a target="_blank" class="tf-button btn-effect" href="https://app.youform.com/forms/yk5gfurm"> <span class="boder-fade"></span> <span class="effect">Join Our Newsletter</span> </a>
+/#main-nav [Sign In](https://app.youform.com/forms/yk5gfurm) [Join Our Newsletter](https://app.youform.com/forms/yk5gfurm)
 
-[Sign In](https://www.georgehacks.org/pages/signin.html) <a class="tf-button btn-effect" href="./pages/create_team.html"> [REGISTER](https://app.youform.com/forms/yk5gfurm)
+[Sign In](https://www.georgehacks.org/pages/signin.html) [[REGISTER](https://app.youform.com/forms/yk5gfurm)](https://www.georgehacks.org/pages/create_team.html)
 
 /.mobile-button
 
@@ -9754,26 +7346,42 @@ end Header
 
 ##### George Washington University
 
-<p class="sub-title bold" style="font-size: 25px;"> presents</p>
+presents
 
 ##### Hackathon - Redefining innovation!
 
-<h1 class="sub-title bold" style="font-size: 30px; padding-bottom: 30px; padding-top: 10px;">Stay Tuned for Upcoming Hackathons</h1> <h3 class="sub-title bold" id="countdownDateText" style="font-size: 30px; padding-bottom: 30px; padding-top: 10px;" > April 18-19, 2026</h3> <section class="page-title comimg-soon"> <div class="comimg-soon"> <div class="row"> <div class="col-md-12"> <div class="featured-countdown countdown--hms"> <span class="slogan"></span> <span class="js-countdown" data-countdown="April 18, 2026 09:00:00"></span> <ul class="desc"> <li>Days</li> <li>Hours</li> <li>Minutes</li> <li>Seconds</li> </ul> </div> </div> </div> </div>
+# Stay Tuned for Upcoming Hackathons
 
-<a class="tf-button-st2 btn-effect" href="./pages/create_team.html"> [Register](https://app.youform.com/forms/yk5gfurm)
+### April 18-19, 2026
 
-<div class="wrap-btn style2 style2-container"> <a target="_blank" href="https://app.youform.com/forms/yk5gfurm" class="tf-button-st2 btn-effect"><span class="effect">Join Our Newsletter</span></a> <a href="https://linktr.ee/georgehacks?fbclid=PAZXh0bgNhZW0CMTEAAaZYhOGlajqruxdj22YQjN_AqMxPKHTJjauyTN8hdmEErqIwMf_forThzoI_aem_Qx1pxwu8tBk2bV0w5iBM0w" target='blank' rel="noopener noreferrer" class="tf-button btn-effect"> <span class="boder-fade"></span> <span class="effect">George Hacks Linktree</span> </a> </div>
+- Days
+- Hours
+- Minutes
+- Seconds
+
+[[Register](https://app.youform.com/forms/yk5gfurm)](https://www.georgehacks.org/pages/create_team.html)
+
+[Join Our Newsletter](https://app.youform.com/forms/yk5gfurm) [George Hacks Linktree](https://linktr.ee/georgehacks?fbclid=PAZXh0bgNhZW0CMTEAAaZYhOGlajqruxdj22YQjN_AqMxPKHTJjauyTN8hdmEErqIwMf_forThzoI_aem_Qx1pxwu8tBk2bV0w5iBM0w)
 
 About
 
 ###### George Hacks
 
-George Hacks is a student-led innovation organization at the George Washington University, dedicated to empowering the next generation of problem-solvers in healthcare. Since our founding in 2018, we’ve provided a platform for students from diverse backgrounds to collaborate, think outside the box, and address real-world problem-statements presented by experts in the healthcare industry. Our flagship event, the annual George Hacks Innovation Hackathon, brings together creative minds from across the D.C. metropolitan area to develop impactful solutions at the intersection of medicine, technology, and entrepreneurship. Through hands-on experiences, mentorships, problem solving, and interdisciplinary teamwork, George Hacks provides students a platform to harness their skills for the greater good.
-<a href="https://george-hacks.devpost.com/" target='blank' rel="noopener noreferrer" class="tf-button btn-effect"> <span class="boder-fade"></span> <span class="effect">Devpost</span> </a> We are excited to announce that George Hacks 7th annual hackathon is scheduled for Saturday, March 1 to Sunday, March 2, 2025, at the Science and Engineering Hall of The George Washington University. University students will be challenged to design solutions that address the 2025 theme: Global Sustainable Development with a focus on the United Nations’ Sustainable Development Goals (SDGs)
+George Hacks is a student-led innovation organization at the George Washington University, dedicated to empowering the next generation of problem-solvers in healthcare. Since our founding in 2018, we’ve provided a platform for students from diverse backgrounds to collaborate, think outside the box, and address real-world problem-statements presented by experts in the healthcare industry. Our flagship event, the annual George Hacks Innovation Hackathon, brings together creative minds from across the D.C. metropolitan area to develop impactful solutions at the intersection of medicine, technology, and entrepreneurship. Through hands-on experiences, mentorships, problem solving, and interdisciplinary teamwork, George Hacks provides students a platform to harness their skills for the greater good. [Devpost](https://george-hacks.devpost.com/) We are excited to announce that George Hacks 7th annual hackathon is scheduled for Saturday, March 1 to Sunday, March 2, 2025, at the Science and Engineering Hall of The George Washington University. University students will be challenged to design solutions that address the 2025 theme: Global Sustainable Development with a focus on the United Nations’ Sustainable Development Goals (SDGs)
 
 George Hacks - 2025 Hackathon Highlights
 
-<div class="col-md-7"> <div class="wrap-about p-l70" data-aos="fade-up" data-aos-duration="800"> <div class="box-text corner-box active"> <div class="h7">George Hacks Innovation Hackathon</div> <p>We are excited to announce that the George Hacks Seventh Annual Hackathon is scheduled to be held on Saturday, March 1 and Sunday, March 2, 2025, at the Science and Engineering Hall of the George Washington University. Participants will be challenged to design solutions that align with this year’s theme: Global Sustainable Development with a focus on the United Nations’ Sustainable Development Goals (SDGs).</p> </div> <div class="box-text corner-box active"> <div class="h7">When ? </div> <p> <ul> <li>Dates - March 1st and 2nd, 2025</li> <li>Venue - Science and Engineering Hall, the George Washington University</li> <li>Time - 9:00 AM on March 1st to 5:00 PM on March 2nd (32 hours)</li> </ul> </p> </div> <div class="box-text corner-box active"> <div class="h7">Prize Pool</div> <p>$5,000+ in iPads, Headphones, Quests & More!</p> </div> </div> </div> </div> </div> </section>
+George Hacks Innovation Hackathon
+
+We are excited to announce that the George Hacks Seventh Annual Hackathon is scheduled to be held on Saturday, March 1 and Sunday, March 2, 2025, at the Science and Engineering Hall of the George Washington University. Participants will be challenged to design solutions that align with this year’s theme: Global Sustainable Development with a focus on the United Nations’ Sustainable Development Goals (SDGs).
+
+When ?
+
+Dates - March 1st and 2nd, 2025 Venue - Science and Engineering Hall, the George Washington University Time - 9:00 AM on March 1st to 5:00 PM on March 2nd (32 hours)
+
+Prize Pool
+
+$5,000+ in iPads, Headphones, Quests & More!
 
 ###### Interested in being a sponsor
 
@@ -9785,21 +7393,55 @@ George Hacks - 2025 Hackathon Highlights
 
 ###### Supported By
 
-<a href="https://innovation.gwu.edu/" target='blank' rel="noopener noreferrer"> <img style="border-radius: 1px; width: 25em;" src="assets/images/logo/df.png" alt="G-KnowMe"> </a>
+[G-KnowMe](https://www.gwu.edu/) [G-KnowMe](https://gwcoders.github.io/studyGroup/) [G-KnowMe](https://engineering.gwu.edu/gw-innovation-center) [Open Source Program office](https://investment.business.gwu.edu/)
 
-[[Image: G-KnowMe]](https://www.gwu.edu/) [[Image: G-KnowMe]](https://gwcoders.github.io/studyGroup/) [[Image: G-KnowMe]](https://engineering.gwu.edu/gw-innovation-center) [[Image: Open Source Program office]](https://investment.business.gwu.edu/)
-
-[[Image: G-KnowMe]](https://www.deilab.com/) [[Image: G-KnowMe]](https://www.arenadocs.com/) [[Image: G-KnowMe]](https://globalfoodinstitute.gwu.edu/)
+[G-KnowMe](https://www.deilab.com/) [G-KnowMe](https://www.arenadocs.com/) [G-KnowMe](https://globalfoodinstitute.gwu.edu/)
 
 Past-Sponsors
 
-###### Supported By
+[G-KnowMe](https://dcommunity.io/)
 
-<a href="https://investment.business.gwu.edu/" target='blank' rel="noopener noreferrer"> <img style="border-radius: 1px; width: 25em;" src="assets/images/logo/qw.png" alt="Open Source Program office"> </a> [[Image: G-KnowMe]](https://dcommunity.io/) <a href="https://ospo.gwu.edu/" target='blank' rel="noopener noreferrer"> <img style="border-radius: 1px; width: 25em;" src="assets/images/logo/rt.png" alt="G-KnowMe"> </a> <a href="https://engineering.gwu.edu/gw-innovation-center" target='blank' rel="noopener noreferrer"> <img style="border-radius: 1px; width: 25em;" src="assets/images/logo/GWIC.jpg" alt="G-KnowMe"> </a>
+/UN's SDG's Goals all swipers
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; padding-bottom: 20px;"> <a href="https://engineering.gwu.edu/" target='blank' rel="noopener noreferrer"> <img style="border-radius: 1px; width: 25em;" src="assets/images/logo/as.png" alt="G-KnowMe"> </a> <a href="https://www.gwu.edu/" target='blank' rel="noopener noreferrer"> <img style="border-radius: 1px; width: 25em;" src="assets/images/logo/GWU.png" alt="G-KnowMe"> </a> <a href="https://innovation.gwu.edu/" target='blank' rel="noopener noreferrer"> <img style="border-radius: 1px; width: 25em;" src="assets/images/logo/df.png" alt="G-KnowMe"> </a> </a> <a href="https://gwcoders.github.io/studyGroup/" target='blank' rel="noopener noreferrer"> <img style="border-radius: 1px; width: 25em;" src="assets/images/logo/GWC.png" alt="G-KnowMe"> </a> </div>
+Theme for this hackathon
 
-/UN's SDG's Goals all swipers <section class="tf-section tf-project pb-mobie"> <div class="container"> <div class="row"> <div class="col-md-12"> <div class="tf-title m-b60" data-aos="fade-up" data-aos-duration="800"> <p class="h8 sub-title">Theme for this hackathon</p> <h4 class="title">UN's Sustainable Development Goals</h4> <a href="https://sdgs.un.org/goals" target='blank' rel="noopener noreferrer" class="tf-button btn-effect"> <span class="boder-fade"></span> <span class="effect">UN's SDG </span> </a> <a href="https://sdgs.un.org/goals" target='blank' rel="noopener noreferrer" class="tf-button btn-effect"> <span class="boder-fade"></span> <span class="effect">View on Notion</span> </a> </div> </div> </div> </div> <div class="container-fluid"> <div class="swiper-container swiper mySwiper swiper-h"> <div class="swiper-wrapper"> <div class="swiper-slide"> <div class="swiper mySwiper1 swiper-v"> <div class="swiper-wrapper"> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/IMG_Goal-1.avif" alt=""> <div class="content"> <a>No Poverty</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/zerohunger.png" alt=""> <div class="content"> <a >Zero Hunger</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/Sustainable_Development_Goal_03GoodHealth.svg.png" alt=""> <div class="content"> <a >Health and well-Being</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/4_quality_education.avif" alt=""> <div class="content"> <a > Quality Education</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/gender.png" alt=""> <div class="content"> <a >Gender Equality</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/unsdg_6_water.png" alt=""> <div class="content"> <a >Clean Water</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/Goal-7-A.jpg" alt=""> <div class="content"> <a >Clean Energy</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/SDG8.png" alt=""> <div class="content"> <a >Economic Growth</a> </div> </div> </div> </div> </div> </div> </div> </div> <div class="swiper-container swiper mySwiper swiper-h"> <div class="swiper-wrapper"> <div class="swiper-slide"> <div class="swiper mySwiper2 swiper-v"> <div class="swiper-wrapper"> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/Goal-9-A.jpg" alt=""> <div class="content"> <a >Industry Innovation</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/reduced.png" alt=""> <div class="content"> <a >Reduced Inequalities</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/sdg11.jpg" alt=""> <div class="content"> <a >Sustainable Communities</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/sdg12.jpg" alt=""> <div class="content"> <a >Consuption & Production</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/Goal-13-A.jpg" alt=""> <div class="content"> <a >Climate Action</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/belowwater.png" alt=""> <div class="content"> <a >Life Below Water</a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/Goal-15-A.jpg" alt=""> <div class="content"> <a >Life on Land </a> </div> </div> </div> <div class="swiper-slide"> <div class="img-box"> <img src="assets/images/common/peace.png" alt=""> <div class="content"> <a >Peace and Justice</a> </div> </div> </div> </div> </div> </div> </div> </div> </div> </section> This SDG Section ends
+#### UN's Sustainable Development Goals
+
+[UN's SDG](https://sdgs.un.org/goals) [View on Notion](https://sdgs.un.org/goals)
+
+No Poverty
+
+Zero Hunger
+
+Health and well-Being
+
+Quality Education
+
+Gender Equality
+
+Clean Water
+
+Clean Energy
+
+Economic Growth
+
+Industry Innovation
+
+Reduced Inequalities
+
+Sustainable Communities
+
+Consuption & Production
+
+Climate Action
+
+Life Below Water
+
+Life on Land
+
+Peace and Justice
+
+This SDG Section ends
 
 Solve Real-World Problems
 
@@ -9807,7 +7449,7 @@ Solve Real-World Problems
 
 ###### Will be revealed Soon...
 
-<a href="" target="_blank" rel="noopener noreferrer" class="tf-button btn-effect"> <span class="boder-fade"></span> <span class="effect">PPT Template</span> </a> <a href="" target="_blank" rel="noopener noreferrer" class="tf-button btn-effect"> <span class="boder-fade"></span> <span class="effect">View on Notion</span> </a>
+PPT Template View on Notion
 
 ###### TRACK 3
 
@@ -9823,13 +7465,69 @@ Resources
 
 [Problem Statement 4](https://bdvgjhdkwxjssahspavt.supabase.co/storage/v1/object/public/gh-resources/track3/Track_3_problem_statement_4.pdf) [Devpost/Submit](https://george-hacks-united-nations.devpost.com/) [Problem Statement Resources](https://docs.google.com/document/d/1SRXBrJwfS2TIWkqv7Va91UDtAJIoGvD-Z0_F_1TKG9c/view)
 
-<section id="tracks" class="tf-section faq"> <div class="container"> <div class="row"> <div class="col-md-12"> <div class="tf-title m-b60" data-aos="fade-up" data-aos-duration="800"> <p class="h8 sub-title">Solve Real-World Problems</p> <h4 class="title">Problem Statements</h4> <h4 class="title">Will be revealed Soon...</h4> <a href="" target='blank' rel="noopener noreferrer" class="tf-button btn-effect"> <span class="boder-fade"></span> <span class="effect">PPT Template</span> </a> <a href="" target='blank' rel="noopener noreferrer" class="tf-button btn-effect"> <span class="boder-fade"></span> <span class="effect">View on Notion</span> </a> </div> </div> <div class="col-md-12"> <div class="flat-accordion" data-aos="fade-up" data-aos-duration="800"> <div class="flat-toggle box-text corner-box active"> <div class="h7 toggle-title"> Track 1. General - Bring your own</div> <p class="toggle-content"> In this track, teams can create their own problem statement to prototype a solution for. The problem statement must be in relation to the 2025 hackathon theme (Global Sustainable Design with a special focus on the UN’s Sustainable Development Goals (SDGs)). </p> </div> <div class="flat-toggle box-text corner-box active"> <div class="h7 toggle-title"> Track 2. Health & Education and Equality </div> <p class="toggle-content"> you can check out the problem statements in the link <a rel="noopener noreferrer" href="https://docs.google.com/document/d/1s_tQwY2wKMVUOfP0UWxWCdpEB03PZx9q/edit?usp=sharing&ouid=107506195031465198362&rtpof=true&sd=true" target="_blank" style="color: #64b8fc">[problem statements link] </a> </a> </p> </div> <div class="flat-toggle box-text corner-box active"> <div class="h7 toggle-title"> Track 3. Health & Energy and Infrastructure</div> <p class="toggle-content">you can check out the problem statements in the link <a rel="noopener noreferrer" href="https://docs.google.com/document/d/1s_tQwY2wKMVUOfP0UWxWCdpEB03PZx9q/edit?usp=sharing&ouid=107506195031465198362&rtpof=true&sd=true" target="_blank" style="color: #64b8fc">[problem statements link] </a> </p> </div> <div class="flat-toggle box-text corner-box active"> <div class="h7 toggle-title"> Track 4. Health & Environment </div> <p class="toggle-content">you can check out the problem statements in the link <a rel="noopener noreferrer" href="https://docs.google.com/document/d/1s_tQwY2wKMVUOfP0UWxWCdpEB03PZx9q/edit?usp=sharing&ouid=107506195031465198362&rtpof=true&sd=true" target="_blank" style="color: #64b8fc">[problem statements link] </a> </p> </div> </div> </div> </div> </section> <section id="roadmap" class="tf-section tf-roadmap style2"> <div class="overlay"> <video src="assets/video/bg.mp4" autoplay loop muted></video> </div> <div class="container-fluid"> <div class="row"> <div class="col-md-12"> <div class="tf-title m-b40" data-aos="fade-up" data-aos-duration="800"> <p class="h8 sub-title">ROADMAP</p> <h4 class="title">Hackathon Timeline</h4> </div> </div> <div class="col-md-12"> <div class="roadmap style2 style3 "> <div class="swiper-container swiper sl-roadmap2 btn-style"> <div class="swiper-wrapper"> <div class="swiper-slide"> <div class="box" data-aos="fade-up" data-aos-duration="1200"> <div class="rm-box style"> <div class="corner-box active"> <h5> Check-in</h5> <ul> <p class="bold">March 1st, 2025 <br/> Check in at 9:00 AM at SEH B1 Level <a rel="noopener noreferrer" href="https://maps.app.goo.gl/rKrG2j4yQgLNNzyYA" target="_blank" style="color: #64b8fc">[Google Maps] </a> </p> <li>Breakfast at 9:00 AM </li> <li>The Hackathon begins at 10:00 AM!</li> </ul> </div> </div> </div> </div> <div class="swiper-slide"> <div class="box" data-aos="fade-up" data-aos-duration="1200"> <div class="rm-box style"> <div class="corner-box"> <h5>Hackathon Phase 1</h5> <ul> <p class="bold">March 1st, 2025 <br/> 10:00 am at SEH B1</p> <li>Opening Ceremony at 10 AM</li> <li>Lunch Break at 12:00 PM</li> <li>Workshops will begin at 1 PM</li> <li>Social media setup</li> </ul> </div> </div> </div> </div> <div class="swiper-slide"> <div class="box" data-aos="fade-up" data-aos-duration="1200"> <div class="rm-box style"> <div class="corner-box"> <h5>Hackathon Phase 2</h5> <ul> <p class="bold">March 1st, 2025 <br/> </p> <li>Workshop 2 will begin at 2 PM at Room 101</li> <li>Workshop 3 will begin at 4 PM at Room 104</li> <li>Dinner at 7 PM at B1 Level</li> <li>Late night games start at 9 PM</li> </ul> </div> </div> </div> </div> <div class="swiper-slide"> <div class="box" data-aos="fade-up" data-aos-duration="1200"> <div class="rm-box style"> <div class="corner-box"> <h5>Hackathon Phase 3</h5> <ul> <p class="bold">March 2nd, 2025 <br/> </p> <li>Nerf Gun War at 9:40 PM at Room 101</li> <li>Esports tournament at 10:00 PM at Room 102</li> <li>Late night snacks at B1 Level</li> <br> <p class="bold">Final Review at 9:00 am</p> </ul> </div> </div> </div> </div> <div class="swiper-slide"> <div class="box" data-aos="fade-up" data-aos-duration="1200"> <div class="rm-box style"> <div class="corner-box"> <h5>Finals!</h5> <ul> <p class="bold">March 2nd, 2025 <br/> </p> <li>Check - in at 8:30 AM</li> <li>Judging rounds begin at 11 AM</li> <li class="bold">Winners announced at 3:30 PM</li> <li>Closing ceremony at 4:00 PM</li> </ul> </div> </div> </div> </div> </div> <div class="wrap-fx2"> <div class="swiper-button-prev"></div> <div class="swiper-button-next"></div> </div> </div> </div> </div> </div> </div> </section>
+Solve Real-World Problems
+
+#### Problem Statements
+
+#### Will be revealed Soon...
+
+PPT Template View on Notion
+
+Track 1. General - Bring your own
+
+In this track, teams can create their own problem statement to prototype a solution for. The problem statement must be in relation to the 2025 hackathon theme (Global Sustainable Design with a special focus on the UN’s Sustainable Development Goals (SDGs)).
+
+Track 2. Health & Education and Equality
+
+you can check out the problem statements in the link [[problem statements link]](https://docs.google.com/document/d/1s_tQwY2wKMVUOfP0UWxWCdpEB03PZx9q/edit?usp=sharing&ouid=107506195031465198362&rtpof=true&sd=true)
+
+Track 3. Health & Energy and Infrastructure
+
+Track 4. Health & Environment
+
+ROADMAP
+
+#### Hackathon Timeline
+
+##### Check-in
+
+- Breakfast at 9:00 AM
+- The Hackathon begins at 10:00 AM!
+
+##### Hackathon Phase 1
+
+- Opening Ceremony at 10 AM
+- Lunch Break at 12:00 PM
+- Workshops will begin at 1 PM
+- Social media setup
+
+##### Hackathon Phase 2
+
+- Workshop 2 will begin at 2 PM at Room 101
+- Workshop 3 will begin at 4 PM at Room 104
+- Dinner at 7 PM at B1 Level
+- Late night games start at 9 PM
+
+##### Hackathon Phase 3
+
+- Nerf Gun War at 9:40 PM at Room 101
+- Esports tournament at 10:00 PM at Room 102
+- Late night snacks at B1 Level
+
+##### Finals!
+
+- Check - in at 8:30 AM
+- Judging rounds begin at 11 AM
+- Winners announced at 3:30 PM
+- Closing ceremony at 4:00 PM
 
 ROADMAP
 
 ###### Hackathon Timeline
 
-<div class="gh-step-item" data-step="0"> <div class="gh-step-node">00</div> <div class="gh-step-label">Day 0</div> </div>
+00
+
+Day 0
 
 01
 
@@ -9869,8 +7567,6 @@ Welcome, rules, and kickoff
 
 Lunch served
 
-@ SEH B1 Green Wall
-
 4/18/2026 12:30 PM
 
 ###### Team Registration- Picking Track,Problem Statement
@@ -9893,15 +7589,11 @@ UN-focused session
 
 Open source program session
 
-@ B1270
-
 4/18/2026 3:00 PM
 
 ###### Kevin Robbins’s Cloud AI Workshop
 
 AI-focused talk
-
-@ B1270
 
 4/18/2026 4:00 PM
 
@@ -9909,23 +7601,17 @@ AI-focused talk
 
 MLH session
 
-@ B1270
-
 4/18/2026 5:00 PM
 
 ###### Surprise Workshop
 
 Additional workshop
 
-@ B1270
-
 4/18/2026 6:30 PM
 
 ###### Pizza Dinner
 
 Dinner served
-
-@ SEH B1 Green Wall
 
 4/18/2026 7:00 PM
 
@@ -9941,13 +7627,15 @@ Activities begin
 
 Snacks provided
 
-@ SEH B1 Green Wall
-
 PROJECT ARCHIVE
 
 ###### PAST HISTORY OF WINNERS
 
-<div class="ghpa-stats"> <div class="ghpa-stat"> <span class="ghpa-stat-val" data-target="4">0</span> <span class="ghpa-stat-label">Years Covered</span> </div> <div class="ghpa-stat"> <span class="ghpa-stat-val" data-target="8">0</span> <span class="ghpa-stat-label">Winning Teams</span> </div> <div class="ghpa-stat"> <span class="ghpa-stat-val" data-target="40">0</span> <span class="ghpa-stat-label">Projects Archived</span> </div> </div> </div>
+0 Years Covered
+
+0 Winning Teams
+
+0 Projects Archived
 
 ##### Featured Highlights: 2025
 
@@ -9961,25 +7649,17 @@ Open
 
 DigitalMedics is a fall-detection, button-derived emergency alert system that alerts 911 authorities and personal contacts through SMS text messages
 
-Open
-
 ###### WellNest
 
 Unlocking Open Source for Global Health - Making SDG-Aligned Projects Discoverable.
-
-Open
 
 ###### RootSync
 
 AI-powered chatbot and IoT sensor system provide real-time soil data and smart crop rotation recommendations, improving yields, soil health, and farmer profits
 
-Open
-
 ###### Medical Wallet (Track 2)
 
 Medical Wallet is a blockchain-powered platform that allows patients in underserved communities control over their medical records, ensuring medical professionals can access data securely and quickly
-
-Open
 
 [View All Projects (2025)](https://www.georgehacks.org/pages/projects-2025.html)
 
@@ -9995,11 +7675,15 @@ Who can Participate in the Hackathon?
 
 What is the Team Size for the Hackathon?
 
-<div class="flat-toggle box-text corner-box active"> <div class="h7 toggle-title">What is the Theme of Next Hackathon?</div> <p class="toggle-content">We are still figuring it out.. You can follow us on Instagram for the latest updates! </p> </div>
+What is the Theme of Next Hackathon?
+
+We are still figuring it out.. You can follow us on Instagram for the latest updates!
 
 What Should we Expect as a Participant of a George Hacks Hackathon?
 
-<div class="flat-toggle box-text corner-box active"> <div class="h7 toggle-title">Do We Create our Own Problem Statement to Prototype or are We Provided One?</div> <p class="toggle-content">Both! This year, we have 4 tracks and one is the Create Your Own track where teams can create a problem statement on Day 1 (in relation to the 2025 theme) to prototype a solution for. Alternatively, the four main tracks include problem statements (related to the 2025 theme) for you to choose one to prototype. </p> </div>
+Do We Create our Own Problem Statement to Prototype or are We Provided One?
+
+Both! This year, we have 4 tracks and one is the Create Your Own track where teams can create a problem statement on Day 1 (in relation to the 2025 theme) to prototype a solution for. Alternatively, the four main tracks include problem statements (related to the 2025 theme) for you to choose one to prototype.
 
 Do We Need to Build a Fully Working Prototype by Day 2 of the Hackathon?
 
@@ -10007,7 +7691,7 @@ Have any Questions?
 
 Section : Georgehacks Team / 2024-2025
 
-<p class="h8 sub-title">2024-2025</p>
+2024-2025
 
 ###### George Hacks Team
 
@@ -10090,29 +7774,37 @@ Yodhin Aggarwal Event Operations
 
 Start of HubSpot Embed Code End of HubSpot Embed Code BEGIN Header
 
-<a href="#for-participants"> <li>For participants</li> </a>
+[For participants](https://dragonhack.si/#for-participants)
 
-div class="section-header visible-xs-block visible-sm-block"> <ul> <a href="for-participants"><li>For Participants</li></a> </ul> </div END Header
-
-[Image: triangle with all three sides equal]
+div class="section-header visible-xs-block visible-sm-block">
 
 BEGIN Welcome
-
-<img src="./glava.svg" alt="triangle with all three sides equal" height="1200" width="600" style=" margin-top: 1em; width: 113%; height: 103%; position: absolute; transform: rotate(-38deg); /* text-align: right; */ /* width: 105%; */ /* display: flex; */ /* justify-content: space-between; */ /* flex-wrap: wrap; */ /* background-size: 53px 30px; */ ">
-
-<div class="image"> <a href="/"> <img src="./assets/images/welcome/logo-circle.png"> </a> </div>
 
 DragonHack
 
 April 18-19, 2026
 
-Faculty of Computer and Information Science, Ljubljana Experience Slovenia’s longest running student hackathon! [JOIN OUR DISCORD COMMUNITY](https://discord.gg/Dr26s9wpGd) [JOIN OUR MAILING LIST](https://dragonhack.si/#newsletter) div class="text font-extra-small font-regular hidden-xs"> When? 20th and 21st of May 2017 | Where? Ljubljana, Slovenia </div> <div class="text font-extra-small font-regular visible-xs-block" style="font-size: 12px;"> When? 20th and 21st of May 2017</br> Where? Ljubljana, Slovenia </div
+Faculty of Computer and Information Science, Ljubljana Experience Slovenia’s longest running student hackathon! [JOIN OUR DISCORD COMMUNITY](https://discord.gg/Dr26s9wpGd) [JOIN OUR MAILING LIST](https://dragonhack.si/#newsletter) div class="text font-extra-small font-regular hidden-xs"> When? 20th and 21st of May 2017 | Where? Ljubljana, Slovenia
+
+When? 20th and 21st of May 2017 Where? Ljubljana, Slovenia
 
 Begin Mailchimp Signup Form End mc_embed_signup
 
-START Ticket Form " <div class="row ticket-form"> <div class="col-xs-12"> <div style="width:100%; text-align:left;"> <iframe src="//www.eventbrite.co.uk/tickets-external?eid=543931121627&ref=etckt" frameborder="0" height="650" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"> </iframe> <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;"> <a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt"> Powered by Eventbrite </a> </div> </div> </div> </div> end ticket Form div class="row logo"> <div class="live"> <span class="text-small"> The hackathon is now<br/> </span> <span class="text-normal"> <a href="https://mlh.io/nest">LIVE!</a> </span> </div> </div <div class="row"> <div class="social-media"> <a href="https://www.facebook.com/dragonhacklj/" target="_blank" class="fa fa-facebook link"> </a> <a href="https://twitter.com/dragonhacklj/" target="_blank" class="fa fa-twitter link"> </a> <a href="https://www.instagram.com/dragon.hack.lj/" target="_blank" class="fa fa-instagram link"> </a> <a href="https://www.snapchat.com/add/dragonhacklj" target="_blank" class="fa fa-snapchat-ghost link"> </a> </div> </div>
+START Ticket Form "
 
-END Welcome START Mailing List <div class="container-full section section-mailing-list section-dark hidden-xs"> <div class="container"> <div class="col-md-6"> <div class="row"> <div class="col-md-12 font-medium-large heading-spacing"> Notify me about tickets! </div> </div> <form action="/submit_ticket" method="post"> <input class="notify-email font-regular" id="ticketsEmail" type="email" name="email" placeholder="Your email..."> <button type="submit" id="ticketsSubmit" class="notify-submit mainBtn font-regular"> Submit </button> </form> </div> <div class="col-md-6 sponsorships-contact"> <div class="row"> <div class="col-md-12 heading-spacing"> Interested in sponsoring DragonHack 2020? <br /> Contact us at <a href="mailto:info@dragonhack.si" class="font-strong">info@dragonhack.si</a> </div> </div> </div> </div> </div> END Mailing List START About
+[Powered by Eventbrite](http://www.eventbrite.co.uk/r/etckt)
+
+end ticket Form div class="row logo">
+
+The hackathon is now [LIVE!](https://mlh.io/nest)
+
+END Welcome START Mailing List
+
+Notify me about tickets!
+
+Interested in sponsoring DragonHack 2020? Contact us at info@dragonhack.si
+
+END Mailing List START About
 
 About DragonHack
 
@@ -10124,13 +7816,37 @@ Location
 
 END About START Schedule
 
-[Image: DragonHack 2026 Schedule]
+END Schedule START Layout div class="container-full section section-layout section-light">
 
-END Schedule START Layout div class="container-full section section-layout section-light"> <div class="container"> <div class="row"> <div class="col-xs-12 font-large heading heading-spacing"> Layout </div> </div> <div class="row section-layout__layout"> <div class="col-xs-12 hidden-xs"> <img src="assets/images/layout/location-layout.png"> </div> <div class="col-xs-12 visible-xs-block"> <img src="assets/images/layout/location-layout-vertical.png"> </div> </div> </div> </div END Layout
+Layout
 
-<div style="background-image: url('glava.svg'); background-repeat: no-repeat;">
+START Challenges & Prizes
 
-START Challenges & Prizes <div id="challenges-and-prizes" class="container-full section section-layout section-light" v-if="showSection"> <div class="container"> <div class="row"> <div class="col-xs-12 font-large heading heading-spacing"> Challenges & Prizes </div> </div> <img class="dh-schedule" width="100%" src="/assets/documents/DH_nagrade_24.png"> </div> </div> END Challenges & Prizes START Mentors div class="container-full section section-mentors section-dark"> <div class="container"> <div class="row"> <div class="col-md-12 font-large heading heading-spacing"> Mentors </div> </div> <div class="row"> <div class="col-md-10 col-md-offset-1"> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/mentors/mentor-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Mentor Mentorson<br> Corporation, Inc. </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Mentor Mentorson is a generic title person at Corporation, Inc., a corporation at Randomville, USA. </div> </div> </div> </div> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/mentors/mentor-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Mentor Mentorson<br> Corporation, Inc. </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Mentor Mentorson is a generic title person at Corporation, Inc., a corporation at Randomville, USA. </div> </div> </div> </div> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/mentors/mentor-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Mentor Mentorson<br> Corporation, Inc. </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Mentor Mentorson is a generic title person at Corporation, Inc., a corporation at Randomville, USA. </div> </div> </div> </div> </div> </div> <div class="row row__people"> <div class="col-md-10 col-md-offset-1"> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/mentors/mentor-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Mentor Mentorson<br> Corporation, Inc. </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Mentor Mentorson is a generic title person at Corporation, Inc., a corporation at Randomville, USA. </div> </div> </div> </div> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/mentors/mentor-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Mentor Mentorson<br> Corporation, Inc. </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Mentor Mentorson is a generic title person at Corporation, Inc., a corporation at Randomville, USA. </div> </div> </div> </div> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/mentors/mentor-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Mentor Mentorson<br> Corporation, Inc. </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Mentor Mentorson is a generic title person at Corporation, Inc., a corporation at Randomville, USA. </div> </div> </div> </div> </div> </div> </div> </div END Mentors START Judges div class="container-full section section-mentors section-light"> <div class="container"> <div class="row"> <div class="col-md-12 font-large heading heading-spacing"> Judges </div> </div> <div class="row"> <div class="col-md-10 col-md-offset-1"> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/judges/judge-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Judge Judy </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Judge Judy is an American arbitration-based reality court show presided over by retired Manhattan family court Judge Judith Sheindlin. </div> </div> </div> </div> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/judges/judge-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Judge Judyation, Inc. </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Judge Judy is an American arbitration-based reality court show presided over by retired Manhattan family court Judge Judith Sheindlin. </div> </div> </div> </div> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/judges/judge-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Judge Judy </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Judge Judy is an American arbitration-based reality court show presided over by retired Manhattan family court Judge Judith Sheindlin. </div> </div> </div> </div> </div> </div> <div class="row row__people"> <div class="col-md-10 col-md-offset-1"> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/judges/judge-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Judge Judy </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Judge Judy is an American arbitration-based reality court show presided over by retired Manhattan family court Judge Judith Sheindlin. </div> </div> </div> </div> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/judges/judge-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Judge Judyation, Inc. </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Judge Judy is an American arbitration-based reality court show presided over by retired Manhattan family court Judge Judith Sheindlin. </div> </div> </div> </div> <div class="col-md-4"> <div class="col-md-12 person"> <div class="col-md-12 person"> <div class="person__image"> <img src="assets/images/judges/judge-sample.jpg"> </div> <div class="person__text center"> <div class="text-center-container"> Judge Judy </div> </div> </div> <div class="col-md-12 person__hover center"> <div class="text-center-container"> Judge Judy is an American arbitration-based reality court show presided over by retired Manhattan family court Judge Judith Sheindlin. </div> </div> </div> </div> </div> </div> </div> </div END Judges START for participtants <div class="container-full section section-for-participants section-dark" id="for-participants"> <div class="col-md-12 font-large heading heading-spacing hidden-xs section-dark"> <!–FOR PARTICIPANTS–> PRIZES </div> <div class="container"> <div class="row"> <div class="col-md-12 font-large heading heading-dark heading-spacing visible-xs-block"> FOR PARTICIPANTS </div> </div> <!– <div class="row col-xs-10 col-xs-offset-1 content">–> <!– <div><img class="img img-responsive schedule-dh" src="assets/documents/akreditacija-urnik-1.jpg" alt="Schedule">–> <!– </div>–> <!– </div>–> <div class="row col-xs-10 col-xs-offset-1 content"> <br> <div><img class="img img-responsive schedule-dh" src="assets/documents/dh_urnik2.jpg" alt="Schedule"></div> <div><img class="img img-responsive schedule-dh" src="assets/documents/nagrade-2022.png" alt="Prizes"></div> </div> </div> </div> END for participtants
+Challenges & Prizes
+
+END Challenges & Prizes START Mentors div class="container-full section section-mentors section-dark">
+
+Mentors
+
+Mentor Mentorson Corporation, Inc.
+
+Mentor Mentorson is a generic title person at Corporation, Inc., a corporation at Randomville, USA.
+
+Judges
+
+Judge Judy
+
+Judge Judy is an American arbitration-based reality court show presided over by retired Manhattan family court Judge Judith Sheindlin.
+
+Judge Judyation, Inc.
+
+Judge Judyation, Inc.
+
+PRIZES
+
+FOR PARTICIPANTS
+
+END for participtants
 
 FAQ
 
@@ -10186,7 +7902,7 @@ martin.strekelj@dragonhack.si
 
 pika@dragonhack.si
 
-<div class="content-section sponsors-partners"> <div class="row last"> <div class="col-md-10 col-md-offset-1 col-xs-6 col-xs-offset-3 center"> <div class="col-md-4 col-md-offset-4 image image-large"> <a href="https://www.facebook.com/racunalnicarji/" target="_blank"> <img src="assets/images/sponsors-and-partners/organizer/drustvo-racunalnicarjev-logo.jpg"> </a> </div> </div> </div> <div class="row"> <div class="col-md-12 heading-spacing font-small"> Interested in sponsoring DragonHack 2019? <br /> Contact us at <a href="mailto:info@dragonhack.si" class="font-strong">info@dragonhack.si</a> </div> </div> </div> END Sponsors & Partners
+Interested in sponsoring DragonHack 2019? Contact us at info@dragonhack.si
 
 BEGIN Footer
 
@@ -10198,9 +7914,9 @@ BEGIN Footer
 
 COPYRIGHT (C) 2026 DragonHack
 
-<span class="glyphicon glyphicon-heart"></span> by the DragonHack team
+by the DragonHack team
 
-END Footer build:js(.) scripts/vendor.js bower:js endbower endbuild build:js(.) scripts/plugins.js endbuild Google Maps Google Maps Init Schedule section buttons toggle BEGIN MLH badge [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/eu?utm_source=eu-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white) END MLH badge
+END Footer build:js(.) scripts/vendor.js bower:js endbower endbuild build:js(.) scripts/plugins.js endbuild Google Maps Google Maps Init Schedule section buttons toggle BEGIN MLH badge END MLH badge
 
 ### Website 34: Hook 'Em Hacks
 - Card URL: [https://www.hookemhacks.com](https://www.hookemhacks.com)
@@ -10211,18 +7927,12 @@ END Footer build:js(.) scripts/vendor.js bower:js endbower endbuild build:js(.) 
 
 Custom Scrollbar
 
-[Image: Bevo]
-
 Navigation Bar Landing Section
-
-[Image: Underwater Scene]
-
-[Image: Hook 'em Hacks Banner]
 
 HOOK 'EM HACKS
 April 18–19, 2026
 
-[Image: Register] Register
+Register
 
 0 Days
 
@@ -10256,114 +7966,154 @@ Apple · Google · Meta · LinkedIn · & more
 
 Floating Bevo Decorations
 
-[Image: Bevo]
-
-[Image: Bevo]
-
 ##### TRACKS
-
-[Image: Blockchain & Decentralized AI]
 
 ###### BLOCKCHAIN & DECENTRALIZED AI
 
 Build AI systems powered by blockchain—decentralized models, on-chain inference, smart contract agents, and trustless AI pipelines.
 
-[Image: Multimodal Search]
-
 ###### MULTIMODAL SEARCH & GENERATION
 
 Create AI systems that search, understand, and generate across text, images, audio, and video.
-
-[Image: Security]
 
 ###### SECURITY IN AN AI-FIRST WORLD
 
 **Sponsored by IBM**
 Design secure, trustworthy AI systems that protect users, data, and infrastructure from emerging threats.
 
-[Image: Financial Systems]
-
 ###### INTELLIGENT FINANCIAL & MARKET SYSTEMS
 
 Build data-driven technologies for markets, trading, risk, and real-time decision making.
-
-[Image: Patient-Centered Tech]
 
 ###### PATIENT-CENTERED TECH
 
 Develop technology that improves patient care, access, and health outcomes with people at the center.
 
-[Image: Bevo]
-
 ##### Event Schedule
 
-Filter pills hidden: schedule uses static SVG images <div class="schedule-filter-pills"> <button class="pill pill-all active" data-filter="all">All</button> <button class="pill pill-required" data-filter="required">Required</button> <button class="pill pill-event" data-filter="event">Event</button> <button class="pill pill-food" data-filter="food">Food</button> <button class="pill pill-forfun" data-filter="forfun">For Fun</button> </div>
+Filter pills hidden: schedule uses static SVG images
 
-[Image: Pre-Events]
+All Required Event Food For Fun
 
-[Image: Day 1 Schedule] [Image: Day 2 Schedule]
+9AM
 
-<div class="schedule-grid-wrapper"> <div class="schedule-grid"> <div class="schedule-col time-col"> <div class="schedule-day-header"></div> <div class="time-slot">9AM</div> <div class="time-slot">10AM</div> <div class="time-slot">11AM</div> <div class="time-slot">12PM</div> <div class="time-slot">1PM</div> <div class="time-slot">2PM</div> <div class="time-slot">3PM</div> <div class="time-slot">4PM</div> <div class="time-slot">5PM</div> <div class="time-slot">6PM</div> <div class="time-slot">7PM</div> <div class="time-slot">8PM</div> <div class="time-slot">9PM</div> <div class="time-slot">10PM</div> <div class="time-slot">11PM</div> <div class="time-slot">12AM</div> </div> <div class="schedule-col day-col"> <div class="schedule-day-header">4/18</div> <div class="schedule-events" style="--rows: 15;"> <div class="sched-event color-blue" style="--start: 0; --span: 1;"> <span class="event-name">Check-in & Registration</span> <span class="event-time">9:00 AM</span> </div> <div class="sched-event color-purple" style="--start: 1; --span: 1;"> <span class="event-name">🤝 Team Finding</span> <span class="event-time">10:00 AM</span> </div> <div class="sched-event color-teal" style="--start: 2; --span: 1;"> <span class="event-name">Opening Ceremony</span> <span class="event-time">11:00 AM</span> </div> <div class="sched-event color-orange" style="--start: 3; --span: 1;"> <span class="event-name">🚀 Hacking Begins!</span> <span class="event-time">12:00 PM</span> </div> <div class="sched-event color-green" style="--start: 4; --span: 1;"> <span class="event-name">Lunch</span> <span class="event-time">12:30 PM</span> </div> <div class="sched-event color-purple" style="--start: 5; --span: 1;"> <span class="event-name">Workshop: Longhorn Neurotech</span> <span class="event-time">2:00 PM</span> </div> <div class="sched-event color-purple" style="--start: 6; --span: 1;"> <span class="event-name">Workshop: ML Basics</span> <span class="event-time">3:00 PM</span> </div> <div class="sched-event color-purple" style="--start: 7; --span: 1;"> <span class="event-name">Workshop: Agentic Development</span> <span class="event-time">4:00 PM</span> </div> <div class="sched-event color-purple" style="--start: 8; --span: 1;"> <span class="event-name">Workshop: How to Make a Game</span> <span class="event-time">5:00 PM</span> </div> <div class="sched-event color-green" style="--start: 9; --span: 1;"> <span class="event-name">Dinner</span> <span class="event-time">6:00 PM</span> </div> <div class="sched-event color-orange" style="--start: 10; --span: 1;"> <span class="event-name">⌨️ Typing Contest</span> <span class="event-time">7:00 PM</span> </div> <div class="sched-event color-orange" style="--start: 11; --span: 1;"> <span class="event-name">🏆 Cup Stacking</span> <span class="event-time">8:00 PM</span> </div> <div class="sched-event color-purple" style="--start: 12; --span: 1;"> <span class="event-name">🧠 Trivia Night</span> <span class="event-time">9:00 PM</span> </div> <div class="sched-event color-teal" style="--start: 13; --span: 1;"> <span class="event-name">🎤 Karaoke Hour</span> <span class="event-time">10:00 PM</span> </div> <div class="sched-event color-green" style="--start: 15; --span: 1;"> <span class="event-name">🍕 Midnight Snacks</span> <span class="event-time">12:00 AM</span> </div> </div> </div> <div class="schedule-col day-col"> <div class="schedule-day-header">4/19</div> <div class="schedule-events" style="--rows: 15;"> <div class="sched-event color-teal" style="--start: 0; --span: 1;"> <span class="event-name">🚶 Morning Walk</span> <span class="event-time">9:00 AM</span> </div> <div class="sched-event color-purple" style="--start: 1; --span: 1;"> <span class="event-name">🎤 Workshop: How to Pitch</span> <span class="event-time">10:00 AM</span> </div> <div class="sched-event color-orange" style="--start: 2; --span: 1;"> <span class="event-name">🛑 Hacking Ends</span> <span class="event-time">11:00 AM</span> </div> <div class="sched-event color-blue" style="--start: 3; --span: 2;"> <span class="event-name">Lunch & Judging</span> <span class="event-time">12:00 PM</span> </div> <div class="sched-event color-purple" style="--start: 5; --span: 2;"> <span class="event-name">Final Presentations</span> <span class="event-time">2:00 PM</span> </div> <div class="sched-event color-teal" style="--start: 7; --span: 1;"> <span class="event-name">🎉 Closing & Awards</span> <span class="event-time">4:00 PM</span> </div> <div class="sched-event color-orange" style="--start: 8; --span: 1;"> <span class="event-name">Event Ends</span> <span class="event-time">5:00 PM</span> </div> </div> </div> </div> </div>
+10AM
+
+11AM
+
+12PM
+
+1PM
+
+2PM
+
+3PM
+
+4PM
+
+5PM
+
+6PM
+
+7PM
+
+8PM
+
+9PM
+
+10PM
+
+11PM
+
+12AM
+
+4/18
+
+Check-in & Registration 9:00 AM
+
+🤝 Team Finding 10:00 AM
+
+Opening Ceremony 11:00 AM
+
+🚀 Hacking Begins! 12:00 PM
+
+Lunch 12:30 PM
+
+Workshop: Longhorn Neurotech 2:00 PM
+
+Workshop: ML Basics 3:00 PM
+
+Workshop: Agentic Development 4:00 PM
+
+Workshop: How to Make a Game 5:00 PM
+
+Dinner 6:00 PM
+
+⌨️ Typing Contest 7:00 PM
+
+🏆 Cup Stacking 8:00 PM
+
+🧠 Trivia Night 9:00 PM
+
+🎤 Karaoke Hour 10:00 PM
+
+🍕 Midnight Snacks 12:00 AM
+
+4/19
+
+🚶 Morning Walk 9:00 AM
+
+🎤 Workshop: How to Pitch 10:00 AM
+
+🛑 Hacking Ends 11:00 AM
+
+Lunch & Judging 12:00 PM
+
+Final Presentations 2:00 PM
+
+🎉 Closing & Awards 4:00 PM
+
+Event Ends 5:00 PM
 
 ##### FAQs
 
 ###### Who can attend?
 
-▼
-
 Hook 'Em Hacks is open to all current college students, regardless of major or experience level. High school students are welcome with parental consent.
 
 ###### How much does it cost?
-
-▼
 
 Hook 'Em Hacks is completely FREE! We'll provide meals, snacks, swag, and everything you need for an amazing weekend of hacking.
 
 ###### What should I bring?
 
-▼
-
 Bring your laptop, chargers, valid student ID, and enthusiasm! We recommend bringing a sleeping bag if you plan to rest during the event.
 
 ###### Do I need a team?
-
-▼
 
 Teams can have up to 4 people. You can come with a team or form one at the event during our team formation session. Solo hackers are also welcome!
 
 ###### What can I build?
 
-▼
-
 All projects must incorporate AI in some way. Choose from five impact-focused tracks—Blockchain & Decentralized AI, Multimodal Search, Security in an AI-First World, Patient-Centered AI, and Intelligent Financial Systems—with over $10,000 in prizes across categories.
 
 ###### Where do I park?
-
-▼
 
 Parking is available at Brazos Garage on the UT Austin campus. Please note that garage rates apply.
 
 ###### Is travel reimbursement offered?
 
-▼
-
 Unfortunately, we are not able to provide travel reimbursement at this time.
 
 ###### Can I volunteer to mentor?
-
-▼
 
 Upperclassmen, graduate students, and industry professionals are all welcome to volunteer as mentors! Please fill out [this form](https://forms.gle/cx7c8fZfMB9LnmSk8). All mentors will receive swag as a token of our appreciation!
 
 ###### Interested in judging?
 
-▼
-
 We'd love to have you! Industry professionals and faculty are welcome to judge. Please fill out [this form](https://forms.gle/gZn5ku2KW41TAAZY7) and we'll be in touch with more details.
 
 Have more questions? We're here for you! Send us an email at hookemhacks@gmail.com , or reach out to us on [Instagram](https://www.instagram.com/hookemhacks/) or [LinkedIn](https://www.linkedin.com/company/hook-em-hacks) !
-
-[Image: FAQ graphic]
 
 ##### Sponsors
 
@@ -10371,131 +8121,19 @@ INTERESTED IN SPONSORING?
 If you would like to sponsor Hook 'Em Hacks,
 please reach out to us at hookemhacks@gmail.com
 
-[Image: Harper]
-
-[Image: Hudson River Trading]
-
-[Image: IBM]
-
-[Image: Jane Street]
-
-[Image: AWS]
-
-[Image: Pure Buttons]
-
-[Image: Bright Initiative by Bright Data]
-
-[Image: UEV]
-
-[Image: Sponsor 1]
-
-[Image: Secret Sponsor]
-
-[Image: Sponsor 2]
-
-[Image: Sponsor 3]
-
-[Image: Sponsor 4]
-
-[Image: Sponsor 5]
-
-[Image: Sponsor 6]
-
-[Image: Sponsor 7]
-
-[Image: Sponsor 9]
-
-[Image: Sponsor 10]
-
-[Image: Harper]
-
-[Image: Hudson River Trading]
-
-[Image: IBM]
-
-[Image: Jane Street]
-
-[Image: AWS]
-
-[Image: Pure Buttons]
-
-[Image: Bright Initiative by Bright Data]
-
-[Image: UEV]
-
-[Image: Sponsor 1]
-
-[Image: Secret Sponsor]
-
-[Image: Sponsor 2]
-
-[Image: Sponsor 3]
-
-[Image: Sponsor 4]
-
-[Image: Sponsor 5]
-
-[Image: Sponsor 6]
-
-[Image: Sponsor 7]
-
-[Image: Sponsor 9]
-
-[Image: Sponsor 10]
-
 NEW TIERED SPONSOR STRUCTURE
-
-[Image: UT Tower]
 
 Tier 1 - Largest (3 sponsors)
 
-[Image: Harper]
-
-[Image: Hudson River Trading]
-
-[Image: IBM]
-
-[Image: Vercel]
-
-[Image: Lovable]
-
 Tier 2 - Medium-Large
-
-[Image: Supabase]
-
-[Image: Jane Street]
-
-[Image: AWS]
-
-[Image: BookPeople]
-
-[Image: Featherless AI]
-
-[Image: UEV]
-
-[Image: Sports Sense]
-
-[Image: Sponsor 6]
 
 Tier 3 - Medium (2 sponsors)
 
-[Image: Pure Buttons]
-
-[Image: Bright Initiative by Bright Data]
-
-[Image: Sponsor 7]
-
-[Image: Sponsor 8]
-
 Tier 4 - Smallest (2 sponsors)
-
-[Image: Sponsor 10]
 
 ###### Partners
 
-[Image: Ship | Velric]
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=gray) MLH Trust Badge (Brighter Blue Version) (Below nav bar) <a id="mlh-trust-badge" style="display:block;max-width:100px;min-width:60px;position:fixed;right:30.6px;top:0;width:10%;z-index:998" href="https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=blue" target="_blank"> <img src="https://s3.amazonaws.com/logged-assets/trust-badge/2026/mlh-trust-badge-2026-blue.svg" alt="Major League Hacking 2026 Hackathon Season" style="width:100%"> </a>
+MLH Trust Badge (Brighter Blue Version) (Below nav bar)
 
 ### Website 35: Hack Kosice
 - Card URL: [https://hackkosice.com/](https://hackkosice.com/)
@@ -10554,39 +8192,39 @@ Become a sponsor
 
 ##### General Partners
 
-[[Image: Pavol Jozef Safarik University]](https://www.upjs.sk/en/)
+[Pavol Jozef Safarik University](https://www.upjs.sk/en/)
 
-[[Image: Major League Hacking]](https://mlh.io/)
+[Major League Hacking](https://mlh.io/)
 
 ##### Platinum Sponsors
 
-[[Image: Investech]](https://investech-cove.eu/)
+[Investech](https://investech-cove.eu/)
 
 ##### Gold Sponsors
 
-[[Image: AT&T]](https://www.att.com/)
+[AT&T](https://www.att.com/)
 
-[[Image: Tatra Banka]](https://www.tatrabanka.sk/)
+[Tatra Banka](https://www.tatrabanka.sk/)
 
-[[Image: JetBrains]](https://www.jetbrains.com/)
+[JetBrains](https://www.jetbrains.com/)
 
 ##### Silver Sponsors
 
-[[Image: IBM]](https://www.ibm.com/sk-en)
+[IBM](https://www.ibm.com/sk-en)
 
 ##### Bronze Sponsors
 
-[[Image: Kaya VC]](https://www.kaya.vc/)
+[Kaya VC](https://www.kaya.vc/)
 
 ##### Partners
 
-[[Image: Hi-Reklama]](https://www.hireklama.sk)
+[Hi-Reklama](https://www.hireklama.sk)
 
-[[Image: dev.events]](https://dev.events/)
+[dev.events](https://dev.events/)
 
-[[Image: AquaPro]](https://aquapro.sk/)
+[AquaPro](https://aquapro.sk/)
 
-[[Image: KE IT VALLEY]](https://www.kosiceitvalley.sk/en/)
+[KE IT VALLEY](https://www.kosiceitvalley.sk/en/)
 
 ##### Want to stay up to date?
 
@@ -10609,15 +8247,9 @@ April 18-19, 2026
 
 Days
 
-00
-
 Hours
 
-00
-
 Minutes
-
-00
 
 Seconds
 
@@ -10627,23 +8259,17 @@ Seconds
 
 DataHacks 2026 is a hackathon bringing together 450+ students from across the country for 36 hours of innovation, collaboration, and creativity. With hands-on workshops, industry & faculty mentors, exciting prizes, free food, and direct access to top companies and researchers, DataHacks is more than a competition: it's a launchpad for ideas, careers, and community.
 
-[Image: DataHacks event]
-
-[Image: DataHacks event]
-
-[Image: DataHacks event]
-
 ###### Primary Organizer
 
-[[Image: Data Science Student Society (DS3)]](https://www.ds3atucsd.com/)
+[Data Science Student Society (DS3)](https://www.ds3atucsd.com/)
 
 ###### Co-Organizers
 
-[Image: BRAIN] [[Image: Google Developer Group on Campus (GDG)]](https://gdg.community.dev/gdg-on-campus-at-university-of-california-san-diego-united-states/) [[Image: AWS Cloud Club]](https://www.meetup.com/aws-cloud-club-at-university-of-california-san-diego/?pro_email_optin=true&_af=chapter&_af_cid=aws-cloud-club-at-university-of-california-san-diego) [[Image: Triton Quantitative Trading (TQT)]](https://tquantt.com/) [[Image: Biomedical Engineering Society (BMES)]](https://bmesatucsd.org/) [[Image: Startup Incubator Club]](https://www.startupincubatorsd.com/) [[Image: Product Management Club]](https://www.instagram.com/pmcatucsd/) [[Image: CSES]](https://csesucsd.com/) [[Image: SDx]](https://sdxucsd.com/) [[Image: ASME]](https://asme.org/)
+[Google Developer Group on Campus (GDG)](https://gdg.community.dev/gdg-on-campus-at-university-of-california-san-diego-united-states/) [AWS Cloud Club](https://www.meetup.com/aws-cloud-club-at-university-of-california-san-diego/?pro_email_optin=true&_af=chapter&_af_cid=aws-cloud-club-at-university-of-california-san-diego) [Triton Quantitative Trading (TQT)](https://tquantt.com/) [Biomedical Engineering Society (BMES)](https://bmesatucsd.org/) [Startup Incubator Club](https://www.startupincubatorsd.com/) [Product Management Club](https://www.instagram.com/pmcatucsd/) [CSES](https://csesucsd.com/) [SDx](https://sdxucsd.com/) [ASME](https://asme.org/)
 
 ###### Partners
 
-[[Image: Triton Software Engineering (TSE)]](https://tritonse.github.io/) [[Image: AI Student Collective]](https://aiscsandiego.netlify.app/) [[Image: Claude Builders Club]](https://www.instagram.com/cbcatucsd/?hl=en) [[Image: TESC]](https://tescatucsd.org/) [[Image: KEEBS]](https://keebsatucsd.com/)
+[Triton Software Engineering (TSE)](https://tritonse.github.io/) [AI Student Collective](https://aiscsandiego.netlify.app/) [Claude Builders Club](https://www.instagram.com/cbcatucsd/?hl=en) [TESC](https://tescatucsd.org/) [KEEBS](https://keebsatucsd.com/)
 
 Event Timeline
 
@@ -10705,21 +8331,15 @@ Apr 18 9:30 AM - 10:00 AM Rec Gym
 
 Keynote from Ali Arsanjani, Director of Applied AI Engineering @ Google.
 
-General
-
 Apr 18 10:00 AM - 10:30 AM Rec Gym
 
 ###### Opening Ceremony: Introduction
 
 Rules, logistics, and kickoff.
 
-General
-
 Apr 18 10:30 AM Rec Gym
 
 ###### Hacking Begins!
-
-General
 
 Apr 18 1:00 PM - 2:00 PM Rec Gym
 
@@ -10727,23 +8347,17 @@ Apr 18 1:00 PM - 2:00 PM Rec Gym
 
 Midday food break.
 
-General
-
 Apr 18 2:00 PM - 5:00 PM Auxiliary + Patio
 
 ###### Career Fair
 
 Meet recruiters and mentors.
 
-General
-
 Apr 18 6:00 PM - 7:00 PM Rec Gym
 
 ###### Dinner
 
 Evening meal.
-
-General
 
 Sunday, Apr 19
 
@@ -10753,15 +8367,11 @@ Apr 19 8:00 AM - 9:00 AM Rec Gym
 
 Morning fuel.
 
-General
-
 Apr 19 12:00 PM Rec Gym
 
 ###### SOFT DEADLINE (Initial Submission)
 
 Submit early version for feedback.
-
-General
 
 Apr 19 1:00 PM Rec Gym
 
@@ -10769,15 +8379,9 @@ Apr 19 1:00 PM Rec Gym
 
 Final project submission.
 
-General
-
 Apr 19 1:00 PM - 2:00 PM Rec Gym
 
-###### Lunch
-
 Final meal before judging.
-
-General
 
 Apr 19 2:00 PM - 4:30 PM Rec Gym
 
@@ -10785,23 +8389,15 @@ Apr 19 2:00 PM - 4:30 PM Rec Gym
 
 Present your project to judges.
 
-General
-
 Apr 19 4:30 PM - 5:15 PM Rec Gym
 
 ###### Closing Ceremony: Keynote
 
 Closing keynote from Sharad Agarwal, Head of Global Partnerships at Google.
 
-General
-
 Apr 19 5:15 PM - 5:30 PM Rec Gym
 
-###### Closing Ceremony: Keynote
-
 Closing keynote from Ian Kerman, Senior Developer Relations Manager @ NVIDIA.
-
-General
 
 Apr 19 5:30 PM - 7:00 PM Rec Gym
 
@@ -10809,15 +8405,11 @@ Apr 19 5:30 PM - 7:00 PM Rec Gym
 
 Winners announced.
 
-General
-
 Apr 19 7:00 PM Rec Gym
 
 ###### End
 
 Event concludes.
-
-General
 
 ###### Workshops + Side Events
 
@@ -10843,15 +8435,11 @@ AI & ML Data Analytics
 
 12:00 PM - 1:00 PM · Apr 18 2 concurrent sessions
 
-Auxiliary Room
-
 ###### Impulse Labs: Data → Deployment
 
 Workshop/Activity 2-2
 
 AI & ML
-
-Price Theater
 
 ###### Intro to CAD
 
@@ -10885,15 +8473,11 @@ Data Analytics Economics
 
 5:00 PM - 6:00 PM · Apr 18 2 concurrent sessions
 
-Auxiliary Room
-
 ###### SageMaker Deep Dive
 
 Workshop/Activity 1-3
 
 Cloud Development AI & ML
-
-Price Theater
 
 ###### IoT with Arduino Uno Q
 
@@ -10901,15 +8485,11 @@ Workshop/Activity 2-6
 
 7:00 PM - 8:00 PM · Apr 18 2 concurrent sessions
 
-Auxiliary Room
-
 ###### Product Market Fit
 
 Workshop/Activity 2-5
 
 Product & Entrepreneurship
-
-Price Theater
 
 ###### Where is the Alpha? (Prediction Markets)
 
@@ -10919,15 +8499,9 @@ Economics
 
 8:00 PM - 9:00 PM · Apr 18 2 concurrent sessions
 
-Auxiliary Room
-
 ###### Pitching a Product
 
 Workshop/Activity 1-5
-
-Product & Entrepreneurship
-
-Price Theater
 
 ###### Web Development
 
@@ -10941,8 +8515,6 @@ Apr 18 9:00 PM - 10:00 PM Price Theater
 
 Workshop/Activity 2-9
 
-Product & Entrepreneurship
-
 Sunday, Apr 19
 
 Apr 19 9:00 AM - 12:00 PM Auxiliary Room
@@ -10950,8 +8522,6 @@ Apr 19 9:00 AM - 12:00 PM Auxiliary Room
 ###### Pitching Practice
 
 Workshop/Activity 2-10
-
-Product & Entrepreneurship
 
 See full schedule
 
@@ -11013,51 +8583,21 @@ Apple Watch SE 3
 
 Swag Bundle
 
-###### Data Analytics
-
 $2,000
-
-1st
 
 Nintendo Switch + Mario Kart 8
 
-2nd
-
 43'' 4K UHD Smart TV
-
-3rd
-
-Swag Bundle
 
 ###### Cloud
 
-$2,000
-
-1st
-
 Meta Quest 3S
-
-2nd
 
 Apple TV 4K
 
-3rd
-
-Swag Bundle
-
-###### Mechanical Design & Biotechnology
-
-$2,000
-
-1st
-
 Arduino Kit + 3D Printer with Filament
 
-2nd
-
 Arduino Kit + Tool Kit
-
-3rd
 
 Arduino Kit + Swag Bundle
 
@@ -11065,65 +8605,27 @@ Arduino Kit + Swag Bundle
 
 $2,500
 
-1st
-
 iPad Wi-Fi 128GB A16 + Apple Pencil
-
-2nd
 
 LOOI AI Companion Robot
 
-3rd
-
-Swag Bundle
-
-###### Economics
-
-$2,000
-
-1st
-
 Meta Ray-Bans + ? Trip
-
-2nd
 
 Sony Headphones
 
-3rd
-
-Swag Bundle
-
 ###### Hardware + IoT
-
-$2,000
-
-1st
 
 Arduino Kit + AirPods Pro 3
 
-2nd
-
 Arduino Kit + Aqara Presence Sensor + Apple HomePod mini
-
-3rd
 
 Arduino Kit + Swag Bundle
 
 ###### UI/UX Design + Web Development
 
-$2,000
-
-1st
-
 Acer Nitro 32" 1080p Monitor + Drawing Tablet
 
-2nd
-
 Coffee Machine + Fair-Trade Coffee
-
-3rd
-
-Swag Bundle
 
 ##### Sponsor Challenges
 
@@ -11169,8 +8671,6 @@ Leverage the Databricks platform for data processing, analytics, or machine lear
 
 Edge Computing Challenge
 
-Up to $1000
-
 ###### Best Use of Edge-AI
 
 Build a project that runs intelligence at the edge using embedded devices. Projects will be judged on system design, efficiency, and real-world applicability.
@@ -11178,8 +8678,6 @@ Build a project that runs intelligence at the edge using embedded devices. Proje
 1st Arduino Kit, Projector, Screen, & 4K Fire Stick
 
 Cloud Platform Challenge
-
-Up to $1000
 
 ###### Best Use of AWS Services
 
@@ -11189,15 +8687,11 @@ Use AWS services as part of your project's infrastructure, data pipeline, or dep
 
 API Platform Challenge
 
-Up to $1000
-
 ###### Best Use of Orthogonal
 
 Use Orthogonal's API platform to build your project. Projects will be evaluated on meaningful and well-architected use of the Orthogonal ecosystem.
 
 1st Meta Ray Bans
-
-Cloud Platform Challenge
 
 Up to $1,000
 
@@ -11220,8 +8714,6 @@ Train and deploy ML models using Impulse's MLE agent. Projects will be judged fo
 2nd 80% off Impulse Annual Plan, Powerbank, Sweatshirt
 
 3rd 80% off Impulse Annual Plan, Powerbank
-
-Cloud Platform Challenge
 
 Up to $500
 
@@ -11295,8 +8787,6 @@ Build an AI-powered application using the Gemini API and Google Cloud. Projects 
 
 1st Swag Kits
 
-MLH Challenge
-
 Prize
 
 ###### Best Use of ElevenLabs
@@ -11305,29 +8795,17 @@ Create an application using ElevenLabs to generate realistic, expressive AI audi
 
 1st Wireless Earbuds
 
-MLH Challenge
-
-Prize
-
 ###### Best Use of Solana
 
 Build a fast, scalable application using the Solana blockchain. Projects may include decentralized apps, payments, trading systems, or high-throughput consumer products.
 
 1st Ledger Nano S Plus
 
-MLH Challenge
-
-Prize
-
 ###### Best Use of DigitalOcean
 
 Deploy or scale your project using DigitalOcean infrastructure such as Droplets, Managed Databases, or App Platform. Judged on effective cloud architecture and usage.
 
 1st Retro Wireless Mouse
-
-MLH Challenge
-
-Prize
 
 ###### Best Use of Snowflake API
 
@@ -11339,21 +8817,19 @@ Build an application using Snowflake's APIs for data processing or AI-powered wo
 
 Thank you to our sponsors for supporting DataHacks 2026.
 
-[[Image: Qualcomm]](https://www.qualcomm.com) [[Image: SCIDS]](https://scids.ucsd.edu/)
+[Qualcomm](https://www.qualcomm.com) [SCIDS](https://scids.ucsd.edu/)
 
-[[Image: NVIDIA]](https://www.nvidia.com) [[Image: Marimo]](https://marimo.io) [[Image: Sphinx]](https://www.sphinx.ai/) [[Image: Orthogonal]](https://www.orthogonal.com/) [[Image: COGS]](https://cogsci.ucsd.edu/) [[Image: Jacobs]](https://jacobs.ucsd.edu/) [[Image: Ideas]](https://jacobsschool.ucsd.edu/idea)
+[NVIDIA](https://www.nvidia.com) [Marimo](https://marimo.io) [Sphinx](https://www.sphinx.ai/) [Orthogonal](https://www.orthogonal.com/) [COGS](https://cogsci.ucsd.edu/) [Jacobs](https://jacobs.ucsd.edu/) [Ideas](https://jacobsschool.ucsd.edu/idea)
 
-[[Image: Google]](https://www.google.com) [[Image: Amazon]](https://www.amazon.com) [[Image: Databricks]](https://www.databricks.com) [[Image: Zen Power]](https://zenpower.org/) [[Image: Vercel]](https://vercel.com) [[Image: Scripps]](https://scripps.ucsd.edu) [[Image: CSE]](https://cse.ucsd.edu) [[Image: SDSC]](https://sdsc.ucsd.edu) [[Image: AS]](https://as.ucsd.edu)
+[Google](https://www.google.com) [Amazon](https://www.amazon.com) [Databricks](https://www.databricks.com) [Zen Power](https://zenpower.org/) [Vercel](https://vercel.com) [Scripps](https://scripps.ucsd.edu) [CSE](https://cse.ucsd.edu) [SDSC](https://sdsc.ucsd.edu) [AS](https://as.ucsd.edu)
 
-[[Image: Data Science Alliance]](https://www.datasciencealliance.org) [[Image: cng]](https://cloudnativegeo.org/) [[Image: Atlassian]](https://www.atlassian.com) [[Image: Impulse Labs]](https://www.impulselabs.ai/) [[Image: IEEE SD]](https://sdieee.org/sdieee/) [[Image: IEEE vts]](https://vtsociety.org/) [[Image: Career Center]](https://career.ucsd.edu/) [[Image: UCSD IEM]](https://iem.ucsd.edu/) [[Image: The Basement]](https://thebasement.ucsd.edu)
+[Data Science Alliance](https://www.datasciencealliance.org) [cng](https://cloudnativegeo.org/) [Atlassian](https://www.atlassian.com) [Impulse Labs](https://www.impulselabs.ai/) [IEEE SD](https://sdieee.org/sdieee/) [IEEE vts](https://vtsociety.org/) [Career Center](https://career.ucsd.edu/) [UCSD IEM](https://iem.ucsd.edu/) [The Basement](https://thebasement.ucsd.edu)
 
-###### Partners
-
-[[Image: GitHub]](https://github.com) [[Image: Perplexity]](https://www.perplexity.ai) [[Image: Claude]](https://www.anthropic.com) [[Image: Digital Ocean]](https://www.digitalocean.com) [[Image: Eleven Labs]](https://www.elevenlabs.io) [[Image: Solana]](https://solana.com) [[Image: Snowflake]](https://www.snowflake.com) [[Image: MLH]](https://mlh.io) [[Image: Pure Buttons]](https://purebuttons.com)
+[GitHub](https://github.com) [Perplexity](https://www.perplexity.ai) [Claude](https://www.anthropic.com) [Digital Ocean](https://www.digitalocean.com) [Eleven Labs](https://www.elevenlabs.io) [Solana](https://solana.com) [Snowflake](https://www.snowflake.com) [MLH](https://mlh.io) [Pure Buttons](https://purebuttons.com)
 
 ###### Powered By
 
-[[Image: Monster]](https://www.monsterenergy.com) [[Image: Celsius]](https://www.celsius.com) [[Image: pibb]](https://www.coca-cola.com/us/en/brands/mr-pibb) [[Image: Margarita Dawgz]](https://www.margaritadawgz.com)
+[Monster](https://www.monsterenergy.com) [Celsius](https://www.celsius.com) [pibb](https://www.coca-cola.com/us/en/brands/mr-pibb) [Margarita Dawgz](https://www.margaritadawgz.com)
 
 Interested in sponsoring? Contact us
 
@@ -11363,23 +8839,17 @@ Hear from industry leaders, then connect with alumni, faculty, and experts throu
 
 Keynote Speakers (3) Judges (101) Mentors (56)
 
-[Image: Sharad Agarwal]
-
 ###### Sharad Agarwal
 
 Head of Global Partnerships
 
 Google
 
-[Image: Ali Arsanjani]
-
 ###### Ali Arsanjani
 
 Director of Applied AI
 
 Google
-
-[Image: Ian Kerman]
 
 ###### Ian Kerman
 
@@ -11457,19 +8927,9 @@ Join 400+ students in tackling real-world challenges in data science, engineerin
 - Final URL: [https://www.citrushack.com/](https://www.citrushack.com/)
 - Expanded FAQ/accordion controls: 10
 
-``
-
-$
-
-[[Image: Citrus Hack Logo]](https://www.citrushack.com/#home)
-
 [Dashboard](https://citrushack.com/user) [About](https://www.citrushack.com/#about) [Tracks](https://www.citrushack.com/#tracks) [Schedule](https://www.citrushack.com/#schedule) [Sponsors](https://www.citrushack.com/#sponsors) [Industry](https://www.citrushack.com/#industry) [FAQ](https://www.citrushack.com/#faq)
 
-[[Image: MLH Badge]](https://www.mlh.com/seasons/2026/events)
-
-[Image: Folder Coffee Newspaper]
-
-[Image: Citrus Hack 2026 Logo]
+[MLH Badge](https://www.mlh.com/seasons/2026/events)
 
 CITRUS HACK
 
@@ -11477,67 +8937,7 @@ April 18-19, 2026 • UC Riverside
 
 0
 
-0
-
-[Image: unit icon]
-
-0
-
-0
-
-[Image: unit icon]
-
-0
-
-0
-
-[Image: unit icon]
-
-0
-
-0
-
-[Image: unit icon]
-
-[Image: Apply Sticky]
-
 [Hacker](https://www.citrushack.com/apply/participant) [Sponsor](https://www.citrushack.com/apply/sponsor) [Volunteer](https://www.citrushack.com/apply/volunteer) [Mentor](https://www.citrushack.com/apply/mentor)
-
-[Image: About Us] [Image: Detective Items]
-
-[Image: tracks title]
-
-[Image: Track 1]
-
-[Image: Track 2]
-
-[Image: Track 3]
-
-[Image: Track 4]
-
-[Image: Track 5]
-
-[Image: Track 6]
-
-[Image: Track 7]
-
-[Image: Track 8]
-
-[Image: Track 9]
-
-[Image: Track 10]
-
-[Image: Track 11]
-
-[Image: Track 12]
-
-[Image: Track 13]
-
-[Image: Track 14]
-
-[Image: Track 15]
-
-[Image: Schedule]
 
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
@@ -11551,165 +8951,103 @@ About
 
 No Events Available
 
-[Image: Sponsor Header]
-
-[[Image: Sponsor 1]](https://acm.cs.ucr.edu) [[Image: Sponsor 2]](https://mlh.io) [[Image: Sponsor 3]](https://www1.cs.ucr.edu) [[Image: Sponsor 4]](https://www.snapchat.com) [[Image: Sponsor 5]](https://www.oreilly.com) [[Image: Sponsor 6]](https://www.careeraccelerator.ucr.edu) [[Image: Sponsor 7]](https://www.soundethics.org) [[Image: Sponsor 8]](https://www.doordash.com) [[Image: Sponsor 9]](https://asucr.ucr.edu) [[Image: Sponsor 10]](https://hhkeyboard.us) [[Image: Sponsor 11]](https://www.purebuttons.com) [[Image: Sponsor 12]](https://codecrafters.io) [[Image: Sponsor 13]](https://gen.xyz) [[Image: Sponsor 14]](https://elevenlabs.io) [[Image: Sponsor 15]](https://balsamique.com) [[Image: Sponsor 16]](https://www.interviewcake.com) [[Image: Sponsor 17]](https://featherless.ai) [[Image: Sponsor 18]](https://bada.ucr.edu)
-
-[Image: Wine]
-
-[Image: team title]
-
-[Image: Headshot of Allison Pham] [Image: Headshot of Cristian Roberts] [Image: Headshot of Christopher Zaldivar] [Image: Headshot of Corven Neal] [Image: Headshot of Grace Hernandez] [Image: Headshot of Vishra Thakkar] [Image: Headshot of Ahad Hassan] [Image: Headshot of Karina Flores] [Image: Headshot of Cindy Be] [Image: Headshot of Gaby Newgen] [Image: Headshot of Charlette O'Connor] [Image: Headshot of Ray Wong]
-
-[Image: Headshot of Taaha Sayed] [Image: Headshot of Wesley Wu] [Image: Headshot of Yubin Zhen]
-
-[Image: Industry Professionals]
+[Sponsor 1](https://acm.cs.ucr.edu) [Sponsor 2](https://mlh.io) [Sponsor 3](https://www1.cs.ucr.edu) [Sponsor 4](https://www.snapchat.com) [Sponsor 5](https://www.oreilly.com) [Sponsor 6](https://www.careeraccelerator.ucr.edu) [Sponsor 7](https://www.soundethics.org) [Sponsor 8](https://www.doordash.com) [Sponsor 9](https://asucr.ucr.edu) [Sponsor 10](https://hhkeyboard.us) [Sponsor 11](https://www.purebuttons.com) [Sponsor 12](https://codecrafters.io) [Sponsor 13](https://gen.xyz) [Sponsor 14](https://elevenlabs.io) [Sponsor 15](https://balsamique.com) [Sponsor 16](https://www.interviewcake.com) [Sponsor 17](https://featherless.ai) [Sponsor 18](https://bada.ucr.edu)
 
 Aaditya Chauhan
-
-[Image: Aaditya Chauhan]
 
 Sr. Software Engineer @ Amazon
 
 Advaith Karthikeyan
 
-[Image: Advaith Karthikeyan]
-
 Software Engineer @ Wispr Flow
 
 Alekhya Digumarthy
-
-[Image: Alekhya Digumarthy]
 
 Sr. Systems Engineer (Information Security) @ Walmart
 
 Avo Karamusyan
 
-[Image: Avo Karamusyan]
-
 Software Engineer Intern @ Visa
 
 Bhaskar Gurram
-
-[Image: Bhaskar Gurram]
 
 Sr. Software Engineer @ Google
 
 Chalapathi Koneni
 
-[Image: Chalapathi Koneni]
-
 Sr. Data Engineer @ Amazon
 
 Devabrat Kumar
-
-[Image: Devabrat Kumar]
 
 Principle Product Manager @ Amazon Web Service (AWS)
 
 Donghao Lin
 
-[Image: Donghao Lin]
-
 Member of Technical Staff @ OpenAI
 
 Elizaveta Belkina
-
-[Image: Elizaveta Belkina]
 
 Software Engineer @ CoinTracker
 
 Harsh Jangid
 
-[Image: Harsh Jangid]
-
 Director of Engineering & Products @ Coozmoo
 
 Hastimal Jangid
-
-[Image: Hastimal Jangid]
 
 Co-Founder @ Coozmoo & Head of Cloud Engineering + Automation @ RankRabbit.ai
 
 Jasper (Jiayu) Shi
 
-[Image: Jasper (Jiayu) Shi]
-
 CEO & Founder @ Bytey
 
 Jazz Inneh
-
-[Image: Jazz Inneh]
 
 Web Development Instructor @ The Global Career Accelerator
 
 Lalan Panjiyar
 
-[Image: Lalan Panjiyar]
-
 Data Engineering Manager @ Amazon
 
 Lovleen Kaur
-
-[Image: Lovleen Kaur]
 
 Software Engineer III @ Cisco
 
 Natalie Grigorian
 
-[Image: Natalie Grigorian]
-
 Software Engineering Intern @ FOX
 
 Nikhil Kharwandikar
-
-[Image: Nikhil Kharwandikar]
 
 Sr. Software Engineer @ Amazon
 
 Tanish Arora
 
-[Image: Tanish Arora]
-
 Associate Data Engineer (AI) @ Jorie AI
 
 Vaibhava Lakshmi Ravideshik
-
-[Image: Vaibhava Lakshmi Ravideshik]
 
 AI & Growth Lead @ GRAIL
 
 Varun Misra
 
-[Image: Varun Misra]
-
 Director Technical Architect @ Salesforce
 
 James O’Brien
-
-[Image: James O’Brien]
 
 Executive Director @ Sound Ethics
 
 Jonathan Darius
 
-[Image: Jonathan Darius]
-
 Data Science Engineer @ Lucid Motors
 
 Minnoli Nori
-
-[Image: Minnoli Nori]
 
 Statistical Analyst @ Omega Healthcare
 
 Abdi Sherif
 
-[Image: Abdi Sherif]
-
 Director of gBETA Inland Empire @ gener8tor
-
-[Image: Tape graphic] [Image: FAQ]
 
 ###### What is a hackathon?
 
@@ -11733,11 +9071,7 @@ Director of gBETA Inland Empire @ gener8tor
 
 Submissions will be through Devpost. We'll provide instructions on how to submit during the event!
 
-[Image: Yellow Tape]
-
-[Image: Laser Room footer] [[Image: Copyright]](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
-
-/$
+[Copyright](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
 ### Website 38: HackKU
 - Card URL: [https://the-hackku.github.io/hackku26_website/](https://the-hackku.github.io/hackku26_website/)
@@ -11751,19 +9085,17 @@ Submissions will be through Devpost. We'll provide instructions on how to submit
 - Final URL: [https://www.hackprinceton.com/](https://www.hackprinceton.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: HackPrinceton Menu] Welcome About Apply Credits
+Welcome About Apply Credits
 
 Theme
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white) Discord Devpost
+Discord Devpost
 
 Mon, Jun 22, 2:20 AM
 
 Welcome Apply.exe Schedule FAQ.txt Tracks Contributors Resources Photos
 
 Welcome
-
-[Image: HackPrinceton Spring 2026]
 
 Spring 2026
 
@@ -11789,15 +9121,15 @@ Powering HackPrinceton Spring 2026
 
 Gold Contributors
 
-[[Image: ifm.ai logo]ifm.ai](https://ifm.ai) [[Image: Knot logo]Knot](https://www.knotapi.com) [[Image: Dedalus Labs logo]Dedalus Labs](https://www.dedaluslabs.ai/) [[Image: Eragon logo]Eragon](https://www.eragon.ai) [[Image: Kizaki logo]Kizaki](https://kizaki.ai/) [[Image: Enter.pro logo]Enter.pro](https://enter.pro/) [[Image: Foundr logo]Foundr](https://foundr.cloud/) [[Image: FirstCapital logo]FirstCapital](https://firstcapital.vc/)
+[ifm.ai](https://ifm.ai) [Knot](https://www.knotapi.com) [Dedalus Labs](https://www.dedaluslabs.ai/) [Eragon](https://www.eragon.ai) [Kizaki](https://kizaki.ai/) [Enter.pro](https://enter.pro/) [Foundr](https://foundr.cloud/) [FirstCapital](https://firstcapital.vc/)
 
 Silver Contributors
 
-[[Image: Fleetline logo]Fleetline](https://fleetline.ai) [[Image: Sonar logo]Sonar](https://www.sonarsource.com) [[Image: GoodLeap logo]GoodLeap](https://www.goodleap.com) [[Image: dmodel logo]dmodel](https://dmodel.ai/) [[Image: Orchids logo]Orchids](https://www.orchids.app/) [[Image: Photon logo]Photon](https://photon.codes/spectrum)
+[Fleetline](https://fleetline.ai) [Sonar](https://www.sonarsource.com) [GoodLeap](https://www.goodleap.com) [dmodel](https://dmodel.ai/) [Orchids](https://www.orchids.app/) [Photon](https://photon.codes/spectrum)
 
 Bronze Contributors
 
-[[Image: nexos.ai logo]nexos.ai](https://nexos.ai) [[Image: Vert logo]Vert](https://www.vert.nyc/) [[Image: Nord Security logo]Nord Security](https://nordsecurity.com) [[Image: NordVPN logo]NordVPN](https://nordvpn.com/hackathons) [[Image: NordPass logo]NordPass](https://nordpass.com/) [[Image: NordProtect logo]NordProtect](https://nordprotect.com/) [[Image: Incogni logo]Incogni](https://incogni.com/) [[Image: Saily logo]Saily](https://saily.com/) [[Image: Vallo logo]Vallo](https://www.vallo.dev/) [[Image: HeyGen logo]HeyGen](https://www.heygen.com/) [[Image: Project Board logo]Project Board](https://projectboard.world/)
+[nexos.ai](https://nexos.ai) [Vert](https://www.vert.nyc/) [Nord Security](https://nordsecurity.com) [NordVPN](https://nordvpn.com/hackathons) [NordPass](https://nordpass.com/) [NordProtect](https://nordprotect.com/) [Incogni](https://incogni.com/) [Saily](https://saily.com/) [Vallo](https://www.vallo.dev/) [HeyGen](https://www.heygen.com/) [Project Board](https://projectboard.world/)
 
 Justin Bojarski
 
@@ -11816,15 +9148,11 @@ Email Team
 - Final URL: [https://starkhacks.com/](https://starkhacks.com/)
 - Expanded FAQ/accordion controls: 18
 
-MLH Trust Badge 2026 [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black) Google Tag Manager (noscript) End Google Tag Manager (noscript)
+MLH Trust Badge 2026 Google Tag Manager (noscript) End Google Tag Manager (noscript)
 
 SWITCH
 
-[Image: StarkHacks - World's Largest Hardware Hackathon at Purdue University in West Lafayette, Indiana]
-
 #### StarkHacks - World's Largest Hardware Hackathon
-
-[Image: StarkHacks - Purdue Hardware Hackathon]
 
 / April 17-19, 2026
 
@@ -11832,17 +9160,13 @@ SWITCH
 
 DAYS
 
-0
-
 HOURS
-
-0
 
 MIN
 
-organized by [[Image: Humanoid Robot Club]](https://humanoidrobot.club/)
+organized by [Humanoid Robot Club](https://humanoidrobot.club/)
 
-cohosted by [Image: AMD] & [Image: Ford]
+cohosted by &
 
 ##### ABOUT THE HACK
 
@@ -11874,123 +9198,75 @@ Best Use of
 
 AMD
 
-[Image: Best Use of AMD]
-
 Ford Industrial
 
 Robotics Grippers
-
-[Image: Ford Industrial Robotics Grippers]
 
 Espressif
 
 Smart Home/City
 
-[Image: Espressif Smart Home/City]
-
 Qualcomm
 
 Robotics
-
-[Image: Qualcomm Robotics]
 
 QTexAI
 
 Creative Tech
 
-[Image: QTexAI Creative Tech]
-
 Analog Devices
 
 Sensor Fusion
 
-[Image: Analog Devices Sensor Fusion]
-
-Best Use of
-
 Viam
-
-[Image: Best Use of Viam]
 
 Microsoft
 
 AI & Automation
-
-[Image: Microsoft AI and Automation]
-
-Best Use of
 
 AMD
 
-[Image: Best Use of AMD]
-
 Ford Industrial
 
 Robotics Grippers
-
-[Image: Ford Industrial Robotics Grippers]
 
 Espressif
 
 Smart Home/City
 
-[Image: Espressif Smart Home/City]
-
 Qualcomm
 
 Robotics
-
-[Image: Qualcomm Robotics]
 
 QTexAI
 
 Creative Tech
 
-[Image: QTexAI Creative Tech]
-
 Analog Devices
 
 Sensor Fusion
 
-[Image: Analog Devices Sensor Fusion]
-
-Best Use of
-
 Viam
-
-[Image: Best Use of Viam]
 
 Microsoft
 
 AI & Automation
-
-[Image: Microsoft AI and Automation]
-
-[Image: JONATHAN HURST]
 
 ###### JONATHAN HURST
 
 CO FOUNDER & CHIEF ROBOT OFFICER, AGILITY ROBOTICS
 
-[Image: RUTH COTTER]
-
 ###### RUTH COTTER
 
 SENIOR VICE PRESIDENT & CHIEF ADMINISTRATIVE OFFICER, AMD
-
-[Image: NICOLAUS RADFORD]
 
 ###### NICOLAUS RADFORD
 
 CO FOUNDER & CEO, PERSONA AI
 
-[Image: Sponsors]
-
 Reach out to sponsorship@starkhacks.com if you're interested in sponsoring.
 
 ##### FAQ
-
-[Image: GENERAL]
 
 What is Stark Hacks?
 
@@ -12016,8 +9292,6 @@ How are teams formed?
 
 You can come with a team of up to four members or find one during the opening mixer.
 
-[Image: REGISTRATION]
-
 How do I apply?
 
 Submit your application at starkhacks.com/apply. Selected participants will receive confirmation via email.
@@ -12041,8 +9315,6 @@ Yes! You can register solo and form a team during the event if you'd like.
 When will registration close?
 
 Priority Deadline: 16 January 2026 Regular Deadline: 30 January 2026
-
-[Image: MISCELLANEOUS]
 
 Where is the venue?
 
@@ -12088,17 +9360,11 @@ HACKS
 
 [Express Interest](https://www.marihacks.com/application-center)
 
----
-
 April, 2027
 
 Marianopolis College | In-person Hackathon
 
----
-
 Youth C
-
----
 
 What is MariHacks?
 
@@ -12112,29 +9378,23 @@ From MariHacks' 9th year!
 
 We made a lot of memories.
 
----
-
-[Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)] [Image: last year's photo :)]
-
 Our Past Sponsors
 
 MariHacks wouldn't be possible without them.
 
----
+[https://www.marianopolis.edu](https://www.marianopolis.edu/) [https://www.msucongress.com](https://www.msucongress.com/)
 
-[[Image: https://www.marianopolis.edu/]](https://www.marianopolis.edu/) [[Image: https://www.msucongress.com/]](https://www.msucongress.com/)
+[https://www.alten.com](https://www.alten.com/) [https://www.cae.com](https://www.cae.com/) [https://levioconsulting.com](https://levioconsulting.com/)
 
-[[Image: https://www.alten.com/]](https://www.alten.com/) [[Image: https://www.cae.com/]](https://www.cae.com/) [[Image: https://levioconsulting.com/]](https://levioconsulting.com/)
+[https://www.concordia.ca/ginacody.html](https://www.concordia.ca/ginacody.html) [https://www.morganstanley.com](https://www.morganstanley.com/) [https://www.autodesk.com](https://www.autodesk.com/) [https://liftoffrank.com](https://liftoffrank.com/)
 
-[[Image: https://www.concordia.ca/ginacody.html]](https://www.concordia.ca/ginacody.html) [[Image: https://www.morganstanley.com/]](https://www.morganstanley.com/) [[Image: https://www.autodesk.com/]](https://www.autodesk.com/) [[Image: https://liftoffrank.com/]](https://liftoffrank.com/)
+[https://lait.org](https://lait.org/) [https://www.nbc.ca](https://www.nbc.ca/) [https://nexos.ai](https://nexos.ai/) [https://www.wolfram.com](https://www.wolfram.com/)
 
-[[Image: https://lait.org/]](https://lait.org/) [[Image: https://www.nbc.ca/]](https://www.nbc.ca/) [[Image: https://nexos.ai/]](https://nexos.ai/) [[Image: https://www.wolfram.com/]](https://www.wolfram.com/)
+[https://incogni.com](https://incogni.com/) [https://saily.com](https://saily.com/) [https://nordvpn.com/hackathons](https://nordvpn.com/hackathons/) [https://nordpass.com](https://nordpass.com/)
 
-[[Image: https://incogni.com/]](https://incogni.com/) [[Image: https://saily.com/]](https://saily.com/) [[Image: https://nordvpn.com/hackathons/]](https://nordvpn.com/hackathons/) [[Image: https://nordpass.com/]](https://nordpass.com/)
+[https://www.umontreal.ca](https://www.umontreal.ca/) [https://www.echo3d.com](https://www.echo3d.com/) [https://1password.com](https://1password.com/) [https://cje-ndg.com](https://cje-ndg.com/)
 
-[[Image: https://www.umontreal.ca/]](https://www.umontreal.ca/) [[Image: https://www.echo3d.com/]](https://www.echo3d.com/) [[Image: https://1password.com/]](https://1password.com/) [[Image: https://cje-ndg.com/]](https://cje-ndg.com/)
-
-[[Image: https://www.standoutstickers.com/]](https://www.standoutstickers.com/) [[Image: https://www.dominos.ca/]](https://www.dominos.ca/) [[Image: https://www.f.energy/]](https://www.f.energy/)
+[https://www.standoutstickers.com](https://www.standoutstickers.com/) [https://www.dominos.ca](https://www.dominos.ca/) [https://www.f.energy](https://www.f.energy/)
 
 [Become a sponsor](https://www.marihacks.com/application-center/sponsorship) [See prospectus](https://www.marihacks.com/pdfs/EN_MariHacks_Sponsorship_Prospectus_2026.pdf)
 
@@ -12142,9 +9402,7 @@ Partners
 
 We work with the best.
 
----
-
-[[Image: https://mlh.io/]](https://mlh.io/) [[Image: https://www.brebeufhackathon.com/]](https://www.brebeufhackathon.com/)
+[https://mlh.io](https://mlh.io/) [https://www.brebeufhackathon.com](https://www.brebeufhackathon.com/)
 
 MLH code of conduct
 
@@ -12155,8 +9413,6 @@ Be respectful. Harassment and abuse are never tolerated.
 FAQ
 
 Questions? No problem.
-
----
 
 What is a hackathon?
 
@@ -12195,8 +9451,6 @@ I still have a question...
 - Final URL: [https://hackmesa.com/](https://hackmesa.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Hakka the red panda mascot waving happily]
-
 2026 HACKATHON — CONCLUDED
 
 #### HACKMESA
@@ -12223,17 +9477,11 @@ Join us for an exciting 24-hour hackathon! Put your skills to the test with HACK
 
 IMG_001.JPG
 
-[Image: Hackathon collaboration]
-
 ACTIVE SESSION
 
 IMG_002
 
-[Image: Programming workspace]
-
 IMG_003
-
-[Image: Tech innovation]
 
 GALLERY LOADED
 
@@ -12249,8 +9497,6 @@ GALLERY LOADED
 
 ###### Grand Prize
 
-[Image: Budget Buddy]
-
 3rd
 
 ###### Budget Buddy
@@ -12261,8 +9507,6 @@ Kian Sedghinasab · Susana Hernandez · May Aung · Sergio Cuadra
 
 [View on Devpost](https://devpost.com/software/budgetbuddy-pwgzre)
 
-[Image: GymLink]
-
 2nd
 
 ###### GymLink
@@ -12272,8 +9516,6 @@ COS Moggers
 Victor Lopez · Christopher Hernandez · Estefania Valentin Sabino · Juan Ordaz
 
 [View on Devpost](https://devpost.com/software/gymlink-8arkyu)
-
-[Image: Project Kessler: Autonomous Orbital Remediation]
 
 1st
 
@@ -12323,8 +9565,6 @@ Turbo Sinclair
 
 GENESIS_BLOCK: 05/09/2025
 
-[Image: Livi]
-
 2nd
 
 2nd PLACE
@@ -12335,8 +9575,6 @@ $1,000
 
 [VIEW PROJECT](https://devpost.com/software/livi)
 
-[Image: Startumn.tech]
-
 1st
 
 1st PLACE
@@ -12346,8 +9584,6 @@ Startumn.tech
 $1,500
 
 [VIEW PROJECT](https://devpost.com/software/startumn-tech)
-
-[Image: Fitrise]
 
 3rd
 
@@ -12369,10 +9605,6 @@ FIELD RECORDING · APR 17–19
 
 307 + photos captured across 36 hours of building, debugging, and shipping. Tap any frame to zoom in.
 
-[Image: HACKMESA 2026 moment 1] [Image: HACKMESA 2026 moment 2] [Image: HACKMESA 2026 moment 3] [Image: HACKMESA 2026 moment 4] [Image: HACKMESA 2026 moment 5] [Image: HACKMESA 2026 moment 6] [Image: HACKMESA 2026 moment 7] [Image: HACKMESA 2026 moment 8] [Image: HACKMESA 2026 moment 9] [Image: HACKMESA 2026 moment 10] [Image: HACKMESA 2026 moment 11] [Image: HACKMESA 2026 moment 12] [Image: HACKMESA 2026 moment 1] [Image: HACKMESA 2026 moment 2] [Image: HACKMESA 2026 moment 3] [Image: HACKMESA 2026 moment 4] [Image: HACKMESA 2026 moment 5] [Image: HACKMESA 2026 moment 6] [Image: HACKMESA 2026 moment 7] [Image: HACKMESA 2026 moment 8] [Image: HACKMESA 2026 moment 9] [Image: HACKMESA 2026 moment 10] [Image: HACKMESA 2026 moment 11] [Image: HACKMESA 2026 moment 12]
-
-[Image: HACKMESA 2026 moment 1] [Image: HACKMESA 2026 moment 2] [Image: HACKMESA 2026 moment 3] [Image: HACKMESA 2026 moment 4] [Image: HACKMESA 2026 moment 5] [Image: HACKMESA 2026 moment 6] [Image: HACKMESA 2026 moment 7] [Image: HACKMESA 2026 moment 8] [Image: HACKMESA 2026 moment 9] [Image: HACKMESA 2026 moment 10] [Image: HACKMESA 2026 moment 11] [Image: HACKMESA 2026 moment 12] [Image: HACKMESA 2026 moment 1] [Image: HACKMESA 2026 moment 2] [Image: HACKMESA 2026 moment 3] [Image: HACKMESA 2026 moment 4] [Image: HACKMESA 2026 moment 5] [Image: HACKMESA 2026 moment 6] [Image: HACKMESA 2026 moment 7] [Image: HACKMESA 2026 moment 8] [Image: HACKMESA 2026 moment 9] [Image: HACKMESA 2026 moment 10] [Image: HACKMESA 2026 moment 11] [Image: HACKMESA 2026 moment 12]
-
 [View full gallery](https://hackmesa.com/gallery)
 
 307 frames archived
@@ -12385,109 +9617,9 @@ Powering innovation together
 
 — Companies —
 
-[Image: Hologram]
-
-[Image: CAMMD]
-
-[Image: Riot Games]
-
-[Image: Major League Hacking]
-
-[Image: LA Regional Consortium]
-
-[Image: LAHC ASO]
-
-[Image: PCC Flea Market]
-
-[Image: LACCD Chancellor's Office]
-
-[[Image: PureButtons]](https://mlh.link/MLH-PureButtons-hackathons)
-
-[Image: EC-Council]
-
-[Image: Kickpost]
-
-[Image: MESA]
-
-[Image: NCFA]
+[PureButtons](https://mlh.link/MLH-PureButtons-hackathons)
 
 — Colleges —
-
-[Image: Antelope]
-
-[Image: Barstow]
-
-[Image: Cerritos]
-
-[Image: Canyons]
-
-[Image: Compton College]
-
-[Image: Cuyamaca]
-
-[Image: ELAC]
-
-[Image: Fullerton]
-
-[Image: Grossmont]
-
-[Image: LACC]
-
-[Image: LAHC]
-
-[Image: Laney]
-
-[Image: La valley]
-
-[Image: Moreno Valley]
-
-[Image: LBCC]
-
-[Image: Oxnard]
-
-[Image: PCC]
-
-[Image: Pierce]
-
-[Image: Yuba]
-
-[Image: Antelope]
-
-[Image: Barstow]
-
-[Image: Cerritos]
-
-[Image: Canyons]
-
-[Image: Compton College]
-
-[Image: Cuyamaca]
-
-[Image: ELAC]
-
-[Image: Fullerton]
-
-[Image: Grossmont]
-
-[Image: LACC]
-
-[Image: LAHC]
-
-[Image: Laney]
-
-[Image: La valley]
-
-[Image: Moreno Valley]
-
-[Image: LBCC]
-
-[Image: Oxnard]
-
-[Image: PCC]
-
-[Image: Pierce]
-
-[Image: Yuba]
 
 Interested in becoming a sponsor?
 
@@ -12505,33 +9637,19 @@ The core team powering HACKMESA innovation
 
 Strategy, coordination, and internal systems
 
-[Image: Fahat Yousuf]
-
 ONLINE
 
 ###### Fahat Yousuf
 
 Director of Operations
 
-[Image: Dichill Tomarong]
-
-ONLINE
-
 ###### Dichill Tomarong
 
 Director of Tech
 
-[Image: Paola Ramirez]
-
-ONLINE
-
 ###### Paola Ramirez
 
 Lead of Logistics
-
-[Image: Cash Webb]
-
-ONLINE
 
 ###### Cash Webb
 
@@ -12566,10 +9684,6 @@ ExperienceDo I need experience?
 READY TO BUILD?
 
 Join us for 24 hours of innovation and creativity
-
-[APPLY NOW](https://hackmesa.com/#apply)
-
-$ /$
 
 ### Website 43: AI Hackfest
 - Card URL: [https://events.mlh.io/events/13503-ai-hackfest](https://events.mlh.io/events/13503-ai-hackfest)
@@ -12630,8 +9744,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 2: Hacking with GitHub Copilot
 
-- Day (ET): Friday
-
 - PT: 9:30 AM PT
 
 - ET: 12:30 PM ET
@@ -12643,8 +9755,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Hacking with GitHub Copilot
 
 ###### Row 3: Intro to Google AI Studio
-
-- Day (ET): Friday
 
 - PT: 11:30 AM PT
 
@@ -12700,8 +9810,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 7: Hacking Ends / Final Submission Due
 
-- Day (ET): Sunday
-
 - PT: 7:15 AM PT
 
 - ET: 10:15 AM ET
@@ -12713,8 +9821,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Hacking Ends / Final Submission Due
 
 ###### Row 8: Closing Ceremony
-
-- Day (ET): Sunday
 
 - PT: 9:00 AM PT
 
@@ -12780,29 +9886,23 @@ HackDartmouth is Dartmouth's premier annual hackathon, bringing innovators toget
 
 ##### 02 // PAST PROJECTS
 
-[Image: Dartworld]
-
 Dartworld
 
-[Image: Debatably]
-
 Debatably
-
-[Image: Git Connect]
 
 Git Connect
 
 ##### 03 // TRACKS
 
-[Image: Education track icon]EducationBuild the next generation of EdTech for learners everywhere.Tap/hover to flipFocus AreasEdTechResearchK-12 EducationSocial ImpactContinuing EducationGamificationTap/hover to flip back
+EducationBuild the next generation of EdTech for learners everywhere.Tap/hover to flipFocus AreasEdTechResearchK-12 EducationSocial ImpactContinuing EducationGamificationTap/hover to flip back
 
-[Image: Gaming track icon]GamingLevel up gameplay, community, and accessibility.Tap/hover to flipFocus AreasGame DesignEsportsEntertainmentEducationSkills TrainingAccessibility in GamingTap/hover to flip back
+GamingLevel up gameplay, community, and accessibility.Tap/hover to flipFocus AreasGame DesignEsportsEntertainmentEducationSkills TrainingAccessibility in GamingTap/hover to flip back
 
-[Image: Healthcare track icon]HealthcareInnovate tools that support holistic health and care.Tap/hover to flipFocus AreasMental HealthReproductive HealthHolistic CareNutritionCOVID-19General HealthcareTap/hover to flip back
+HealthcareInnovate tools that support holistic health and care.Tap/hover to flipFocus AreasMental HealthReproductive HealthHolistic CareNutritionCOVID-19General HealthcareTap/hover to flip back
 
-[Image: AR/VR track icon]AR/VRCreate immersive worlds for learning, design, and play.Tap/hover to flipFocus AreasImmersive LearningVirtual TrainingAccessibility & InclusionArchitecture & Design VisualizationEnhanced Shopping ExperiencesSports & Fitness TrackingTap/hover to flip back
+AR/VRCreate immersive worlds for learning, design, and play.Tap/hover to flipFocus AreasImmersive LearningVirtual TrainingAccessibility & InclusionArchitecture & Design VisualizationEnhanced Shopping ExperiencesSports & Fitness TrackingTap/hover to flip back
 
-[Image: AI track icon]AIUse machine learning to solve real-world problems.Tap/hover to flipFocus AreasLarge Language ModelsComputer VisionGenerative AIResponsible AI & EthicsAI AgentsML for Social GoodTap/hover to flip back
+AIUse machine learning to solve real-world problems.Tap/hover to flipFocus AreasLarge Language ModelsComputer VisionGenerative AIResponsible AI & EthicsAI AgentsML for Social GoodTap/hover to flip back
 
 ##### 04 // SCHEDULE
 
@@ -12830,8 +9930,6 @@ Meet in Atrium
 
 Opening Ceremony
 
-Atrium
-
 11:00 AM
 
 Hacking Begins
@@ -12841,8 +9939,6 @@ Hacking Begins
 11:00 AM - 11:30 AM
 
 Workshop: Finding a team
-
-Atrium
 
 11:30 AM - 9:00 PM
 
@@ -12860,31 +9956,21 @@ Workshop: Where to start - Navigating a hackathon for beginners
 
 Workshop: Using LLM Coding Assistants with Dartmouth Chat (+ Continue or OpenCode VSCode Extension) or Copilot
 
-008
-
 1:00 PM
 
 Lunch (Domino's)
-
-Atrium
 
 1:15 PM - 2:00 PM
 
 Workshop: Figma Workshop
 
-008
-
 2:00 PM - 2:30 PM
 
 Workshop: FirstCapital VC Workshop
 
-008
-
 3:00 PM - 3:30 PM
 
 Workshop: Hacking with Github
-
-008
 
 3:00 PM - 5:00 PM
 
@@ -12895,8 +9981,6 @@ HackDartmouth
 3:30 PM - 4:00 PM
 
 Workshop: Intro to AI with Google Studio
-
-008
 
 6:00 PM - 7:00 PM
 
@@ -12914,19 +9998,13 @@ Front Door
 
 Dinner
 
-Atrium
-
 11:00 PM - 12:00 AM
 
 Trivia Tournament (Kahoot)
 
-Atrium
-
 12:00 AM
 
 Coffee/Snacks/Drinks Setup
-
-Atrium
 
 Day Two
 
@@ -12938,8 +10016,6 @@ Time Event Location
 
 Movie Night
 
-Atrium
-
 7:30 AM
 
 Breakfast pick-up
@@ -12950,13 +10026,9 @@ Lou's
 
 Breakfast (Lou's)
 
-Atrium
-
 9:00 AM - 11:00 AM
 
 Last minute office hours
-
-Atrium
 
 10:00 AM - 11:00 AM
 
@@ -12992,8 +10064,6 @@ ECSC 116
 
 Lunch
 
-Atrium
-
 1:00 PM - 1:30 PM
 
 Deliberations
@@ -13004,13 +10074,9 @@ ECSC 042
 
 Closing Ceremony
 
-Atrium
-
 2:00 PM - 2:30 PM
 
 Prize Handout
-
-Atrium
 
 ##### 05 // FAQs
 
@@ -13052,9 +10118,9 @@ Review the guidelines on the [MLH Code of Conduct page](https://mlh.io/code-of-c
 
 ##### 06 // SPONSORS
 
-[[Image: Dartmouth Department of Computer Science]](https://web.cs.dartmouth.edu/) [[Image: Thayer School of Engineering]](https://engineering.dartmouth.edu/)
+[Dartmouth Department of Computer Science](https://web.cs.dartmouth.edu/) [Thayer School of Engineering](https://engineering.dartmouth.edu/)
 
-[[Image: Red Bull]](https://www.redbull.com/us-en) [[Image: Appwrite]](https://appwrite.io/) [[Image: Pure Buttons]](https://www.purebuttons.com/) [[Image: Foundr]](https://Foundr.cloud) [[Image: FirstCapital]](https://FirstCapital.vc) [[Image: Asepha]](https://www.asepha.ai/) [[Image: LiveAvatar]](https://www.liveavatar.com/) [[Image: Adaptional]](https://www.adaptional.com/) [[Image: enter.pro]](https://enter.pro/) [[Image: Combos]](https://combos.fun/)
+[Red Bull](https://www.redbull.com/us-en) [Appwrite](https://appwrite.io/) [Pure Buttons](https://www.purebuttons.com/) [Foundr](https://Foundr.cloud) [FirstCapital](https://FirstCapital.vc) [Asepha](https://www.asepha.ai/) [LiveAvatar](https://www.liveavatar.com/) [Adaptional](https://www.adaptional.com/) [enter.pro](https://enter.pro/) [Combos](https://combos.fun/)
 
 ###### HackDartmouth
 
@@ -13075,23 +10141,13 @@ Follow us on social media
 - Final URL: [https://www.wildhacks.net/](https://www.wildhacks.net/)
 - Expanded FAQ/accordion controls: 14
 
-[Image: clouds in the background]
-
-[Image: golden clock breakpoint]
-
 Our keynote speaker is live — [check it out here](https://www.wildhacks.net/#keynote)
 
-[Image: MLH logo]
-
 Official Member
-
-[Image: WildHacks 2026 Logo]
 
 April 11 — 12, 2026 In-person event @ Evanston, IL
 
 [Dashboard](https://dashboard.wildhacks.net/registration/)
-
-[Image: WildHacks 2025 opening ceremony]
 
 348 participants
 
@@ -13101,8 +10157,6 @@ In 24 hours, you and your team will build with the help of mentors and workshops
 
 10+ prizes
 
-[Image: WildHacks 2025 refreshments table]
-
 94 submissions
 
 57 universities
@@ -13110,8 +10164,6 @@ In 24 hours, you and your team will build with the help of mentors and workshops
 Whether you’re a seasoned pro or coding for the first time, WildHacks is the space for you to grow, learn, and collaborate.
 
 We’ll provide the food, you bring the energy. Happy hacking!
-
-[Image: cat sitting on top of bookshelf]
 
 Meet our 2026
 
@@ -13123,8 +10175,6 @@ Opening Speaker Director @ Google
 
 Andrew is a tech & media executive currently serving as Director at Google leading the programmatic media business for the Brand Sector (Auto, CPG, Government, Entertainment, Consumer Electronics). His work at Google focuses on helping marketers realize added savings through programmatic media buying, integrating Google's AI to drive greater performance and helping marketers bridge Brand and Performance marketing efforts (including Commerce & Retail Media). Prior to Google, Andrew served as the EVP of Worldwide Digital Marketing and Chief Data Strategist for Warner Bros, leading a team overseeing digital marketing, media, influencers and data & analytics on films like Ready Player One, Crazy Rich Asians, Aquaman, Joker, The Batman, and Elvis. While at Warner Bros, he helped lead WB's business through the pandemic, including connecting WB's theatrical business with the streaming business and launch of HBO Max. He's a passionate people leader, mentor & coach, and is the Exec Sponsor of Google's LGBTQ+ organization. Andrew is an education advocate, having served as a volunteer teacher (Citizen Schools), student mentor (SPARK) and currently serves on his local School Board.
 
-[Image: WildHacks 2026 Icon Logo]
-
 ##### Sponsors
 
 Our sponsors make this weekend possible.
@@ -13132,12 +10182,6 @@ Stay tuned as we confirm more sponsors for WildHacks 2026!
 
 Want to help make this event a reality for 300+ hackers across the globe?
 Email us at wildhacks@northwestern.edu.
-
-[Image: Illustration of a man-clock hybrid pointing towards Coming Soon card]
-
-[[Image: Appifex logo]](https://www.appifex.ai) [[Image: Claude logo]](https://www.claude.ai) [[Image: Hudson River Trading logo]](https://www.hudsonrivertrading.com) [[Image: IMC Trading logo]](https://www.imc.com) [[Image: Northwestern Computer Science logo]](https://www.cs.northwestern.edu) [[Image: Pure Buttons logo]](https://www.purebuttons.com) [[Image: The Garage at Northwestern logo]](https://www.thegarage.northwestern.edu)
-
-[Image: Illustration of a bug-hourglass hybrid]
 
 #### FAQs
 
@@ -13205,13 +10249,9 @@ Send us an email at wildhacks@northwestern.edu! We'd be happy to answer any ques
 
 Send us an email at wildhacks@northwestern.edu! We'd be happy to talk!
 
-[Image: Golden clock breakpoint]
-
 Made with <3 by the WildHacks Team
 
 MLH Code of Conduct
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 ### Website 47: Los Altos Hacks
 - Card URL: [https://www.losaltoshacks.com/](https://www.losaltoshacks.com/)
@@ -13325,45 +10365,30 @@ Code, compete, innovate
 
 Bring your ideas to life! Don’t have all the resources you need? We’re here to help. With workshops and the tools available, we provide everything you need to turn your vision into reality—all in one place.
 
-[Image: Image 2]
-
-[Image: Image 3]
-
-[Image: Image 4]
-
 ##### Meet Our Sponsors
 
 Made possible by the amazing organizations that believe in student innovation.
 
-[Image: FMS]
+[NordPass](https://www.nordpass.com/)
 
-[Image: JACFA]
+[NordVPN](https://nordvpn.com/hackathons)
 
-[[Image: NordPass]](https://www.nordpass.com/)
+[Saily](https://saily.com/)
 
-[[Image: NordVPN]](https://nordvpn.com/hackathons)
+[NordProtect](https://nordprotect.com/)
 
-[[Image: Saily]](https://saily.com/)
+[NexosAI](https://nexos.ai/)
 
-[[Image: NordProtect]](https://nordprotect.com/)
+[Incogni](https://incogni.com/)
 
-[[Image: NexosAI]](https://nexos.ai/)
-
-[Image: Backboard IO]
-
-[[Image: Incogni]](https://incogni.com/)
-
-[Image: NVS]
-
-[[Image: Valde]](https://valdeindustries.com/)
+[Valde](https://valdeindustries.com/)
 
 ##### Community Partners
 
-[Image: Tailed]
+# Our Sponsors
 
-<section id="sponsors"> <h1 id="sponsors-title">Our Sponsors</h1> <br /> <div class="sponsor-wrapper pop-up-image"> <div class="border-outline"></div> <div class="sponsor-container"> <div id="JACFA"> <a href="https://www.jacfa.ca/" target="_blank" rel="sponsored"> <img src="assets/images/sponsors/JACFA.jpg" /> </a> </div> </div> </div> <div class="sponsor-wrapper pop-up-image"> <div class="border-outline"></div> <div class="sponsor-container"> <div id="nordsec"> <a href="https://nordvpn.com/hackathons" target="_blank" rel="sponsored"> <img src="assets/images/sponsors/NordVPN.svg" /> </a> <a href="https://incogni.com/" target="_blank" rel="sponsored"> <img src="assets/images/sponsors/incogni.svg" /> </a> <a href="https://nordpass.com/" target="_blank" rel="sponsored"> <img src="assets/images/sponsors/NordPass.svg" /> </a> <a href="https://saily.com/" target="_blank" rel="sponsored"> <img src="assets/images/sponsors/Saily.svg" /> </a> </div> </div> </div> <div class="sponsor-wrapper pop-up-image"> <div class="border-outline"></div> <div class="sponsor-container"> <div id="Druide"> <a href="https://www.antidote.info/en/" target="_blank" rel="sponsored"> <img src="assets/images/sponsors/Logo_Druide.png" /> </a> </div> </div> </div> <div class="sponsor-wrapper pop-up-image"> <div class="border-outline"></div> <div class="sponsor-container"> <div id="Sujac"> <a href="https://www.sujac.com/" target="_blank" rel="sponsored"> <img src="assets/images/sponsors/Sujac.webp" /> </a> </div> </div> </div> <div class="sponsor-wrapper pop-up-image"> <div class="border-outline"></div> <div class="sponsor-container"> <div id="ITS"> <p id="ITS-sponsor">IT Services <br />John Abbott College</p> </div> </div> </div> <div class="sponsor-container"> <div class="sponsor"> <a href="https://sbsoftware.ca/" target="_blank"> <img src="assets/images/sponsors/SB-Software.png" /> </a> </div> <div id="middle-sponsor" class="border-outline"></div> </div>
-
-[Image: Image 2]
+IT Services
+John Abbott College
 
 Hall of Fame
 
@@ -13371,13 +10396,25 @@ Last year, we had **200** attendees, with teams competing for over **$3,000** in
 
 Sentinel SecureGO SafeMap
 
-[Image: SecureGO image]
-
 With rising online threats like phishing, malicious URLs, and NSFW content, the students saw a need for a simple, unified protection tool. SecureGO was developed as an all-in-one browser extension that ensures real-time protection without interrupting the user experience. It detects phishing emails, blocks unsafe URLs, filters NSFW content, and provides users with a dynamic dashboard to track their protection stats.
 
 [View Project](https://devpost.com/software/securego)
 
-<div id="team"> <h1 id="team-title">Meet our team</h1> <hr /> <br /> <div id="cards"> <div class="card container"> <img class="card-photo" src="assets/images/team/Carson.png" /> <div class="card-title"> Carson Spriggs<br /><span>Team Leader 📍</span> </div> <div class="card-socials"> <a class="card-socials-btn instagram" href="https://www.instagram.com/ccaaarson/" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" > <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" /></svg></a ><a class="card-socials-btn github" href="https://github.com/carsonSgit" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 24 24" > <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" ></path></svg></a ><a class="card-socials-btn linkedin" href="https://www.linkedin.com/in/carsonspriggs/" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="512" viewBox="0 0 512 512" height="512" > <path d="m51.326 185.85h90.011v270.872h-90.011zm45.608-130.572c-30.807 0-50.934 20.225-50.934 46.771 0 26 19.538 46.813 49.756 46.813h.574c31.396 0 50.948-20.814 50.948-46.813-.589-26.546-19.551-46.771-50.344-46.771zm265.405 124.209c-47.779 0-69.184 26.28-81.125 44.71v-38.347h-90.038c1.192 25.411 0 270.872 0 270.872h90.038v-151.274c0-8.102.589-16.174 2.958-21.978 6.519-16.174 21.333-32.923 46.182-32.923 32.602 0 45.622 24.851 45.622 61.248v144.926h90.024v-155.323c0-83.199-44.402-121.911-103.661-121.911z" ></path></svg ></a> </div> </div> <div class="card container"> <img class="card-photo" src="assets/images/team/Lucas.png" /> <div class="card-title"> Lucas Lalumière <br /><span>Technology 🔧</span> </div> <div class="card-socials"> <a class="card-socials-btn instagram" href="https://www.instagram.com/_shlucus/" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" > <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" /></svg></a ><a class="card-socials-btn github" href="https://github.com/Shlucus" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 24 24" > <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" ></path></svg></a ><a class="card-socials-btn linkedin" href="https://www.linkedin.com/in/lucas-lalumi%C3%A8re/" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="512" viewBox="0 0 512 512" height="512" > <path d="m51.326 185.85h90.011v270.872h-90.011zm45.608-130.572c-30.807 0-50.934 20.225-50.934 46.771 0 26 19.538 46.813 49.756 46.813h.574c31.396 0 50.948-20.814 50.948-46.813-.589-26.546-19.551-46.771-50.344-46.771zm265.405 124.209c-47.779 0-69.184 26.28-81.125 44.71v-38.347h-90.038c1.192 25.411 0 270.872 0 270.872h90.038v-151.274c0-8.102.589-16.174 2.958-21.978 6.519-16.174 21.333-32.923 46.182-32.923 32.602 0 45.622 24.851 45.622 61.248v144.926h90.024v-155.323c0-83.199-44.402-121.911-103.661-121.911z" ></path></svg ></a> </div> </div> <div class="card container"> <img class="card-photo" src="assets/images/team/Bogdan.png" /> <div class="card-title"> Bogdan Feher<br /><span>Technology 🔧</span> </div> <div class="card-socials"> <a class="card-socials-btn instagram" href="https://www.instagram.com/bogdan.feher_/" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" > <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" /></svg></a ><a class="card-socials-btn github" href="https://github.com/fehe-bo" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 24 24" > <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" ></path></svg></a ><a class="card-socials-btn linkedin" href="https://www.linkedin.com/in/bogdan-feher-b7567b203/" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="512" viewBox="0 0 512 512" height="512" > <path d="m51.326 185.85h90.011v270.872h-90.011zm45.608-130.572c-30.807 0-50.934 20.225-50.934 46.771 0 26 19.538 46.813 49.756 46.813h.574c31.396 0 50.948-20.814 50.948-46.813-.589-26.546-19.551-46.771-50.344-46.771zm265.405 124.209c-47.779 0-69.184 26.28-81.125 44.71v-38.347h-90.038c1.192 25.411 0 270.872 0 270.872h90.038v-151.274c0-8.102.589-16.174 2.958-21.978 6.519-16.174 21.333-32.923 46.182-32.923 32.602 0 45.622 24.851 45.622 61.248v144.926h90.024v-155.323c0-83.199-44.402-121.911-103.661-121.911z" ></path></svg ></a> </div> </div> <div class="card container"> <img class="card-photo" src="assets/images/team/TJ.png" /> <div class="card-title"> Timothy Klint (TJ) <br /><span>Logistics 📦</span> </div> <div class="card-socials"> <a class="card-socials-btn instagram" target="_blank" href="https://www.instagram.com/tj_klint/" ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" > <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" /></svg></a ><a class="card-socials-btn github" href="https://github.com/tjklint" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 24 24" > <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" ></path></svg></a ><a class="card-socials-btn linkedin" href="https://linkedIn.com/in/timothy-klint" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="512" viewBox="0 0 512 512" height="512" > <path d="m51.326 185.85h90.011v270.872h-90.011zm45.608-130.572c-30.807 0-50.934 20.225-50.934 46.771 0 26 19.538 46.813 49.756 46.813h.574c31.396 0 50.948-20.814 50.948-46.813-.589-26.546-19.551-46.771-50.344-46.771zm265.405 124.209c-47.779 0-69.184 26.28-81.125 44.71v-38.347h-90.038c1.192 25.411 0 270.872 0 270.872h90.038v-151.274c0-8.102.589-16.174 2.958-21.978 6.519-16.174 21.333-32.923 46.182-32.923 32.602 0 45.622 24.851 45.622 61.248v144.926h90.024v-155.323c0-83.199-44.402-121.911-103.661-121.911z" ></path></svg ></a> </div> </div> <div class="card container"> <img class="card-photo" src="assets/images/team/Hana.png" /> <div class="card-title"> Hana Moussaoui<br /><span>Promotions 📢</span> </div> <div class="card-socials"> <a class="card-socials-btn instagram" href="https://www.instagram.com/_hanalouiza/" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" > <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" /></svg></a ><a class="card-socials-btn github" href="https://github.com/HanaLouizaMoussaoui" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 24 24" > <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" ></path></svg></a ><a class="card-socials-btn linkedin" href="https://www.linkedin.com/in/hana-louiza-moussaoui-015798292" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="512" viewBox="0 0 512 512" height="512" > <path d="m51.326 185.85h90.011v270.872h-90.011zm45.608-130.572c-30.807 0-50.934 20.225-50.934 46.771 0 26 19.538 46.813 49.756 46.813h.574c31.396 0 50.948-20.814 50.948-46.813-.589-26.546-19.551-46.771-50.344-46.771zm265.405 124.209c-47.779 0-69.184 26.28-81.125 44.71v-38.347h-90.038c1.192 25.411 0 270.872 0 270.872h90.038v-151.274c0-8.102.589-16.174 2.958-21.978 6.519-16.174 21.333-32.923 46.182-32.923 32.602 0 45.622 24.851 45.622 61.248v144.926h90.024v-155.323c0-83.199-44.402-121.911-103.661-121.911z" ></path></svg ></a> </div> </div> <div class="card container"> <img class="card-photo card-wrapper" src="assets/images/team/Meghrig.png" /> <div class="card-title"> Meghrig Terzian<br /><span>Coordinator 💼</span> </div> <div class="card-socials"> <a class="card-socials-btn linkedin" href="https://ca.linkedin.com/in/meghrigt/" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="512" viewBox="0 0 512 512" height="512" > <path d="m51.326 185.85h90.011v270.872h-90.011zm45.608-130.572c-30.807 0-50.934 20.225-50.934 46.771 0 26 19.538 46.813 49.756 46.813h.574c31.396 0 50.948-20.814 50.948-46.813-.589-26.546-19.551-46.771-50.344-46.771zm265.405 124.209c-47.779 0-69.184 26.28-81.125 44.71v-38.347h-90.038c1.192 25.411 0 270.872 0 270.872h90.038v-151.274c0-8.102.589-16.174 2.958-21.978 6.519-16.174 21.333-32.923 46.182-32.923 32.602 0 45.622 24.851 45.622 61.248v144.926h90.024v-155.323c0-83.199-44.402-121.911-103.661-121.911z" ></path></svg ></a> </div> </div> <div class="card container"> <img class="card-photo" src="assets/images/team/Aref2.png" /> <div class="card-title"> Aref Mourtada<br /><span>Coordinator 💼</span> </div> <div class="card-socials"> <a class="card-socials-btn linkedin" href="https://ca.linkedin.com/in/amourtada" target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="512" viewBox="0 0 512 512" height="512" > <path d="m51.326 185.85h90.011v270.872h-90.011zm45.608-130.572c-30.807 0-50.934 20.225-50.934 46.771 0 26 19.538 46.813 49.756 46.813h.574c31.396 0 50.948-20.814 50.948-46.813-.589-26.546-19.551-46.771-50.344-46.771zm265.405 124.209c-47.779 0-69.184 26.28-81.125 44.71v-38.347h-90.038c1.192 25.411 0 270.872 0 270.872h90.038v-151.274c0-8.102.589-16.174 2.958-21.978 6.519-16.174 21.333-32.923 46.182-32.923 32.602 0 45.622 24.851 45.622 61.248v144.926h90.024v-155.323c0-83.199-44.402-121.911-103.661-121.911z" ></path></svg ></a> </div> </div> </div> </div>
+# Meet our team
+
+Carson Spriggs Team Leader 📍
+
+Lucas Lalumière Technology 🔧
+
+Bogdan Feher Technology 🔧
+
+Timothy Klint (TJ) Logistics 📦
+
+Hana Moussaoui Promotions 📢
+
+Meghrig Terzian Coordinator 💼
+
+Aref Mourtada Coordinator 💼
 
 FAQ
 
@@ -13399,32 +10436,24 @@ MLH Code of Conduct
 
 I still have a question...
 
-### Website 49: HackSMU VII 
+### Website 49: HackSMU VII
 - Card URL: [https://hacksmu.org](https://hacksmu.org)
-- Referenced by: HackSMU VII 
+- Referenced by: HackSMU VII
 - Rendered title: HackSMU VII — Frutiger Aero
 - Final URL: [https://hacksmu.org/](https://hacksmu.org/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: HackSMU]](https://hacksmu.org/)
+[HackSMU](https://hacksmu.org/)
 
 [Home](https://hacksmu.org/) [About](https://hacksmu.org/about) [FAQ](https://hacksmu.org/faq) [Resources](https://hacksmu.org/resources) [Schedule](https://hacksmu.org/schedule) [Dashboard](https://hacksmu.org/dashboard)
 
-Sign In [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: Sponsor Logos]
+Sign In
 
 HACKING LIVE 🚀
 
 HackSMU VI Photo Gallery
 
-[Image: Hackathon photo 1]
-
-◀
-
 1/6
-
-▶
 
 HackSMU VII
 
@@ -13434,9 +10463,7 @@ April 11-12, 2026
 
 🏔️About 💬FAQ 🔗Resources ⭐Partners 📅Schedule 👥Our Team 🖥️Dashboard
 
-[Image: HackSMU] HackSMU VII
-
-🏔️ 💬 🔗 ⭐
+HackSMU VII
 
 02:20 AM
 
@@ -13529,15 +10556,9 @@ MorganHacks teams choose one of five challenge districts and spend the weekend b
 
 #### SproutGT
 
-[Image: Sprouts]
-
 Innovation Loading ...
 
-[[Image: Register]](https://registration.hexlabs.org)
-
-[Image: Alert]
-
-[Image: googly eyes]
+[Register](https://registration.hexlabs.org)
 
 ##### Speakers
 
@@ -13551,31 +10572,13 @@ Hear how former Georgia Tech alumnus and Create-X participant Jonathan Fitch was
 
 Meet and network with the current director of Create-X and associate director of LAUNCH, Rahul Saxena. Rahul has a strong technical and business background from his time as a Venture Capitalist, startup CEO, entrepreneur, mechatronic design engineer, and published academic researcher.
 
-[Image: Previous speaker] [Image: Next speaker]
-
 ##### Workshops
-
-[Image: music]
 
 ###### ProductGT
 
-[Image: frame]
-
-[Image: disc]
-
-[Image: ProductGT]
-
 Learn the fundamentals of product thinking and how to transform a raw idea into a viable startup concept. This workshop covers user research, market validation, and building your first pitch deck.
 
-[Image: music]
-
 ###### iOS Club
-
-[Image: frame]
-
-[Image: disc]
-
-[Image: iOS Club]
 
 This workshop will teach participants how to plan and design iOS apps using Swift and Xcode. You'll gain hands-on experience building a basic iOS app from the ground up!
 
@@ -13607,21 +10610,21 @@ HexLabs is an organization that organizes computer science outreach events.
 
 ##### FAQ
 
-Who is allowed to apply to SproutGT?+[Image: Flower icon]
+Who is allowed to apply to SproutGT?+
 
-How do I apply?+[Image: Flower icon]
+How do I apply?+
 
-Where and when will SproutGT take place?+[Image: Flower icon]
+Where and when will SproutGT take place?+
 
-What kinds of workshops will be offered?+[Image: Flower icon]
+What kinds of workshops will be offered?+
 
-What if I don’t have a team?+[Image: Flower icon]
+What if I don’t have a team?+
 
-Will attending SproutGT guarantee me a spot at HackGT 13?+[Image: Flower icon]
+Will attending SproutGT guarantee me a spot at HackGT 13?+
 
-I still have questions.+[Image: Flower icon]
+I still have questions.+
 
-Are workshops free to attend?+[Image: Flower icon]
+Are workshops free to attend?+
 
 ### Website 52: Bitcamp
 - Card URL: [https://bit.camp/](https://bit.camp/)
@@ -13629,10 +10632,6 @@ Are workshops free to attend?+[Image: Flower icon]
 - Rendered title: Bitcamp
 - Final URL: [https://bit.camp/](https://bit.camp/)
 - Expanded FAQ/accordion controls: 16
-
-[Image: BitBot Icon]
-
-[Image: landing image]
 
 [REGISTER](https://register.bit.camp)
 
@@ -13664,17 +10663,9 @@ The Data Science track introduces beginners to working with data through worksho
 
 Hackers will delve into the field of quantum computing with exclusive mentors, sponsors, and workshops! Hackers will use their knowledge of Python and other computing skills on educational and interactive Quantum Track activities. If you've been a previous participant of the Quantum track, there will be new, challenging prompts for you to tackle!
 
-[Image: Campfire games title]
-
 The Campfire Games are a way to learn, grow, and build with the Bitcamp Community. At the start of this year's event, you will join one of three teams based on your personality and interests, joining forces with hackers from around the world!
 
 By winning unique challenges, attending workshops, and participating in mini-events, you'll rack up points for your team. At the end of Bitcamp, members of the winning team will receive limited edition Bitcamp swag.
-
-[Image: Red Team icon] [Image: Red Team text]
-
-[Image: Green Team icon] [Image: Green Team text]
-
-[Image: Blue Team icon] [Image: Blue Team text]
 
 ###### Schedule
 
@@ -13768,17 +10759,9 @@ Sponsor Event
 
 Food
 
-[Image: Neha Veeragandham]
-
 Neha Veeragandham Co-Executive Director
 
-[Image: Saloni Shah]
-
 Saloni Shah Co-Executive Director
-
-[Image: lebron]
-
-[Image: lebron]
 
 We’re the co-executive directors of Bitcamp 2026, and we’re over the moon to be working with this stellar team to lead Bitcamp into a new frontier of hackathon culture. Every one of our 83 organizers is an essential part of this mission, helping to make Bitcamp 2026 a universe of creativity and innovation. We can’t wait to see these brilliant minds guide hackers like you as you Explore the Unknown and discover what’s possible! - Saloni and Neha
 
@@ -13820,17 +10803,17 @@ Unfortunately, travel reimbursement applications have been closed at this time, 
 
 #### Sponsors
 
-[[Image: UMD Student Government Association]](https://www.umdsga.com/) [[Image: Department of Computer Science]](https://www.cs.umd.edu/) [[Image: College of Computer, Mathematical, and Natural Sciences]](https://cmns.umd.edu/) [[Image: University of Maryland Institute for Advanced Computer Studies]](https://www.umiacs.umd.edu/) [[Image: Peraton]](https://www.peraton.com/) [[Image: Capital One]](https://www.capitalone.com/) [[Image: Bloomberg]](https://www.bloomberg.com/) [[Image: Cipher Tech Solutions]](https://www.ciphertechsolutions.com/) [[Image: Netcorenetwork]](https://www.netcore.network/) [[Image: Cloudforce]](https://gocloudforce.com/) [[Image: Microsoft]](https://www.microsoft.com/en-us) [[Image: Robert H. Smith School of Business]](https://www.rhsmith.umd.edu/) [[Image: Robert H. Smith School of Business - Plus 1]](https://www.rhsmith.umd.edu/programs/plus-1) [[Image: Johns Hopkins University Applied Physics Laboratory]](https://www.jhuapl.edu/) [[Image: Ambrook]](https://ambrook.com/) [[Image: Ionq]](https://www.ionq.com/) [[Image: University of Maryland Sustainability Fund]](https://sustainability.umd.edu/) [[Image: A. James Clark School of Engineering]](https://eng.umd.edu/) [[Image: Featherless AI]](https://featherless.ai/) [[Image: Appifex AI]](https://www.appifex.ai/) [[Image: Pure Buttons]](https://www.purebuttons.com/)
+[UMD Student Government Association](https://www.umdsga.com/) [Department of Computer Science](https://www.cs.umd.edu/) [College of Computer, Mathematical, and Natural Sciences](https://cmns.umd.edu/) [University of Maryland Institute for Advanced Computer Studies](https://www.umiacs.umd.edu/) [Peraton](https://www.peraton.com/) [Capital One](https://www.capitalone.com/) [Bloomberg](https://www.bloomberg.com/) [Cipher Tech Solutions](https://www.ciphertechsolutions.com/) [Netcorenetwork](https://www.netcore.network/) [Cloudforce](https://gocloudforce.com/) [Microsoft](https://www.microsoft.com/en-us) [Robert H. Smith School of Business](https://www.rhsmith.umd.edu/) [Robert H. Smith School of Business - Plus 1](https://www.rhsmith.umd.edu/programs/plus-1) [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) [Ambrook](https://ambrook.com/) [Ionq](https://www.ionq.com/) [University of Maryland Sustainability Fund](https://sustainability.umd.edu/) [A. James Clark School of Engineering](https://eng.umd.edu/) [Featherless AI](https://featherless.ai/) [Appifex AI](https://www.appifex.ai/) [Pure Buttons](https://www.purebuttons.com/)
 
 [BECOME A SPONSOR](https://bit.camp/sponsor)
 
-[[Image: Bitcamp]](https://bit.camp/#hero)
+[Bitcamp](https://bit.camp/)
 
 [Tracks](https://bit.camp/#tracks) [Campfire Games](https://bit.camp/#campfire-games) [Our Team](https://bit.camp/#roster) [Schedule](https://bit.camp/#schedule) [FAQ](https://bit.camp/#faq)
 
 Contact Us [Sponsor Us](https://bit.camp/sponsor) [MLH Code of Conduct](http://mlh.io/code-of-conduct) [Brand Guidelines](https://bit.camp/brand.pdf)
 
-[[Image: Instagram]](https://www.instagram.com/bitcamp) [[Image: TikTok]](https://www.tiktok.com/@bitcamp_umd) [[Image: X]](https://x.com/bitcmp) [[Image: Facebook]](https://www.facebook.com/bitcmp)
+[Instagram](https://www.instagram.com/bitcamp) [TikTok](https://www.tiktok.com/@bitcamp_umd) [Facebook](https://www.facebook.com/bitcmp)
 
 Copyright © 2019-2026 Bitcamp. All rights reserved.
 
@@ -13840,10 +10823,6 @@ Copyright © 2019-2026 Bitcamp. All rights reserved.
 - Rendered title: ImmerseGT 2026
 - Final URL: [https://www.immersegt.org/](https://www.immersegt.org/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
-
-[Image: ImmerseGT Logo]
 
 #### One of the biggest XR hackathons is back
 
@@ -13855,31 +10834,23 @@ Apply Now Learn More
 
 Co-Hosted By
 
-[[Image: GTXR Logo]](https://www.gtxr.club/)
-
-[[Image: Startup Exchange Logo]](https://www.startup.exchange/)
-
 ##### Our 2026 Sponsors
 
 ###### Title Sponsors
 
-[[Image: Spectacles by Snap]](https://www.spectacles.com/) [[Image: PICO]](https://www.picoxr.com/)
+[Spectacles by Snap](https://www.spectacles.com/) [PICO](https://www.picoxr.com/)
 
 ###### Sponsors
 
-[[Image: Astec Digital]](https://www.astecdigital.com/) [[Image: Raven Resonance]](https://raven.computer/) [[Image: Create-X]](https://create-x.gatech.edu/)
+[Astec Digital](https://www.astecdigital.com/) [Raven Resonance](https://raven.computer/) [Create-X](https://create-x.gatech.edu/)
 
 ###### Community Partners
 
-[[Image: XR Bootcamp]](https://xrbootcamp.com/) [[Image: SensAI Hackathon]](https://sensaihack.com/) [[Image: AWE]](https://www.awexr.com/) [[Image: Major League Hacking]](https://mlh.io) [[Image: Pure Buttons]](https://www.purebuttons.com/)
-
-[Image: VR headset eyes closeup]
+[XR Bootcamp](https://xrbootcamp.com/) [SensAI Hackathon](https://sensaihack.com/) [AWE](https://www.awexr.com/) [Major League Hacking](https://mlh.io) [Pure Buttons](https://www.purebuttons.com/)
 
 Keynote Speaker
 
 ##### Meet the Speaker
-
-[Image: Omari Hitson]
 
 JPMorgan Chase · XR Product Design
 
@@ -13925,19 +10896,13 @@ ISyE Main 228
 
 2pm – 3pm
 
-ISyE Main 228
-
 ###### Spectacles Workshop
 
 4pm – 5pm
 
-ISyE Main 228
-
 ###### Dinner
 
 5:00pm – 6:30pm
-
-ISyE Main Atrium 2nd Floor
 
 ###### Opening Ceremony
 
@@ -13959,8 +10924,6 @@ ISyE Courtyard
 
 12am – 12:30am
 
-ISyE Main Atrium 2nd Floor
-
 ###### Location
 
 755 Ferst Dr NW, Atlanta, GA 30332
@@ -13968,8 +10931,6 @@ ISyE Main Atrium 2nd Floor
 [Latest updates on Notion](https://immersegt26.notion.site/schedule)
 
 [Open in Google Maps](https://maps.app.goo.gl/jr95Q4q2BvZYafWG9)
-
-[Image: ImmerseGT concentric circles]
 
 ##### FAQs
 
@@ -13988,8 +10949,6 @@ How do I participate in ImmerseGT?
 What resources will be provided during ImmerseGT?
 
 How will judging and prizes work at ImmerseGT?
-
-$ /$
 
 ### Website 54: Global Hack Week: API
 - Card URL: [https://events.mlh.io/events/13558-global-hack-week-api](https://events.mlh.io/events/13558-global-hack-week-api)
@@ -14117,8 +11076,6 @@ Familiarize yourself with upcoming program items and the general course of the Q
 
 The event kicks off with an introduction to the Q-Summit Hackathon, setting the stage for two days of challenges and creativity. Participants will receive an overview of the schedule and expectations.
 
-###### 8th April
-
 ###### Hacking Start
 
 Teams dive into the challenges, with a detailed explanation provided in advance. Participants begin brainstorming and working on their solutions.
@@ -14129,13 +11086,9 @@ Teams dive into the challenges, with a detailed explanation provided in advance.
 
 Teams finalize their projects and submit their solutions for evaluation based on creativity, impact, and execution.
 
-###### 9th April
-
 ###### First Pitching Round
 
 Teams present their progress and ideas to the judges, receiving feedback and guidance for further refinement.
-
-###### 9th April
 
 ###### Finalist Pitchbattle
 
@@ -14194,8 +11147,6 @@ Contact the team
 - Final URL: [https://www.hacktropica.xyz/](https://www.hacktropica.xyz/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: HACKTROPICA initial frame]
-
 #### HACKTROPICA
 
 2.0
@@ -14204,15 +11155,13 @@ WELCOME TO
 
 THE TROPICS
 
-[[Image: Devfolio]REGISTER ON DEVFOLIO](https://hacktropica2k26.devfolio.co/overview)
+[REGISTER ON DEVFOLIO](https://hacktropica2k26.devfolio.co/overview)
 
 [JOIN OUR DISCORD](https://discord.gg/hVnraAzWU6)
 
 MorethanaHackathon,itisasaferetreat,awayfromthechaosoftheworld,aplaceforyou.Aneventthatfeelsyou.Moveswithyou..
 
 This is...
-
-[Image: HACKTROPICA 2.0]
 
 HackTropicaisamidnighttrekthroughadigitalwildwoodteamsfollowfireflyideas,cutthroughthornybugs,andleavebehindalivingdemobydawn.
 
@@ -14221,102 +11170,6 @@ HackTropicaisamidnighttrekthroughadigitalwildwoodteamsfollowfireflyideas,cutthro
 Vivekananda Sarani, Opp. Indian Oil, Kanyapur, Asansol, West Bengal 713305
 
 [GET DIRECTIONS](https://www.google.com/maps/dir/?api=1&destination=Asansol+Engineering+College,+Kanyapur,+Asansol,+West+Bengal+713305)
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
-
-[Image: Memory]
 
 the journey so far
 
@@ -14373,218 +11226,6 @@ A well-structured and motivating hackathon
 
 Debarjun Pal
 
-Team DevTronics (Future Institute of Engineering and Management)
-
-Huge appreciation to the organizing team
-
-Adrija Sengupta
-
-Team SHECODERS (Asansol Engineering College)
-
-HackTropica brought together some of the brightest minds in tech
-
-Srinjoy Pramanik
-
-Team Dev_Squads (Netaji Subhash Engineering College)
-
-HackTropica wasn’t just about code, it was about vision
-
-Ayush Kumar
-
-Team CodeCrafters (Asansol Engineering College)
-
-Winning at HackTropica was more than a title
-
-Yuvraj Prashad
-
-Winner, Team Mind_Matrix (Techno India College of Technology)
-
-From late-night coding to constant brainstorming
-
-Pratyush Basu
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-6 months of teamwork turned belief into reality
-
-Jhinuk Roy
-
-Organizer (Asansol Engineering College)
-
-A well-structured and motivating hackathon
-
-Debarjun Pal
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-Huge appreciation to the organizing team
-
-Adrija Sengupta
-
-Team SHECODERS (Asansol Engineering College)
-
-HackTropica brought together some of the brightest minds in tech
-
-Srinjoy Pramanik
-
-Team Dev_Squads (Netaji Subhash Engineering College)
-
-HackTropica wasn’t just about code, it was about vision
-
-Ayush Kumar
-
-Team CodeCrafters (Asansol Engineering College)
-
-Winning at HackTropica was more than a title
-
-Yuvraj Prashad
-
-Winner, Team Mind_Matrix (Techno India College of Technology)
-
-From late-night coding to constant brainstorming
-
-Pratyush Basu
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-6 months of teamwork turned belief into reality
-
-Jhinuk Roy
-
-Organizer (Asansol Engineering College)
-
-A well-structured and motivating hackathon
-
-Debarjun Pal
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-Huge appreciation to the organizing team
-
-Adrija Sengupta
-
-Team SHECODERS (Asansol Engineering College)
-
-HackTropica brought together some of the brightest minds in tech
-
-Srinjoy Pramanik
-
-Team Dev_Squads (Netaji Subhash Engineering College)
-
-HackTropica wasn’t just about code, it was about vision
-
-Ayush Kumar
-
-Team CodeCrafters (Asansol Engineering College)
-
-Winning at HackTropica was more than a title
-
-Yuvraj Prashad
-
-Winner, Team Mind_Matrix (Techno India College of Technology)
-
-From late-night coding to constant brainstorming
-
-Pratyush Basu
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-6 months of teamwork turned belief into reality
-
-Jhinuk Roy
-
-Organizer (Asansol Engineering College)
-
-A well-structured and motivating hackathon
-
-Debarjun Pal
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-Huge appreciation to the organizing team
-
-Adrija Sengupta
-
-Team SHECODERS (Asansol Engineering College)
-
-HackTropica brought together some of the brightest minds in tech
-
-Srinjoy Pramanik
-
-Team Dev_Squads (Netaji Subhash Engineering College)
-
-HackTropica wasn’t just about code, it was about vision
-
-Ayush Kumar
-
-Team CodeCrafters (Asansol Engineering College)
-
-Winning at HackTropica was more than a title
-
-Yuvraj Prashad
-
-Winner, Team Mind_Matrix (Techno India College of Technology)
-
-From late-night coding to constant brainstorming
-
-Pratyush Basu
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-6 months of teamwork turned belief into reality
-
-Jhinuk Roy
-
-Organizer (Asansol Engineering College)
-
-A well-structured and motivating hackathon
-
-Debarjun Pal
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-Huge appreciation to the organizing team
-
-Adrija Sengupta
-
-Team SHECODERS (Asansol Engineering College)
-
-HackTropica brought together some of the brightest minds in tech
-
-Srinjoy Pramanik
-
-Team Dev_Squads (Netaji Subhash Engineering College)
-
-HackTropica wasn’t just about code, it was about vision
-
-Ayush Kumar
-
-Team CodeCrafters (Asansol Engineering College)
-
-Winning at HackTropica was more than a title
-
-Yuvraj Prashad
-
-Winner, Team Mind_Matrix (Techno India College of Technology)
-
-From late-night coding to constant brainstorming
-
-Pratyush Basu
-
-Team DevTronics (Future Institute of Engineering and Management)
-
-6 months of teamwork turned belief into reality
-
-Jhinuk Roy
-
-Organizer (Asansol Engineering College)
-
-A well-structured and motivating hackathon
-
-Debarjun Pal
-
-Team DevTronics (Future Institute of Engineering and Management)
-
 Huge appreciation to the organizing team
 
 Adrija Sengupta
@@ -14609,97 +11250,31 @@ SPONSORS
 
 TITLE SPONSOR
 
-[Image: Superplane]
-
 TITLE PARTNER
-
-[Image: MLH]
 
 DIAMOND SPONSOR
 
-[Image: Vercel]
-
-[Image: v0]
-
-[Image: Flutterflow]
-
-[Image: AlgoRand]
-
-[Image: Miro]
-
 GOLD SPONSOR
-
-[Image: GitHub]
-
-[Image: Devfolio]
-
-[Image: RunAnywhere]
-
-[Image: Rise In]
-
-[Image: Insforge]
 
 SILVER SPONSOR
 
-[Image: Duality]
-
-[Image: Smolify AI]
-
-[Image: Core Platform]
-
-[Image: genesis]
-
-[Image: Nero Chain]
-
-[Image: Anibotix]
-
 EXCLUSIVE PARTNER
-
-[Image: Ascent Circle]
 
 EDUCATION SPONSOR
 
-[Image: LCA]
-
 OBSERVABILITY PARTNER
-
-[Image: Grafana]
 
 HIRING PARTNER
 
-[Image: Edubuk]
-
 FOOD PARTNER
-
-[Image: Culinary]
 
 DRINKS PARTNER
 
-[Image: Coke]
-
 IN-KIND SPONSOR
-
-[Image: Lovable]
-
-[Image: Mastra]
-
-[Image: Mercy for Animals]
-
-[Image: Metaborong]
-
-[Image: Modisconto]
-
-[Image: Singularity]
-
-[Image: ZeroMove]
-
-[Image: Myrad]
 
 FAQS
 
 ##### Your Questions, Answered
-
-[Image: Flower illustration 1]
 
 ###### What is HackTropica?
 
@@ -14709,55 +11284,25 @@ HackTropica is a national-level hackathon hosted at Asansol Engineering College 
 
 [REGISTER NOW](https://hacktropica2k26.devfolio.co/overview)
 
-[Image: Flower illustration 2]
-
 ###### What is the registration cost?
-
-Getyouranswer
 
 Yes, HackTropica is completely free to participate in and does not require any registration or participation fee.
 
-[REGISTER NOW](https://hacktropica2k26.devfolio.co/overview)
-
-[Image: Flower illustration 3]
-
 ###### Who can participate in HackTropica?
-
-Getyouranswer
 
 HackTropica is open to undergraduate students from across India who are interested in technology, innovation, and collaborative problem solving. No school students are allowed to participate in this event only college students can participate.
 
-[REGISTER NOW](https://hacktropica2k26.devfolio.co/overview)
-
-[Image: Flower illustration 4]
-
 ###### What is the team size for HackTropica?
-
-Getyouranswer
 
 Participants must form teams of minimum 2 members and maximum up to 4 members to compete in HackTropica.
 
-[REGISTER NOW](https://hacktropica2k26.devfolio.co/overview)
-
-[Image: Flower illustration 5]
-
 ###### Is HackTropica a MLH?
-
-Getyouranswer
 
 HackTropica follows MLH-aligned guidelines and best practices to ensure a fair, inclusive, and well-structured hackathon experience for all participants.
 
-[REGISTER NOW](https://hacktropica2k26.devfolio.co/overview)
-
-[Image: Flower illustration 6]
-
 ###### Where and when will HackTropica 2026 take place?
 
-Getyouranswer
-
 HackTropica 2026 will be held on 4th and 5th April 2026 at Asansol Engineering College.
-
-[REGISTER NOW](https://hacktropica2k26.devfolio.co/overview)
 
 ### Website 57: DiamondHacks 2026
 - Card URL: [https://diamondhacks.acmucsd.com/](https://diamondhacks.acmucsd.com/)
@@ -14773,22 +11318,6 @@ DiamondHacks 2027
 [Interest Form](https://forms.gle/h8apzbJacRi8caTx9) Sponsor us for 2027
 
 What is DiamondHacks?
-
-[Image: Hackathon Image 1]
-
-[Image: Hackathon Image 2]
-
-[Image: Hackathon Image 3]
-
-[Image: Hackathon Image 4]
-
-[Image: Hackathon Image 1]
-
-[Image: Hackathon Image 2]
-
-[Image: Hackathon Image 3]
-
-[Image: Hackathon Image 4]
 
 Get ready for DiamondHacks, a thrilling 36-hour hackathon tournament organized by the Association for Computing Machinery at UCSD. The sharpest minds from universities across San Diego will gather to join our magic tournament.
 
@@ -14814,15 +11343,11 @@ $5000+
 
 in prizes
 
-[Image: racoon]
-
 ###### Meet the DiamondHacks Agent
 
 Chat with the DiamondHacks AI agent to get instant answers about schedules, venue details, logistics, and what to bring. Access it through ASI:One, powered by Agentverse.
 
 [Chat with the DiamondHacks Agent](https://www.fetch.ai/diamondhacks2026)
-
-[Image: ASI One logo]
 
 Frequently asked questions
 
@@ -14848,11 +11373,11 @@ Any undergraduate students enrolled in **any** college or university are eligibl
 
 Thank you to our sponsors!
 
-[[Image: UCSD CSE]](https://cse.ucsd.edu/) [[Image: Browser Use]](https://browser-use.com/?utm_source=diamondhacks) [[Image: Fetch AI]](https://fetch.ai/?utm_source=diamondhacks2026&utm_medium=direct&utm_campaign=hackathon)
+[UCSD CSE](https://cse.ucsd.edu/) [Browser Use](https://browser-use.com/?utm_source=diamondhacks) [Fetch AI](https://fetch.ai/?utm_source=diamondhacks2026&utm_medium=direct&utm_campaign=hackathon)
 
-[[Image: Qualcomm]](https://www.qualcomm.com/) [[Image: Twelve Labs]](https://www.twelvelabs.io/)
+[Qualcomm](https://www.qualcomm.com/) [Twelve Labs](https://www.twelvelabs.io/)
 
-[[Image: Perplexity]](https://www.perplexity.ai/) [[Image: Lovable]](https://www.lovable.dev/) [[Image: MLH]](https://mlh.io/) [[Image: Pure Buttons]](https://www.purebuttons.com/) [[Image: JellyJelly]](https://www.jellyjelly.com/)
+[Perplexity](https://www.perplexity.ai/) [Lovable](https://www.lovable.dev/) [MLH](https://mlh.io/) [Pure Buttons](https://www.purebuttons.com/) [JellyJelly](https://www.jellyjelly.com/)
 
 Interested in working with us? Reach out down below!
 
@@ -14969,8 +11494,6 @@ Working Professionals Students- University Students - Other
 
 ###### Row 6: Production Engineering Info Session
 
-- Day (ET): Sunday
-
 - PT: 8:00 AM PT
 
 - ET: 11:00 AM ET
@@ -14983,8 +11506,6 @@ Working Professionals Students- University Students - Other
 
 ###### Row 7: Hacking Ends / Final Submission Due
 
-- Day (ET): Sunday
-
 - PT: 9:00 AM PT
 
 - ET: 12:00 PM ET
@@ -14996,8 +11517,6 @@ Working Professionals Students- University Students - Other
 - Event: Hacking Ends / Final Submission Due
 
 ###### Row 8: Closing Ceremony
-
-- Day (ET): Sunday
 
 - PT: 10:00 AM PT
 
@@ -15065,8 +11584,6 @@ We empower hackers!
 [Innovation Hacks](https://www.innovationhacks.dev/)
 
 [About](https://www.innovationhacks.dev/#about) [Schedule](https://www.innovationhacks.dev/#schedule) [Sponsors](https://www.innovationhacks.dev/#sponsors) [FAQs](https://www.innovationhacks.dev/#faq) [Mentor](https://www.innovationhacks.dev/mentor/) [Register](https://www.innovationhacks.dev/register/)
-
-[Image: The AI Society x Google Developer Group x SoDA]
 
 #### INNOVATION HACKS 2.0
 
@@ -15159,11 +11676,7 @@ Keep the momentum going, enjoy some delicious late-night snacks from Domino's to
 
 ##### Sponsors
 
-[[Image: Anton RX LOGO]](https://antonrx.com) [[Image: Google LOGO]](https://google.com) [[Image: Amazon LOGO]](https://aws.amazon.com) [[Image: State Farm LOGO]](https://statefarm.com)
-
 ##### Partners
-
-[[Image: MLH LOGO]](https://mlh.io) [[Image: PureButtons LOGO]](https://purebuttons.com) [[Image: AI SOCIETY LOGO]](https://www.ais-asu.com/) [[Image: GDG ASU Logo]](https://www.asudsc.com/) [[Image: SoDA LOGO]](https://thesoda.io/)
 
 ##### Frequently Asked Questions
 
@@ -15187,15 +11700,9 @@ Have more questions?
 
 Feel free to write to us at help@innovationhacks.dev or reach out on [discord](https://discord.gg/wrUaadBuFa)
 
-[Image: The AI Society logo]
-
 The AI Society
 
-[Image: GDG ASU logo]
-
 GDG ASU
-
-[Image: SoDA logo]
 
 SoDA
 
@@ -15214,31 +11721,13 @@ Contact Us
 - Final URL: [https://hackhackgoose.freetailhackers.com/](https://hackhackgoose.freetailhackers.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: FAQ] [Image: About]
-
-[Image: Menu]
-
-[[Image: MLH Badge]](https://mlh.io/)
-
-[Image: Donald]
+[MLH Badge](https://mlh.io/)
 
 Honks: 500200
 
-[Image: plate]
-
 April 3-4 @ GDC, UT AUSTIN
 
-[[Image: Apply Now]](https://rodeo.freetailhackers.com/login)
-
-[Image: Speech Title]
-
-[Image: flying geese]
-
-[Image: flying geese]
-
-[Image: flying geese]
-
-[Image: cloud]
+[Apply Now](https://rodeo.freetailhackers.com/login)
 
 THE FLOCK
 
@@ -15246,15 +11735,9 @@ ARRIVES IN...
 
 00 days
 
-:
-
 00 hours
 
-:
-
 00 minutes
-
-:
 
 00 seconds
 
@@ -15311,8 +11794,6 @@ All work must be done at the event. You can't demo something you didn't build. D
 I have more questions. Who do I contact?
 
 If you have further questions for us, don't hesitate to reach out to admin@freetailhackers.com.
-
-[Image: Schedule]
 
 ##### Schedule
 
@@ -15394,9 +11875,7 @@ Drag to spin — projects from the [Devpost gallery](https://hack-hack-goose.dev
 
 [HarnoldsEyeBest Use of Vultr](https://devpost.com/software/harnoldseye)
 
-[[Image: Hack Hack Goose participants at the hackathon in the GDC]In the newsThe Daily Texan: “Hack Hack Goose!” inspires student-made projectsRead Samantha Nowlin's feature on the hackathon at the GDC — projects like Waddle and Gaggle, workshops, and why students show up to build together.Read the article at The Daily Texan](https://thedailytexan.com/2026/04/06/hack-hack-goose-inspires-student-made-projects/)
-
-[Image: Event Menu]
+[In the newsThe Daily Texan: “Hack Hack Goose!” inspires student-made projectsRead Samantha Nowlin's feature on the hackathon at the GDC — projects like Waddle and Gaggle, workshops, and why students show up to build together.Read the article at The Daily Texan](https://thedailytexan.com/2026/04/06/hack-hack-goose-inspires-student-made-projects/)
 
 A Big Thank you to Our
 
@@ -15404,9 +11883,7 @@ A Big Thank you to Our
 
 Interested in partnering with Hack Hack Goose 2026? Contact us at corporate@freetailhackers.com
 
-[[Image: Virtu duck][Image: Virtu]](https://virtu.com) [[Image: HRT duck][Image: HRT]](https://www.hudsonrivertrading.com/) [[Image: BHW duck][Image: BHW]](https://thebhwgroup.com/)
-
-[Image: Harnold]
+[Virtu duck / Virtu](https://virtu.com) [HRT duck / HRT](https://www.hudsonrivertrading.com/) [BHW duck / BHW](https://thebhwgroup.com/)
 
 #### Freetail Flock
 
@@ -15419,17 +11896,11 @@ Interested in partnering with Hack Hack Goose 2026? Contact us at corporate@free
 - Final URL: [https://www.hackbyte.in/](https://www.hackbyte.in/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: MLH badge]](https://mlh.io/seasons/2026/events)
-
-[Image: Decorative corner cracks]
+[MLH badge](https://mlh.io/seasons/2026/events)
 
 ##### Our Theme
 
 #### Patch The Reality
-
-[Image: Broken effect background]
-
-[Image: Background texture]
 
 Event has ended
 
@@ -15437,15 +11908,9 @@ When:
 
 3-5 April, 2026
 
-@
-
 IIITDM Jabalpur
 
-[[Image: LinkedIn]](https://www.linkedin.com/company/bitbyte-tpc/posts/?feedView=all) [[Image: Instagram]](https://www.instagram.com/hackbyte.tpc/) [[Image: X]](https://x.com/HackbyteTPC) [[Image: Discord]](https://discord.com/invite/NTueHjdPn8)
-
-[Image: TPC and IIITDM Jabalpur logos]
-
-[Image: sparkles] [Image: sparkles] [Image: sparkles] [Image: Prizes Worth 100k rupees!]
+[LinkedIn](https://www.linkedin.com/company/bitbyte-tpc/posts/?feedView=all) [Instagram](https://www.instagram.com/hackbyte.tpc/) [Discord](https://discord.com/invite/NTueHjdPn8)
 
 5154
 
@@ -15471,37 +11936,9 @@ Projects
 
 Innovative submissions from various domains.
 
-[Image: broken normal]
-
-[Image: Why Participate?]
-
-[Image: collaborate and skill up]
-
-[Image: win exciting prizes]
-
-[Image: engaging workshops]
-
-[Image: attend mentor sessions]
-
-[Image: recruitment offers]
-
-[Image: lightning-effect]
-
-[Image: lightning-effect]
-
-[Image: soundhorn-svg]
-
-[Image: Join Our Newsletter]
-
-[Image: Decoration]
-
-[Image: Be a part of our mailing list]
-
-- [Image: bullet] Be the first ones to register for HackByte 4.0
-- [Image: bullet] Get updates about your application status
-- [Image: bullet] Get notified for exciting events!
-
-[Image: HB 4.0 Logo]
+- Be the first ones to register for HackByte 4.0
+- Get updates about your application status
+- Get notified for exciting events!
 
 Subscribe
 
@@ -15516,13 +11953,9 @@ Subscribe
 
 The Hackathon is over. See you next semester!
 
-[Image: Join Discord]Discord
+Discord
 
 #### Info
-
-[Image: Graffiti]
-
-[Image: Cyber Hacky]
 
 About
 
@@ -15536,11 +11969,9 @@ HackPSU is a bi-annual collegiate hackathon at Penn State with workshops, speake
 
 #### Prizes & Challenges
 
-[Image: HackPSU Grand Prize] [Image: Base44 Challenge] [Image: College of IST Challenge]
-
 #### Schedule
 
-[Image: Activity Jellyfish]Activity [Image: General Jellyfish]General [Image: Workshop Jellyfish]Workshop [Image: Check-in Jellyfish]Check-in
+Activity General Workshop Check-in
 
 Showing 3 of 4 categories
 
@@ -15584,19 +12015,13 @@ ECore
 
 Match the Cans
 
-2:00 PM
-
 Entertainment Area 1st Floor
 
 [IST] OpenClaw: Your Toolkit for the IST Challenge
 
-2:00 PM
-
 ECoRE Bldg 103
 
 [AWC] Prototype Like a Pro: From Idea to Testable Product in a Pinch
-
-2:00 PM
 
 ECoRE Bldg 102
 
@@ -15604,79 +12029,41 @@ Sticker Making
 
 3:00 PM
 
-Entertainment Area 1st Floor
-
 [MLH] Meet your 5th Teammate: Hacking with GitHub Copilot
-
-3:00 PM
-
-ECoRE Bldg 102
 
 [CCSO] Breaking Gandalf: Hands-On AI Red Teaming with PyRIT
 
-3:00 PM
-
-ECoRE Bldg 103
-
 Comcast (Sponsor)
-
-3:00 PM
 
 Atrium
 
 Merch Pickup
 
-3:00 PM
-
-Atrium
-
 IWCS (Sponsor)
-
-3:00 PM
-
-Atrium
 
 Cup Stacking
 
 4:00 PM
 
-Entertainment Area 1st Floor
-
 [ECC] From Code to Confidence: An End to End Approach for Quality Assurance
 
 4:00 PM
-
-ECoRE Bldg 103
 
 Bracelet Making
 
 5:00 PM
 
-Entertainment Area 1st Floor
-
 [SouthHills] The Art of the Cyber Puzzle: CTFs That Tell a Story
 
-5:00 PM
-
-ECoRE Bldg 103
-
 [MLH] Intro to Google AI Studio
-
-5:00 PM
-
-ECoRE Bldg 102
 
 [AWS Cloud Club] Hack to Cloud: Building with AWS
 
 6:00 PM
 
-ECoRE Bldg 103
-
 [MLH] SlideShow Karaoke
 
 6:00 PM
-
-ECoRE Bldg 102
 
 Dinner
 
@@ -15688,8 +12075,6 @@ IST (Sponsor)
 
 7:00 PM
 
-Atrium
-
 Air Mattress Check-out
 
 8:00 PM
@@ -15700,25 +12085,17 @@ Dancing in the Neon
 
 8:00 PM
 
-ECoRE Bldg 103
-
 Bingoo
 
 9:00 PM
-
-ECoRE Bldg 103
 
 Neon Rave Night (Part 1)
 
 10:00 PM
 
-ECoRE Bldg 103
-
 Download schedule
 
 #### FAQ
-
-[Image: FAQ Illustration]
 
 Where can I go to get help?+
 
@@ -15752,13 +12129,9 @@ What is Devpost?+
 
 Devpost is a project submission platform used by many hackathons and technology-focused events. You and/or your team will be asked to submit your project through our Spring 2026 Devpost. For those who have never used Devpost before or would like a refresher, head over to the info booth!
 
-[devpost.hackpsu.org →](http://devpost.hackpsu.org/)
-
 When are project submissions due?+
 
 You must have a Devpost submission created by Sunday 12pm (even if not completed) on our Devpost page. However, you can continue editing the submission until hacking ends on Sunday at 1:45pm.
-
-[devpost.hackpsu.org →](http://devpost.hackpsu.org/)
 
 Is there a code of conduct?+
 
@@ -15768,231 +12141,9 @@ All participants are expected to follow the MLH Code of Conduct
 
 #### Gallery
 
-[Image: Event photo 1]
-
-[Image: Event photo 2]
-
-[Image: Event photo 3]
-
-[Image: Event photo 4]
-
-[Image: Event photo 5]
-
-[Image: Event photo 6]
-
-[Image: Event photo 7]
-
-[Image: Event photo 8]
-
-[Image: Event photo 9]
-
-[Image: Event photo 10]
-
-[Image: Event photo 11]
-
-[Image: Event photo 12]
-
-[Image: Event photo 1]
-
-[Image: Event photo 2]
-
-[Image: Event photo 3]
-
-[Image: Event photo 4]
-
-[Image: Event photo 5]
-
-[Image: Event photo 6]
-
-[Image: Event photo 7]
-
-[Image: Event photo 8]
-
-[Image: Event photo 9]
-
-[Image: Event photo 10]
-
-[Image: Event photo 11]
-
-[Image: Event photo 12]
-
-[Image: Event photo 1]
-
-[Image: Event photo 2]
-
-[Image: Event photo 3]
-
-[Image: Event photo 4]
-
-[Image: Event photo 5]
-
-[Image: Event photo 6]
-
-[Image: Event photo 7]
-
-[Image: Event photo 8]
-
-[Image: Event photo 9]
-
-[Image: Event photo 10]
-
-[Image: Event photo 11]
-
-[Image: Event photo 12]
-
-[Image: Event photo 1]
-
-[Image: Event photo 2]
-
-[Image: Event photo 3]
-
-[Image: Event photo 4]
-
-[Image: Event photo 5]
-
-[Image: Event photo 6]
-
-[Image: Event photo 7]
-
-[Image: Event photo 8]
-
-[Image: Event photo 9]
-
-[Image: Event photo 10]
-
-[Image: Event photo 11]
-
-[Image: Event photo 12]
-
-[Image: Event photo 13]
-
-[Image: Event photo 14]
-
-[Image: Event photo 15]
-
-[Image: Event photo 16]
-
-[Image: Event photo 17]
-
-[Image: Event photo 18]
-
-[Image: Event photo 19]
-
-[Image: Event photo 20]
-
-[Image: Event photo 21]
-
-[Image: Event photo 22]
-
-[Image: Event photo 23]
-
-[Image: Event photo 24]
-
-[Image: Event photo 13]
-
-[Image: Event photo 14]
-
-[Image: Event photo 15]
-
-[Image: Event photo 16]
-
-[Image: Event photo 17]
-
-[Image: Event photo 18]
-
-[Image: Event photo 19]
-
-[Image: Event photo 20]
-
-[Image: Event photo 21]
-
-[Image: Event photo 22]
-
-[Image: Event photo 23]
-
-[Image: Event photo 24]
-
-[Image: Event photo 13]
-
-[Image: Event photo 14]
-
-[Image: Event photo 15]
-
-[Image: Event photo 16]
-
-[Image: Event photo 17]
-
-[Image: Event photo 18]
-
-[Image: Event photo 19]
-
-[Image: Event photo 20]
-
-[Image: Event photo 21]
-
-[Image: Event photo 22]
-
-[Image: Event photo 23]
-
-[Image: Event photo 24]
-
-[Image: Event photo 13]
-
-[Image: Event photo 14]
-
-[Image: Event photo 15]
-
-[Image: Event photo 16]
-
-[Image: Event photo 17]
-
-[Image: Event photo 18]
-
-[Image: Event photo 19]
-
-[Image: Event photo 20]
-
-[Image: Event photo 21]
-
-[Image: Event photo 22]
-
-[Image: Event photo 23]
-
-[Image: Event photo 24]
-
 #### Sponsors
 
-[Image: College of IST]
-
-[Image: Penn State IT]
-
-[Image: Nittany AI Alliance]
-
-[Image: Comcast]
-
-[Image: School of Electrical Engineering and Computer Science]
-
-[Image: Base44]
-
-[Image: Smeal Office of Professional Graduate Programs]
-
-[Image: Sentry]
-
-[Image: The Schreyer Honors College]
-
-[Image: Engineering Entrepreneurship]
-
-[Image: IWCS]
-
 ##### Event Partners
-
-[Image: Pure Buttons]
-
-[Image: Red Bull]
-
-[Image: Ketone-IQ]
-
-[Image: Sour Punch]
 
 Interested in Sponsoring Us? Click Here!
 
@@ -16000,22 +12151,18 @@ Interested in Sponsoring Us? Click Here!
 
 Made with in Happy Valley.
 
-### Website 63: AthenaHacks 
+### Website 63: AthenaHacks
 - Card URL: [https://athenahacks.com/](https://athenahacks.com/)
-- Referenced by: AthenaHacks 
+- Referenced by: AthenaHacks
 - Rendered title: AthenaHacks 2026
 - Final URL: [https://athenahacks.com/](https://athenahacks.com/)
 - Expanded FAQ/accordion controls: 12
-
-[Image: AthenaHacks surfboard]
 
 [2025 Hacker Application](https://forms.gle/JoHK3SLS8kmuWGvk9)
 
 [2025 Mentor Application](https://forms.gle/oZsktvG8GLgyeskx5)
 
-[Image: wave border]
-
-##### What is AthenaHacks? [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=yellow)
+##### What is AthenaHacks?
 
 Join us on March 28-29 for a spectacular weekend dedicated to **closing the gender gap, exploring new technologies, and building the next big thing!** Our mission is to create a environment supportive and nurturing of all students, including those of less represented gender identities (e.g., women, trans, and non-binary) in technology by hosting Southern California's premier hackathon.
 
@@ -16023,23 +12170,17 @@ Join us on campus at the University of Southern California (USC) for over 24 hou
 
 Check us out in the press!
 
-[[Image: Huffpost]](https://www.huffpost.com/entry/spotlight-on-athenahacks-why-female-hackathons-are_b_58ebf5fae4b0145a227cb797) [[Image: Daily Trojan]](https://dailytrojan.com/2020/03/08/women-in-tech-rising-above/) [[Image: Medium]](https://medium.com/@athenahacks)
+[Huffpost](https://www.huffpost.com/entry/spotlight-on-athenahacks-why-female-hackathons-are_b_58ebf5fae4b0145a227cb797) [Daily Trojan](https://dailytrojan.com/2020/03/08/women-in-tech-rising-above/) [Medium](https://medium.com/@athenahacks)
 
 USC programs and events are open to all eligible individuals. The University of Southern California operates all of its programs and activities consistent with its [Notice of Non-Discrimination](https://eeotix.usc.edu/usc-statement-on-eligibility/). Eligibility is not determined based on race, sex, ethnicity, sexual orientation, or any other prohibited factor.
 
-[Image: diving owl]
+Dream From hardware to mobile, there are so many fields to explore! We want women to explore their ideas and interests, and are looking forward to some amazing projects! Check out last year's projects [here](https://athenahacks2025.devpost.com/project-gallery)! Cultivate We're all about helping each other grow! We hope to foster a supportive environment so that each participant at AthenaHacks feels welcome, comfortable and empowered. Belong Right now, only 20% of hackathon participants are women. We hope to fill that gap by providing a comfortable environment that is focused on learning and exploring!
 
-[Image: Dream] Dream From hardware to mobile, there are so many fields to explore! We want women to explore their ideas and interests, and are looking forward to some amazing projects! Check out last year's projects [here](https://athenahacks2025.devpost.com/project-gallery)! [Image: Cultivate] Cultivate We're all about helping each other grow! We hope to foster a supportive environment so that each participant at AthenaHacks feels welcome, comfortable and empowered. [Image: Belong] Belong Right now, only 20% of hackathon participants are women. We hope to fill that gap by providing a comfortable environment that is focused on learning and exploring!
-
-##### Schedule [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=yellow)
+##### Schedule
 
 Take a look at the schedule for the hackathon this weekend! Get excited for the workshops, socials, and food!
 
-[Image: Saturday schedule]
-
-[Image: Sunday schedule]
-
-##### FAQs [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=yellow)
+##### FAQs
 
 What's a hackathon?
 
@@ -16089,143 +12230,131 @@ Where can I find more info about opportunities and events?
 
 If you'd like to stay updated on all things AthenaHacks, follow our Instagram [here](https://www.instagram.com/athena_hacks/) for the latest updates on exciting opportunities, campus events, and a behind-the-scenes look at our team!
 
-[Image: shovel] Don’t see your question? Hit us up at athenahacks@gmail.com!
+Don’t see your question? Hit us up at athenahacks@gmail.com!
 
-[Image: sandcastle]
-
-##### Our Sponsors [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=yellow)
-
-[Image: shell decoration] [Image: Bloomberg Engineering] [Image: Capital One]
-
-[Image: shell decoration] [Image: Tavily] [Image: Claude Builder Club]
+##### Our Sponsors
 
 A huge thank you to all our sponsors and contributors! If you're interested in sponsoring AthenaHacks 2026, please contact us at athenahacks@gmail.com
 
-[Image: turtle]
+##### Our Team
 
-##### Our Team [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=yellow)
-
-[[Image: Ananya Hari]](https://www.linkedin.com/in/ananya-hari-110855364/)
+[Ananya Hari](https://www.linkedin.com/in/ananya-hari-110855364/)
 
 Ananya Hari *(she/her)* Finances
 
-[[Image: Ashley Lan]](https://www.linkedin.com/in/ashleylan/)
+[Ashley Lan](https://www.linkedin.com/in/ashleylan/)
 
 Ashley Lan *(she/her)* Finances
 
-[[Image: Cynthia Liu]](https://www.linkedin.com/in/cynthialiu2004/)
+[Cynthia Liu](https://www.linkedin.com/in/cynthialiu2004/)
 
 Cynthia Liu *(she/her)* Finances
 
-[[Image: Emily Zhu]](http://www.linkedin.com/in/emily-k-zhu)
+[Emily Zhu](http://www.linkedin.com/in/emily-k-zhu)
 
 Emily Zhu *(she/her)* Finances
 
-[[Image: Joyce Ng]](https://www.linkedin.com/in/joycee-ng)
+[Joyce Ng](https://www.linkedin.com/in/joycee-ng)
 
 Joyce Ng *(she/her)* Finances
 
-[[Image: Marisa Lin]](https://www.linkedin.com/in/marisa-e-lin/)
+[Marisa Lin](https://www.linkedin.com/in/marisa-e-lin/)
 
 Marisa Lin *(she/her)* Finances
 
-[[Image: Natalie Wijaya]](https://www.linkedin.com/in/nataliegwijaya)
+[Natalie Wijaya](https://www.linkedin.com/in/nataliegwijaya)
 
 Natalie Wijaya *(she/her)* Finances
 
-[[Image: Alana Zhao]](https://www.linkedin.com/in/alana-zhao-08019528a/)
+[Alana Zhao](https://www.linkedin.com/in/alana-zhao-08019528a/)
 
 Alana Zhao *(they/them)* Logistics
 
-[[Image: Andrea Hsu]](https://athenahacks.com/www.linkedin.com/in/andrea-hsu-2b5833333/)
+[Andrea Hsu](https://athenahacks.com/www.linkedin.com/in/andrea-hsu-2b5833333/)
 
 Andrea Hsu *(she/her)* Logistics
 
-[[Image: Ellie Xing]](https://www.linkedin.com/in/elliexing/)
+[Ellie Xing](https://www.linkedin.com/in/elliexing/)
 
 Ellie Xing *(she/her)* Logistics
 
-[[Image: Li Ho]](https://www.linkedin.com/in/lihho/)
+[Li Ho](https://www.linkedin.com/in/lihho/)
 
 Li Ho *(any)* Logistics
 
-[[Image: Roselyn Chin]](https://www.linkedin.com/in/roselynchin/)
+[Roselyn Chin](https://www.linkedin.com/in/roselynchin/)
 
 Roselyn Chin *(she/her)* Logistics
 
-[[Image: Sarah Min]](https://www.linkedin.com/in/min-sarah/)
+[Sarah Min](https://www.linkedin.com/in/min-sarah/)
 
 Sarah Min *(she/her)* Logistics
 
-[[Image: Tiffany Ku]](https://www.linkedin.com/in/tiffany-carmen-ku/)
+[Tiffany Ku](https://www.linkedin.com/in/tiffany-carmen-ku/)
 
 Tiffany Ku *(she/her)* Logistics
 
-[[Image: Ashley Adji]](https://www.linkedin.com/in/ashleyadji)
+[Ashley Adji](https://www.linkedin.com/in/ashleyadji)
 
 Ashley Adji *(she/her)* Marketing
 
-[[Image: Avery Huang]](https://www.linkedin.com/in/avery-huang1/)
+[Avery Huang](https://www.linkedin.com/in/avery-huang1/)
 
 Avery Huang *(she/her)* Marketing
 
-[[Image: Avery Liu]](https://www.linkedin.com/in/averyl24/)
+[Avery Liu](https://www.linkedin.com/in/averyl24/)
 
 Avery Liu *(she/her)* Marketing
 
-[[Image: Charlotte Song]](https://www.linkedin.com/in/charlotte-song-47b59127b)
+[Charlotte Song](https://www.linkedin.com/in/charlotte-song-47b59127b)
 
 Charlotte Song *(she/her)* Marketing
 
-[[Image: Chelsea Zhang]](https://www.linkedin.com/in/chelsea-z-0a3487227/)
+[Chelsea Zhang](https://www.linkedin.com/in/chelsea-z-0a3487227/)
 
 Chelsea Zhang *(she/her)* Marketing
 
-[[Image: Geetanshu Gulati]](https://www.linkedin.com/in/geetanshu-gulati)
+[Geetanshu Gulati](https://www.linkedin.com/in/geetanshu-gulati)
 
 Geetanshu Gulati *(she/they)* Marketing
 
-[[Image: Gwen Foo]](https://www.linkedin.com/in/gwen-foo-034613297/)
+[Gwen Foo](https://www.linkedin.com/in/gwen-foo-034613297/)
 
 Gwen Foo *(she/her)* Marketing
 
-[[Image: Meron Fikru]](https://www.linkedin.com/in/meron-f-763791263/)
+[Meron Fikru](https://www.linkedin.com/in/meron-f-763791263/)
 
 Meron Fikru *(she/her)* Marketing
 
-[[Image: Reina Mitra]](https://athenahacks.com/www.linkedin.com/in/reina-mitra/)
+[Reina Mitra](https://athenahacks.com/www.linkedin.com/in/reina-mitra/)
 
 Reina Mitra *(she/her)* Marketing
 
-[[Image: Beverlyn Tsai]](https://www.linkedin.com/in/beverlyntsai/)
+[Beverlyn Tsai](https://www.linkedin.com/in/beverlyntsai/)
 
 Beverlyn Tsai *(she/her)* Programs
 
-[Image: Ellie Wu]
-
 Ellie Wu *(she/her)* Programs
 
-[[Image: Mehak Kasliwal]](https://www.linkedin.com/in/mehak-kasliwal-517512223/)
+[Mehak Kasliwal](https://www.linkedin.com/in/mehak-kasliwal-517512223/)
 
 Mehak Kasliwal *(she/her)* Programs
 
-[Image: Nehir Kaskin]
-
 Nehir Kaskin *(she/her)* Programs
 
-[[Image: Neta Shubin]](https://www.linkedin.com/in/neta-shubin-1b525a229/)
+[Neta Shubin](https://www.linkedin.com/in/neta-shubin-1b525a229/)
 
 Neta Shubin *(she/her)* Programs
 
-[[Image: Nuha Lakhani]](https://www.linkedin.com/in/nuhalakhani/)
+[Nuha Lakhani](https://www.linkedin.com/in/nuhalakhani/)
 
 Nuha Lakhani *(she/her)* Programs
 
-[[Image: Oyku Sen]](https://www.linkedin.com/in/oyku-sen-547435250/)
+[Oyku Sen](https://www.linkedin.com/in/oyku-sen-547435250/)
 
 Oyku Sen *(she/her)* Programs
 
-[[Image: Shriya Rajesh]](https://www.linkedin.com/in/shriyarajesh/)
+[Shriya Rajesh](https://www.linkedin.com/in/shriyarajesh/)
 
 Shriya Rajesh *(she/her)* Programs
 
@@ -16245,43 +12374,29 @@ We'll restart it for you, just check back in a little bit.
 
 ##### 0% complete
 
-Comment this and uncomment next line when dates are available <h2 id="progress"></h2>
-
-[Image: Participant Interest Form QRcode]
+Comment this and uncomment next line when dates are available
 
 Want to participate in our next Hackathon?
 Fill out our [Participant Interest Form](https://forms.gle/2tGcdqgRchV8QKam7) today!
-
-[Image: Coordinator Interest Form QRcode]
 
 Are you an Oakland University Student interested in GrizzzHacks?
 Fill out our [Coordinator Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdOPU39VupZMLkeqLYsROAxR18aFfNUTMsgtXgQ1Y_9YEsIVw/viewform) to become a coordinator today!
 
 Follow our socials and contact us:
 
-[[Image: LinkedIn]](https://www.linkedin.com/company/grizzhacks) [[Image: Instagram]](https://www.instagram.com/grizzhacks/) [[Image: Discord]](https://discord.gg/qzVcNNkr6x) [Image: Mail]
-
-🖥️
+[LinkedIn](https://www.linkedin.com/company/grizzhacks) [Instagram](https://www.instagram.com/grizzhacks/) [Discord](https://discord.gg/qzVcNNkr6x)
 
 My Computer
 
-🗑️
-
 Recycle Bin
 
-📁
-
 GrizzHacks 8
-
-🌐
 
 Internet Explorer
 
 Notepad window
 
 planning.txt - Notepad
-
-_ □ ✕
 
 I know its ugly, dont move it — indent matters for some reason
 
@@ -16290,8 +12405,6 @@ GrizzHacks 8 — POST-MORTEM NOTES ================================ Another grea
 File explorer window
 
 C:\GrizzHacks\9
-
-_ □ ✕
 
 📁 assets
 
@@ -16317,147 +12430,63 @@ Error dialogs injected here by spawnDialog()
 
 BEARS_MEMORY.DLL — Missing File
 
-✕
-
-⚠️
-
 A required component was not found: BEARS_MEMORY.DLL Please reinstall GrizzHacks and try again.
 
 OK Ignore
 
 Theme Engine — Authorization Required
 
-✕
-
-⚠️
-
 GH9_THEME.EXE requires user input before it can be revealed. Access level: PUBLIC Hint: try RETRO.
-
-OK Ignore
 
 Screensaver — Timeout Warning
 
-✕
-
-⚠️
-
 No input detected for 30 seconds. GH9_SCREENSAVER.scr will activate in 3... 2... 1... [Cancel] [Let it happen]
-
-OK Ignore
 
 TROPICAL_ASSETS.DLL — Removal Failed
 
-✕
-
-⚠️
-
 Could not uninstall leftover files: SAND.EXE (GH8 artifact) HAMMOCK.DLL SUNSCREEN.SYS Sand particles detected in registry.
-
-OK Ignore
 
 Date/Time Error
 
-✕
-
-⚠️
-
 System clock is out of sync. Current date: ??/??/2025 GH9 date: TBD Please contact an administrator.
-
-OK Ignore
 
 TRIVIA.DLL — Not Found
 
-✕
-
-⚠️
-
 GH9_TRIVIA.DLL could not be loaded. Trivia questions are not finalized. Check back later. File size: still being argued over.
-
-OK Ignore
 
 ENTHUSIASM.EXE — Threat Detected
 
-✕
-
-⚠️
-
 Antivirus alert: ENTHUSIASM.EXE Risk level: EXTREME Spreading to: all coordinators Quarantine? [Yes] [No] [Please no]
-
-OK Ignore
 
 PROJECTOR.DLL — Device Error
 
-✕
-
-🛑
-
 The device PROJECTOR.DLL has failed. Reminder: bring your own HDMI adapter. VGA-to-DisplayPort bridge not included.
-
-OK Ignore
 
 HACKATHON.EXE — Stack Overflow
 
-✕
-
-🛑
-
 HACKATHON.EXE caused a stack overflow. Not enough RAM to run this many ideas. Close some browser tabs and try again.
-
-OK Ignore
 
 GH9_KERNEL.SYS — Panic Imminent
 
-✕
-
-🛑
-
 GH9_KERNEL: panic() called at grizzcore.c:418 To acknowledge and continue: Type PANIC.
-
-OK Ignore
 
 CAREER.EXE — Connection Required
 
-✕
-
-⚠️
-
 No active job listings found. LINKEDIN.DLL: UNREACHABLE RESUME.DOC: last modified: never Type JOB to open job board.
-
-OK Ignore
 
 Disk Read Error — Drive C:
 
-✕
-
-🛑
-
 Cannot read from drive C:\ Sector: GH9_SCHEDULE Status: NOT_FINALIZED Press any key to abort.
-
-OK Ignore
 
 Registry Corruption — GH9
 
-✕
-
-🛑
-
 The following key could not be read: HKLM\GH9\EVENT_DATE Value returned: NULL Expected: [DATE PENDING]
-
-OK Ignore
 
 Printer Offline
 
-✕
-
-⚠️
-
 The device LPT1:\ is not responding. HACKATHON_SCHEDULE.DOC could not be printed because the printer is probably haunted.
 
-OK Ignore
-
 Full-screen flash panel
-
-<script src="scripts/percentageTimer.js"></script> <script src="scripts/logger-scripts/sand.js"></script>
 
 ### Website 65: Kent Hack Enough
 - Card URL: [https://khe.io/](https://khe.io/)
@@ -16465,16 +12494,6 @@ Full-screen flash panel
 - Rendered title: Kent Hack Enough
 - Final URL: [https://khe.io/](https://khe.io/)
 - Expanded FAQ/accordion controls: 8
-
-[ [
-
-[ [[Image: Major League Hacking 2027 Hackathon Season]](https://mlh.io/seasons/2027/events) [! ] ]
-
-[!
-
-[]
-
-[! [!
 
 #### HACK THE
 KINGDOM
@@ -16485,8 +12504,6 @@ March 6-7, 2027
 
 Apply View Schedule
 
-] ]
-
 ##### KENT HACK ENOUGH
 
 2027
@@ -16494,10 +12511,6 @@ Apply View Schedule
 Kent Hack Enough storms the gates this year with our theme: Hack the Kingdom. Sharpen your swords, marshal your code, and rule the kingdom!
 
 This is our 14th KHE! Whether you're completely new to tech & design or a seasoned veteran, spend a weekend making something legendary with us.
-
-[Image: Kingdom Shield]
-
-[! ] [! ]
 
 The Kingdom's Location
 
@@ -16537,19 +12550,7 @@ Knowledge Vault
 
 [! ] What is judging based on? [ ]
 
-]
-
-[
-
-[[Image: HacKSU Logo]](https://hacksu.com) [[Image: MLH Logo]](https://mlh.io)
-
 [MLH Code of Conduct](https://mlh.io/code-of-conduct) [HacKSU](https://hacksu.com)
-
-]
-
-] [!
-
-] ]
 
 ### Website 66: RevolutionUC
 - Card URL: [https://revolutionuc.com/](https://revolutionuc.com/)
@@ -16558,33 +12559,13 @@ Knowledge Vault
 - Final URL: [https://www.revolutionuc.com/](https://www.revolutionuc.com/)
 - Expanded FAQ/accordion controls: 14
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
 #### RevolutionUC
 
 Spring 2027...
 
 [SPONSOR INTEREST FORM](https://www.revolutionuc.com/sponsor-interest) [JUDGE/MENTOR INTEREST FORM](https://www.revolutionuc.com/judge-mentor-interest) [HACKER INTEREST FORM](https://www.revolutionuc.com/interest)
 
-[Image: Cloud] [Image: Cloud] [Image: Cloud] [Image: Cloud] [Image: Cloud]
-
-[Image: Cloud] [Image: Cloud] [Image: Cloud] [Image: Cloud] [Image: Cloud] [Image: Cloud] [Image: Cloud] [Image: Cloud]
-
-[Image: Landing Plane]
-
-[Image: Waving Panda]
-
-[Image: 24 hours]
-
-[Image: 60+ projects]
-
-[Image: 870+ registrants]
-
-[Image: 300+ participants]
-
 Previous Sponsors :)
-
-[Image: Suitcase]
 
 ###### Most Technically Impressive
 
@@ -16642,17 +12623,13 @@ Frequently asked questions
 
 Send us an email at info@revolutionuc.com . We're always happy to help!
 
-[Image: Panda on bench]
-
 © RevolutionUC
 
-[[Image: Discord]](https://discord.gg/947Tg92Vq5) [[Image: Instagram]](https://www.instagram.com/revolution.uc/)
+[Discord](https://discord.gg/947Tg92Vq5) [Instagram](https://www.instagram.com/revolution.uc/)
 
 Made by
 
 [Amaan](https://amaandoes.tech) // [Karthik](https://karthik-rachamolla.vercel.app) // the Web Team <3
-
-$ /$
 
 ### Website 67: YHack
 - Card URL: [https://www.yhack.org/](https://www.yhack.org/)
@@ -16661,25 +12638,15 @@ $ /$
 - Final URL: [https://www.yhack.org/](https://www.yhack.org/)
 - Expanded FAQ/accordion controls: 8
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[[Image: YHack Bulldog]](https://www.yhack.org/)
+[YHack Bulldog](https://www.yhack.org/)
 
 [About](https://www.yhack.org/#about) [Tracks](https://www.yhack.org/#tracks) [FAQ](https://www.yhack.org/#faq) [Apply](https://apply.yhack.org)
-
-[Image: Cloud behind balloon] [Image: Heart hot air balloon]
-
-[Image: YHack]
 
 March 28-29, 2026
 
 [View projects](https://yhack-2026.devpost.com/) and subscribe for YHack 2027 updates!
 
 Subscribe
-
-[Image: Banner clouds]
-
-[Image: About]
 
 ###### What is YHack?
 
@@ -16691,43 +12658,21 @@ Time Until YHack
 
 Days
 
-00
-
 Hours
 
-00
-
 Mins
-
-[Image: Harkness tower]
-
-[Image: Tracks]
 
 Tracks
 
 Build solutions that create meaningful impact for society.
 
-[Image: Societal Impact envelope closed]
-
 Create playful, immersive, or social experiences.
-
-[Image: Entertainment envelope closed]
 
 Agents, automation, and artificial intelligence.
 
-[Image: Personal AI Agents envelope closed]
-
 Forecast outcomes and align incentives with data.
 
-[Image: Prediction markets envelope closed]
-
 Build devices, robots, and real-world prototypes.
-
-[Image: Hardware envelope closed]
-
-[Image: Lace border]
-
-[Image: FAQ Postcard]
 
 Frequently asked questions
 
@@ -16869,8 +12814,6 @@ Sponsors
 
 Special thanks to the sponsors who made this hackathon possible!
 
-[Image: Sponsors]
-
 Made with love by the YHack Team!
 
 © 2026 YHack. All Rights Reserved.
@@ -16884,12 +12827,6 @@ Made with love by the YHack Team!
 - Final URL: [https://www.solhacks.com/](https://www.solhacks.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Hero Background]
-
-[Image: Sun Background]
-
-[Image: Title]
-
 #### March 28 - 29
 
 ##### 2026
@@ -16897,10 +12834,6 @@ Made with love by the YHack Team!
 [Register](https://forms.gle/1MJuZhyDLmfvPkAcA) [Volunteer](https://linktr.ee/solhacks/)
 
 [Learn more](https://www.solhacks.com/#about)
-
-[[Image: MLH Banner]](https://mlh.io/)
-
-[Image: Cactus Mountains]
 
 SolHacks is a 24-hour hackathon led by UNC Chapel Hill SHPE that connects students across communities, highlights Latinx culture, and offers a supportive environment for innovation, collaboration, and creative problem-solving
 
@@ -16912,19 +12845,13 @@ Tracks help you find your space — whether you're learning something new, build
 
 ###### Beginner
 
-[Image: Beginner]
-
 New to hacking? This track gives space for people that are new to coding and are looking to learn and create programs with themselves or others!
 
 ###### Cultural
 
-[Image: Cultural]
-
 Passionate about community? This tracks allows you to work with others who want to create solutions their community needs!
 
 ###### Intermediate+
-
-[Image: Intermediate]
 
 Have experience programming? This track provides a challenge to advanced hackers by competing with others that are on the same skill level or higher!
 
@@ -16934,7 +12861,7 @@ Have experience programming? This track provides a challenge to advanced hackers
 
 See what previous hackers built — from beginner ideas to award-winning innovations inspired by culture, creativity, and community.
 
-[[Image: DOCUCHISME]2025 First PlaceDOCUCHISMEJustin Silva, Ramon Saturnino, Ivan Brizo-Diaz, Bernardo Vargas](https://devpost.com/software/docuchisme) [[Image: LAZYNOTE]2025 Second PlaceLAZYNOTEZengqi Zhao, Xue Joey, Haonan Haonan Liu](https://devpost.com/software/name1?_gl=1*cvjkc7*_gcl_au*OTU0MjA4ODI4LjE3NjM1NzQwNjk.*_ga*MjUwNzEzMzAyLjE3NjM1NzQwNjk.*_ga_0YHJK3Y10M*czE3NzEyNTMxMzAkbzEwJGcxJHQxNzcxMjUzMjEzJGo1MSRsMCRoMA) [[Image: SOL CONNECTIONS]2025 Third PlaceSOL CONNECTIONSJake Brown, Obeth Ovando, Amir Dillard, Silvana Cardenas Rico](https://devpost.com/software/sol-connections)
+[2025 First PlaceDOCUCHISMEJustin Silva, Ramon Saturnino, Ivan Brizo-Diaz, Bernardo Vargas](https://devpost.com/software/docuchisme) [2025 Second PlaceLAZYNOTEZengqi Zhao, Xue Joey, Haonan Haonan Liu](https://devpost.com/software/name1?_gl=1*cvjkc7*_gcl_au*OTU0MjA4ODI4LjE3NjM1NzQwNjk.*_ga*MjUwNzEzMzAyLjE3NjM1NzQwNjk.*_ga_0YHJK3Y10M*czE3NzEyNTMxMzAkbzEwJGcxJHQxNzcxMjUzMjEzJGo1MSRsMCRoMA) [2025 Third PlaceSOL CONNECTIONSJake Brown, Obeth Ovando, Amir Dillard, Silvana Cardenas Rico](https://devpost.com/software/sol-connections)
 
 [VIEW MORE](https://solhacks.devpost.com/)
 
@@ -16948,21 +12875,9 @@ See what previous hackers built — from beginner ideas to award-winning innovat
 
 ###### A huge thanks to our sponsors for making this possible!
 
-[[Image: SHPE Logo]](https://shpe.org/)
-
-[[Image: IBM Logo]](https://www.ibm.com/careers)
-
-[[Image: Fidelity Investments Logo]](https://jobs.fidelity.com/en/students/)
-
-[[Image: Pendo Logo]](https://www.pendo.io/careers/)
-
-[[Image: Microsoft Logo]](https://careers.microsoft.com/v2/global/en/students)
-
-[[Image: Wells Fargo Logo]](https://www.wellsfargojobs.com/en/early-careers/)
-
 [MLH Code of Conduct](https://mlh.io/code-of-conduct) Back to Top
 
-[[Image: Instagram]](https://www.instagram.com/solhacksunc/) [[Image: Slack]](https://join.slack.com/t/solhacks2026/shared_invite/zt-3qcmuzkrr-B7cu1s115srYdPG1l1XxgQ) [Image: Gmail]
+[Instagram](https://www.instagram.com/solhacksunc/) [Slack](https://join.slack.com/t/solhacks2026/shared_invite/zt-3qcmuzkrr-B7cu1s115srYdPG1l1XxgQ)
 
 Made with <3 by SolHacks
 
@@ -17012,7 +12927,9 @@ Event Parking
 
 #### Gallery
 
-<div class="schedule-div"> <div class="schedule-section"> <h1>Schedule</h1> <div class="schedule-track"> <p>Revealing Soon!</p> </div> </div> </div>
+# Schedule
+
+Revealing Soon!
 
 #### Learn
 
@@ -17063,15 +12980,7 @@ Yes. You can [find it here.](https://github.com/MLH/mlh-policies/blob/main/code-
 - Final URL: [https://2026.hackusf.com/](https://2026.hackusf.com/)
 - Expanded FAQ/accordion controls: 6
 
-[Image: Temple Stairs Background]
-
-[Image: Birds]
-
-[Image: sunset-bg] [Image: sunset-bg]
-
-[Image: Greek Sun Placeholder]
-
-About Tracks Sponsors/Partners FAQs [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=gray)
+About Tracks Sponsors/Partners FAQs
 
 ##### HackUSF 2026
 
@@ -17093,25 +13002,17 @@ The Google Developer Group at USF is hosting its 24-hour hackathon, bringing stu
 
 $8,000+ Prizes
 
-[Image: islands]
-
-[Image: forest]
-
-[Image: forest]
-
-[Image: forest]
-
 ##### Tracks
 
 Best Overall
 
 ##### Sponsors
 
-[[Image: Google Cloud Platform]](https://cloud.google.com/) [[Image: Oracle]](https://www.oracle.com/) [[Image: NextEra Energy]](https://www.nexteraenergy.com/) [[Image: Google Logo]](https://about.google/) [[Image: Moffitt Cancer Center Logo]](https://www.moffitt.org/) [[Image: TD SYNNEX]](https://www.tdsynnex.com/)
+[Google Cloud Platform](https://cloud.google.com/) [Oracle](https://www.oracle.com/) [NextEra Energy](https://www.nexteraenergy.com/) [TD SYNNEX](https://www.tdsynnex.com/)
 
 ##### Partners
 
-[[Image: MLH Logo]](https://mlh.io/) [[Image: USF College of Engineering]](https://www.usf.edu/engineering/) [[Image: USF Climate Teach In]](https://bullsconnect.usf.edu/cti/home/) [[Image: USF Patel College of Global Sustainability]](https://www.usf.edu/pcgs/index.aspx) [[Image: Pure Buttons Logo]](https://www.purebuttons.com/?ajs_uid=01963cf1-6fe7-46e5-8b9b-9f3b45e49a41&utm_campaign=Member+Event+-+Pure+Buttons+Intro&utm_content=Pure+Buttons+Intro&utm_medium=Email&utm_source=Customer.io) [[Image: IEEE Computer Society Logo]](https://www.linkedin.com/company/ieee-cs-at-usf/posts/?feedView=all)
+[USF College of Engineering](https://www.usf.edu/engineering/) [USF Climate Teach In](https://bullsconnect.usf.edu/cti/home/) [USF Patel College of Global Sustainability](https://www.usf.edu/pcgs/index.aspx)
 
 FAQ
 
@@ -17147,18 +13048,12 @@ No worries! HackUSF is beginner-friendly. Our workshops, mentors, and welcoming 
 
 HackUSF is fully in-person! From check-in to project submissions and demos, everything happens on-site, so make sure you can attend in person before registering.
 
-[Image: Trident]
-
-$ /$
-
 ### Website 71: HackIndy
 - Card URL: [http://hackindy.io/](http://hackindy.io/)
 - Referenced by: HackIndy
 - Rendered title: Hack Indy 2026 | Purdue Indianapolis Hackathon
 - Final URL: [https://www.hackindy.io/](https://www.hackindy.io/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 drag me around!
 
@@ -17184,49 +13079,45 @@ Sponsors Garage
 
 Fueling the engines of innovation
 
-[[Image: Purdue CS]](https://cs.purdue.edu)
+[Purdue CS](https://cs.purdue.edu)
 
-[[Image: RCAC]](https://www.rcac.purdue.edu)
+[RCAC](https://www.rcac.purdue.edu)
 
-[[Image: The Data Mine]](https://datamine.purdue.edu)
+[The Data Mine](https://datamine.purdue.edu)
 
-[[Image: Indy Hackers]](https://indyhackers.org)
+[Indy Hackers](https://indyhackers.org)
 
-[[Image: Jane Street]](https://janestreet.com)
+[Jane Street](https://janestreet.com)
 
-[[Image: G-Research]](https://www.gresearch.com)
+[G-Research](https://www.gresearch.com)
 
-[[Image: North Mass Strategies]](https://www.northmarkstrategies.com)
+[North Mass Strategies](https://www.northmarkstrategies.com)
 
-[[Image: SIG]](https://sig.com)
+[SIG](https://sig.com)
 
-[[Image: Kusari]](https://kusari.dev)
+[Kusari](https://kusari.dev)
 
-[[Image: Anu]](https://www.growanu.com)
+[Anu](https://www.growanu.com)
 
-[[Image: Amway]](https://www.amwayglobal.com)
+[Amway](https://www.amwayglobal.com)
 
-[[Image: Realync]](https://realync.com)
+[Realync](https://realync.com)
 
-[[Image: Farm Bureau]](https://www.infarmbureau.com)
+[Farm Bureau](https://www.infarmbureau.com)
 
-[[Image: Crowe]](https://www.crowe.com)
+[Crowe](https://www.crowe.com)
 
-[[Image: Trava Security]](https://travasecurity.com)
+[Trava Security](https://travasecurity.com)
 
-[[Image: Momentum3]](https://momentum3.biz)
+[Momentum3](https://momentum3.biz)
 
-[[Image: Github]](https://github.com)
+[Github](https://github.com)
 
-[[Image: Pure Buttons]](https://mlh.link/purebuttons)
+[Pure Buttons](https://mlh.link/purebuttons)
 
-[[Image: CSWN]](https://www.cs.purdue.edu/cswn)
+[CSWN](https://www.cs.purdue.edu/cswn)
 
-[Image: Crane Club]
-
-[[Image: Featherless AI]](https://featherless.ai)
-
-$ /$
+[Featherless AI](https://featherless.ai)
 
 ### Website 72: BeachHacks
 - Card URL: [https://beachhacks.com/](https://beachhacks.com/)
@@ -17239,7 +13130,7 @@ $ /$
 
 (03/21)–(03/22)
 
-Powered by[[Image: ASI:One logo]](https://asi1.ai/)
+Powered by
 
 ##### EVENT STARTS IN:
 
@@ -17247,19 +13138,13 @@ Powered by[[Image: ASI:One logo]](https://asi1.ai/)
 
 days
 
-00
-
 hours
-
-00
 
 minutes
 
-00
-
 seconds
 
-Powered by [Image: ASI:One] & Agentverse
+Powered by & Agentverse
 
 ##### Meet the
 BeachHacks Agent
@@ -17267,8 +13152,6 @@ BeachHacks Agent
 Chat with the BeachHacks AI agent to get instant answers about schedules, venue details, logistics, and what to bring. Access it through **ASI:One**, powered by Agentverse.
 
 [Chat with BeachHacks Agent](https://fetch.ai/beachhacks)
-
-[Image: blue star] [Image: cyan star] [Image: big coral] [Image: big coral]
 
 #### About
 
@@ -17285,31 +13168,15 @@ APPLY NOW!
 
 Valuable Prizes
 
-[Image: pixel shark]
-
 #### Tracks
 
-[Image: tiny bubbles] [Image: right coral rock] [Image: left coral rock]
-
-[Image: Crab]
-
 ##### Judges
-
-[Image: Star]
-
-[Image: Bubbles] [Image: Speaker]
 
 ###### Asif Mansoor
 
 Data Engineer @ Apple. Leads design and delivery of large-scale, high-fidelity data systems powering critical business lines.
 
-[Image: Star]
-
-[Image: Kelp] [Image: Kelp overlay] [Image: Rock]
-
 ##### FAQ
-
-[Image: Cyan star]
 
 - What is a Hackathon? Hackathons are events where programmers collaborate together to create new software and hardware projects. While websites and mobile apps are common types of projects, you are encouraged to build anything you can imagine. The goal is to learn new skills, meet fellow innovators, and leave with a functional prototype that didn't exist before the event started.
 - Who can come? BeachHacks manages admissions carefully to ensure all hackers have a fair and equal opportunity to attend the event. However, to ensure a strong local presence and maintain a valuable experience for our host campus, we offer priority consideration to CSU Long Beach students who submit their applications by the specified priority deadline.
@@ -17327,525 +13194,99 @@ Data Engineer @ Apple. Leads design and delivery of large-scale, high-fidelity d
 
 ##### Sponsors
 
-[[Image: Fetch.ai]](https://fetch.ai/) [[Image: ASI:One]](https://asi1.ai/) [[Image: Code and Coffee]](https://codeandcoffee.dev/)
+[Fetch.ai](https://fetch.ai/) [ASI:One](https://asi1.ai/) [Code and Coffee](https://codeandcoffee.dev/)
 
 ##### Past Sponsors
 
-[[Image: Google]](https://google.com/)
+[Google](https://google.com/)
 
-[[Image: Balsamiq]](https://balsamiq.com/)
+[Balsamiq](https://balsamiq.com/)
 
-[[Image: GitHub]](https://github.com/)
+[GitHub](https://github.com/)
 
-[[Image: Interview Cake]](https://www.interviewcake.com/)
+[Interview Cake](https://www.interviewcake.com/)
 
-[[Image: Boot.dev]](https://www.boot.dev/)
+[Boot.dev](https://www.boot.dev/)
 
-[[Image: CodePath]](https://www.codepath.org/)
+[CodePath](https://www.codepath.org/)
 
-[[Image: Code and Coffee]](https://www.codeandcoffee.dev/)
+[Code and Coffee](https://www.codeandcoffee.dev/)
 
-[[Image: Dain AI]](https://dain.org/)
+[Dain AI](https://dain.org/)
 
-[[Image: Patient Safety Technology]](https://www.patientsafetytech.com/)
+[Patient Safety Technology](https://www.patientsafetytech.com/)
 
-[[Image: Bazalu]](https://www.bazalu.com/)
+[Bazalu](https://www.bazalu.com/)
 
-[[Image: CSULB COE]](https://www.asicsulb.org/corporate/)
+[CSULB COE](https://www.asicsulb.org/corporate/)
 
-[[Image: ASI]](https://www.asicsulb.org/corporate/)
+[ASI](https://www.asicsulb.org/corporate/)
 
-[[Image: CSULB Cybersecurity Club]](https://linktr.ee/csulbcybersecurity)
-
-[Image: BeachHacks Crab Mascot]
-
-[Image: Keshav Jindal]
+[CSULB Cybersecurity Club](https://linktr.ee/csulbcybersecurity)
 
 ###### Keshav Jindal
 
 Co-President
 
-[Image: Winston Ta]
-
 ###### Winston Ta
-
-Co-President
-
-[Image: Vansh Patel]
 
 ###### Vansh Patel
 
 Tech Director
 
-[Image: Marisol Morales]
-
 ###### Marisol Morales
 
 Logistics Director
-
-[Image: Krisha Hemani]
 
 ###### Krisha Hemani
 
 Treasurer
 
-[Image: Bryan Tineo]
-
 ###### Bryan Tineo
 
 BeachHacks Committee
 
-[Image: Karan Verma]
-
 ###### Karan Verma
-
-BeachHacks Committee
-
-[Image: Jesus Santiago]
 
 ###### Jesus Santiago
 
-BeachHacks Committee
-
-[Image: Oscar Arenas]
-
 ###### Oscar Arenas
-
-BeachHacks Committee
-
-[Image: Sanchit Kaushik]
 
 ###### Sanchit Kaushik
 
-BeachHacks Committee
-
-[Image: Jaden Le]
-
 ###### Jaden Le
-
-BeachHacks Committee
-
-[Image: Vien Le]
 
 ###### Vien Le
 
-BeachHacks Committee
-
-[Image: Dhara Shah]
-
 ###### Dhara Shah
-
-BeachHacks Committee
-
-[Image: Anna Gelisanga]
 
 ###### Anna Gelisanga
 
-BeachHacks Committee
-
-[Image: Chenchu H. Yakasiri Saravanan]
-
 ###### Chenchu H. Yakasiri Saravanan
-
-BeachHacks Committee
-
-[Image: Mometa Uddin]
 
 ###### Mometa Uddin
 
-BeachHacks Committee
-
-[Image: Danniella Martinez]
-
 ###### Danniella Martinez
-
-BeachHacks Committee
-
-[Image: Deanna Solis]
 
 ###### Deanna Solis
 
-BeachHacks Committee
-
-[Image: Aalind Kale]
-
 ###### Aalind Kale
-
-BeachHacks Committee
-
-[Image: Hong Nguyen]
 
 ###### Hong Nguyen
 
-BeachHacks Committee
-
-[Image: Sai Kaung Khant Zaw]
-
 ###### Sai Kaung Khant Zaw
-
-BeachHacks Committee
-
-[Image: Tiago Borges]
 
 ###### Tiago Borges
 
-BeachHacks Committee
-
-[Image: Thanh Ngoc Tran]
-
 ###### Thanh Ngoc Tran
-
-BeachHacks Committee
-
-[Image: Hoang Khoi Do]
 
 ###### Hoang Khoi Do
 
-BeachHacks Committee
-
-[Image: Min Zin Hein]
-
 ###### Min Zin Hein
-
-BeachHacks Committee
-
-[Image: Kiki Han]
 
 ###### Kiki Han
 
-BeachHacks Committee
-
-[Image: Ronak Adhikari]
-
 ###### Ronak Adhikari
-
-BeachHacks Committee
-
-[Image: Keshav Jindal]
-
-###### Keshav Jindal
-
-Co-President
-
-[Image: Winston Ta]
-
-###### Winston Ta
-
-Co-President
-
-[Image: Vansh Patel]
-
-###### Vansh Patel
-
-Tech Director
-
-[Image: Marisol Morales]
-
-###### Marisol Morales
-
-Logistics Director
-
-[Image: Krisha Hemani]
-
-###### Krisha Hemani
-
-Treasurer
-
-[Image: Bryan Tineo]
-
-###### Bryan Tineo
-
-BeachHacks Committee
-
-[Image: Karan Verma]
-
-###### Karan Verma
-
-BeachHacks Committee
-
-[Image: Jesus Santiago]
-
-###### Jesus Santiago
-
-BeachHacks Committee
-
-[Image: Oscar Arenas]
-
-###### Oscar Arenas
-
-BeachHacks Committee
-
-[Image: Sanchit Kaushik]
-
-###### Sanchit Kaushik
-
-BeachHacks Committee
-
-[Image: Jaden Le]
-
-###### Jaden Le
-
-BeachHacks Committee
-
-[Image: Vien Le]
-
-###### Vien Le
-
-BeachHacks Committee
-
-[Image: Dhara Shah]
-
-###### Dhara Shah
-
-BeachHacks Committee
-
-[Image: Anna Gelisanga]
-
-###### Anna Gelisanga
-
-BeachHacks Committee
-
-[Image: Chenchu H. Yakasiri Saravanan]
-
-###### Chenchu H. Yakasiri Saravanan
-
-BeachHacks Committee
-
-[Image: Mometa Uddin]
-
-###### Mometa Uddin
-
-BeachHacks Committee
-
-[Image: Danniella Martinez]
-
-###### Danniella Martinez
-
-BeachHacks Committee
-
-[Image: Deanna Solis]
-
-###### Deanna Solis
-
-BeachHacks Committee
-
-[Image: Aalind Kale]
-
-###### Aalind Kale
-
-BeachHacks Committee
-
-[Image: Hong Nguyen]
-
-###### Hong Nguyen
-
-BeachHacks Committee
-
-[Image: Sai Kaung Khant Zaw]
-
-###### Sai Kaung Khant Zaw
-
-BeachHacks Committee
-
-[Image: Tiago Borges]
-
-###### Tiago Borges
-
-BeachHacks Committee
-
-[Image: Thanh Ngoc Tran]
-
-###### Thanh Ngoc Tran
-
-BeachHacks Committee
-
-[Image: Hoang Khoi Do]
-
-###### Hoang Khoi Do
-
-BeachHacks Committee
-
-[Image: Min Zin Hein]
-
-###### Min Zin Hein
-
-BeachHacks Committee
-
-[Image: Kiki Han]
-
-###### Kiki Han
-
-BeachHacks Committee
-
-[Image: Ronak Adhikari]
-
-###### Ronak Adhikari
-
-BeachHacks Committee
-
-[Image: Keshav Jindal]
-
-###### Keshav Jindal
-
-Co-President
-
-[Image: Winston Ta]
-
-###### Winston Ta
-
-Co-President
-
-[Image: Vansh Patel]
-
-###### Vansh Patel
-
-Tech Director
-
-[Image: Marisol Morales]
-
-###### Marisol Morales
-
-Logistics Director
-
-[Image: Krisha Hemani]
-
-###### Krisha Hemani
-
-Treasurer
-
-[Image: Bryan Tineo]
-
-###### Bryan Tineo
-
-BeachHacks Committee
-
-[Image: Karan Verma]
-
-###### Karan Verma
-
-BeachHacks Committee
-
-[Image: Jesus Santiago]
-
-###### Jesus Santiago
-
-BeachHacks Committee
-
-[Image: Oscar Arenas]
-
-###### Oscar Arenas
-
-BeachHacks Committee
-
-[Image: Sanchit Kaushik]
-
-###### Sanchit Kaushik
-
-BeachHacks Committee
-
-[Image: Jaden Le]
-
-###### Jaden Le
-
-BeachHacks Committee
-
-[Image: Vien Le]
-
-###### Vien Le
-
-BeachHacks Committee
-
-[Image: Dhara Shah]
-
-###### Dhara Shah
-
-BeachHacks Committee
-
-[Image: Anna Gelisanga]
-
-###### Anna Gelisanga
-
-BeachHacks Committee
-
-[Image: Chenchu H. Yakasiri Saravanan]
-
-###### Chenchu H. Yakasiri Saravanan
-
-BeachHacks Committee
-
-[Image: Mometa Uddin]
-
-###### Mometa Uddin
-
-BeachHacks Committee
-
-[Image: Danniella Martinez]
-
-###### Danniella Martinez
-
-BeachHacks Committee
-
-[Image: Deanna Solis]
-
-###### Deanna Solis
-
-BeachHacks Committee
-
-[Image: Aalind Kale]
-
-###### Aalind Kale
-
-BeachHacks Committee
-
-[Image: Hong Nguyen]
-
-###### Hong Nguyen
-
-BeachHacks Committee
-
-[Image: Sai Kaung Khant Zaw]
-
-###### Sai Kaung Khant Zaw
-
-BeachHacks Committee
-
-[Image: Tiago Borges]
-
-###### Tiago Borges
-
-BeachHacks Committee
-
-[Image: Thanh Ngoc Tran]
-
-###### Thanh Ngoc Tran
-
-BeachHacks Committee
-
-[Image: Hoang Khoi Do]
-
-###### Hoang Khoi Do
-
-BeachHacks Committee
-
-[Image: Min Zin Hein]
-
-###### Min Zin Hein
-
-BeachHacks Committee
-
-[Image: Kiki Han]
-
-###### Kiki Han
-
-BeachHacks Committee
-
-[Image: Ronak Adhikari]
-
-###### Ronak Adhikari
-
-BeachHacks Committee
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=blue)
 
 ### Website 73: HooHacks
 - Card URL: [https://hoohacks.io/](https://hoohacks.io/)
@@ -17856,25 +13297,15 @@ BeachHacks Committee
 
 #### HooHacks2026
 
-[Image: Calendar]
-
 March 21-22
-
-[Image: Location]
 
 University of Virginia
 
 [Register](https://app.hoohacks.io/register) [Sponsor](https://forms.gle/qewKYLLjzKo6H7Fw7)
 
-[Image: Mountain] [Image: Ground]
-
-[Image: star] [Image: darts] [Image: boot up] [Image: boot down] [Image: rope]
-
 ##### WELCOME!
 
 HooHacks is a team of UVA students who run HooHacks, Virginia's biggest hackathon and one of the 50 biggest collegiate hackathons in the US. HooHacks also plans Ideathon, a tech entrepreneurship networking event. Our goal is to make learning and using software development in UVA and other colleges more accessible and fun!
-
-[Image: wanted poster]
 
 ###### HooHacks 2025 Stats
 
@@ -17977,8 +13408,6 @@ HooHacks will be held in-person at the University of Virginia! Attendees will ne
 ###### What are the benefits?
 
 Attending HooHacks is a great opportunity to learn new skills, network with peers and industry professionals, and potentially win exciting prizes! Plus, it's a fun way to challenge yourself and work on projects you're passionate about.
-
-[Image: rope] [Image: star] [Image: owl]
 
 Have more questions? Contact us at team@hoohacks.io!
 
@@ -18085,27 +13514,19 @@ Wolfram Award
 
 ##### Sponsors
 
-[Image: star] [Image: cactus]
+[Deloitte](https://www.deloitte.com/) [SZNS Solutions](https://www.szns.solutions/) [UVA Honor](https://honor.virginia.edu/)
 
-[[Image: Deloitte]](https://www.deloitte.com/) [[Image: SZNS Solutions]](https://www.szns.solutions/) [[Image: UVA Honor]](https://honor.virginia.edu/)
+[SIXGEN](https://www.sixgen.io/) [Capital One](https://www.capitalone.com/) [CLCW Ventures](https://clcwventures.ai/) [CoStar Group](https://www.costar.com/)
 
-[[Image: SIXGEN]](https://www.sixgen.io/) [[Image: Capital One]](https://www.capitalone.com/) [[Image: CLCW Ventures]](https://clcwventures.ai/) [[Image: CoStar Group]](https://www.costar.com/)
-
-[[Image: UVA School of Data Science]](https://datascience.virginia.edu/) [[Image: Commonwealth Cyber Initiative]](https://cyberinitiative.org/) [[Image: UVA Sustainable IT]](https://sustainability.virginia.edu/) [[Image: TechStar Group]](https://www.techstargroup.com/) [[Image: Pure Buttons]](https://purebuttons.com/) [[Image: UVA School of Engineering]](https://engineering.virginia.edu/offices-programs/office-research-and-innovation/) [[Image: UVA student engagement fund]](https://uvaalumni.org/student-engagement-fund/)
+[UVA School of Data Science](https://datascience.virginia.edu/) [Commonwealth Cyber Initiative](https://cyberinitiative.org/) [UVA Sustainable IT](https://sustainability.virginia.edu/) [TechStar Group](https://www.techstargroup.com/) [Pure Buttons](https://purebuttons.com/) [UVA School of Engineering](https://engineering.virginia.edu/offices-programs/office-research-and-innovation/) [UVA student engagement fund](https://uvaalumni.org/student-engagement-fund/)
 
 ##### OUR PARTNERS
 
-[[Image: Wolfram Research]](https://www.wolfram.com/) [[Image: GEN.xyz]](https://gen.xyz/) [[Image: Interview Cake]](https://www.interviewcake.com/) [[Image: netcore]](https://www.netcore.network/) [[Image: Quokka]](https://www.quokkabrew.com/) [[Image: codecademy]](https://www.codecademy.com/) [[Image: replit]](https://replit.com/)
-
-[Image: left mountain]
+[Wolfram Research](https://www.wolfram.com/) [GEN.xyz](https://gen.xyz/) [Interview Cake](https://www.interviewcake.com/) [netcore](https://www.netcore.network/) [Quokka](https://www.quokkabrew.com/) [codecademy](https://www.codecademy.com/) [replit](https://replit.com/)
 
 ##### SUBSCRIBE TO OUR NEWSLETTER
 
 Stay in the loop with HooHacks. Subscribe for updates, opportunities, and upcoming events!
-
-[Image: right mountain] [Image: sun]
-
-[Image: foreground]
 
 ### Website 74: HackDuke Code For Good
 - Card URL: [https://2026.hackduke.org/](https://2026.hackduke.org/)
@@ -18119,8 +13540,6 @@ Stay in the loop with HooHacks. Subscribe for updates, opportunities, and upcomi
 - Final URL: [https://vandyhacks.org/](https://vandyhacks.org/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
 Unleash your creativity at our hackathon—step in like a player, imagine wildly, and build what you wish existed. Team up, level up, and speed-run ideas from sketch to demo. Whether you`re a coder, designer, or storyteller, bring your spark and craft something unforgettable together. Be bold, be playful, be curious. This hackathon is your sandbox to prototype dreams, remix tech, and push limits.
 
 Hacking ends in!
@@ -18131,19 +13550,13 @@ Hurry Up
 
 DAYS
 
-:
-
 -7
 
 HOURS
 
-:
-
 -22
 
 MINUTES
-
-:
 
 -54
 
@@ -18291,113 +13704,73 @@ $ cat SQUAD.yaml
 
 Our Team
 
-[Image: Subha Mostafiz]
-
 Subha Mostafiz
 
 President
-
-[Image: Ashley Lai]
 
 Ashley Lai
 
 Director of Finance & Sponsorships
 
-[Image: Ronak Mahajan]
-
 Ronak Mahajan
 
 Director of Growth
-
-[Image: Filiz Karabulut]
 
 Filiz Karabulut
 
 Director of Hackathon Experience
 
-[Image: Aarav Gupta]
-
 Aarav Gupta
 
 VP of Hackathon Experience Internal
-
-[Image: Shravya Eyunni]
 
 Shravya Eyunni
 
 VP of Hackathon Experience External
 
-[Image: Safoora Osman]
-
 Safoora Osman
 
 VP of Internal Finance
-
-[Image: Una O'Leary]
 
 Una O'Leary
 
 VP of Sponsorship
 
-[Image: Alena Peethala]
-
 Alena Peethala
 
 VP of Outreach
-
-[Image: David Boakye-Agyemang]
 
 David Boakye-Agyemang
 
 VP of Outreach
 
-[Image: Dhilan Verma]
-
 Dhilan Verma
 
 Growth Co-Director
-
-[Image: Xinyi He]
 
 Xinyi He
 
 Co-VP of Marketing
 
-[Image: Geovanni Marcos]
-
 Geovanni Marcos
 
 Co-VP of Marketing
-
-[Image: Christus Luo]
 
 Christus Luo
 
 Designer
 
-[Image: Noah Lisin]
-
 Noah Lisin
 
 Lead Developer
-
-[Image: Tiger Yang]
 
 Tiger Yang
 
 Developer
 
-[Image: Ethan Xiao]
-
 Ethan Xiao
 
-Developer
-
-[Image: Zahir Alhinai]
-
 Zahir Alhinai
-
-Developer
 
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
@@ -18407,8 +13780,6 @@ Developer
 - Rendered title: Hack Esbjerg | IT Hackathon
 - Final URL: [https://hackesbjerg.dk/](https://hackesbjerg.dk/)
 - Expanded FAQ/accordion controls: 10
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/eu?utm_source=eu-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 [#b2a7f1 HACK Join Denmark's innovative hackathon in Esbjerg! 24 hours of coding, creativity, and collaboration. Open to all skill levels. Click to explore →](https://hackesbjerg.dk/hackathon) [#8b7af2 BUILD Transform ideas into reality! Work with cutting-edge tech, meet industry mentors, and build solutions that matter. Click to explore →](https://hackesbjerg.dk/projects) [#715bf2 WIN See who won! Browse the winners across all prize categories. Click to explore →](https://hackesbjerg.dk/prizes)
 
@@ -18447,8 +13818,6 @@ Prize Categories
 
 Left: event photo, full-bleed
 
-[Image: Hack Esbjerg 2026 participants]
-
 Right: content
 
 ##### What Made It Special?
@@ -18480,11 +13849,7 @@ Innovators
 
 Hours of Building
 
-∞
-
 Possibilities
-
-[Image: Hack Esbjerg 2026 - Coding in action]
 
 ═══════════════════════════════════════════════════════ 6. PHOTO SECTION — gallery links ═══════════════════════════════════════════════════════
 
@@ -18492,13 +13857,11 @@ Possibilities
 
 Hundreds of shots from the event
 
-[[Image: Hack Esbjerg 2026]](https://hackesbjerg.dk/prizes/#photos) [[Image: Hack Esbjerg 2026]](https://hackesbjerg.dk/prizes/#photos) [[Image: Hack Esbjerg 2026]](https://hackesbjerg.dk/prizes/#photos) [[Image: Hack Esbjerg 2026]](https://hackesbjerg.dk/prizes/#photos)
+[Hack Esbjerg 2026](https://hackesbjerg.dk/prizes/) [Hack Esbjerg 2026](https://hackesbjerg.dk/prizes/) [Hack Esbjerg 2026](https://hackesbjerg.dk/prizes/) [Hack Esbjerg 2026](https://hackesbjerg.dk/prizes/)
 
 [See all photos →](https://hackesbjerg.dk/prizes/#photos)
 
 ═══════════════════════════════════════════════════════ 7. EVENT DETAILS — full-bleed 2-column, venue photo left ═══════════════════════════════════════════════════════
-
-[Image: S-E-A Esbjerg venue]
 
 ##### Event Details
 
@@ -18513,8 +13876,6 @@ Spangsbjerg Kirkevej 100
 **March 19–20, 2026**
 24-hour continuous event
 8:30 AM – 1:40 PM next day
-
-[View Winners →](https://hackesbjerg.dk/prizes/) [See Photos →](https://hackesbjerg.dk/prizes/#photos)
 
 ═══════════════════════════════════════════════════════ 8. COMMUNITY — full-bleed, centered ═══════════════════════════════════════════════════════
 
@@ -18586,35 +13947,23 @@ Responsive overrides for the new homepage sections
 
 ###### Platinum Sponsors
 
-[[Image: WebLager A/S Logo]](https://weblager.dk/)
-
 WebLager A/S
 
 ###### General Partner
 
-[[Image: S-E-A - Syddansk Erhvervsakademi Logo]](https://easv.dk/)
-
 S-E-A - Syddansk Erhvervsakademi
-
-[[Image: Major League Hacking Logo]](https://mlh.io/)
 
 Major League Hacking
 
 ##### Gold Sponsors
 
-[[Image: Prosa Logo]](https://www.prosa.dk/)
-
 Prosa
 
 ##### Silver Sponsors
 
-[[Image: Grumsen Development ApS Logo]](https://grumsendev.dk/)
-
 Grumsen Development ApS
 
 ##### Partners
-
-[[Image: Dev.events Logo]](https://dev.events/)
 
 Dev.events
 
@@ -18624,8 +13973,6 @@ Dev.events
 - Rendered title: RocketHacks 2026 | Hack the Horizon
 - Final URL: [https://www.rockethacks.org/](https://www.rockethacks.org/)
 - Expanded FAQ/accordion controls: 0
-
-[Image: RocketHacks 2027 Background]
 
 #### RocketHacks 2027
 
@@ -18644,23 +13991,17 @@ College of Engineering
 
 RocketHacks is a 24-hour hackathon hosted by the University of Toledo dedicated to fostering innovation and problem-solving among students from the Midwest and beyond. This event brings together talented students—from budding programmers to visionary designers—to build real solutions to real-world challenges. With an emphasis on collaboration, creativity, and technical skills, RocketHacks will empower students to turn their ideas into impactful projects.
 
-$
-
-[Image: Sponsor Background]
-
 ###### Sponsors
 
 Interested in partnering with us? [View our sponsorship opportunities](https://www.rockethacks.org/documents/sponsorship-packet.pdf) or contact us to learn more.
 
-[[Image: University of Toledo Department of Electrical Engineering & Computer Science]](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) [[Image: BESNX]](https://www.besnxc.org/) [[Image: University of Toledo College of Engineering]](https://www.utoledo.edu/engineering/) [[Image: University of Toledo College of Business & Innovation]](https://www.utoledo.edu/business/) [[Image: First Solar]](https://www.firstsolar.com/) [[Image: University of Toledo Department of Electrical Engineering & Computer Science]](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) [[Image: BESNX]](https://www.besnxc.org/) [[Image: University of Toledo College of Engineering]](https://www.utoledo.edu/engineering/) [[Image: University of Toledo College of Business & Innovation]](https://www.utoledo.edu/business/) [[Image: First Solar]](https://www.firstsolar.com/) [[Image: University of Toledo Department of Electrical Engineering & Computer Science]](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) [[Image: BESNX]](https://www.besnxc.org/) [[Image: University of Toledo College of Engineering]](https://www.utoledo.edu/engineering/) [[Image: University of Toledo College of Business & Innovation]](https://www.utoledo.edu/business/) [[Image: First Solar]](https://www.firstsolar.com/) [[Image: University of Toledo Department of Electrical Engineering & Computer Science]](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) [[Image: BESNX]](https://www.besnxc.org/) [[Image: University of Toledo College of Engineering]](https://www.utoledo.edu/engineering/) [[Image: University of Toledo College of Business & Innovation]](https://www.utoledo.edu/business/) [[Image: First Solar]](https://www.firstsolar.com/)
+[University of Toledo Department of Electrical Engineering & Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) [BESNX](https://www.besnxc.org/) [University of Toledo College of Engineering](https://www.utoledo.edu/engineering/) [University of Toledo College of Business & Innovation](https://www.utoledo.edu/business/) [First Solar](https://www.firstsolar.com/) [University of Toledo Department of Electrical Engineering & Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) [BESNX](https://www.besnxc.org/) [University of Toledo College of Engineering](https://www.utoledo.edu/engineering/) [University of Toledo College of Business & Innovation](https://www.utoledo.edu/business/) [First Solar](https://www.firstsolar.com/) [University of Toledo Department of Electrical Engineering & Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) [BESNX](https://www.besnxc.org/) [University of Toledo College of Engineering](https://www.utoledo.edu/engineering/) [University of Toledo College of Business & Innovation](https://www.utoledo.edu/business/) [First Solar](https://www.firstsolar.com/) [University of Toledo Department of Electrical Engineering & Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) [BESNX](https://www.besnxc.org/) [University of Toledo College of Engineering](https://www.utoledo.edu/engineering/) [University of Toledo College of Business & Innovation](https://www.utoledo.edu/business/) [First Solar](https://www.firstsolar.com/)
 
-[[Image: Code Echo]](https://codeecho.com/) [[Image: Nysus Solutions]](https://www.nysus.com/) [[Image: Impelix]](https://www.impelix.com/) [[Image: Code Echo]](https://codeecho.com/) [[Image: Nysus Solutions]](https://www.nysus.com/) [[Image: Impelix]](https://www.impelix.com/) [[Image: Code Echo]](https://codeecho.com/) [[Image: Nysus Solutions]](https://www.nysus.com/) [[Image: Impelix]](https://www.impelix.com/) [[Image: Code Echo]](https://codeecho.com/) [[Image: Nysus Solutions]](https://www.nysus.com/) [[Image: Impelix]](https://www.impelix.com/)
+[Code Echo](https://codeecho.com/) [Nysus Solutions](https://www.nysus.com/) [Impelix](https://www.impelix.com/) [Code Echo](https://codeecho.com/) [Nysus Solutions](https://www.nysus.com/) [Impelix](https://www.impelix.com/) [Code Echo](https://codeecho.com/) [Nysus Solutions](https://www.nysus.com/) [Impelix](https://www.impelix.com/) [Code Echo](https://codeecho.com/) [Nysus Solutions](https://www.nysus.com/) [Impelix](https://www.impelix.com/)
 
-[[Image: Actual Reality Technologies]](https://www.actualreality.tech/) [[Image: Regional Growth Partnership]](https://rgp.org/) [[Image: ParkUT]](https://www.utoledo.edu/parkingservices/parkutoledo/) [[Image: Actual Reality Technologies]](https://www.actualreality.tech/) [[Image: Regional Growth Partnership]](https://rgp.org/) [[Image: ParkUT]](https://www.utoledo.edu/parkingservices/parkutoledo/) [[Image: Actual Reality Technologies]](https://www.actualreality.tech/) [[Image: Regional Growth Partnership]](https://rgp.org/) [[Image: ParkUT]](https://www.utoledo.edu/parkingservices/parkutoledo/) [[Image: Actual Reality Technologies]](https://www.actualreality.tech/) [[Image: Regional Growth Partnership]](https://rgp.org/) [[Image: ParkUT]](https://www.utoledo.edu/parkingservices/parkutoledo/) [[Image: Actual Reality Technologies]](https://www.actualreality.tech/) [[Image: Regional Growth Partnership]](https://rgp.org/) [[Image: ParkUT]](https://www.utoledo.edu/parkingservices/parkutoledo/) [[Image: Actual Reality Technologies]](https://www.actualreality.tech/) [[Image: Regional Growth Partnership]](https://rgp.org/) [[Image: ParkUT]](https://www.utoledo.edu/parkingservices/parkutoledo/)
+[Actual Reality Technologies](https://www.actualreality.tech/) [Regional Growth Partnership](https://rgp.org/) [ParkUT](https://www.utoledo.edu/parkingservices/parkutoledo/) [Actual Reality Technologies](https://www.actualreality.tech/) [Regional Growth Partnership](https://rgp.org/) [ParkUT](https://www.utoledo.edu/parkingservices/parkutoledo/) [Actual Reality Technologies](https://www.actualreality.tech/) [Regional Growth Partnership](https://rgp.org/) [ParkUT](https://www.utoledo.edu/parkingservices/parkutoledo/) [Actual Reality Technologies](https://www.actualreality.tech/) [Regional Growth Partnership](https://rgp.org/) [ParkUT](https://www.utoledo.edu/parkingservices/parkutoledo/) [Actual Reality Technologies](https://www.actualreality.tech/) [Regional Growth Partnership](https://rgp.org/) [ParkUT](https://www.utoledo.edu/parkingservices/parkutoledo/) [Actual Reality Technologies](https://www.actualreality.tech/) [Regional Growth Partnership](https://rgp.org/) [ParkUT](https://www.utoledo.edu/parkingservices/parkutoledo/)
 
-[[Image: Featherless AI]](https://featherless.ai/) [[Image: Anthropic]](https://www.anthropic.com/) [[Image: Pure Buttons]](https://mlh.link/MLH-PureButtons-hackathons) [[Image: Featherless AI]](https://featherless.ai/) [[Image: Anthropic]](https://www.anthropic.com/) [[Image: Pure Buttons]](https://mlh.link/MLH-PureButtons-hackathons) [[Image: Featherless AI]](https://featherless.ai/) [[Image: Anthropic]](https://www.anthropic.com/) [[Image: Pure Buttons]](https://mlh.link/MLH-PureButtons-hackathons) [[Image: Featherless AI]](https://featherless.ai/) [[Image: Anthropic]](https://www.anthropic.com/) [[Image: Pure Buttons]](https://mlh.link/MLH-PureButtons-hackathons) [[Image: Featherless AI]](https://featherless.ai/) [[Image: Anthropic]](https://www.anthropic.com/) [[Image: Pure Buttons]](https://mlh.link/MLH-PureButtons-hackathons) [[Image: Featherless AI]](https://featherless.ai/) [[Image: Anthropic]](https://www.anthropic.com/) [[Image: Pure Buttons]](https://mlh.link/MLH-PureButtons-hackathons)
-
-/$ $
+[Featherless AI](https://featherless.ai/) [Anthropic](https://www.anthropic.com/) [Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons) [Featherless AI](https://featherless.ai/) [Anthropic](https://www.anthropic.com/) [Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons) [Featherless AI](https://featherless.ai/) [Anthropic](https://www.anthropic.com/) [Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons) [Featherless AI](https://featherless.ai/) [Anthropic](https://www.anthropic.com/) [Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons) [Featherless AI](https://featherless.ai/) [Anthropic](https://www.anthropic.com/) [Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons) [Featherless AI](https://featherless.ai/) [Anthropic](https://www.anthropic.com/) [Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons)
 
 ##### Have Any Questions?
 
@@ -18679,8 +14020,6 @@ General inquiries
 Office Hours
 
 Mon-Fri, 9AM-5PM EST
-
-/$
 
 ### Website 78: SotonHack
 - Card URL: [https://sotonhack.org/](https://sotonhack.org/)
@@ -18706,8 +14045,6 @@ No experience required.
 
 Time since SotonHack: 98d 14h 52m 00s
 
-##### <About The Event>
-
 SotonHack 26 is Southampton's premier student hackathon, organised by the [Electronics and Computer Science Society](https://society.ecs.soton.ac.uk). For 24 hours, the brightest minds will gather to build, break, and innovate.
 
 Whether you're a seasoned developer or writing your first line of code, SotonHack is the place to be. We provide the food, caffeine, and swag; you bring the creativity.
@@ -18715,8 +14052,6 @@ Whether you're a seasoned developer or writing your first line of code, SotonHac
 24H Hacking
 
 100+ Hackers
-
-[Image: SotonHack Atmosphere]
 
 ##### > Tracks & Prizes
 
@@ -18830,7 +14165,7 @@ SotonHack wouldn't be possible without the support of our amazing partners and s
 
 Dynamic grid
 
-JetBrains [[Image: JetBrains]](https://www.jetbrains.com/) Hackathons UK [[Image: Hackathons UK]](https://hackathons.org.uk/) MLH [[Image: MLH]](https://mlh.io/)
+JetBrains [JetBrains](https://www.jetbrains.com/) Hackathons UK [Hackathons UK](https://hackathons.org.uk/) MLH [MLH](https://mlh.io/)
 
 Become a Sponsor
 
@@ -18843,16 +14178,6 @@ Section Title
 Brought to you by the team behind the terminal.
 
 Organisers Grid
-
-[Image: Alan Kraszewski]
-
-[Image: Rudrrayan Manna]
-
-[Image: Nikola Parushev]
-
-[Image: Kai]
-
-[Image: Indigo]
 
 ##### FAQ?
 
@@ -18917,15 +14242,9 @@ Join 150+ students for an exciting 3-day challenge in drone programming, compute
 
 Days
 
-00
-
 Hours
 
-00
-
 Minutes
-
-00
 
 Seconds
 
@@ -18936,8 +14255,6 @@ Mar 13 - Mar 15, 2026
 McGill University, Montreal
 
 [Hosted byMcGill Aerial Design](https://www.mcgillaerialdesign.com)
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 ###### 3 Days of Innovation
 
@@ -18958,8 +14275,6 @@ Network with fellow innovators
 ##### What is McGill AeroHacks?
 
 The first-ever McGill AeroHacks transforms McGill University into a hub of innovation and creativity. Over 3 days, we bring together 150+ students from across Montreal and abroad for challenges in drone programming, computer vision, embedded systems, and autonomous navigation. Using pocket-sized ESP32-powered drones, participants rapidly design and test real-world engineering solutions.
-
-###### Drone Programming
 
 Develop autonomous flight algorithms and control systems for cutting-edge drone technology
 
@@ -19074,19 +14389,13 @@ Best overall drone project that demonstrates innovation, technical execution, an
 
 Best Navigation System
 
-TBD
-
 Most impressive autonomous navigation and path planning implementation
 
 Best Computer Vision
 
-TBD
-
 Most creative and effective use of computer vision for drone control
 
 People's Choice
-
-TBD
 
 Community favorite project as voted by participants
 
@@ -19098,52 +14407,6 @@ More prize categories from our sponsors will be announced as we confirm partners
 
 Thank you to our amazing sponsors supporting McGill Aerial Design!
 
-[[Image: CAE logo]](https://www.cae.com/)
-
-[[Image: NordVPN logo]](https://nordvpn.com/hackathons)
-
-[[Image: NordPass logo]](https://nordpass.com/)
-
-[[Image: NordProtect logo]](https://nordprotect.com/)
-
-[[Image: NordSecurity logo]](https://nordsecurity.com/)
-
-[[Image: Incogni logo]](https://incogni.com/)
-
-[[Image: Saily logo]](https://saily.com/)
-
-[[Image: NexosAi logo]](https://nexos.ai/)
-
-[[Image: Bell logo]](https://www.bellflight.com)
-
-[[Image: Airbus logo]](https://www.airbus.com)
-
-[[Image: Pratt & Whitney Canada logo]](https://www.rtx.com/en/prattwhitney)
-
-[[Image: OnShape logo]](https://www.onshape.com)
-
-[[Image: Polymaker logo]](https://www.polymaker.com)
-
-[[Image: Dragonplate logo]](https://www.dragonplate.com)
-
-[[Image: 4imprint logo]](https://www.4imprint.com)
-
-[[Image: MeDo logo]](https://medo.dev/)
-
-[[Image: MongoDB logo]](https://www.mongodb.com/)
-
-[[Image: ElevenLabs logo]](https://elevenlabs.io/)
-
-[[Image: Solana logo]](https://solana.com/)
-
-[[Image: Gemini logo]](https://gemini.google.com/app)
-
-[[Image: Celsius logo]](https://www.celsius.com/)
-
-[[Image: Snowflake logo]](https://www.snowflake.com/en/)
-
-[[Image: SSMU logo]](https://ssmu.ca/)
-
 ###### Interested in Sponsoring?
 
 Partner with McGill AeroHacks to connect with 150+ talented students and support the future of aerospace innovation.
@@ -19153,28 +14416,6 @@ Contact Us View Package
 ##### Our Partners
 
 Thank you to our amazing partners supporting McGill Aerial Design!
-
-[[Image: McGill Institute for Aerospace Engineering (MIAE) logo]](https://www.mcgill.ca/miae/)
-
-[[Image: Vertical Flight Society Montréal-Ottawa Chapter logo]](https://mtlott.vtol.org/)
-
-[[Image: PCBWay logo]](https://www.pcbway.com/project/sponsor/McGill_Aerial_Design_bd4f79a4.html)
-
-[[Image: Composia McGill BioDesign logo]](https://www.mcgillbiodesign.com/projects/composia)
-
-[[Image: AESS Concordia logo]](https://www.instagram.com/aess_concordia/)
-
-[[Image: EUS logo]](https://mcgilleus.ca/)
-
-[[Image: Tail'ed logo]](https://tailed.ca/)
-
-[[Image: Presotea logo]](https://www.presotea.ca/home/)
-
-[[Image: Coco logo]](https://www.cocofreshtea.ca/)
-
-[[Image: Restaurant Kan Bei logo]](https://kanbeirestaurant.com/)
-
-[[Image: Restaurant Pinophyta logo]](https://restopinophyta.wixsite.com/menu)
 
 Registration Closed
 
@@ -19215,8 +14456,6 @@ View on Devpost
 McGill Aerial Design is a multidisciplinary student design team dedicated to designing, building, and flying unmanned aerial vehicles. We compete in international competitions and foster innovation in aerospace engineering at McGill University.
 
 [Visit McGill Aerial Design](https://www.mcgillaerialdesign.com)
-
-[Image: McGill AeroHacks]
 
 ###### McGill AeroHacks
 
@@ -19294,8 +14533,6 @@ We empower hackers!
 - Final URL: [https://electrothon.nith.ac.in/](https://electrothon.nith.ac.in/)
 - Expanded FAQ/accordion controls: 4
 
-[Image: SPEC Logo]
-
 #### ELECTROTHON8.0
 
 ##### LABYRINTH OF ETERNUM
@@ -19304,19 +14541,11 @@ HACKATHON BEGINS IN
 
 00 DAYS
 
-:
-
 00 HRS
-
-:
 
 00 MIN
 
-:
-
 00 SEC
-
-[Image: Mission Briefing Background] $
 
 ###### ABOUT US
 
@@ -19342,10 +14571,6 @@ SOFTWARE PROJECTS
 
 HARDWARE PROJECTS
 
-/$
-
-$
-
 ##### PRIZES
 
 Cash Prizes $5,000
@@ -19364,361 +14589,171 @@ $ 445
 
 $ 220
 
-[Image: Mario]
-
 Many more prizes to come...
-
-/$ $
-
-[Image: Gallery Header Background]
 
 ##### EVENTS GALLERY
 
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-[Image: electrothon-gallery]
-
-/$
-
-[Image: Judges and Themes Background]
-
-$
-
 ##### JUDGES
 
-‹
-
-[Image: Tilted card image]
-
 Adhiraj
-
-[Image: Tilted card image]
 
 Eeshaan Sawant
 
-[Image: Tilted card image]
-
 Kanishk Tyagi
-
-[Image: Tilted card image]
 
 Mahen
 
-[Image: Tilted card image]
-
 Manav
-
-[Image: Tilted card image]
 
 Mohit Bhat
 
-[Image: Tilted card image]
-
 Udayveer Singh
-
-[Image: Tilted card image]
 
 Devansh Sood
 
-[Image: Tilted card image]
-
 Rashika
 
-[Image: Tilted card image]
-
 Sanidhya Goel
-
-[Image: Tilted card image]
 
 Adhiraj
 
-[Image: Tilted card image]
-
 Eeshaan Sawant
-
-[Image: Tilted card image]
 
 Kanishk Tyagi
 
-[Image: Tilted card image]
-
 Mahen
-
-[Image: Tilted card image]
 
 Manav
 
-[Image: Tilted card image]
-
 Mohit Bhat
-
-[Image: Tilted card image]
 
 Udayveer Singh
 
-[Image: Tilted card image]
-
 Devansh Sood
-
-[Image: Tilted card image]
 
 Rashika
 
-[Image: Tilted card image]
-
 Sanidhya Goel
-
-›
-
-/$ $
 
 THEMES
-
-[Image: Travel & Tourism]
 
 ###### Travel & Tourism
 
 Travel and tourism are evolving rapidly with technology shaping how people plan, move, and experience journeys. Build solutions that improve navigation, safety, accessibility, personalization, and efficiency across the travel ecosystem.
 
-[Image: Climate Emergency]
-
 ###### Climate Emergency
 
 Climate change presents urgent challenges including rising temperatures, extreme weather, and resource scarcity. Develop technologies that promote sustainability, monitor environmental impact, optimize energy usage, and support data driven climate action.
-
-[Image: Healthcare]
 
 ###### Healthcare
 
 Healthcare innovation can transform diagnosis, treatment, and patient care. Create solutions focused on smart diagnostics, health monitoring, data analysis, accessibility, and improving outcomes for both patients and providers.
 
-[Image: Cyber Security & Blockchain]
-
 ###### Cyber Security & Blockchain
 
 As digital systems grow, securing data and building trust becomes critical. Design solutions that prevent cyber threats, protect privacy, strengthen digital identities, and leverage blockchain for transparency and secure transactions.
-
-[Image: EdTech]
 
 ###### EdTech
 
 Education is becoming more interactive, adaptive, and technology driven. Build platforms that enhance learning through personalization, accessibility, analytics, and engaging digital experiences for students and educators.
 
-[Image: Open Innovation]
-
 ###### Open Innovation
 
 Some ideas do not fit neatly into predefined categories. If your solution tackles a real world problem with creativity and impact, this theme gives you the freedom to explore bold concepts across any domain.
-
-[Image: AI & Agentic Systems]
 
 ###### AI & Agentic Systems
 
 Artificial Intelligence is driving smarter systems that can learn, adapt, and act with minimal intervention. Build intelligent solutions using machine learning, automation, and agent based approaches to solve complex problems responsibly.
 
-/$
-
-$
-
 #### CHALLENGES
 
 Swipe to explore missions
-
-[Image: Requestly]
 
 Requestly
 
 BEST USE OF REQUESTLY
 
-🎁
-
 $200
 
 [ENTER CHALLENGE →](https://requestly.com)
-
-[Image: Nullshot]
 
 Nullshot
 
 BEST USE OF NULLSHOT
 
-🎁
-
 $200
 
 [VIEW DETAILS →](https://nullshot.ai/)
-
-[Image: IQAI]
 
 IQAI
 
 AI INNOVATION TRACK
 
-🎁
-
 $700
 
 [START BUILDING →](https://iqai.com/)
-
-[Image: ETHIndia]
 
 ETHIndia
 
 BEST HACK BUILT ON ETHEREUM
 
-🎁
-
 $100
 
 [START BUILDING →](https://ethindia-villa.devfolio.co/)
-
-[Image: Beginner]
 
 Beginner
 
 BEST BEGINNER HACK
 
-🎁
-
 $50
 
 [VIEW DETAILS →](https://electrothon-8.devfolio.co/prizes)
-
-[Image: All-Girls]
 
 All-Girls
 
 BEST ALL-GIRLS TEAM
 
-🎁
-
-$50
-
-[VIEW DETAILS →](https://electrothon-8.devfolio.co/prizes)
-
-[Image: Hardware]
-
 Hardware
 
 BEST HARDWARE TRACK
-
-🎁
-
-$50
-
-[VIEW DETAILS →](https://electrothon-8.devfolio.co/prizes)
-
-[Image: Major League Hacking]
 
 Major League Hacking
 
 BEST USE OF GEMINI API
 
-🎁
-
 Google Swag Kits
 
 [VIEW DETAILS →](https://mlh.link/gemini)
 
-[Image: Major League Hacking]
-
-Major League Hacking
-
 BEST USE OF ELEVENLABS
-
-🎁
 
 A chance to win some wireless earbuds.
 
 [VIEW DETAILS →](https://www.mlh.com/partners/elevenlabs)
 
-[Image: Major League Hacking]
-
-Major League Hacking
-
 BEST USE OF SOLANA
-
-🎁
 
 Multiple Prizes
 
 [VIEW DETAILS →](https://www.mlh.com/partners/solana)
 
-[Image: Major League Hacking]
-
-Major League Hacking
-
 BEST USE OF VULTR
-
-🎁
 
 A chance to win some awesome portable screens
 
 [VIEW DETAILS →](https://mlh.link/vultr)
 
-[Image: Major League Hacking]
-
-Major League Hacking
-
 BEST USE OF SNOWFLAKE API
-
-🎁
 
 A chance to win a M5Stack Tab5
 
 [VIEW DETAILS →](https://mlh.link/snowflake)
-
-/$ $
-
-★
-
-🪙
-
-★
 
 ##### ASSORTED PRIZES
 
 LEVEL UP & REDEEM YOUR REWARDS
 
 NAVAN AI
-
-[Image: NAVAN AI logo]
 
 ###### SKOOL COMMUNITY ACCESS
 
@@ -19728,125 +14763,69 @@ NAVAN AI
 
 STOCKEDGE
 
-[Image: STOCKEDGE logo]
-
 ###### MONTHLY PREMIUM ACCESS
 
 1000 PRIZES
-
-[REDEEM NOW](https://electrothon-8.devfolio.co/prizes?partner=Assorted+Prizes)
-
-STOCKEDGE
-
-[Image: STOCKEDGE logo]
 
 ###### INVESTING MADE EASY COURSE
 
 500 PRIZES
 
-[REDEEM NOW](https://electrothon-8.devfolio.co/prizes?partner=Assorted+Prizes)
-
-STOCKEDGE
-
-[Image: STOCKEDGE logo]
-
 ###### STOCK MARKET ALL-IN-ONE
 
 50 PRIZES
 
-[REDEEM NOW](https://electrothon-8.devfolio.co/prizes?partner=Assorted+Prizes)
-
 N8N
-
-[Image: N8N logo]
 
 ###### CLOUD PRO LICENSES
 
 150 PRIZES
 
-[REDEEM NOW](https://electrothon-8.devfolio.co/prizes?partner=Assorted+Prizes)
-
 .XYZ DOMAINS
-
-[Image: .XYZ DOMAINS logo]
 
 ###### FREE 1-YEAR DOMAIN
 
 350 PRIZES
 
-[REDEEM NOW](https://electrothon-8.devfolio.co/prizes?partner=Assorted+Prizes)
-
 CODECRAFTERS
-
-[Image: CODECRAFTERS logo]
 
 ###### VIP MEMBERSHIPS
 
 3 PRIZES
 
-[REDEEM NOW](https://electrothon-8.devfolio.co/prizes?partner=Assorted+Prizes)
-
 INSFORGE
-
-[Image: INSFORGE logo]
 
 ###### PRO PLATFORM ACCESS
 
 250 TEAMS
 
-[REDEEM NOW](https://electrothon-8.devfolio.co/prizes?partner=Assorted+Prizes)
-
 INTERVIEW CAKE
-
-[Image: INTERVIEW CAKE logo]
 
 ###### FULL ACCESS LICENSES
 
 50 PRIZES
 
-[REDEEM NOW](https://electrothon-8.devfolio.co/prizes?partner=Assorted+Prizes)
-
-/$ $
-
 #### OUR SPONSORS
 
 TITLE SPONSOR
 
-[[Image: Deepmind Logo]](https://deepmind.com/)
-
 EVENT PARTNER
-
-[[Image: MLH Logo]](https://mlh.io/)
 
 ARCANCELLAR SPONSORS
 
-[[Image: IQAI Logo]](https://iqai.com/) [[Image: Github Logo]](https://github.com/)
-
 COINSEER SPONSORS
-
-[[Image: Devfolio Logo]](https://devfolio.co) [[Image: ETH India Logo]](https://ethindia.co) [[Image: NHPC Logo]](https://www.nhpcindia.com/)
 
 WARDENIX SPONSORS
 
-[[Image: Nullshot Logo]](https://nullshot.ai) [[Image: RQ-Logo Logo]](https://requestly.com/)
-
 IN-KIND SPONSORS
-
-[[Image: Balsamiq Logo]](https://balsamiq.com) [[Image: InsForge Logo]](https://insforge.dev) [[Image: Interview Cake Logo]](https://interviewcake.com) [[Image: .xyz Logo]](https://gen.xyz/) [[Image: Codecrafters Logo]](https://codecrafters.io/) [[Image: NeoSapien Logo]](https://neosapien.xyz/) [[Image: Mastra Logo]](https://mastra.ai/) [[Image: n8n Logo]](https://n8n.io/) [[Image: Stockedge Logo]](https://stockedge.com/)
 
 MEDIA PARTNERS
 
-[[Image: Eventopia Logo]](https://eventopia.in/)
-
-/$ $
-
 ##### COMMUNITY PARTNERS
 
-[[Image: The Elites]](https://theelites.in/) [[Image: Technest]](https://technest.es/) [[Image: Partner 3]](https://electrothon.nith.ac.in/) [[Image: GDG VIT]](https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/) [[Image: Gwalior DAO]](https://www.instagram.com/gwaaliordao/) [[Image: APS]](https://sac.nitrkl.ac.in/societies/Technical%20Society/APS) [[Image: PECK hacks]](https://pechacks.org/) [[Image: hydrabad DAO]](https://share.google/qMnKtTJVEOlkKdxAu) [[Image: Lucknow DAO]](https://solstice-cairnsmore-9d5.notion.site/Lucknow-DAO-Community-1f0d2c45310a80119bade3d0421d3ccb?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc95ZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacwPhLMWamJm24m-3_9juT8t_n_wsnstVD47jNCKk_vOH2DEdCsb8vw6qfl1g_aem_ulr1oukEi9nW0fkzWcHZjQ) [[Image: SESA]](https://sesa.org.nz/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc-WRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadDwBiy45AcXmfzDEFv1xSKi-tgRCXZfxiI98bQJIttQGxPiN2VhbiC-DZIUQ_aem_n---AtsTgqTJr3JcwflngA) [[Image: D4]](https://www.d4community.com/) [[Image: Guru Nanak]](https://gdg.community.dev/gdg-on-campus-guru-nanak-dev-university-amritsar-india/) [[Image: Partner 13]](https://electrothon.nith.ac.in/) [[Image: IIIT UNA]](https://iiitu.ac.in/clubs/AAVESH) [[Image: GDG NITH]](https://www.instagram.com/nith_gdgl/) [[Image: Hack JKLU]](https://www.hackjklu.com/) [[Image: The Elites]](https://theelites.in/) [[Image: Technest]](https://technest.es/) [[Image: Partner 3]](https://electrothon.nith.ac.in/) [[Image: GDG VIT]](https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/) [[Image: Gwalior DAO]](https://www.instagram.com/gwaaliordao/) [[Image: APS]](https://sac.nitrkl.ac.in/societies/Technical%20Society/APS) [[Image: PECK hacks]](https://pechacks.org/) [[Image: hydrabad DAO]](https://share.google/qMnKtTJVEOlkKdxAu) [[Image: Lucknow DAO]](https://solstice-cairnsmore-9d5.notion.site/Lucknow-DAO-Community-1f0d2c45310a80119bade3d0421d3ccb?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc95ZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacwPhLMWamJm24m-3_9juT8t_n_wsnstVD47jNCKk_vOH2DEdCsb8vw6qfl1g_aem_ulr1oukEi9nW0fkzWcHZjQ) [[Image: SESA]](https://sesa.org.nz/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc-WRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadDwBiy45AcXmfzDEFv1xSKi-tgRCXZfxiI98bQJIttQGxPiN2VhbiC-DZIUQ_aem_n---AtsTgqTJr3JcwflngA) [[Image: D4]](https://www.d4community.com/) [[Image: Guru Nanak]](https://gdg.community.dev/gdg-on-campus-guru-nanak-dev-university-amritsar-india/) [[Image: Partner 13]](https://electrothon.nith.ac.in/) [[Image: IIIT UNA]](https://iiitu.ac.in/clubs/AAVESH) [[Image: GDG NITH]](https://www.instagram.com/nith_gdgl/) [[Image: Hack JKLU]](https://www.hackjklu.com/)
+[The Elites](https://theelites.in/) [Technest](https://technest.es/) [Partner 3](https://electrothon.nith.ac.in/) [GDG VIT](https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/) [Gwalior DAO](https://www.instagram.com/gwaaliordao/) [APS](https://sac.nitrkl.ac.in/societies/Technical%20Society/APS) [PECK hacks](https://pechacks.org/) [hydrabad DAO](https://share.google/qMnKtTJVEOlkKdxAu) [Lucknow DAO](https://solstice-cairnsmore-9d5.notion.site/Lucknow-DAO-Community-1f0d2c45310a80119bade3d0421d3ccb?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc95ZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacwPhLMWamJm24m-3_9juT8t_n_wsnstVD47jNCKk_vOH2DEdCsb8vw6qfl1g_aem_ulr1oukEi9nW0fkzWcHZjQ) [SESA](https://sesa.org.nz/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc-WRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadDwBiy45AcXmfzDEFv1xSKi-tgRCXZfxiI98bQJIttQGxPiN2VhbiC-DZIUQ_aem_n---AtsTgqTJr3JcwflngA) [D4](https://www.d4community.com/) [Guru Nanak](https://gdg.community.dev/gdg-on-campus-guru-nanak-dev-university-amritsar-india/) [Partner 13](https://electrothon.nith.ac.in/) [IIIT UNA](https://iiitu.ac.in/clubs/AAVESH) [GDG NITH](https://www.instagram.com/nith_gdgl/) [Hack JKLU](https://www.hackjklu.com/) [The Elites](https://theelites.in/) [Technest](https://technest.es/) [Partner 3](https://electrothon.nith.ac.in/) [GDG VIT](https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/) [Gwalior DAO](https://www.instagram.com/gwaaliordao/) [APS](https://sac.nitrkl.ac.in/societies/Technical%20Society/APS) [PECK hacks](https://pechacks.org/) [hydrabad DAO](https://share.google/qMnKtTJVEOlkKdxAu) [Lucknow DAO](https://solstice-cairnsmore-9d5.notion.site/Lucknow-DAO-Community-1f0d2c45310a80119bade3d0421d3ccb?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc95ZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacwPhLMWamJm24m-3_9juT8t_n_wsnstVD47jNCKk_vOH2DEdCsb8vw6qfl1g_aem_ulr1oukEi9nW0fkzWcHZjQ) [SESA](https://sesa.org.nz/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc-WRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadDwBiy45AcXmfzDEFv1xSKi-tgRCXZfxiI98bQJIttQGxPiN2VhbiC-DZIUQ_aem_n---AtsTgqTJr3JcwflngA) [D4](https://www.d4community.com/) [Guru Nanak](https://gdg.community.dev/gdg-on-campus-guru-nanak-dev-university-amritsar-india/) [Partner 13](https://electrothon.nith.ac.in/) [IIIT UNA](https://iiitu.ac.in/clubs/AAVESH) [GDG NITH](https://www.instagram.com/nith_gdgl/) [Hack JKLU](https://www.hackjklu.com/)
 
-[[Image: Anant]](https://www.anantnitkkr.com/) [[Image: Avinya]](https://avinya.devcommnsut.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc-nNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf5vRFXe-gt4QV06fWqzCc4yID_3dwagXuYOFT_-X4HrqF4Ue8F8pd5K5Lqmw_aem_dhAhdUrT3b5mW7EuvCEQVA) [[Image: Elite Coders]](https://share.google/2pHrmY6hO4qfqsy2w) [[Image: GB RBU]](https://share.google/1q2VWzriZ5yRzkvfH) [[Image: GDG LLLM University]](https://gdg.community.dev/gdg-on-campus-iilm-university-greater-noida-india/) [[Image: Hack NITR]](https://www.hackathon.com/event/hacknitr-5e4d683c926b91001b7d1215) [[Image: Hack With GDG]](https://share.google/HCD7n1wzRruVQmEC5) [[Image: HackInnovation]](https://electrothon.nith.ac.in/) [[Image: HackTU]](https://hacktu.ccstiet.com/) [[Image: Meraki]](https://meraki.iiitu.ac.in/) [[Image: Microsoft Fabric]](https://community.fabric.microsoft.com/) [[Image: Nerds]](https://www.nerdsnitsilchar.in/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQc8OdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacFM_5uGAuPONzXIMSz7ejEYa5KGGjGJG-q9tTUqjU9Dubny9qfDvJPxnNflQ_aem_JtW8Nde8cwklLk_mm7K8-A) [[Image: RealHack]](https://realhack.lk/) [[Image: RootSprout]](https://share.google/SvznDmU1e9iS0Jexi) [[Image: Singularity]](https://www.singularitytech.in/) [[Image: SSN Coding Club]](https://www.ssncodingclub.site/) [[Image: Anant]](https://www.anantnitkkr.com/) [[Image: Avinya]](https://avinya.devcommnsut.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc-nNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf5vRFXe-gt4QV06fWqzCc4yID_3dwagXuYOFT_-X4HrqF4Ue8F8pd5K5Lqmw_aem_dhAhdUrT3b5mW7EuvCEQVA) [[Image: Elite Coders]](https://share.google/2pHrmY6hO4qfqsy2w) [[Image: GB RBU]](https://share.google/1q2VWzriZ5yRzkvfH) [[Image: GDG LLLM University]](https://gdg.community.dev/gdg-on-campus-iilm-university-greater-noida-india/) [[Image: Hack NITR]](https://www.hackathon.com/event/hacknitr-5e4d683c926b91001b7d1215) [[Image: Hack With GDG]](https://share.google/HCD7n1wzRruVQmEC5) [[Image: HackInnovation]](https://electrothon.nith.ac.in/) [[Image: HackTU]](https://hacktu.ccstiet.com/) [[Image: Meraki]](https://meraki.iiitu.ac.in/) [[Image: Microsoft Fabric]](https://community.fabric.microsoft.com/) [[Image: Nerds]](https://www.nerdsnitsilchar.in/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQc8OdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacFM_5uGAuPONzXIMSz7ejEYa5KGGjGJG-q9tTUqjU9Dubny9qfDvJPxnNflQ_aem_JtW8Nde8cwklLk_mm7K8-A) [[Image: RealHack]](https://realhack.lk/) [[Image: RootSprout]](https://share.google/SvznDmU1e9iS0Jexi) [[Image: Singularity]](https://www.singularitytech.in/) [[Image: SSN Coding Club]](https://www.ssncodingclub.site/)
-
-/$ $
+[Anant](https://www.anantnitkkr.com/) [Avinya](https://avinya.devcommnsut.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc-nNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf5vRFXe-gt4QV06fWqzCc4yID_3dwagXuYOFT_-X4HrqF4Ue8F8pd5K5Lqmw_aem_dhAhdUrT3b5mW7EuvCEQVA) [Elite Coders](https://share.google/2pHrmY6hO4qfqsy2w) [GB RBU](https://share.google/1q2VWzriZ5yRzkvfH) [GDG LLLM University](https://gdg.community.dev/gdg-on-campus-iilm-university-greater-noida-india/) [Hack NITR](https://www.hackathon.com/event/hacknitr-5e4d683c926b91001b7d1215) [Hack With GDG](https://share.google/HCD7n1wzRruVQmEC5) [HackInnovation](https://electrothon.nith.ac.in/) [HackTU](https://hacktu.ccstiet.com/) [Meraki](https://meraki.iiitu.ac.in/) [Microsoft Fabric](https://community.fabric.microsoft.com/) [Nerds](https://www.nerdsnitsilchar.in/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQc8OdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacFM_5uGAuPONzXIMSz7ejEYa5KGGjGJG-q9tTUqjU9Dubny9qfDvJPxnNflQ_aem_JtW8Nde8cwklLk_mm7K8-A) [RealHack](https://realhack.lk/) [RootSprout](https://share.google/SvznDmU1e9iS0Jexi) [Singularity](https://www.singularitytech.in/) [SSN Coding Club](https://www.ssncodingclub.site/) [Anant](https://www.anantnitkkr.com/) [Avinya](https://avinya.devcommnsut.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgQc-nNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf5vRFXe-gt4QV06fWqzCc4yID_3dwagXuYOFT_-X4HrqF4Ue8F8pd5K5Lqmw_aem_dhAhdUrT3b5mW7EuvCEQVA) [Elite Coders](https://share.google/2pHrmY6hO4qfqsy2w) [GB RBU](https://share.google/1q2VWzriZ5yRzkvfH) [GDG LLLM University](https://gdg.community.dev/gdg-on-campus-iilm-university-greater-noida-india/) [Hack NITR](https://www.hackathon.com/event/hacknitr-5e4d683c926b91001b7d1215) [Hack With GDG](https://share.google/HCD7n1wzRruVQmEC5) [HackInnovation](https://electrothon.nith.ac.in/) [HackTU](https://hacktu.ccstiet.com/) [Meraki](https://meraki.iiitu.ac.in/) [Microsoft Fabric](https://community.fabric.microsoft.com/) [Nerds](https://www.nerdsnitsilchar.in/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQc8OdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacFM_5uGAuPONzXIMSz7ejEYa5KGGjGJG-q9tTUqjU9Dubny9qfDvJPxnNflQ_aem_JtW8Nde8cwklLk_mm7K8-A) [RealHack](https://realhack.lk/) [RootSprout](https://share.google/SvznDmU1e9iS0Jexi) [Singularity](https://www.singularitytech.in/) [SSN Coding Club](https://www.ssncodingclub.site/)
 
 #### TIMELINE
 
@@ -19874,8 +14853,6 @@ MEDIA PARTNERS
 
 15 March 2026
 
-/$ $
-
 #### RUN OF SHOW
 
 DAY 1 DAY 2 DAY 3
@@ -19892,19 +14869,13 @@ Attendee Check-In
 
 Inauguration/Opening Ceremony
 
-📍 Auditorium
-
 ###### 2:20 PM
 
 Organisations introduction
 
-📍 Auditorium
-
 ###### 3:00 PM
 
 Mini events introduction
-
-📍 Auditorium
 
 ###### 4:00 PM
 
@@ -19936,13 +14907,7 @@ Dinner
 
 📍 Mess
 
-/$ $
-
-[Image: Testimonials Background]
-
 #### TESTIMONIALS
-
-[Image: Purva Uppal]
 
 Purva Uppal
 
@@ -19952,885 +14917,237 @@ Purva Uppal
 
 ✨ Thrilled to share this achievement! ✨ My team and I participated in Electrothon 7.0, organized by SPEC, NIT Hamirpur, in association with Major League Hacking (MLH), where we built DecentraVault, a decentralized file management system focused on security and decentralization...
 
-[Image: Purva Uppal post]
-
-[Image: Ms Vaani]
-
 Ms Vaani
 
-6mo ago
-
-𝕏
-
 ⚡ Electrothon 7.0, The Colosseum of Code ⚡ Nestled in the serene yet electrifying aura of NIT Hamirpur, I embarked on an odyssey where logic met creativity, and caffeine fueled perseverance sculpted innovation...
-
-[Image: Ms Vaani post]
-
-[Image: Rohan Mishra]
 
 Rohan Mishra
 
 5mo ago
 
-𝕏
-
 Thrilled to have participated in the electrifying Electrothon 7.0 organized by SPEC_NITH at our college! It was my first hackathon and the experience was exhilarating 🔥 We participated in this prestigious hackathon where sponsors posed diverse track challenges for participants...
-
-[Image: Rohan Mishra post]
-
-[Image: ObsiHive]
 
 ObsiHive
 
-6mo ago
-
-𝕏
-
 🚀 TheObsidian at Electrothon 7.0, NIT Hamirpur Hackathon! Our team, TheObsidian, had an incredible experience at Electrothon 7.0, the hackathon hosted by NIT Hamirpur! We built a project focused on web scraping, pushing our skills to the next level...
-
-[Image: ObsiHive post]
-
-[Image: Aarya Jamwal]
 
 Aarya Jamwal
 
-6mo ago
-
-𝕏
-
 ✨ Electrothon 7.0, A 36-Hour Journey of Innovation & Learning! ✨ This weekend, I had the incredible opportunity to participate in Electrothon 7.0 at NIT Hamirpur...
-
-[Image: Aarya Jamwal post]
-
-[Image: Tania Sathwara]
 
 Tania Sathwara
 
-6mo ago
-
-𝕏
-
 💙 Proud to have built AnnSetu as our project for Electrothon 7.0, Colosseum Of Code at NIT Hamirpur...
 
-[Image: Tania Sathwara post]
-
-/$ $
-
 ##### LEAD ORGANIZERS
-
-PLAYER · READY
-
-[Image: Kritika Singh]
 
 Kritika Singh
 
 Lead Organizer
 
-PLAYER · READY
-
-[Image: Soham Juneja]
-
 Soham Juneja
-
-Lead Organizer
-
-PLAYER · READY
-
-[Image: Tejasv Singh Hada]
 
 Tejasv Singh Hada
 
-Lead Organizer
-
 ###### ORGANIZERS
 
-PLAYER · READY
-
-[Image: Aman Mishra]
-
 Aman Mishra
 
 Organizer
 
-PLAYER · READY
-
-[Image: Arpit Singh]
-
 Arpit Singh
-
-Organizer
-
-PLAYER · READY
-
-[Image: Ashish Rajpal]
 
 Ashish Rajpal
 
-Organizer
-
-PLAYER · READY
-
-[Image: Ashish Singh]
-
 Ashish Singh
-
-Organizer
-
-PLAYER · READY
-
-[Image: Avinash]
 
 Avinash
 
-Organizer
-
-PLAYER · READY
-
-[Image: Devesh Jangid]
-
 Devesh Jangid
-
-Organizer
-
-PLAYER · READY
-
-[Image: Hardik Manchandha]
 
 Hardik Manchandha
 
-Organizer
-
-PLAYER · READY
-
-[Image: Harsh Aryan]
-
 Harsh Aryan
-
-Organizer
-
-PLAYER · READY
-
-[Image: Ishita Khanduja]
 
 Ishita Khanduja
 
-Organizer
-
-PLAYER · READY
-
-[Image: Jashnika Sankhua]
-
 Jashnika Sankhua
-
-Organizer
-
-PLAYER · READY
-
-[Image: Kanika Thakur]
 
 Kanika Thakur
 
-Organizer
-
-PLAYER · READY
-
-[Image: Prajualit Tickoo]
-
 Prajualit Tickoo
-
-Organizer
-
-PLAYER · READY
-
-[Image: Prince]
 
 Prince
 
-Organizer
-
-PLAYER · READY
-
-[Image: Raghav Jatic]
-
 Raghav Jatic
-
-Organizer
-
-PLAYER · READY
-
-[Image: Riya Singh]
 
 Riya Singh
 
-Organizer
-
-PLAYER · READY
-
-[Image: Shanpreet Singh]
-
 Shanpreet Singh
-
-Organizer
-
-PLAYER · READY
-
-[Image: Shivansh Bhatnagar]
 
 Shivansh Bhatnagar
 
-Organizer
-
-PLAYER · READY
-
-[Image: Shreshth Sharma]
-
 Shreshth Sharma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Sona]
 
 Sona
 
-Organizer
-
-PLAYER · READY
-
-[Image: Vaibhav Sharma]
-
 Vaibhav Sharma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Vyom Sharma]
 
 Vyom Sharma
 
-Organizer
-
-PLAYER · READY
-
-[Image: Rajvil Choudhary]
-
 Rajvil Choudhary
-
-Organizer
-
-PLAYER · READY
-
-[Image: Aman Mishra]
 
 Aman Mishra
 
-Organizer
-
-PLAYER · READY
-
-[Image: Arpit Singh]
-
 Arpit Singh
-
-Organizer
-
-PLAYER · READY
-
-[Image: Ashish Rajpal]
 
 Ashish Rajpal
 
-Organizer
-
-PLAYER · READY
-
-[Image: Ashish Singh]
-
 Ashish Singh
-
-Organizer
-
-PLAYER · READY
-
-[Image: Avinash]
 
 Avinash
 
-Organizer
-
-PLAYER · READY
-
-[Image: Devesh Jangid]
-
 Devesh Jangid
-
-Organizer
-
-PLAYER · READY
-
-[Image: Hardik Manchandha]
 
 Hardik Manchandha
 
-Organizer
-
-PLAYER · READY
-
-[Image: Harsh Aryan]
-
 Harsh Aryan
-
-Organizer
-
-PLAYER · READY
-
-[Image: Ishita Khanduja]
 
 Ishita Khanduja
 
-Organizer
-
-PLAYER · READY
-
-[Image: Jashnika Sankhua]
-
 Jashnika Sankhua
-
-Organizer
-
-PLAYER · READY
-
-[Image: Kanika Thakur]
 
 Kanika Thakur
 
-Organizer
-
-PLAYER · READY
-
-[Image: Prajualit Tickoo]
-
 Prajualit Tickoo
-
-Organizer
-
-PLAYER · READY
-
-[Image: Prince]
 
 Prince
 
-Organizer
-
-PLAYER · READY
-
-[Image: Raghav Jatic]
-
 Raghav Jatic
-
-Organizer
-
-PLAYER · READY
-
-[Image: Riya Singh]
 
 Riya Singh
 
-Organizer
-
-PLAYER · READY
-
-[Image: Shanpreet Singh]
-
 Shanpreet Singh
-
-Organizer
-
-PLAYER · READY
-
-[Image: Shivansh Bhatnagar]
 
 Shivansh Bhatnagar
 
-Organizer
-
-PLAYER · READY
-
-[Image: Shreshth Sharma]
-
 Shreshth Sharma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Sona]
 
 Sona
 
-Organizer
-
-PLAYER · READY
-
-[Image: Vaibhav Sharma]
-
 Vaibhav Sharma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Vyom Sharma]
 
 Vyom Sharma
 
-Organizer
-
-PLAYER · READY
-
-[Image: Rajvil Choudhary]
-
 Rajvil Choudhary
 
-Organizer
-
-PLAYER · READY
-
-[Image: Abhinav Mishra]
-
 Abhinav Mishra
-
-Organizer
-
-PLAYER · READY
-
-[Image: Adarsh Singh]
 
 Adarsh Singh
 
-Organizer
-
-PLAYER · READY
-
-[Image: Aditya Kumar]
-
 Aditya Kumar
-
-Organizer
-
-PLAYER · READY
-
-[Image: Archita Agarwal]
 
 Archita Agarwal
 
-Organizer
-
-PLAYER · READY
-
-[Image: Arpit Tyagi]
-
 Arpit Tyagi
-
-Organizer
-
-PLAYER · READY
-
-[Image: Arya Thakur]
 
 Arya Thakur
 
-Organizer
-
-PLAYER · READY
-
-[Image: Avaneesh]
-
 Avaneesh
-
-Organizer
-
-PLAYER · READY
-
-[Image: Gauri Sharma]
 
 Gauri Sharma
 
-Organizer
-
-PLAYER · READY
-
-[Image: Harsh Verma]
-
 Harsh Verma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Kaustav Rana]
 
 Kaustav Rana
 
-Organizer
-
-PLAYER · READY
-
-[Image: Manan Gupta]
-
 Manan Gupta
-
-Organizer
-
-PLAYER · READY
-
-[Image: Mayank Koundal]
 
 Mayank Koundal
 
-Organizer
-
-PLAYER · READY
-
-[Image: Medha Sharma]
-
 Medha Sharma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Nishita]
 
 Nishita
 
-Organizer
-
-PLAYER · READY
-
-[Image: Peeyush Gautam]
-
 Peeyush Gautam
-
-Organizer
-
-PLAYER · READY
-
-[Image: Prakul Chandra]
 
 Prakul Chandra
 
-Organizer
-
-PLAYER · READY
-
-[Image: Pratham Lodha]
-
 Pratham Lodha
-
-Organizer
-
-PLAYER · READY
-
-[Image: Rijul Rangta]
 
 Rijul Rangta
 
-Organizer
-
-PLAYER · READY
-
-[Image: Ronak Dotasara]
-
 Ronak Dotasara
-
-Organizer
-
-PLAYER · READY
-
-[Image: Shreya Dhawan]
 
 Shreya Dhawan
 
-Organizer
-
-PLAYER · READY
-
-[Image: Vaishali Bhatt]
-
 Vaishali Bhatt
-
-Organizer
-
-PLAYER · READY
-
-[Image: Vaishnavi Sharma]
 
 Vaishnavi Sharma
 
-Organizer
-
-PLAYER · READY
-
-[Image: Vanni Chauhan]
-
 Vanni Chauhan
-
-Organizer
-
-PLAYER · READY
-
-[Image: Vanya Sharma]
 
 Vanya Sharma
 
-Organizer
-
-PLAYER · READY
-
-[Image: Vidhi]
-
 Vidhi
-
-Organizer
-
-PLAYER · READY
-
-[Image: Vyom Pant]
 
 Vyom Pant
 
-Organizer
-
-PLAYER · READY
-
-[Image: Yash Verma]
-
 Yash Verma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Abhinav Mishra]
 
 Abhinav Mishra
 
-Organizer
-
-PLAYER · READY
-
-[Image: Adarsh Singh]
-
 Adarsh Singh
-
-Organizer
-
-PLAYER · READY
-
-[Image: Aditya Kumar]
 
 Aditya Kumar
 
-Organizer
-
-PLAYER · READY
-
-[Image: Archita Agarwal]
-
 Archita Agarwal
-
-Organizer
-
-PLAYER · READY
-
-[Image: Arpit Tyagi]
 
 Arpit Tyagi
 
-Organizer
-
-PLAYER · READY
-
-[Image: Arya Thakur]
-
 Arya Thakur
-
-Organizer
-
-PLAYER · READY
-
-[Image: Avaneesh]
 
 Avaneesh
 
-Organizer
-
-PLAYER · READY
-
-[Image: Gauri Sharma]
-
 Gauri Sharma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Harsh Verma]
 
 Harsh Verma
 
-Organizer
-
-PLAYER · READY
-
-[Image: Kaustav Rana]
-
 Kaustav Rana
-
-Organizer
-
-PLAYER · READY
-
-[Image: Manan Gupta]
 
 Manan Gupta
 
-Organizer
-
-PLAYER · READY
-
-[Image: Mayank Koundal]
-
 Mayank Koundal
-
-Organizer
-
-PLAYER · READY
-
-[Image: Medha Sharma]
 
 Medha Sharma
 
-Organizer
-
-PLAYER · READY
-
-[Image: Nishita]
-
 Nishita
-
-Organizer
-
-PLAYER · READY
-
-[Image: Peeyush Gautam]
 
 Peeyush Gautam
 
-Organizer
-
-PLAYER · READY
-
-[Image: Prakul Chandra]
-
 Prakul Chandra
-
-Organizer
-
-PLAYER · READY
-
-[Image: Pratham Lodha]
 
 Pratham Lodha
 
-Organizer
-
-PLAYER · READY
-
-[Image: Rijul Rangta]
-
 Rijul Rangta
-
-Organizer
-
-PLAYER · READY
-
-[Image: Ronak Dotasara]
 
 Ronak Dotasara
 
-Organizer
-
-PLAYER · READY
-
-[Image: Shreya Dhawan]
-
 Shreya Dhawan
-
-Organizer
-
-PLAYER · READY
-
-[Image: Vaishali Bhatt]
 
 Vaishali Bhatt
 
-Organizer
-
-PLAYER · READY
-
-[Image: Vaishnavi Sharma]
-
 Vaishnavi Sharma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Vanni Chauhan]
 
 Vanni Chauhan
 
-Organizer
-
-PLAYER · READY
-
-[Image: Vanya Sharma]
-
 Vanya Sharma
-
-Organizer
-
-PLAYER · READY
-
-[Image: Vidhi]
 
 Vidhi
 
-Organizer
-
-PLAYER · READY
-
-[Image: Vyom Pant]
-
 Vyom Pant
 
-Organizer
-
-PLAYER · READY
-
-[Image: Yash Verma]
-
 Yash Verma
-
-Organizer
-
-/$ $
-
-[Image: FAQ Background]
 
 ##### Frequently asked questions
 
@@ -20852,16 +15169,12 @@ How does Electrothon promote diversity?
 
 We believe that diversity is for all of us. Electrothon supports competitors from different regions, religions, the specially-abled, beginners, people of color, and everybody who dreams of greatness.
 
-/$ $ /$ $ /$
-
 ### Website 82: DUWiT Hacks
 - Card URL: [https://duwithacks.com](https://duwithacks.com)
 - Referenced by: DUWiT Hacks
 - Rendered title: DUWiT Hacks 2026
 - Final URL: [https://duwithacks.com/](https://duwithacks.com/)
 - Expanded FAQ/accordion controls: 11
-
-[Image: DUWiT Hacks Logo]
 
 [About](https://duwithacks.com/#About)
 
@@ -20876,8 +15189,6 @@ We believe that diversity is for all of us. Electrothon supports competitors fro
 7 - 8th March 2026
 
 Durham University
-
-[Image: Hero Image] [Image: Hero Image]
 
 Sign Up Now Submit Your CV
 
@@ -20897,31 +15208,11 @@ Running over 24-hours, DUWiT Hacks is a project creation competition, bringing t
 
 ###### Champion
 
-?
-
-?
-
 ###### Podium Finisher
-
-?
-
-?
 
 ###### Pit Crew
 
-?
-
-?
-
-[Image: Partners Section]
-
 ##### Partners
-
-[Image: Hackathons UK Logo] [Image: Hackathons UK Logo] [Image: MLH Logo]
-
-[Image: Partners Section Bottom]
-
-[Image: car] [Image: car]
 
 ##### FAQs
 
@@ -20965,19 +15256,17 @@ I have another question.
 
 Reach out via email at hello@duwithacks.com.
 
-[Image: car]
-
 ##### Contact Us
 
-[Image: Flag]Email: hello@duwithacks.com
+Email: hello@duwithacks.com
 
-[Image: Flag]Instagram: [@duwithacks](https://www.instagram.com/duwithacks/)
+Instagram: [@duwithacks](https://www.instagram.com/duwithacks/)
 
-[Image: Flag]Tiktok: [@duwit.hacks](https://www.tiktok.com/@duwit.hacks)
+Tiktok: [@duwit.hacks](https://www.tiktok.com/@duwit.hacks)
 
-[Image: Flag]LinkedIn: [DUWiT Hacks](https://www.linkedin.com/company/duwit-hacks/)
+LinkedIn: [DUWiT Hacks](https://www.linkedin.com/company/duwit-hacks/)
 
-[Image: Flag]Sponsors: sponsor@duwithacks.com
+Sponsors: sponsor@duwithacks.com
 
 ### Website 83: HackCU12
 - Card URL: [https://www.hackcu.org/](https://www.hackcu.org/)
@@ -20985,10 +15274,6 @@ Reach out via email at hello@duwithacks.com.
 - Rendered title: HackCU — Hackathon World Cup | HackCU
 - Final URL: [https://www.hackcu.org/](https://www.hackcu.org/)
 - Expanded FAQ/accordion controls: 11
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: HackCU Logo]
 
 HackCU presents...
 
@@ -21056,8 +15341,6 @@ Sunday, March 8
 
 12:00 PM
 
-###### Lunch
-
 12:00 PM - 1:00 PM
 
 ###### Project Expo / Judging
@@ -21094,23 +15377,11 @@ Show more
 
 ###### All Beginner
 
-Max teammates: 4
-
 Hackathons are a great way for beginners in technology to learn by doing. From workshops to software resources provided by HackCU, we want first-time hackers to feel supported as they build their…
-
-Show more
-
-**Prizes:** Prizes TBD
 
 ###### Social Impact
 
-Max teammates: 4
-
 Technology is a powerful tool for social good. This track is for projects that identify and address problems in our local community—whether in mental health, education, sustainability, equity, or…
-
-Show more
-
-**Prizes:** Prizes TBD
 
 [Nonprofit Project Document (PDF)](https://www.hackcu.org/Nonprofit-Project-Document.pdf)
 
@@ -21122,14 +15393,10 @@ Max teammates: 2
 
 Join our Red Bull Basement–inspired track to turn an AI-powered idea for better student life into a one-pager, a 60-second video, and a prototype over the weekend—then optionally use that work to…
 
-Show more
-
 - Phase 1: Idea & one-pager
 - Phase 2: Selection round (OPTIONAL: Speak with judges/mentors for feedback/guidance)
 - Phase 3: 60-second video
 - Phase 4: Pitch & prototype
-
-**Prizes:** Prizes TBD
 
 [Red Bull Basement USA 2026 →](https://www.redbull.com/us-en/events/red-bull-basement-usa-2026/) [How it works](https://www.redbull.com/us-en/events/red-bull-basement-usa-2026/red-bull-basement-how-it-works) [FAQ](https://www.redbull.com/us-en/events/red-bull-basement-usa-2026/red-bull-basement-2026-faq)
 
@@ -21266,8 +15533,6 @@ Register now and secure your spot at World Cup Hackathon 2026
 - Final URL: [https://cmd-f.nwplus.io/](https://cmd-f.nwplus.io/)
 - Expanded FAQ/accordion controls: 2
 
-[Image: cmd-f Logo]
-
 #### Western Canada's largest hackathon celebrating underrepresented genders in tech
 
 March 7-8, 2026 | In-person at Life Sciences Institute
@@ -21278,15 +15543,9 @@ Become a Sponsor, [Volunteer](https://forms.gle/nQGvJJzcYsHaRRj87) or [Photograp
 
 Applications close in:
 
-[Image: A deer holding a stopwatch]
-
 ##### 00 m
 
-##### :
-
 ##### 00 s
-
-[Image: A toast butterfly flying up] [Image: A toast butterfly flying left]
 
 Step into the world of Wonderland
 
@@ -21306,23 +15565,13 @@ Our Main Values
 
 Select a card to read more
 
-[Image: Build Confidence] [Image: Build Confidence Text]
-
-[Image: Learn Together] [Image: Learn Together Text]
-
-[Image: Explore In A Safe Space] [Image: Explore In A Safe Space Text]
-
 Last year we had...
-
-[Image: Workshop Sign] [Image: Cloud] [Image: Tea party]
 
 ###### Setting Up Your Project For Success
 
 March 2, 2026
 
 Every great project starts with clarity, not code. This workshop focuses on problem discovery and ideation, guiding you through creating a lightweight Product Requirements Document (PRD) for an in-house Pomodoro app (built exclusively by nwPlus members).
-
-[Image: Next]
 
 Join us @cmd-f HackWeek!
 
@@ -21335,10 +15584,6 @@ Each workshop offers practical guidance to help you bring ideas from concept to 
 For more resources, check out our [website](https://www.nwplus.io/) and [self-learning wiki](https://resources.nwplus.io/).
 
 Keynote Speakers
-
-[Image: Cat]
-
-[Image: video polaroid]
 
 2025 Unfolded
 
@@ -21386,52 +15631,6 @@ Sponsor us!
 
 The Master of Digital Media (MDM) is a 16-month professional master’s program that takes you beyond the classroom. You’ll design and develop digital products, solve problems for real clients, and build the leadership and collaboration skills employers want most. With 96% of graduates employed within one year, MDM alumni are now leading teams, launching startups, and shaping the future of digital media at Fortune 500 companies, fast-growing startups, and mission-driven organizations worldwide.
 
-[[Image: Sponsor Logo]](https://1password.com/careers)
-
-[[Image: Sponsor Logo]](https://thecdm.ca/)
-
-[[Image: Sponsor Logo]](https://www.joingigsup.com/)
-
-[[Image: Sponsor Logo]](https://www.routific.com)
-
-[[Image: Sponsor Logo]](https://www.bcitsa.ca/)
-
-[[Image: Sponsor Logo]](https://www.cse-cst.gc.ca/en)
-
-[[Image: Sponsor Logo]](https://github.com)
-
-[[Image: Sponsor Logo]](https://smartcohort.org)
-
-[[Image: Sponsor Logo]](https://www.paraform.com/)
-
-[[Image: Sponsor Logo]](https://alumni.ubc.ca/about/student-alumni-council/)
-
-[[Image: Sponsor Logo]](https://lovable.dev/)
-
-[[Image: Sponsor Logo]](https://pacificcoastalcomputing.ca/)
-
-[[Image: Sponsor Logo]](https://www.microsoft.com/)
-
-[[Image: Sponsor Logo]](https://elevenlabs.io/)
-
-[[Image: Sponsor Logo]](https://www.koerners.ca/)
-
-[[Image: Sponsor Logo]](https://toolhouse.ai/)
-
-[[Image: Sponsor Logo]](https://spinsociety.ca/)
-
-[[Image: Sponsor Logo]](https://www.ideamatch.ai/)
-
-[[Image: Sponsor Logo]](https://minuteman.com/ca/)
-
-[[Image: Sponsor Logo]](https://www.revivalounge.ca/?gad_source=1&gad_campaignid=23570826639&gbraid=0AAAABCqaBP8sUmeOpcWPZBnAWgGcvIIgo&gclid=CjwKCAiAh5XNBhAAEiwA_Bu8FWgp5_1nI-IDILtgL78E7VvUhz3L8qMhr4_pRvjwe8Gpp39IMQ9xQhoCKJsQAvD_BwE)
-
-[[Image: Sponsor Logo]](https://www.stevespokebar.ca/)
-
-[[Image: Sponsor Logo]](https://www.barrys.com/studio/vancouver/)
-
-[[Image: Sponsor Logo]](https://limegee.com/)
-
 cmd-f takes place on the xʷməθkʷəy̓əm (Musqueam) and səlilwətaɬ (Tsleil-Waututh) territory. As we build tomorrow's tech community, we recognize our responsibility to understand and respect Indigenous histories. To learn more, visit [xwi7xwa's Research Guide.](https://guides.library.ubc.ca/xwi7xwaresearchguide)
 
 Email Us Become a Sponsor [Code of Conduct](http://hackp.ac/coc)
@@ -21451,20 +15650,6 @@ Copyright © cmd-f 2026
 - Final URL: [https://www.sasehacks.com/](https://www.sasehacks.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Hero background]
-
-[Image: Keycap 1]
-
-[Image: Keycap 2]
-
-[Image: Keycap 3]
-
-[Image: Keycap 4]
-
-[Image: SASEHacks Mascot]
-
-[Image: SASE HACKS]
-
 📍 Gainesville, FL
 
 📅 March 7-8, 2026
@@ -21473,55 +15658,9 @@ Build something amazing in 24 hours. Meet new teammates, learn from mentors, and
 
 [JOIN DISCORD](https://discord.gg/gJJVmEPzc6) [DEVPOST](https://sasehacks.devpost.com/) [HACKER GUIDE](https://www.notion.so/SASEHacks-2026-Hacker-Guide-3199fa3e113580e993caf4e3832d7aa8)
 
-↓
-
-[Image: GBM 4]
-
-[Image: Event Photo 2]
-
-[Image: Event Photo 3]
-
-[Image: GBM 4]
-
-[Image: Event Photo 2]
-
-[Image: Event Photo 3]
-
-[Image: GBM 4]
-
-[Image: Event Photo 2]
-
-[Image: Event Photo 3]
-
-[Image: GBM 4]
-
-[Image: Event Photo 2]
-
-[Image: Event Photo 3]
-
-[Image: Cloud Background]
-
-[Image: Yellow]
-
-[Image: Blue]
-
-[Image: Orange]
-
-[Image: Green]
-
 SASEHacks is a 24 hour long hackathon where students make a project that solves a real world problem, showcases their technical creativity, and brings their unique perspective to life through code.
 
-[Image: About Blocks]
-
-[Image: Us Blocks]
-
-[Image: Shark Mascot]
-
-[Image: Underwater Background]
-
 ##### Tracks & Prizes
-
-[Image: Bubble Background]
 
 Best Overall
 
@@ -21531,8 +15670,6 @@ Sponsor: UF SASE Prize: Mechanical Keyboard
 
 Awarded to unparalleled excellence in a project's innovation and execution.
 
-[Image: Bubble Background]
-
 Track
 
 ###### Best Finance Project
@@ -21541,8 +15678,6 @@ Sponsor: UF SASE Prize: JBL Speaker
 
 Create a program that helps users manage money, improve financial literacy, or make informed financial decisions.
 
-[Image: Bubble Background]
-
 Track
 
 ###### Best Art Project
@@ -21550,8 +15685,6 @@ Track
 Sponsor: UF SASE Prize: Botanical LEGO Set
 
 Create a program that showcases creativity through design, media, or interactive art.
-
-[Image: Bubble Background]
 
 Challenge
 
@@ -21563,8 +15696,6 @@ Vultr empowers hackers to bring their high-performance projects to life instantl
 
 Read more
 
-[Image: Bubble Background]
-
 Challenge
 
 ###### Best Use of MongoDB Atlas
@@ -21574,16 +15705,6 @@ Sponsor: MLH Prize: M5Stack IoT Kit
 MongoDB Atlas takes the leading modern database and makes it accessible in the cloud! Get started with a $50 credit for students or sign up for the Atlas free forever tier (no credit card required). Along with a suite of services and functionalities, you'll ha...
 
 Read more
-
-[Image: Mascot in Bubble]
-
-[Image: Small Bubbles]
-
-[Image: Small Bubbles]
-
-[Image: Underwater Reefs]
-
-[Image: Schedule Background]
 
 ##### SCHEDULE
 
@@ -21599,13 +15720,9 @@ DAY 1 DAY 2
 
 ###### Opening Ceremony
 
-📍 WEIM 1064
-
 9:45 AM
 
 ###### Team Formation Social
-
-📍 WEIM 1064
 
 10:00 AM
 
@@ -21633,25 +15750,17 @@ DAY 1 DAY 2
 
 ###### SHPE's React Based Component Libraries Workshop
 
-📍 WEIM 1076
-
 3:00 PM
 
 ###### Lawn Social & TechTogether Networking
-
-📍 WEIM 1070
 
 4:00 PM
 
 ###### WiCSE's Game Development Workshop
 
-📍 WEIM 1076
-
 5:00 PM
 
 ###### SPCB's PC Building Workshop
-
-📍 WEIM 1070
 
 7:00 PM
 
@@ -21663,21 +15772,13 @@ DAY 1 DAY 2
 
 ###### Movie Social & Photobooth
 
-📍 WEIM 1070
-
 Schedule is subject to change. Stay tuned for updates closer to the event!
-
-[Image: Schedule Mascot]
-
-[Image: Sponsor Background]
-
-[Image: Sponsor Mascot]
 
 ##### SPONSORS
 
 Thank you to our amazing sponsors who make SASEHacks possible!
 
-[[Image: ECE - Department of Experiental Learning]](https://www.ece.ufl.edu/academics/undergraduate/experiential-learning/) [[Image: Blue Origin]](https://blueorigin.com/) [[Image: ExxonMobil]](https://exxonmobil.com/) [[Image: P&G]](https://pg.com/) [[Image: Sandia]](https://sandia.gov/) [[Image: AkioAI]](https://akioai.com/) [[Image: DSI]](https://www.ufdsi.com/) [[Image: First Florida Credit Union]](https://www.firstflorida.org/) [[Image: Alive Credit Union]](https://www.alivecu.coop/) [[Image: Florida Community Innovation]](https://floridainnovation.org/) [[Image: Pure Buttons]](https://mlh.link/MLH-PureButtons-hackathons) [[Image: Celsius]](https://www.celsius.com/) [[Image: Snag]](https://snagdelivery.app/) [[Image: DalMoros Pasta Lab]](https://dalmoros.us/) [[Image: Dominos]](https://www.dominos.com/) [[Image: VuPlay]](https://vuplaycreative.carrd.co/) [[Image: FDOT]](https://www.fdot.gov/)
+[ECE - Department of Experiental Learning](https://www.ece.ufl.edu/academics/undergraduate/experiential-learning/) [Blue Origin](https://blueorigin.com/) [ExxonMobil](https://exxonmobil.com/) [P&G](https://pg.com/) [Sandia](https://sandia.gov/) [AkioAI](https://akioai.com/) [DSI](https://www.ufdsi.com/) [First Florida Credit Union](https://www.firstflorida.org/) [Alive Credit Union](https://www.alivecu.coop/) [Florida Community Innovation](https://floridainnovation.org/) [Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons) [Celsius](https://www.celsius.com/) [Snag](https://snagdelivery.app/) [DalMoros Pasta Lab](https://dalmoros.us/) [Dominos](https://www.dominos.com/) [VuPlay](https://vuplaycreative.carrd.co/) [FDOT](https://www.fdot.gov/)
 
 ##### BECOME A SPONSOR
 
@@ -21699,25 +15800,9 @@ We offer various sponsorship tiers to fit your organization's goals and budget. 
 
 Operations
 
-[Image: Pryanna Pradhan] [Image: Frankie Lin] [Image: Tiffany Chen] [Image: Alexander Ngov]
-
-[Image: Man Kai Andrew Ho]
-
-[Image: Partner section background]
-
-[Image: Student organization partners]
-
-[[Image: GatorAI]](https://www.ufgatorai.info/) [[Image: Open Source Club]](https://ufosc.org/) [[Image: PC Building Club]](https://www.spcbatuf.org/) [[Image: WiCSE]](https://ufwicse.com/) [[Image: SHPE]](https://www.shpeuf.com/)
+[GatorAI](https://www.ufgatorai.info/) [Open Source Club](https://ufosc.org/) [PC Building Club](https://www.spcbatuf.org/) [WiCSE](https://ufwicse.com/) [SHPE](https://www.shpeuf.com/)
 
 Shoutout to our amazing student organizations partners! Check out their websites by clicking on the cards.
-
-[Image: FAQ Background]
-
-[Image: FAQ Flag]
-
-[Image: FAQ Mascot]
-
-[Image: Wind and Leaves]
 
 what is SASEHacks?+
 
@@ -21745,8 +15830,6 @@ Pick a track and build almost anything you want! If you want a prize, build some
 
 [Join Discord](https://discord.gg/gJJVmEPzc6) [Devpost](https://sasehacks.devpost.com/)
 
-$ /$
-
 ### Website 86: AceHack 5.0
 - Card URL: [https://acehack.uem.edu.in/](https://acehack.uem.edu.in/)
 - Referenced by: AceHack 5.0
@@ -21760,8 +15843,6 @@ $ /$
 - Expanded FAQ/accordion controls: 0
 
 Artificial Intelligence Society Presents
-
-[Image: Graffitti outer] [Image: Graffitti inner] [Image: hackAi Logo]
 
 March 7-8, 2026
 
@@ -21787,18 +15868,10 @@ till hacking begins
 
 #### HACKAI 2025 had...
 
-[Image: Bear Mascot]
-
-[Image: Hackers Count]
-
 ##### 250+ hackers
-
-[Image: Prize Money]
 
 ##### $3000
 in prizes
-
-[Image: Projects Count]
 
 ##### 50+ Projects
 
@@ -21812,147 +15885,117 @@ Best Beginner Project Dallas AI Data Science/ML Figma General IEEE x TI Build wi
 
 FILTER BY EVENT TYPE:
 
-[Image: MANDATORY] [Image: FOOD] [Image: FUN] [Image: WORKSHOP] [Image: SUPPORT]
-
 Saturday
 
 Sponsor Fair & Hacker Check-In
 
 ECSW Atrium
 
-7:30 AM CST [Image: MANDATORY]
+7:30 AM CST
 
 Opening Ceremony
 
 SSA Auditorium
 
-10:00 AM CST [Image: MANDATORY]
+10:00 AM CST
 
 Team Building Workshop
 
 ECSW 1.355
 
-11:30 AM CST [Image: WORKSHOP]
+11:30 AM CST
 
 RIQE Workshop: Natural Language Processing
 
 ECSW 1.365
 
-12:30 PM CST [Image: WORKSHOP]
+12:30 PM CST
 
 Lunch
 
-ECSW Atrium
-
-1:30 PM CST [Image: FOOD]
+1:30 PM CST
 
 MLH Workshop
 
-ECSW 1.355
-
-2:30 PM CST [Image: WORKSHOP]
+2:30 PM CST
 
 IEEE: AI Privacy Webcam Cover (OpenCV!) Workshop
 
-ECSW 1.365
-
-3:30 PM CST [Image: WORKSHOP]
+3:30 PM CST
 
 AI Academy: Computer Vision
 
-ECSW 1.355
-
-4:30 PM CST [Image: WORKSHOP]
+4:30 PM CST
 
 Industry/Judge Mentor Office Hours
 
 ECSW Bird's Nest
 
-5:30 PM CST [Image: SUPPORT]
+5:30 PM CST
 
 Dinner
 
-ECSW Atrium
-
-7:00 PM CST [Image: FOOD]
+7:00 PM CST
 
 Concert (feat. New Hires)
 
 ECSW Bird's Nest
 
-7:30 PM CST [Image: FUN]
+7:30 PM CST
 
 Devpost Workshop
 
-ECSW 1.365
-
-9:30 PM CST [Image: WORKSHOP]
+9:30 PM CST
 
 DevPost Submissions Due
 
-11:00 PM CST [Image: MANDATORY]
+11:00 PM CST
 
 Sunday
 
 Midnight Snack
 
-ECSW Atrium
-
-12:00 AM CST [Image: FOOD]
+12:00 AM CST
 
 Breakfast Buffet Opens (Suhoor Only)
 
-ECSW Atrium
-
-5:30 AM CST [Image: FOOD]
+5:30 AM CST
 
 Breakfast Reopens
 
-ECSW Atrium
-
-8:00 AM CST [Image: FOOD]
+8:00 AM CST
 
 Breakfast Closes
 
-ECSW Atrium
-
-10:00 AM CST [Image: FOOD]
+10:00 AM CST
 
 Project Submissions Due
 
-11:00 AM CST [Image: MANDATORY]
+11:00 AM CST
 
 Lunch
 
-ECSW Atrium
-
-12:00 PM CST [Image: FOOD]
+12:00 PM CST
 
 Judging Begins
 
 ECSS
 
-1:00 PM CST [Image: MANDATORY]
+1:00 PM CST
 
 Pitch Competition + Judging Ends
 
 ECSW 1.315
 
-2:45 PM CST [Image: MANDATORY]
+2:45 PM CST
 
 Closing Ceremony
 
 ECSW 1.315
 
-3:30 PM CST [Image: MANDATORY]
-
-[Image: crown]
+3:30 PM CST
 
 ##### Keynote Speaker
-
-[Image: exclamation]
-
-[Image: Muhammad Musa]
 
 ###### Muhammad Musa
 
@@ -22004,13 +16047,11 @@ Do you cover travel costs?
 
 Unfortunately, we do not provide for travel costs. Please arrange to get to the ECSW Atrium on Saturday, March 7th, as check-in starts at 7:30AM CST.
 
-[Image: Sponsors]
-
-[[Image: NRVE]](https://www.nrve.org/) [[Image: RIQE]](https://riqe.org/) [[Image: Nebula Labs]](https://www.utdnebula.com/) [[Image: Dallas AI]](https://dallas-ai.org/) [[Image: Texas Instruments]](https://www.ti.com/) [[Image: IEEE UTD]](https://www.ieeeutd.org/) [[Image: Figma]](https://www.figma.com/make/?gclsrc=aw.ds&&utm_source=google&utm_medium=cpc&utm_campaign=21284800681&utm_term=figma&utm_content=765598496377&utm_adgroup=169015407344&gad_source=1&gad_campaignid=21284800681&gbraid=0AAAAACTf0kNk9c92T42hD2A2L8qgOOTx4&gclid=CjwKCAiA2PrMBhA4EiwAwpHyCwPZqidfpF21GHOCGxzioqvPlNpGs1KGNmQNTffEtRXY1Q-1dDJwFxoCSMEQAvD_BwE)
+[NRVE](https://www.nrve.org/) [RIQE](https://riqe.org/) [Nebula Labs](https://www.utdnebula.com/) [Dallas AI](https://dallas-ai.org/) [Texas Instruments](https://www.ti.com/) [IEEE UTD](https://www.ieeeutd.org/) [Figma](https://www.figma.com/make/?gclsrc=aw.ds&&utm_source=google&utm_medium=cpc&utm_campaign=21284800681&utm_term=figma&utm_content=765598496377&utm_adgroup=169015407344&gad_source=1&gad_campaignid=21284800681&gbraid=0AAAAACTf0kNk9c92T42hD2A2L8qgOOTx4&gclid=CjwKCAiA2PrMBhA4EiwAwpHyCwPZqidfpF21GHOCGxzioqvPlNpGs1KGNmQNTffEtRXY1Q-1dDJwFxoCSMEQAvD_BwE)
 
 ##### DONORS
 
-[[Image: Donor]](https://www.4frontes.com/) [[Image: Donor]](https://www.useready.com/) [[Image: Donor]](https://westlakeeyes.com/) [[Image: Donor]](https://www.purebuttons.com/?srsltid=AfmBOop06g6noxfnaR4YLcDqlL-PVOzTV1zrakuz5ReUxTEOTmTQFl59) [[Image: Donor]](https://www.krasamo.com/)
+[Donor](https://www.4frontes.com/) [Donor](https://www.useready.com/) [Donor](https://westlakeeyes.com/) [Donor](https://www.purebuttons.com/?srsltid=AfmBOop06g6noxfnaR4YLcDqlL-PVOzTV1zrakuz5ReUxTEOTmTQFl59) [Donor](https://www.krasamo.com/)
 
 ### Website 88: HackMerced XI
 - Card URL: [https://www.hackmerced.com](https://www.hackmerced.com)
@@ -22019,15 +16060,11 @@ Unfortunately, we do not provide for travel costs. Please arrange to get to the 
 - Final URL: [https://hackmerced.com/](https://hackmerced.com/)
 - Expanded FAQ/accordion controls: 14
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=blue)
-
 - [Home](https://hackmerced.com/)
 - [Become a Judge](https://ucmerced.az1.qualtrics.com/jfe/form/SV_bd9SUxJc0EjVhoq)
 - [About Us](https://hackmerced.com/aboutus)
 - [Contact Us](https://hackmerced.com/contactus)
 - [Register!](https://ucmerced.az1.qualtrics.com/jfe/form/SV_d4LUVvFSuQu6ChM)
-
-[Image: HackMerced X Tower]
 
 #### HackMerced XI @ UC Merced
 
@@ -22048,69 +16085,65 @@ Join our [Discord](https://discord.gg/ShRCuvHcYk) to stay up to date
 
 ##### HackMerced XI Tracks
 
-[Image: Health For Social Good]
-
 #### Health For Social Good
-
-[Image: Cybersecurity]
 
 #### Cybersecurity
 
 ##### frequently asked questions
 
-###### What is a hackathon?[Image: right arrow]
+###### What is a hackathon?
 
 A hackathon is an event where anyone with an interest in technology can attend to learn about technology, build a project, and share it over the course of a weekend to win prizes and more! People from all disciplines, regardless of their experience in programming, are welcome to participate.
 
-###### Do I need to know how to code?[Image: right arrow]
+###### Do I need to know how to code?
 
 No! HackMerced will provide learning resources, workshops, activities, and more. You do not have to code to contribute to a team.
 
-###### I’ve never participated in a hackathon before. Can I participate?[Image: right arrow]
+###### I’ve never participated in a hackathon before. Can I participate?
 
 Yes! HackMerced welcomes people of all experience levels. We will also have beginner-friendly workshops, events, and prize categories for those unacquainted with hackathons.
 
-###### Will HackMerced XI be in-person or virtual?[Image: right arrow]
+###### Will HackMerced XI be in-person or virtual?
 
 HackMerced XI will be a fully in-person event! It will take place at the University of California, Merced. Workshop resources will also be shared in our Discord server.
 
-###### How many people can be on a team?[Image: right arrow]
+###### How many people can be on a team?
 
 Teams can consist of 1-4 people.
 
-###### Does it cost money?[Image: right arrow]
+###### Does it cost money?
 
 No! HackMerced will be providing food, resources, etc. for free.
 
-###### What if I don’t have a team?[Image: right arrow]
+###### What if I don’t have a team?
 
 We will be hosting a team mixer where you can meet other individuals looking to form teams! You are also welcome to participate alone, however, we always encourage meeting new people.
 
-###### Who can attend?[Image: right arrow]
+###### Who can attend?
 
 All students are eligible to participate. You do not need to attend UC Merced.
 
-###### Where can I park?[Image: right arrow]
+###### Where can I park?
 
 For a parking map resource, please see [here](https://www.google.com/maps/d/u/0/edit?mid=1WERa2Y1r-rVHjKGyWQaXwaQ7C9iN7JU&usp=sharing). Parking on campus at UC Merced is free on weekends in non-specially marked spaces in Gold, Slate, Blue, Green Zones only. On Friday, a parking permit is required until 6pm in Bellevue Lot- Green Zone, Scholars Lot, and North Bowl Lots. You may purchase here: [https://taps.ucmerced.edu/permits/visitorsvendors](https://taps.ucmerced.edu/permits/visitorsvendors). We recommend the 2 hour pass so you can be present for Check-In. Parking is free after 6 PM in the North Bowl, Scholars and Bellevue Lot - Green Zone lots. Parking is free after 8 PM in the Le Grand Lot, Library Lots 1 and 2 and Bellevue Lot - Gold Zone lots. Note that parking in the University Lot, Calaveras Lot, H Zones and specially marked spaces are prohibited at all times.
 
-###### How do I win free swag?[Image: right arrow]
+###### How do I win free swag?
 
 This year, HackMerced is proud to collaborate with Badger, an RFID-based attendance tracking system. When you participate in workshops or activities, simply scan the badge you obtain at check-in to earn points that can be redeemed for swag. Track points through live.hackmerced.com
 
-###### Can I apply to judge or mentor?[Image: right arrow]
+###### Can I apply to judge or mentor?
 
 If you are interested in mentoring, please apply using [this form](https://ucmerced.az1.qualtrics.com/jfe/form/SV_bd9SUxJc0EjVhoq). If you would like to judge a track, please consider sponsoring us by contacting Megan Ciraulo at mciraulo@ucmerced.edu
 
-###### Are travel reimbursements covered for participating in HackMerced?[Image: right arrow]
+###### Are travel reimbursements covered for participating in HackMerced?
 
 Sadly, we do not offer travel reimbursements this year. We are sorry for any inconvenience this causes.
 
-###### Will there be any places to sleep or will I need to book a hotel?[Image: right arrow]
+###### Will there be any places to sleep or will I need to book a hotel?
 
 We will be have rooms COB1 110 as a designated sleep room during the event. You will see exact times in our Live Page!
 
-###### I have more questions![Image: right arrow]
+###### I have more questions!
 
 Please join the HackMerced Community Discord server! If you have personal questions, feel free to open a ticket with us there. Please join our Discord at [https://hackmerced.com/discord](https://hackmerced.com/discord)
 
@@ -22118,15 +16151,11 @@ Please join the HackMerced Community Discord server! If you have personal questi
 
 HackMerced is 100% run by student volunteers. Our events are only made possible through the support of our generous sponsors, whom enable the growth of technology in the San Joaquin Valley.
 
-[Image: sponsors logos]
+[Instagram](http://instagram.com/hackmerced)
 
-[[Image: Instagram logo]Instagram](http://instagram.com/hackmerced)
+[Facebook](https://www.facebook.com/hackmerced)
 
-[[Image: Facebook logo]Facebook](https://www.facebook.com/hackmerced)
-
-[[Image: Discord logo]Discord](https://hackmerced.com/discord)
-
-[Image: vector]
+[Discord](https://hackmerced.com/discord)
 
 Made with ♥ by the HackMerced team Sponsored by MLH - view the [Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md) University of California, Merced 5200 Lake Rd Merced, CA 95348 For inquiries, please contact Megan Ciraulo at mciraulo@ucmerced.edu
 
@@ -22136,10 +16165,6 @@ Made with ♥ by the HackMerced team Sponsored by MLH - view the [Code of Conduc
 - Rendered title: The Midwest Block-a-thon
 - Final URL: [https://hack.kublockchain.com/](https://hack.kublockchain.com/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: The Midwest Block-a-thon]
 
 A huge thank you to everyone who participated, judged, and volunteered this year!
 
@@ -22154,15 +16179,7 @@ Come again in Spring 2027!
 - Final URL: [https://hackcanada.org/](https://hackcanada.org/)
 - Expanded FAQ/accordion controls: 11
 
-[[Image: Hack Canada Logo]](https://hackcanada.org/)
-
 [About](https://hackcanada.org/#about) [2025](https://2025.hackcanada.org) [Sponsors](https://hackcanada.org/#sponsors) [FAQ](https://hackcanada.org/#faq) [Team](https://hackcanada.org/#team)
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: Background]
-
-[Image: Foreground]
 
 #### Hack Canada
 
@@ -22172,145 +16189,95 @@ March 6-8, 2026 | In-Person Event
 
 Due Feb 28, 2026!
 
-[Image: Cartoon character]
-
 ##### About Hack Canada
 
 Hack Canada is built around tackling real Canadian challenges. This year, we're extending that mission beyond the weekend with a 30-day building period—giving teams 1 on 1 access to sponsors and funding to transform prototypes into lasting side projects or startups.
 
 Expect workshops, mentorship, late night coding sessions, and the kind of energy that turns wild ideas into real products. You'll meet sponsors who aren't just here to watch they want to see you build with their tools and support your project beyond the weekend. VCs will be in the room looking for the next big thing. Whether you're here to learn, ship, or launch something real, it's going to be a blast.
 
-[Image: Hack Canada photo]
-
-[Image: Hack Canada photo]
-
-[Image: Hack Canada photo]
-
-[Image: candle cursor]
-
-[Image: Hack Canada statistics]
-
-[Image: City skyline]
-
 #### Sponsors
 
 A huge thank you to our sponsors for making Hack Canada possible! Your support helps us reach new heights across the tech landscape.
 
-[[Image: Google]](https://www.google.com/about/careers/applications/)
+[Google](https://www.google.com/about/careers/applications/)
 
-[[Image: SPUR Innovation Center]](https://spuric.com/)
+[SPUR Innovation Center](https://spuric.com/)
 
-[[Image: reactiv]](https://www.reactiv.ai/)
+[reactiv](https://www.reactiv.ai/)
 
-[[Image: Tailscale]](https://tailscale.com/) [[Image: Stan]](https://stan.store/) [[Image: cloudinary]](https://cloudinary.com/) [[Image: Backboard]](https://www.backboard.io/)
+[Tailscale](https://tailscale.com/) [Stan](https://stan.store/) [cloudinary](https://cloudinary.com/) [Backboard](https://www.backboard.io/)
 
-[[Image: fantuan]](https://hackcanada.org/) [[Image: Warp]](https://hackcanada.org/) [[Image: GitHub]](https://hackcanada.org/) [[Image: pure buttons]](https://hackcanada.org/) [[Image: redbull]](https://hackcanada.org/) [[Image: MEF]](https://hackcanada.org/)
+[fantuan](https://hackcanada.org/) [Warp](https://hackcanada.org/) [GitHub](https://hackcanada.org/) [pure buttons](https://hackcanada.org/) [redbull](https://hackcanada.org/) [MEF](https://hackcanada.org/)
 
 ##### Our Judges
-
-[Image: Jaskirat Singh]
 
 ###### Jaskirat Singh
 
 CEO @ Humonos
 
-[Image: Simerus Mahesh]
-
 ###### Simerus Mahesh
 
 a37; prev. Meta, Sony
-
-[Image: Sammy Lam]
 
 ###### Sammy Lam
 
 SWE 2
 
-[Image: Pravesh Mansharamani]
-
 ###### Pravesh Mansharamani
 
 Co-Founder @ Totalis
-
-[Image: Osher Ahn-Clifford]
 
 ###### Osher Ahn-Clifford
 
 Software Dev Intern @ Wealthsimple
 
-[Image: Michael Clifford]
-
 ###### Michael Clifford
 
 Design at Jobber
-
-[Image: Gaurav Shah]
 
 ###### Gaurav Shah
 
 Product design @ Cresta
 
-[Image: Neal Panamdanam]
-
 ###### Neal Panamdanam
 
 Lead DevOps Engineer @ HONK
-
-[Image: Eric Liu]
 
 ###### Eric Liu
 
 CTO
 
-[Image: James Liang]
-
 ###### James Liang
 
 Business System Analyst
-
-[Image: Hendryck Santos]
 
 ###### Hendryck Santos
 
 Startups @ Google Cloud
 
-[Image: Jacqline Geng]
-
 ###### Jacqline Geng
 
 Senior Financial Engineer
-
-[Image: Kaivalya Gandhi]
 
 ###### Kaivalya Gandhi
 
 Director, CUTC Foundation
 
-[Image: Terry Zha]
-
 ###### Terry Zha
 
 Prev SWE Intern @ Roblox/Warp
-
-[Image: William Zeng]
 
 ###### William Zeng
 
 SWE @ Polymarket
 
-[Image: Lucas Crupi]
-
 ###### Lucas Crupi
 
 CEO of Loombotic (YC F24)
 
-[Image: Ethan Breit]
-
 ###### Ethan Breit
 
 CTO of Loombotic (YC F24)
-
-[Image: Adam Ghandour]
 
 ###### Adam Ghandour
 
@@ -22318,7 +16285,7 @@ VC Analyst @ Access Bridge Ventures
 
 ##### Our Partners
 
-[[Image: CUTC Foundation]CUTC FoundationCUTC is Canada’s largest and longest running student run technology conference, founded in 1999 to connect thousands of delegates, speakers, and sponsors with the Canadian tech community.](https://www.cutc.ca/) [[Image: Waterloo.Dev]Waterloo.DevWaterloo.dev is a nonprofit that supports underserved developer communities with free or low-cost education, events, mentorship, and training to advance learning and innovation in tech.](https://waterloo.dev/) [[Image: GDG Laurier]GDG LaurierGoogle Developer Group Laurier brings together developers and tech enthusiasts at Wilfrid Laurier University to learn, build, and connect.](https://gdg.community.dev/gdg-on-campus-wilfrid-laurier-university-waterloo-canada/)
+[CUTC FoundationCUTC is Canada’s largest and longest running student run technology conference, founded in 1999 to connect thousands of delegates, speakers, and sponsors with the Canadian tech community.](https://www.cutc.ca/) [Waterloo.DevWaterloo.dev is a nonprofit that supports underserved developer communities with free or low-cost education, events, mentorship, and training to advance learning and innovation in tech.](https://waterloo.dev/) [GDG LaurierGoogle Developer Group Laurier brings together developers and tech enthusiasts at Wilfrid Laurier University to learn, build, and connect.](https://gdg.community.dev/gdg-on-campus-wilfrid-laurier-university-waterloo-canada/)
 
 Let's shed some light on...
 
@@ -22329,8 +16296,6 @@ Frequently Asked Questions
 A hackathon is a weekend-long competition where "hackers" build projects in teams to present and compete for prizes. Competition isn't the only part however, as hackers are also given the opportunity to network, participate in awesome workshops, and eat free food!
 
 ###### What is Hack Canada?
-
-Hack Canada is built around tackling real Canadian challenges. This year, we're extending that mission beyond the weekend with a 30-day building period—giving teams 1 on 1 access to sponsors and funding to transform prototypes into lasting side projects or startups.
 
 ###### How much does it cost?
 
@@ -22380,82 +16345,12 @@ TAP TO START
 
 Team Members Met: 0 / 34
 
-[Image: James Cao]
-
-[Image: Eason Huang]
-
-[Image: Reehatpreet Kaur]
-
-[Image: Anish Paleja]
-
-[Image: Wahib Barqawi]
-
-[Image: Sohel Shekh]
-
-[Image: Varnit Sahu]
-
-[Image: Sardul Subedi]
-
-[Image: Adelynn Tran]
-
-[Image: Advitiya Sharma]
-
-[Image: Faiz Mustansar]
-
-[Image: Hreem Pandya]
-
-[Image: Oliver Huang]
-
-[Image: Jun Bin Cheng]
-
-[Image: Vienna Zhao]
-
-[Image: Yuvaansh Kapila]
-
-[Image: Ritvik Goyal]
-
-[Image: Sarveshvar Kumar]
-
-[Image: Yang Xue]
-
-[Image: Ahana Virmani]
-
-[Image: Varneet Kaur]
-
-[Image: Vedika Gopinaath]
-
-[Image: Sophia Xu]
-
-[Image: Shaoming Wu]
-
-[Image: Mehul Garang]
-
-[Image: Tishya Bhat]
-
-[Image: Edward Drobnis]
-
-[Image: Muskaan Madhwani]
-
-[Image: Naman Sonawane]
-
-[Image: Anushka Kshirsagar]
-
-[Image: Claire L]
-
-[Image: Isabelle Dharma]
-
-[Image: Jessica Zhang]
-
-[Image: Jason Cameron]
-
 ### Website 91: WiCHacks
 - Card URL: [https://wichacks.io](https://wichacks.io)
 - Referenced by: WiCHacks
 - Rendered title: WiCHacks
 - Final URL: [https://wichacks.io/](https://wichacks.io/)
 - Expanded FAQ/accordion controls: 6
-
-[Image: WiCHacks Logo]
 
 ###### Interested in WiCHacks 2027?
 
@@ -22484,8 +16379,6 @@ Seconds
 The Women in Computing Hackathon (WiCHacks) mission is to **enhance opportunities for students who identify as women or gender minorities in the tech industry** and all students who support them, regardless of gender or sex. WiCHacks values **diversity and inclusion** as essential to our mission and welcomes anyone in support of moving this mission forward, including those of other genders or sex, to sign up for the hackathon. Hosted by Women in Computing (WiC) at Rochester Institute of Technology (RIT), the hackathon is a 24-hour, collaborative programming event in which participants create an app, website, game, or other piece of software throughout the event!
 
 **This event is open to all skill levels:** from students who haven't programmed at all, to the best programmers out there, it will be a great day to learn, invent, and create the future!
-
-[Image: RITchie mascot checking in at WiCHacks]
 
 ###### More coverage:
 
@@ -22577,61 +16470,41 @@ Our guest judges will all follow the same rubric .. you can find it [here!](http
 
 ##### WiCHacks Leadership Team
 
-[Image: Darwin Tran's profile]
-
 ###### Darwin Tran
 
 WiCHacks Lead Director
-
-[Image: Meghan Briskey's profile]
 
 ###### Meghan Briskey
 
 Logistics Co-Director
 
-[Image: Arianna Schwartz's profile]
-
 ###### Arianna Schwartz
 
 Logistics Co-Director
-
-[Image: Katherine Collier's profile]
 
 ###### Katherine Collier
 
 Sponsorship Director
 
-[Image: Sydney Wilson's profile]
-
 ###### Sydney Wilson
 
 Marketing Director
-
-[Image: Kaitlyn Dudek's profile]
 
 ###### Kaitlyn Dudek
 
 Judging Director
 
-[Image: Jennie Li's profile]
-
 ###### Jennie Li
 
 Technology Director
-
-[Image: Meghan Tomback's profile]
 
 ###### Meghan Tomback
 
 Web Director
 
-[Image: Katherine Granger's profile]
-
 ###### Katherine Granger
 
 Volunteer Lead
-
-[Image: Shriya Shah's profile]
 
 ###### Shriya Shah
 
@@ -22639,27 +16512,9 @@ Volunteer Lead
 
 ##### 2026 Sponsors
 
-[[Image: CSL]](https://www.csl.com/careers/early-careers-at-csl)
+[CSL](https://www.csl.com/careers/early-careers-at-csl)
 
-[Image: M and T Tech]
-
-[[Image: Capital One]](https://www.capitalonecareers.com/students)
-
-[Image: Kodak]
-
-[Image: Mindex]
-
-[Image: Magic Spell Studios]
-
-[Image: Major League Hacking]
-
-[Image: RIT Student Government]
-
-[Image: Poppi]
-
-[Image: Wegmans]
-
-[Image: Pure]
+[Capital One](https://www.capitalonecareers.com/students)
 
 **Is your company interested in sponsoring WiCHacks?** Please email wichacks@rit.edu or view our [2026 information packet](https://wichacks.io/2026WiCHacksSponsorshipPacket.pdf).
 
@@ -22668,7 +16523,7 @@ Volunteer Lead
 ### Website 92: HackTCNJ
 - Card URL: [https://www.hacktcnj.com/](https://www.hacktcnj.com/)
 - Referenced by: HackTCNJ
-- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hacktcnj.com/ Call log:   - navigating to "https://www.hacktcnj.com/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hacktcnj.com/ Call log: - navigating to "https://www.hacktcnj.com/", waiting until "domcontentloaded"
 
 ### Website 93: HackSussex 2026
 - Card URL: [https://www.hacksussex.com/Events/hackathon](https://www.hacksussex.com/Events/hackathon)
@@ -22676,8 +16531,6 @@ Volunteer Lead
 - Rendered title: HackSussex
 - Final URL: [https://www.hacksussex.com/Events/hackathon](https://www.hacksussex.com/Events/hackathon)
 - Expanded FAQ/accordion controls: 0
-
-[Image: Hack Sussex Logo]
 
 [Gallery](https://www.hacksussex.com/gallery)
 
@@ -22693,17 +16546,7 @@ Volunteer Lead
 
 Contact Us
 
-[Gallery](https://www.hacksussex.com/gallery)
-
-[Sponsors](https://www.hacksussex.com/sponsors)
-
-[All Events](https://www.hacksussex.com/events)
-
-[Committee](https://www.hacksussex.com/committee)
-
 [FAQ](https://www.hacksussex.com/faq)
-
-[Merch Store](https://hacksussex.square.site)
 
 #### 404
 
@@ -22716,11 +16559,7 @@ This page doesnt exist!
 - Final URL: [https://madness.sfucsss.org/](https://madness.sfucsss.org/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-<div id="peak"> <picture class="mountain-svg"> <source srcset="mountain_sm.svg" media="(width < 1280px)" /> <img src="mountain.svg" alt="mountain" loading="eager" /> </picture> </div> Small header Large header
-
-[Image: Mountain Madness logo]
+Small header Large header
 
 #### Mountain
 Madness
@@ -22736,7 +16575,7 @@ Madness
 ##### Feb 28th - Mar 1st
 @ SFU Burnaby Mountain
 
-[[Image: Discord link]](https://discord.sfucsss.org) [[Image: Instagram link]](https://www.instagram.com/sfu_csss) [[Image: LinkedIn link]](https://ca.linkedin.com/company/sfucsss)
+[Discord link](https://discord.sfucsss.org) [Instagram link](https://www.instagram.com/sfu_csss) [LinkedIn link](https://ca.linkedin.com/company/sfucsss)
 
 ##### What is Mountain Madness?
 
@@ -22745,8 +16584,6 @@ The SFU Computing Science Student Society (CSSS) organizes the Mountain Madness 
 ##### Why Mountain Madness?
 
 We emphasize creativity and having fun over commercial feasibility. This is an opportunity to spend a weekend tinkering with your favourite technologies to create something fun and interesting. Mountain Madness is the perfect event for everyone from fresh-faced hackers to seasoned CS veterans.
-
-[Image: Jekyll Hyde]
 
 ##### Schedule
 
@@ -22783,14 +16620,6 @@ Saturday Timeline
 Sunday Timeline
 
 ##### Sponsors
-
-[[Image: RBC logo]](https://www.rbcroyalbank.com/personal.html)
-
-[[Image: Steve's Poke logo]](https://www.stevespokebar.ca/) [[Image: Indomie logo]](https://indomieonline.ca/)
-
-[[Image: Steelseries logo]](https://steelseries.com/en-ca) [[Image: Huion logo]](https://www.huion.com/) [[Image: P-rex Hobby logo]](https://prexhobby.com)
-
-[[Image: EA logo]](https://www.ea.com/en-ca) [[Image: Pure logo]](https://mlh.link/MLH-PureButtons-hackathons) [[Image: Hive logo]](https://hiveclimbing.com) [[Image: Chess.com logo]](https://www.chess.com/) [[Image: SSSS logo]](https://sfussss.org/)
 
 FINAL TALLY!
 
@@ -22867,8 +16696,6 @@ Simon Fraser University respectfully acknowledges the unceded traditional territ
 - Final URL: [https://stevensquackhacks.org/](https://stevensquackhacks.org/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: MLH Badge.]
-
 Home
 
 Schedule
@@ -22876,8 +16703,6 @@ Schedule
 Sponsors
 
 FAQ
-
-[Image: Takeoff] [Image: QuackHacks returning]
 
 ##### Stevens Institute of Technology
 
@@ -22891,31 +16716,21 @@ During this weekend of code, caffine, chaos and creativity you will have the opp
 
 The hackathon is taking place on the weekend of February 28th, starting on Feb 28th at 9:00AM and going until March 1st at 3:00PM
 
-[Image: Tracks.]
-
 #### MINDFULNESS & WELLBEING
 
 Create a project focusing on improving social, emotional, and physical well-being! Utilize your resources to discover innovative solutions for exercise, health tracking, fitness, and even rest and relaxation - much needed for computer science!
-
-[Image: Track Image.]
 
 #### Anti-AI
 
 In the growing age of AI, ethics and human creativity are essential. This prompt challenges you to explore the boundaries between human ingenuity and machine intelligence - not by rejecting AI, but by reclaiming the spotlight for people, values, and responsible innovation. You can use AI during the development of your project for this prompt!
 
-[Image: Track Image.]
-
 #### Accessibility
 
 Technology has the power to break down barriers, amplify voices, and create a world where everyone can participate fully. Yet, millions of people still face challenges accessing digital tools, physical spaces, education, employment, and everyday experiences. Design and build a solution that improves the user experience and overall accessibility!
 
-[Image: Track Image.]
-
 #### Gaming
 
 This challenge invites you to build the next breakthrough in gaming by pushing boundaries, reimagining play, and creating experiences that captivate. Take advantage of your resources and use gaming to present a solution to an issue in an innovative way and elevate how people play, connect, and compete!
-
-[Image: Track Image.]
 
 Saturday, Feb 28, 2026
 
@@ -22928,10 +16743,6 @@ Breakfast
 **Location:** UCC Gallery: Entrance Floor of UCC
 
 Check In
-
-9:00 AM – 10:00 AM
-
-**Location:** UCC Gallery: Entrance Floor of UCC
 
 10:00 AM
 
@@ -22977,15 +16788,11 @@ Amazon Kiro Workshop
 
 3:15 PM – 4:45 PM
 
-**Location:** Babbio 122
-
 5:00 PM
 
 MLH Workshop
 
 5:00 PM – 6:00 PM
-
-**Location:** Babbio 122
 
 IEEE YP
 
@@ -23003,13 +16810,9 @@ SGDC Game Engine Workshop
 
 SLUG Rust
 
-6:15 PM – 7:15 PM
-
 **Location:** Gateway South
 
 SCSC Graphic Programming
-
-6:15 PM – 7:15 PM
 
 **Location:** Gateway Academic Center (Gateway North)
 
@@ -23025,15 +16828,11 @@ Dinner
 
 7:30 PM – 9:00 PM
 
-**Location:** Gateway Academic Center (Gateway North): 104
-
 11:00 PM
 
 Midnight Yoga
 
 11:00 PM – 12:00 AM
-
-**Location:** Gateway Academic Center (Gateway North): 104
 
 Midnight Snacks
 
@@ -23049,13 +16848,9 @@ Midnight Just Dance
 
 12:00 AM – 1:00 AM
 
-**Location:** Gateway Academic Center (Gateway North): 104
-
 9:00 AM
 
 Breakfast
-
-9:00 AM – 10:00 AM
 
 **Location:** Gateway North Stairs
 
@@ -23069,13 +16864,9 @@ Destress with Dogs
 
 Painting Like Bob Ross (ft. Freddy - MLH)
 
-11:30 AM – 12:30 PM
-
 **Location:** Gateway North 122
 
 Bracelet Making
-
-11:30 AM – 12:30 PM
 
 **Location:** Gateway North 103
 
@@ -23104,10 +16895,6 @@ Closing Ceremony
 2:30 PM – 3:30 PM
 
 **Location:** Burchard 111
-
-[Image: Our Sponsors.]
-
-[Image: Frequently asked questions.]
 
 ##### When is the deadline to apply?
 
@@ -23184,16 +16971,6 @@ Stevens QuackHacks - 2026
 - Final URL: [https://www.henhackshackathon.com/](https://www.henhackshackathon.com/)
 - Expanded FAQ/accordion controls: 0
 
-$
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=red)
-
-[Image: WW Event Title]
-
-[Image: Cloud Layer]
-
-[Image: Background Layer]
-
 Save the Date
 
 ##### HenHacks 2027
@@ -23233,9 +17010,9 @@ HenHacks is a beginner-friendly, in-person only hackathon hosted on the Universi
 
 ##### Explore Previous Years
 
-[[Image: Past Logo]2025](https://www.henhackshackathon.com/lookback-2025) [[Image: Cow Logo]2024](https://www.henhackshackathon.com/lookback-2024) [[Image: Hen Logo]2023](https://www.henhackshackathon.com/lookback-2023)
+[2025](https://www.henhackshackathon.com/lookback-2025) [2024](https://www.henhackshackathon.com/lookback-2024) [2023](https://www.henhackshackathon.com/lookback-2023)
 
-[[Image: UDaily Article Image]](https://www.udel.edu/udaily/2025/june/computer-science-students-organize-henhacks-hackathon/)
+[UDaily Article Image](https://www.udel.edu/udaily/2025/june/computer-science-students-organize-henhacks-hackathon/)
 
 ##### Read our featured article in UDaily to learn more about our 2025 event!
 
@@ -23295,30 +17072,26 @@ What if I don't want to spend the whole 24 hours creating a project?
 
 ##### Thank you to our amazing 2026 sponsors!
 
-- [[Image: Bently]](https://www.bentley.com/)
-- [[Image: Labware]](https://www.labware.com/)
-- [[Image: DelAI]](https://first-state-ai.udel.edu/)
-- [[Image: EPSCOR]](https://de-epscor.org/)
-- [[Image: IWCS, Inc]](https://iwcs.org/?gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOmeh2xJLKISF7XcdpPDv_36hWye_8z3MpxCpCxvbPrVTMomqPIYzHQaAgvVEALw_wcB)
-- [[Image: JPMorganChase]](https://www.jpmorganchase.com/)
-- [[Image: Berkley Technology Services]](https://berkleytechnologyservices.com/)
-- [[Image: M&T Bank]](https://www.mtb.com/)
+- [Bently](https://www.bentley.com/)
+- [Labware](https://www.labware.com/)
+- [DelAI](https://first-state-ai.udel.edu/)
+- [EPSCOR](https://de-epscor.org/)
+- [IWCS, Inc](https://iwcs.org/?gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOmeh2xJLKISF7XcdpPDv_36hWye_8z3MpxCpCxvbPrVTMomqPIYzHQaAgvVEALw_wcB)
+- [JPMorganChase](https://www.jpmorganchase.com/)
+- [Berkley Technology Services](https://berkleytechnologyservices.com/)
+- [M&T Bank](https://www.mtb.com/)
 
 [Sponsor Us for 2026!](https://www.henhackshackathon.com/HH26-SponsorshipProspectus.pdf)
-
-[Image: HenHacks Logo]
 
 - **University of Delaware** Newark, Delaware, USA
 - **Email us:** henhacksud@gmail.com
 
 © Copyright HenHacks 2026
 
-$ /$ /$
-
 ### Website 97: DIVERSION 2K26
 - Card URL: [https://diversion.tech/](https://diversion.tech/)
 - Referenced by: DIVERSION 2K26
-- Capture status: Failed - Locator.inner_text: Timeout 30000ms exceeded. Call log:   - waiting for locator("body") 
+- Capture status: Failed - Locator.inner_text: Timeout 30000ms exceeded. Call log: - waiting for locator("body")
 
 ### Website 98: CUhackit
 - Card URL: [https://cuhack.it](https://cuhack.it)
@@ -23326,8 +17099,6 @@ $ /$ /$
 - Rendered title: CUhackit 2027
 - Final URL: [https://cuhack.it/](https://cuhack.it/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://www.mlh.com)
 
 [Want to participate? Fill out the interest form.](https://docs.google.com/forms/d/e/1FAIpQLSeuOLkWGfGKpmq8u2F3OFrzJ9-8Bt_IRYMV-E9Hs8y1pIrK5w/viewform?usp=preview)
 
@@ -23348,10 +17119,6 @@ see you soon
 - Rendered title: PickHacks 2026
 - Final URL: [https://pickhacks.io/](https://pickhacks.io/)
 - Expanded FAQ/accordion controls: 8
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
-
-[Image: PickHacks 2026]
 
 #### February 27th - March 1st
 
@@ -23407,27 +17174,15 @@ Sunday, Mar 1
 
 2:00 - 3:00 PM Closing Ceremony Havener Center St. Pats A,B,C
 
-[Image: Team member]
-
 Alvin Moy Design Team Lead
-
-[Image: Team member]
 
 Elle Hamilton Design Team
 
-[Image: Team member]
-
 Jason Dieckhaus Logistics Team Lead
-
-[Image: Team member]
 
 Marcella Tebeau Design Team
 
-[Image: Team member]
-
 Max Klein Finance Team
-
-[Image: Team member]
 
 Tobias Bessler Development Team Lead
 
@@ -23435,31 +17190,21 @@ Tobias Bessler Development Team Lead
 
 Best General
 
-[Image: Meta Quest 3]
-
 Meta Quest 3
 
 Best AI
-
-[Image: Meta Glasses]
 
 Meta Glasses
 
 Best Security
 
-[Image: NordVPN Package]
-
 NordVPN Package
 
 Best Solo
 
-[Image: Beats Pro]
-
 Beats Fit Pro
 
 Best Beginner
-
-[Image: Keyboard]
 
 Redragon K556
 
@@ -23506,7 +17251,7 @@ Yes! If you're not from S&T, we will have designed sleeping areas at the hackath
 - Final URL: [https://deerhacks.ca/](https://deerhacks.ca/)
 - Expanded FAQ/accordion controls: 6
 
-[[Image: DeerHacks Logo]DeerHacks](https://deerhacks.ca/)
+[DeerHacks](https://deerhacks.ca/)
 
 [About](https://deerhacks.ca/#about) [Sponsors](https://deerhacks.ca/#sponsors) [FAQ](https://deerhacks.ca/#faq) [Schedule](https://deerhacks.ca/schedule) [Code of Conduct](https://deerhacks.ca/code) [Privacy Policy](https://deerhacks.ca/privacy) [Apply Now](https://deerhacks.ca/login)
 
@@ -23561,16 +17306,6 @@ Our Sponsors
 ##### Backed by the Best
 
 A huge thank you to our sponsors for making DeerHacks 2026 possible.
-
-[Image: Featherless AI]
-
-[Image: Deloitte]
-
-[Image: IMI UTM]
-
-[Image: BIG Data AI Hub]
-
-[Image: UofT Mississauga]
 
 ##### Previously Sponsored
 
@@ -23643,15 +17378,9 @@ DeerHacks
 - Final URL: [https://hackillinois.org/](https://hackillinois.org/)
 - Expanded FAQ/accordion controls: 6
 
-[Image: Stars Background] [Image: Tiny Stars Background]
-
-[Image: Hackastra]
-
 **RETURNING SPRING 2027**
 
 [INTEREST FORM](https://docs.google.com/forms/d/e/1FAIpQLSeco5rnd7eqrH0OBf7K5PgNfpGUfCpH8EpjJTSoiKKvO_6X5g/viewform)
-
-[Image: Planets Background] [Image: Stars Background] [Image: Tiny Stars]
 
 #### ABOUT THE EVENT
 
@@ -23661,19 +17390,9 @@ Participants can work individually or in teams to submit projects to a specific 
 
 LAUNCH YOUR LEGACY!
 
-[Image: Clouds Background] [Image: Tiny Stars]
-
-[Image: HackVoyagers Robot]
-
 ###### Introducing
 
-[Image: HackVoyagers]
-
 [LEARN MORE](https://hackillinois.org/challenge/landing-page)
-
-[Image: Sponsors Background] [Image: Sponsors Foreground] [Image: Sponsors Foreground Rocks]
-
-[Image: UFO]
 
 ##### JOIN US
 
@@ -23687,61 +17406,7 @@ SUBSCRIBE
 
 ##### SPONSORS
 
-[Image: Alien 1]
-
-[Image: FulcrumGT]
-
-[Image: Alien 2]
-
-[Image: John Deere]
-
-[Image: Alien 3]
-
-[Image: Stripe]
-
-[Image: Alien 4]
-
-[Image: IMC]
-
-[Image: Alien 5]
-
-[Image: Caterpillar]
-
-[Image: Alien 6]
-
-[Image: Modal]
-
-[Image: Capital One]
-
-[Image: Solana Foundation]
-
-[Image: T-Mobile]
-
-[Image: Supermemory]
-
-[Image: Endeavor]
-
-[Image: Jump]
-
-[Image: HRT]
-
-[Image: Actian]
-
-[Image: Exa]
-
-[Image: DE Shaw]
-
-[Image: Cloudflare]
-
-[Image: Mechanize]
-
-[Image: OpenAI]
-
-[Image: Nora]
-
 MORE COMING SOON...
-
-[Image: FAQ Ground Bar] [Image: FAQ Background]
 
 ##### FAQ
 
@@ -23784,72 +17449,54 @@ Add your email to subscribe!
 - Final URL: [https://www3.cs.stonybrook.edu/~wics/hopperhacks/2026/](https://www3.cs.stonybrook.edu/~wics/hopperhacks/2026/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: mini envelope] [Image: owl]
-
-[Image: wics logo] [Image: star 3] [Image: star 4]
-
 #### Feb 21-22
 
-[[Image: by WiCS]](https://www3.cs.stonybrook.edu/~wics/pages/index.html)
+[by WiCS](https://www3.cs.stonybrook.edu/~wics/pages/index.html)
 
-[[Image: hacker]Hacker Registration](https://docs.google.com/forms/d/e/1FAIpQLScZMfBfluve6xPbB2RWc2MndtQHvB-pAK_XOZDyyHghVCpGkg/viewform?usp=header) [[Image: mentor]Mentor Application](https://docs.google.com/forms/d/e/1FAIpQLSe1jelBrS65iw3JdC8bjPLMbNEyPibUQducjKY6MODve1_nZQ/viewform?usp=header) [[Image: judge]Judge Application](https://docs.google.com/forms/d/e/1FAIpQLSfWj0T7Oys4lcqehwKc-E9Ics5roca8PP2L8r-Znya1gXLZ4Q/viewform?usp=header)
-
-[Image: candle] [Image: envelope] [Image: candle]
-
-[Image: wics logo]
-
-[Image: cloud 1] [Image: logo hopper] [Image: cloud 3]
-
-[Image: wics logo]
-
-[Image: quill]
+[Hacker Registration](https://docs.google.com/forms/d/e/1FAIpQLScZMfBfluve6xPbB2RWc2MndtQHvB-pAK_XOZDyyHghVCpGkg/viewform?usp=header) [Mentor Application](https://docs.google.com/forms/d/e/1FAIpQLSe1jelBrS65iw3JdC8bjPLMbNEyPibUQducjKY6MODve1_nZQ/viewform?usp=header) [Judge Application](https://docs.google.com/forms/d/e/1FAIpQLSfWj0T7Oys4lcqehwKc-E9Ics5roca8PP2L8r-Znya1gXLZ4Q/viewform?usp=header)
 
 FAQ
 
 ###### General
 
-- [Image: wics logo]**What is a hackathon?**▼
-- [Image: wics logo]**Do I need to know how to code?**▼
-- [Image: wics logo]**What about perks for the hackers?**▼
-- [Image: wics logo]**What is HopperHacks Bootcamp Week?**▼
-- [Image: wics logo]**What's the cost?**▼
-- [Image: wics logo]**When is HopperHacks?**▼
-- [Image: wics logo]**Where is HopperHacks?**▼
-- [Image: wics logo]**I have more questions!**▼
+- **What is a hackathon?**▼
+- **Do I need to know how to code?**▼
+- **What about perks for the hackers?**▼
+- **What is HopperHacks Bootcamp Week?**▼
+- **What's the cost?**▼
+- **When is HopperHacks?**▼
+- **Where is HopperHacks?**▼
+- **I have more questions!**▼
 
 ###### Registration
 
-- [Image: wics logo]**Who can attend?**▼
-- [Image: wics logo]**When is the deadline to register?**▼
-- [Image: wics logo]**Do I need to create a Devpost Account?**▼
-- [Image: wics logo]**Do I have to submit a project to attend?**▼
-- [Image: wics logo]**How can I be a mentor?**▼
+- **Who can attend?**▼
+- **When is the deadline to register?**▼
+- **Do I need to create a Devpost Account?**▼
+- **Do I have to submit a project to attend?**▼
+- **How can I be a mentor?**▼
 
 ###### Tracks
 
-- [Image: wics logo]**What are the tracks?**▼
-- [Image: wics logo]**How will prizes work?**▼
-- [Image: wics logo]**Do I have to enter a track?**▼
-- [Image: wics logo]**How can I enter the Best Beginner Hack?**▼
+- **What are the tracks?**▼
+- **How will prizes work?**▼
+- **Do I have to enter a track?**▼
+- **How can I enter the Best Beginner Hack?**▼
 
 ###### Logistics
 
-- [Image: wics logo]**How will teams work?**▼
-- [Image: wics logo]**How do I come up with an idea for a project?**▼
-- [Image: wics logo]**Can I submit a project from another hackathon?**▼
-- [Image: wics logo]**How will judging work?**▼
-- [Image: wics logo]**Are there any travel reimbursements or overnight accommodations?**▼
-- [Image: wics logo]**Where is HopperHacks?**▼
+- **How will teams work?**▼
+- **How do I come up with an idea for a project?**▼
+- **Can I submit a project from another hackathon?**▼
+- **How will judging work?**▼
+- **Are there any travel reimbursements or overnight accommodations?**▼
+- **Where is HopperHacks?**▼
 
 Sponsors
 
 Sponsors will be revealed soon! If you're interested in sponsoring HopperHacks, please reach out to us at wics@cs.stonybrook.edu.
 
 Contacts
-
-[Image: contacts banner]
 
 Brought to you by Women in Computer Science at Stony Brook University
 
@@ -23866,7 +17513,9 @@ Mobile Dropdown Menu NAVBAR END TITLE SECTION - Full width with dragon backgroun
 
 [Register](https://tinyurl.com/hackhers2026)
 
-<h1 id="title-name">HackHERS</h1> <h3 id="title-subname">Spring 2026</h3>
+# HackHERS
+
+### Spring 2026
 
 ###### February
 
@@ -23878,7 +17527,7 @@ Mobile Dropdown Menu NAVBAR END TITLE SECTION - Full width with dragon backgroun
 
 ABOUT SECTION
 
-<h1 class="section-title">About</h1>
+# About
 
 LEFT SIDE: Paragraph
 
@@ -23908,35 +17557,25 @@ TRACKS SECTION - Full width with tracks background
 
 ###### **Choose your Studio Ghibli character:**
 
-[Image: Sprite]
-
 As a young witch delivers parcels across the sky, use **machine learning** and **data science** to sharpen your technical intuition. Build smart, automated systems that provide "magical" solutions and soar on their own.
-
-[Image: Sprite]
 
 Totoro is a gentle forest spirit that helps gardens bloom. Use your talents to solve problems in **healthcare**, **education**, or **sustainability**. Plant the seeds for a kinder, more helpful, and sustainable world.
 
-[Image: Sprite]
-
 Channel your creativity into **immersive animations**, **games**, or **AR/VR** experiences. Like a mysterious masked spirit wandering a world of wonder, use modern tools to bring your most imaginative fairytales to life.
-
-[Image: Sprite]
 
 Make a splash in the world of fintech! Just as a small fish can create massive waves, develop **innovative financial tools and strategies** that empower users to navigate the complex and shifting tides of the global economy.
 
 SPONSORS SECTION
 
-[Image: MLH Logo]
+Gold
 
-Gold [Image: ADP Logo]
+Silver
 
-Silver [Image: Fiserv Logo]
-
-Bronze [Image: Prudential Logo]
+Bronze
 
 SCHEDULE SECTION
 
-<img class="schedule-image" src="images/graphics/logs-schedule.png" alt="Schedule Image"> Column 1
+Column 1
 
 Saturday, February 21
 
@@ -23956,8 +17595,6 @@ CASC MPR
 
 Brainstorming & Team Formation
 
-CASC MPR
-
 1:00 PM
 
 Hacking Start!
@@ -23965,8 +17602,6 @@ Hacking Start!
 1:00 PM
 
 Lunch
-
-CASC Lounge
 
 2:00 PM
 
@@ -23984,49 +17619,33 @@ CASC 109
 
 **WiCS** Destress: Keychain Making
 
-CASC 109
-
 5:00 PM
 
 **MLH** Tech Together
-
-CASC 411 ABC
 
 6:00 PM
 
 Dinner
 
-CASC Lounge
-
 7:00 PM
 
 **MLH** GitHub Copilot
-
-CASC 411 ABC
 
 7:30 PM
 
 **MLH** Google AI Studio Workshop
 
-CASC 411 ABC
-
 8:00 PM
 
 **Blueprint** Workshop
-
-CASC 109
 
 9:00 PM
 
 **RUMAD** Workshop
 
-CASC 411 ABC
-
 10:00 PM
 
 **WiCS** Trivia
-
-CASC Lounge
 
 12:00 AM ~
 
@@ -24040,8 +17659,6 @@ Sunday, February 22
 
 Breakfast
 
-CASC Lounge
-
 10:00 AM
 
 Soft Submission Deadline - declare Devpost group + project description
@@ -24052,53 +17669,43 @@ Soft Submission Deadline - declare Devpost group + project description
 
 Take seats for judging
 
-CASC MPR
-
 11:00 AM
 
 Hard Submission Deadline - Final project on GitHub
-
-CASC MPR
 
 11:00 AM
 
 Judging Begins
 
-CASC MPR
-
 12:00 PM
 
 Lunch
-
-CASC Lounge
 
 1:30 PM
 
 Closing Ceremony & Awards
 
-CASC MPR
-
 FAQ SECTION - Full width with FAQ background
 
-<h1 class="section-title">FAQs</h1>
+# FAQs
 
 ###### For additional questions, email us at rutgers.hackhers@gmail.com
 
-- [Image: fairy-icon] What is a women-centric hackathon? HackHERS is a hackathon geared towards women. We allow people of all genders to participate because closing the gender gap in technology is an issue that everyone needs to partake in. There are so many reasons why more women should be involved in tech, yet there are still barriers present to this day that contribute to underrepresentation. By organizing this event, we work to close this gender gap.
-- [Image: fairy-icon]I identify as a male—can I still attend? Yes! It is very important to us that all genders work together and build awesome projects! However, please consider our mission statement before registering and know that by participating in our event, you pledge to follow our Code of Conduct. Also, check out our FAQ about "How Teams Work" to read our requirements on mixed-gendered teams.
-- [Image: fairy-icon]Can I attend without coding experience? OF COURSE! A hackathon provides the perfect environment to learn how to code. As long as you have an open mind and are willing to learn, we guarantee you will get something out of it. We also tailor HackHERS to be beginner-friendly, so we will be providing workshops all throughout the day, and there will be volunteer and mentors ready to answer any questions you may have.
-- [Image: fairy-icon]How do I apply? Applications for hackers will close a week before the event!!! You can apply [here!](https://tinyurl.com/hackhers2026).
-- [Image: fairy-icon]Does this cost money? Nope! Participating in HackHERS is free of cost.
-- [Image: fairy-icon]Where will HackHERS take place? HackHERS will take place on Saturday and Sunday at the College Avenue Student Center at Rutgers University, New Brunswick, NJ.
-- [Image: fairy-icon]Is there any parking available? Registered hackers will recieve an email with parking information closer to the date of the hackathon.
+- What is a women-centric hackathon? HackHERS is a hackathon geared towards women. We allow people of all genders to participate because closing the gender gap in technology is an issue that everyone needs to partake in. There are so many reasons why more women should be involved in tech, yet there are still barriers present to this day that contribute to underrepresentation. By organizing this event, we work to close this gender gap.
+- I identify as a male—can I still attend? Yes! It is very important to us that all genders work together and build awesome projects! However, please consider our mission statement before registering and know that by participating in our event, you pledge to follow our Code of Conduct. Also, check out our FAQ about "How Teams Work" to read our requirements on mixed-gendered teams.
+- Can I attend without coding experience? OF COURSE! A hackathon provides the perfect environment to learn how to code. As long as you have an open mind and are willing to learn, we guarantee you will get something out of it. We also tailor HackHERS to be beginner-friendly, so we will be providing workshops all throughout the day, and there will be volunteer and mentors ready to answer any questions you may have.
+- How do I apply? Applications for hackers will close a week before the event!!! You can apply [here!](https://tinyurl.com/hackhers2026).
+- Does this cost money? Nope! Participating in HackHERS is free of cost.
+- Where will HackHERS take place? HackHERS will take place on Saturday and Sunday at the College Avenue Student Center at Rutgers University, New Brunswick, NJ.
+- Is there any parking available? Registered hackers will recieve an email with parking information closer to the date of the hackathon.
 
-- [Image: fairy-icon]How do teams work? At most teams can have 4 people and at least 50% of the team must be woman or non-binary identifying. You can have your teammates in mind before the event, or you can find a team during our team formation activity before and after opening ceremony!
-- [Image: fairy-icon]Can I come if I am still in high school? Unfortunately, due to Rutgers policy, we cannot allow high schoolers to attend HackHERS :( However we will still encourage and support you to learn and build to your heart's content on your own! You are more than welcome to email us and ask any questions about how to get started.
-- [Image: fairy-icon]I just graduated, can I still come? Yes! New grads that graduated college in Fall 2025 are welcome to attend HackHERS. We look forward to seeing you there!
-- [Image: fairy-icon]What about travel reimbursements? Unfortunately, due to Rutgers administration policy, we are unable to provide travel reimbursements or buses to HackHERS. We are willing to work with you and/or your group to arrange cheap travel to the event. Sorry for the inconvenience.
-- [Image: fairy-icon]What should I bring? Remember to bring a valid student or goverment-issued ID for admission and anything you need to hack away!
-- [Image: fairy-icon]How can my company get involved? Absolutely! If you want to sponsor us, please email rutgers.hackhers@gmail.com
-- [Image: fairy-icon]Can I mentor or volunteer? Yes! We welcome all regardless of gender who want to help. We appreciate all who want to support our cause. Mentors help hackers during the event with any technical questions they might have. Volunteers support the organizing team during the hackathon with various tasks. More information on volunteering will be available in January - keep a look out! If you're interested in becoming a mentor, fill out the form [here!](https://forms.gle/F2y4N6KpJZXQduNs6)
+- How do teams work? At most teams can have 4 people and at least 50% of the team must be woman or non-binary identifying. You can have your teammates in mind before the event, or you can find a team during our team formation activity before and after opening ceremony!
+- Can I come if I am still in high school? Unfortunately, due to Rutgers policy, we cannot allow high schoolers to attend HackHERS :( However we will still encourage and support you to learn and build to your heart's content on your own! You are more than welcome to email us and ask any questions about how to get started.
+- I just graduated, can I still come? Yes! New grads that graduated college in Fall 2025 are welcome to attend HackHERS. We look forward to seeing you there!
+- What about travel reimbursements? Unfortunately, due to Rutgers administration policy, we are unable to provide travel reimbursements or buses to HackHERS. We are willing to work with you and/or your group to arrange cheap travel to the event. Sorry for the inconvenience.
+- What should I bring? Remember to bring a valid student or goverment-issued ID for admission and anything you need to hack away!
+- How can my company get involved? Absolutely! If you want to sponsor us, please email rutgers.hackhers@gmail.com
+- Can I mentor or volunteer? Yes! We welcome all regardless of gender who want to help. We appreciate all who want to support our cause. Mentors help hackers during the event with any technical questions they might have. Volunteers support the organizing team during the hackathon with various tasks. More information on volunteering will be available in January - keep a look out! If you're interested in becoming a mentor, fill out the form [here!](https://forms.gle/F2y4N6KpJZXQduNs6)
 
 SPONSORS SECTION - Full width with sponsors background Uncomment when ready to add sponsors TEAM SECTION - Full width with team background
 
@@ -24110,41 +17717,27 @@ Eboard HackHERS Design Committee HackHERS Marketing Committee
 
 Decorative bubbles
 
-‹
-
-[Image: Ranvitha Kandru]
-
 ###### Ranvitha Kandru
 
 Outreach Director
-
-[Image: Zeal Shah]
 
 ###### Zeal Shah
 
 Girls Who Code Director
 
-[Image: Katrina Bawar]
-
 ###### Katrina Bawar
 
 HackHERS Executive Director
-
-[Image: Divya Israni]
 
 ###### Divya Israni
 
 HackHERS Executive Director
 
-[Image: Sara Deshmukh]
-
 ###### Sara Deshmukh
 
 Spring '26 President
 
-›
-
-MLH Badge [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=gray) Footer
+MLH Badge Footer
 
 ###### Contact
 
@@ -24152,7 +17745,7 @@ rutgers.hackhers@gmail.com
 
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
-<div class="made-with"> <p>Made with <3 by the HackHERS Team</p> <a href="https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md" style="color: #9BBDEE; font-size: 12px; text-decoration: underline;">MLH Code of Conduct</a> </div>
+Made with <3 by the HackHERS Team
 
 ### Website 104: BisonHacks
 - Card URL: [https://business.howard.edu/centers/digital-business/bisonhacks](https://business.howard.edu/centers/digital-business/bisonhacks)
@@ -24178,8 +17771,6 @@ rutgers.hackhers@gmail.com
 BisonHacks 2026
 
 *Presented by Ticketmaster*
-
-[Image: ticketmaster logo]
 
 ###### February 21-22, 2026
 
@@ -24208,8 +17799,6 @@ Render without, so quickedit/etc works
 - [Eligibility](https://business.howard.edu/centers/digital-business/bisonhacks#silc-accordion-24ca3e63-5bef-42d9-ba91-b7b5f3d4b7a7)
 
 Spanning over two decades and now in its eleventh year, BisonHacks was created to expand access to hackathons and technical innovation for students at Howard University and beyond. The program emphasizes learning, collaboration, and industry exposure while fostering a supportive environment for participants who may be new to hackathons, engineering, or product development.
-
-Render without, so quickedit/etc works
 
 Registration & Participation
 
@@ -24242,8 +17831,6 @@ Inquire about Sponsorship Opportunities
 
 ###### Thank you to our 2026 Sponsors!
 
-[Image: Bisonhacks sponsors 2026 logos] Render without, so quickedit/etc works
-
 ##### Frequently Asked Questions
 
 ##### Do I need technical experience to participate?
@@ -24271,10 +17858,6 @@ Inquire about Sponsorship Opportunities
 ##### Can graduate students participate?
 
 ##### Still have questions?
-
-Render without, so quickedit/etc works
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=blue) Render without, so quickedit/etc works
 
 ### Website 105: HackLondon
 - Card URL: [https://hl26.kcltech.co.uk](https://hl26.kcltech.co.uk)
@@ -24313,33 +17896,21 @@ sign-ups
 
 Partnered with
 
-[[Image: UCL Tech logo]](https://hackuk.org) [[Image: MLH logo]](https://mlh.io)
-
 London, UK
 
 Strand WC2R 2LS
 
-[Image: Knowunity] [Image: SIG]
-
 Gold Sponsors
 
-[[Image: MLH Badge]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
+[MLH Badge](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
-[[Image: Hackathons UK logo]](https://hackuk.org) Partners With
-
-[Image: JetBrains]
+Partners With
 
 Silver Sponsor
 
-[Image: Anthropic] Credits From
+Credits From
 
 03 / AWARDING CEREMONY
-
-[Image: Result]
-
-[Image: Process]
-
-[Image: Vision]
 
 ##### BUILD SOMETHING
 WILD.
@@ -24365,10 +17936,10 @@ No experience required.
 
 TOP
 
-### Website 106: Hack@URI 
+### Website 106: Hack@URI
 - Card URL: [https://hackaturi.com/](https://hackaturi.com/)
-- Referenced by: Hack@URI 
-- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hackaturi.com/ Call log:   - navigating to "https://hackaturi.com/", waiting until "domcontentloaded" 
+- Referenced by: Hack@URI
+- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hackaturi.com/ Call log: - navigating to "https://hackaturi.com/", waiting until "domcontentloaded"
 
 ### Website 107: CivicHack
 - Card URL: [https://civic-hacks.com/](https://civic-hacks.com/)
@@ -24376,10 +17947,6 @@ TOP
 - Rendered title: CivicHacks 2026
 - Final URL: [https://civic-hacks.com/](https://civic-hacks.com/)
 - Expanded FAQ/accordion controls: 9
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-<div class="schematic-line"></div>
 
 MOBILE NAV TOGGLE MOBILE MENU OVERLAY
 
@@ -24391,7 +17958,7 @@ SYS_READY // 2026
 
 VERTICAL HUD NAVIGATION HERO SECTION
 
-#### 2026 [Image: Civic Hacks 2026]
+#### 2026
 
 LOCATION_ BOSTON_U / CCDS
 
@@ -24437,11 +18004,7 @@ Design technology-driven solutions to improve urban life.
 
 CityHack invites participants to reimagine cities as more equitable, efficient, and livable spaces. This track focuses on urban challenges shaped by social, economic, and political systems, encouraging teams to explore how technology can improve city services, civic engagement, housing, transportation, and community well-being. Drawing inspiration from the Initiative on Cities, teams will work with urban data and real policy challenges to build solutions that strengthen communities and improve quality of life in urban environments.
 
-FOCUS_AREAS:
-
 SOCIOLOGY ECONOMICS POLITICAL_SCI URBAN_STUDIES
-
-LEARN_MORE +
 
 Card 2: EduHack (Top Right)
 
@@ -24451,11 +18014,7 @@ Develop innovative tools to support students, educators, and learning environmen
 
 EduHack challenges participants to innovate within education systems, from K–12 to higher education. In collaboration with Wheelock and local education partners, teams will explore how technology—especially AI and data-driven tools—can enhance learning outcomes, support educators, and promote equitable access to education. Solutions should center students, teachers, and communities, addressing real challenges in classrooms and educational institutions.
 
-FOCUS_AREAS:
-
 EDUCATION LEARNING_SCI AI_IN_EDU
-
-LEARN_MORE +
 
 Card 4: JusticeHack (Bottom Right)
 
@@ -24465,33 +18024,9 @@ Create tools that improve access to justice and promote fairness in legal and cr
 
 JusticeHack centers on improving access to justice and rethinking legal and criminal justice systems through technology. Participants will collaborate with legal experts, public defenders, and advocacy organizations to build tools that increase transparency, fairness, and accessibility within courts, legal processes, and community justice efforts. This track emphasizes ethical design, social impact, and real-world applicability, especially for communities most affected by systemic inequities.
 
-FOCUS_AREAS:
-
 LAW SOCIOLOGY POLITICAL_SCI CRIMINAL_JUSTICE
 
-LEARN_MORE +
-
 PHOTO GALLERY / HIGHLIGHTS
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
-
-[Image: Hackathon Photo]
 
 PRIZES SECTION
 
@@ -24547,8 +18082,6 @@ RESPONSIBLE AI
 
 AVANADE
 
-$750
-
 SPONSOR: Avanade
 
 PRIZE: Choice of: Nintendo Switch, Meta Quest 2, Drone, Portable Monitor, Bose Headphones, or Mechanical Keyboard.
@@ -24560,8 +18093,6 @@ CNT-004
 OPEN SOURCE AI
 
 RED HAT
-
-$750
 
 SPONSOR: Red Hat
 
@@ -24589,15 +18120,15 @@ GROUP: MLH GROUP: TRACKS
 
 ###### >> PLATINUM_TIER
 
-[[Image: Mullen Family]](https://www.mullenfdn.org)
+[Mullen Family](https://www.mullenfdn.org)
 
 ###### >> GOLD_TIER
 
-[[Image: Avanade]](https://www.avanade.com) [[Image: Red Hat]](https://www.redhat.com)
+[Avanade](https://www.avanade.com) [Red Hat](https://www.redhat.com)
 
 ###### >> PARTNERS
 
-[[Image: Allium Labs]](https://www.allium.so) [[Image: Cyvl.ai]](https://www.cyvl.ai) [[Image: GBH News]](https://www.wgbh.org/news) [[Image: MISI]](https://sites.bu.edu/misi/) [[Image: PIT-UN]](https://pit-un.org)
+[Allium Labs](https://www.allium.so) [Cyvl.ai](https://www.cyvl.ai) [GBH News](https://www.wgbh.org/news) [MISI](https://sites.bu.edu/misi/) [PIT-UN](https://pit-un.org)
 
 ##### AGENDA
 
@@ -24675,8 +18206,6 @@ Building Chatbots w/ APIs 264
 
 Lunch + Group Photo
 
-2ND_FLOOR
-
 14:45 WORKSHOPS ROUND 3
 
 14:45
@@ -24691,13 +18220,9 @@ Fullstack API Crash Course 264
 
 Opportunity Expo (Ends 17:00)
 
-2ND_FLOOR
-
 15:00
 
 Islamic Prayer #2
-
-RM B63
 
 16:30 WORKSHOPS ROUND 4
 
@@ -24713,8 +18238,6 @@ Google AI Studio 262
 
 Islamic Prayer #3
 
-RM B63
-
 17:30
 
 Iftar Dinner (Observing Only)
@@ -24726,8 +18249,6 @@ TBD
 19:00
 
 Dinner
-
-2ND_FLOOR
 
 20:00 EVENING
 
@@ -24785,8 +18306,6 @@ FLOATING DESKTOP CTA [APPLY_NOW](https://airtable.com/appmORmY9unGbIHj2/shrdXMFl
 - Final URL: [https://makemit.net/](https://makemit.net/)
 - Expanded FAQ/accordion controls: 0
 
-×
-
 ###### Important: Join Our Discord!
 
 All registered hackers should have received a Discord invite link and a copy of the Hacker Guide via email.
@@ -24796,8 +18315,6 @@ Please check your email (including spam/junk folders) for the Discord server inv
 If you haven't received the invite or are unable to join, please email us at makemit@mit.edu
 
 Don't show this again
-
-[Image: Black Hole]
 
 #### Make
 
@@ -24811,13 +18328,11 @@ Don't show this again
 
 00 s
 
-.
-
 Harvard _
 
 [Register now](https://tally.so/r/vGjMLD)
 
-[[Image: Scroll Down]](https://makemit.net/#next-section)
+[Scroll Down](https://makemit.net/)
 
 About Schedule Tracks Prizes Speakers Venue Map + Directions
 
@@ -24834,8 +18349,6 @@ When time's up, you'll film a demo video and submit your project for judging. Ch
 Hackathon: February 21-22, 2026 · Make Week: Feb 16-20, 2026
 
 Explore [past projects on Devpost](https://makemit2020.devpost.com/project-gallery) to get inspired.
-
-[Image: Decorative Graphic]
 
 ##### Faq
 
@@ -24901,21 +18414,21 @@ Interested in Mentoring at MakeMIT? Apply to be a mentor [here](https://tally.so
 
 ###### Platinum
 
-[[Image: Infosys]InfosysWith over four decades of experience in managing the systems and workings of global enterprises, we expertly steer clients, in 59 countries, as they navigate their digital transformation powered by cloud and AI. We enable them with an AI-first core, empower the business with agile digital at scale and drive continuous improvement with always-on learning through the transfer of digital skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally sustainable organization where diverse talent thrives in an inclusive workplace.](https://www.infosys.com/)
+[InfosysWith over four decades of experience in managing the systems and workings of global enterprises, we expertly steer clients, in 59 countries, as they navigate their digital transformation powered by cloud and AI. We enable them with an AI-first core, empower the business with agile digital at scale and drive continuous improvement with always-on learning through the transfer of digital skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally sustainable organization where diverse talent thrives in an inclusive workplace.](https://www.infosys.com/)
 
 ###### Gold
 
-[[Image: 80/20]80/2080/20 Inc. creates the Industrial Erector Set - modular T-slot aluminum framing that lets you build anything from workbenches to robot frames to custom machines. Their system has become the go-to for makers, engineers, and manufacturers who need to prototype fast and iterate faster.](https://8020.net/) [[Image: Viam]ViamViam is making robotics accessible to everyone with their open-source platform that lets you control hardware with a few lines of code. Connect sensors, motors, and cameras without wrestling with drivers - perfect for hardware hackers who want to focus on building, not debugging.](https://www.viam.com/) [[Image: Sauron Systems]Sauron SystemsSauron is the world’s first perceptual home security platform that continuously scans the perimeter of your home and reliably identifies and deters all threats. We’ve designed from the ground up new products and services for monitoring and protecting what matters most to you.](https://www.sauronsystems.com/) [[Image: Exowatt]ExowattExowatt is a next-generation renewable energy company delivering modular, dispatchable power for energy-intensive applications like data centers. Founded in 2023 and headquartered in Miami, Exowatt is backed by leading investors and is focused on making sustainable renewable energy always available and almost free.](https://www.exowatt.com/)
+[80/2080/20 Inc. creates the Industrial Erector Set - modular T-slot aluminum framing that lets you build anything from workbenches to robot frames to custom machines. Their system has become the go-to for makers, engineers, and manufacturers who need to prototype fast and iterate faster.](https://8020.net/) [ViamViam is making robotics accessible to everyone with their open-source platform that lets you control hardware with a few lines of code. Connect sensors, motors, and cameras without wrestling with drivers - perfect for hardware hackers who want to focus on building, not debugging.](https://www.viam.com/) [Sauron SystemsSauron is the world’s first perceptual home security platform that continuously scans the perimeter of your home and reliably identifies and deters all threats. We’ve designed from the ground up new products and services for monitoring and protecting what matters most to you.](https://www.sauronsystems.com/) [ExowattExowatt is a next-generation renewable energy company delivering modular, dispatchable power for energy-intensive applications like data centers. Founded in 2023 and headquartered in Miami, Exowatt is backed by leading investors and is focused on making sustainable renewable energy always available and almost free.](https://www.exowatt.com/)
 
 ###### Silver
 
-[[Image: Alakai Technologies]Alakai Technologies](https://www.alakai.com/)
+[Alakai Technologies](https://www.alakai.com/)
 
 ###### Bronze
 
-[[Image: Seeed Studio]Seeed Studio](https://www.seeedstudio.com/)
+[Seeed Studio](https://www.seeedstudio.com/)
 
-[[Image: Jameco Electronics]Jameco Electronics](https://www.jameco.com/) [[Image: Bolt Depot]Bolt Depot](https://www.boltdepot.com/) [[Image: JPEG Trading]JPEG Trading](https://www.jpeg-trading.com/) [[Image: Laminar]Laminar](https://runlaminar.com/) [[Image: Framework]Framework](https://frame.work/) [[Image: Transcend Mechanics]Transcend Mechanics](https://transcendmechanics.com/)
+[Jameco Electronics](https://www.jameco.com/) [Bolt Depot](https://www.boltdepot.com/) [JPEG Trading](https://www.jpeg-trading.com/) [Laminar](https://runlaminar.com/) [Framework](https://frame.work/) [Transcend Mechanics](https://transcendmechanics.com/)
 
 ###### Become a sponsor
 
@@ -24927,8 +18440,6 @@ Made with ❤️ by the MakeMIT x Harvard team
 
 [Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=blue)
-
 ### Website 109: HackHer413
 - Card URL: [https://www.hackher413.com/](https://www.hackher413.com/)
 - Referenced by: HackHer413
@@ -24936,27 +18447,37 @@ Made with ❤️ by the MakeMIT x Harvard team
 - Final URL: [https://www.hackher413.com/](https://www.hackher413.com/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black) style="display:block;max-width:100px;min-width:80px;position:fixed;right:100px;top:0;width:20%;z-index:10000" href="https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2025-season&utm_content=black" target="_blank"><img src="https://s3.amazonaws.com/logged-assets/trust-badge/2025/mlh-trust-badge-2025-black.svg" alt="Major League Hacking 2025 Hackathon Season" style="width:100%"></a> <a id="mlh-trust-badge" style="display:block;max-width:100px;min-width:80px;position:fixed;right:100px;top:0;width:20%;z-index:10000" href="https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2024-season&utm_content=grey" target="_blank"><img src="https://s3.amazonaws.com/logged-assets/trust-badge/2024/mlh-trust-badge-2024-gray.svg" alt="Major League Hacking 2024 Hackathon Season" style="width:100%"></a> <a id="pinnacle-badge" style="display:block;max-width:100px;min-width:60px;position:fixed;right:200px;top:70px;width:10%;z-index:10000" href="https://pinnacle.us.org/" target="_blank"><img src="assets/images/partners/pinnacle_badge.png" alt="Pinnacle" style="width:100%"></a> pop up for applications <div class = "popup"> <img src="assets\images\2025_logo\2025_bee.png" height="142px" width="142px"> <h2>Applications now OPEN!</h2> <button type="button" class="applyButton">APPLY NOW</button> <button type="button" class="cancelButton"></button> </div> testing code Popup code <div id="modal" class="modal"> <div class="modal-content-popup" width="200px"> <div> <img class="apply-popup-img" src="assets/images/2026/2026_Logo/Logo%202026/1-Picsart-BackgroundRemover.jpg" height="142px" width="142px"> </div> <h2>Applications now OPEN! Take part in our hackathon happening on Feb 21st - 22nd, 2026! </h2> <div> <button class="apply-popup" onclick="window.location.href='https://dashboard.hackher413.com/';">APPLY NOW</button> </div> <div> <button class="close-btn" onclick="closeModal()">Close</button> </div> </div> </div>
+style="display:block;max-width:100px;min-width:80px;position:fixed;right:100px;top:0;width:20%;z-index:10000" href="https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2025-season&utm_content=black" target="_blank"> pop up for applications
+
+## Applications now OPEN!
+
+APPLY NOW
+
+testing code Popup code
+
+## Applications now OPEN! Take part in our hackathon happening on Feb 21st - 22nd, 2026!
+
+APPLY NOW
+
+Close
 
 img src="assets/images/2024/full_logo.png" width = "550" height = "550" alt="HackHer413 2024 Logo" style="clip: rect(0px, 350px, 10px, 0px);"
 
-<a href="https://www.tiktok.com/@hackher413"><i class="fa-brands fa-tiktok larger-icon social"></i></a>
-
-h2 class="typo-list">February 25th & 26th, 2023</h2
+h2 class="typo-list">February 25th & 26th, 2023
 
 [Check out this year's photos!](https://drive.google.com/drive/folders/1LQ3gLCFP2hiManFAqhu4JmdDeE24DCRJ)
 
-<a href="https://forms.gle/poQXS3EbA5yZXK4g6"> <button type="button" class="btn btn-link text-white">Volunteer Applications</button></a> <a href="http://eepurl.com/dFInwz"> <button type="button" class="btn btn-link text-white">Subscribe to Mailing List</button></a> <a href="https://forms.gle/qXEZNZUTkZU9XmMf7"> <button type="button" class="btn btn-link text-white">Mentor Applications</button></a>
+[Volunteer Applications](https://forms.gle/poQXS3EbA5yZXK4g6) [Subscribe to Mailing List](http://eepurl.com/dFInwz) [Mentor Applications](https://forms.gle/qXEZNZUTkZU9XmMf7)
 
 [Subscribe to Mailing List](https://forms.gle/YmY38wRxLSWWFQkKA)
 
-<a href="https://forms.gle/poQXS3EbA5yZXK4g6"><button class="AnotherBtn" type="button">Volunteer Applications</button></a> <a href="https://forms.gle/qXEZNZUTkZU9XmMf7"><button class="YetAnotherBtn" style="padding-bottom: 2%; padding-top: 2%" type="button">Mentor Applications</button></a> <a class="nav-link" href="http://eepurl.com/dFInwz"> <button class="btn-secondary" style="padding-bottom: 2%; padding-top: 2%" type="button">Subscribe</button> </a>
+[Volunteer Applications](https://forms.gle/poQXS3EbA5yZXK4g6) [Mentor Applications](https://forms.gle/qXEZNZUTkZU9XmMf7) [Subscribe](http://eepurl.com/dFInwz)
 
-<a href="schedule.html"><button class="button">Check out our schedule!</button></a>
+[Check out our schedule!](https://www.hackher413.com/schedule.html)
 
 ABOUT
 
-<h1 class="about-heading">The first women (cis and trans) and non-binary student empowering hackathon in Western Massachusetts.</h1>
+# The first women (cis and trans) and non-binary student empowering hackathon in Western Massachusetts.
 
 Paragraph 1
 
@@ -24968,7 +18489,9 @@ Paragraph 2
 
 This hackathon is entirely student organized and aims to increase diversity and inclusion in the technology industry. Our annual hackathon will be entirely in person, with events being held on February 17th and 18th, 2024.
 
-Anti-Racism Statement <p class="about-para-state"> In the wake of recent racist incidents on campus, Hack(H)er413 stands in support of Black students. Read our statement <a target="_blank" href="assets/HH_antiracism_statement.pdf">here</a>. </p> <div class="icon text-center pb-4" id="lab_social_icon_footer"> <a href="https://www.facebook.com/HackHer413/"><i class="fab fa-facebook-square fa-2x social"></i></a> <a href="https://twitter.com/@hackher413"><i class="fab fa-twitter fa-2x social"></i></a> <a href="https://www.instagram.com/hackher413/"><i class="fab fa-instagram fa-2x social"></i></a> <a href="https://www.linkedin.com/company/hackher413/"><i class="fab fa-linkedin fa-2x social"></i></a> </div>
+Anti-Racism Statement
+
+In the wake of recent racist incidents on campus, Hack(H)er413 stands in support of Black students. Read our statement [here](https://www.hackher413.com/assets/HH_antiracism_statement.pdf).
 
 ###### 400+
 
@@ -24999,21 +18522,47 @@ This hackathon is a 24-hour technology marathon where participants form teams to
 ###### Learning and Exploring
 New Technologies
 
-<p class="text-white mb-0"> Participants have access to interactive workshops on areas including data science, arduinos, artificial intelligence, product management, Python (and more) taught by industry professionals and professors.</p>
+Participants have access to interactive workshops on areas including data science, arduinos, artificial intelligence, product management, Python (and more) taught by industry professionals and professors.
 
 ###### Career Development and Opportunities
 
-<p class="mb-0 text-white"> Students are given the opportunity to participate in our career fair, interview onsite with sponsor companies, network exclusively with company representatives, and attend career development sessions. </p>
+Students are given the opportunity to participate in our career fair, interview onsite with sponsor companies, network exclusively with company representatives, and attend career development sessions.
 
 ###### Open to All Levels
 
-<p class="mb-0 text-white">Hack(H)er413 is inclusive of all levels of computer science. We encourage undergraduate, graduate, and Ph.D students to attend. Come write your first line of code with us, or come show us all you know! </p>
+Hack(H)er413 is inclusive of all levels of computer science. We encourage undergraduate, graduate, and Ph.D students to attend. Come write your first line of code with us, or come show us all you know!
 
 ###### Free of Cost for Admission
 
-<p class="mb-0 text-white">This hackathon has free admission. Bring your passion, excitement, and thinking caps!</p>
+This hackathon has free admission. Bring your passion, excitement, and thinking caps!
 
-schedule <section class="schedule"> <div class="container" style="padding-top: 1em"> <h2 class="lightbg-heading">Schedule Highlights</h2> <div class="row justify-content-center"> <div class="col-lg-5"> <ul class="main"> <li class="date"> <h3 class="schedule_date">Sat</h3> <p>Schedule of Events</p> </li> <li class="events"> <ul class="events-detail"> <li class="events-detail"> <span class="event-time">8:00am </span> <span class="event-name">Check-In Begins </span> <br /> </li> <li class="events-detail"> <span class="event-time">9:00am </span> <span class="event-name">Opening Ceremony</span> <br /> <li class="events-detail"> <span class="event-time">10:00am </span> <span class="event-name">Hacking Begins</span> <br /> </li> <li class="events-detail"> <span class="event-time">10:30am</span> <span class="event-name">One-on-one company pitches</span> <br /> </li> <li class="events-detail"> <span class="event-time">11:30am </span> <span class="event-name">Networking</span> <br /> </li> <li class="events-detail"> <span class="event-time">12:30pm</span> <span class="event-name">Lunch wave 1</span> <br /> </li> <li class="events-detail"> <span class="event-time">1:30pm</span> <span class="event-name">Lunch wave 2</span> <br /> </li> <li class="events-detail"> <span class="event-time">2:00pm </span> <span class="event-name">Diversity </span> <br /> </li> <li class="events-detail"> <span class="event-time">3:00pm </span> <span class="event-name">Workshops</span> <br /> </li> <li class="events-detail"> <span class="event-time">6:00 pm</span> <span class="event-name">Dinner</span> <br /> </li> <li class="events-detail"> <span class="event-time">9:00pm</span> <span class="event-name">Snacks!</span> <br /> </li> </ul> </li> </div> <div class="col-lg-5"> <ul class="main"> <li class="date"> <h3 class="schedule_date">Sun</h3> <li class="events"> <ul class="events-detail"> <li class="events-detail"> <span class="event-time">10:00am </span> <span class="event-name">Soft Submission</span> <br /> </li> <li class="events-detail"> <span class="event-time">10:00am </span> <span class="event-name">Submission q&a + info session</span> <br /> </li> <li class="events-detail"> <span class="event-time">11:00am</span> <span class="event-name">Hard Submission</span> <br /> </li> <li class="events-detail"> <span class="event-time">11:30am</span> <span class="event-name">Brunch</span> <br /> </li> <li class="events-detail"> <span class="event-time">12:00pm - 3:30pm</span> <span class="event-name">Project Demos + Judging</span> <br /> </li> <li class="events-detail"> <span class="event-time">2:00pm </span> <span class="event-name">Judging Deliberation</span> <br /> </li> <li class="events-detail"> <span class="event-time">4:30pm</span> <span class="event-name">Closing Ceremony</span> <br /> </li> </ul> </li> </li> </div> </div> </div> </section> --> /ul> </li> </ul> </div> <div class="col-lg-5"> <ul class="main"> <li class="date"> <h3 class="schedule_date">Sun</h3> <p>Schedule of Events</p> </li> <li class="events"> <ul class="events-detail"> <li class="events-detail"> <span class="event-time">8:00am - </span> <span class="event-name">Breakfast</span> <br/> </li> <li class="events-detail"> <span class="event-time">10:00am - </span> <span class="event-name">Submissions Due</span> <br/> </li> <li class="events-detail"> <span class="event-time">11:00am - </span> <span class="event-name">Judging</span> <br/> </li> <li class="events-detail"> <span class="event-time">11:30am - </span> <span class="event-name"> Lunch</span> <br/ /li> <li class="events-detail"> <span class="event-time">2:00pm - </span> <span class="event-name">Closing Ceremony</span> <br/> </li> </ul> </li> </ul> </div> </div> </div </section> Keynote Speaker <section id="keynote" class="whitebg" style="padding-top: 0;"> <div class="container-fluid"> <h1 class="lightbg-heading" style="font-weight: bold;">Dr. Rati Thanawala</h1> <h2 class="lightbg-heading" style="padding-bottom:.5em">Our 2022 Keynote Speaker!</h2> <div class="row"> <div class="col-4 img-fluid"> <img class="mx-auto d-block img-fluid" src="assets/images/logos/gh_logo.png"> <div class="blockquote-wrapper" style="padding-top: .5em; padding-bottom: 4.5em;"> <div class="blockquote"> <img class="mx-auto d-block img-fluid" style="max-height: 300px" src="assets/images/workshops/rati.jpeg"> </div> </div> </div> <div class="col-lg-8"> <p class="hopper-para" style="padding-top:0"> Dr. Thanawala is a Fellow at the Harvard Kennedy School. She has a Ph.D. in Computer Science from Yale University. In her 39-year career in the tech industry, the last 17 as a Vice President at Bell Labs, she has consistently broken new ground in the introduction of new technologies. She founded Bell Labs Consulting, a business unit within Bell Labs, that advises tech executives, globally, on building future communication networks. She has held executive positions in software development and product management at companies including AT&T, Lucent, and Nokia.<br> <br> Dr. Thanawala received a grant from the Women of Color in Computing Collaborative, funded by a Melinda Gates company. From her research, she developed “14 Levers” that, if mastered early by undergraduate and graduate students, will give them an increased ability to thrive in internships and early careers in tech. Dr. Thanawala established a multiyear curriculum for a Leadership Academy. The Leadership Academy was launched with two partners, the University of Massachusetts, and Harvard University. The program is virtual and welcomes students nationally. Last year students from 22 colleges participated in the six-week summer academy, and almost all students also enrolled in the unique industry mentorship program for the 9 months following the summer academy. In the last two years, 87 students have gone through the program. </p> </div> </div> </div> </section>
+schedule
+
+## Schedule Highlights
+
+- Sat Schedule of Events
+- 8:00am Check-In Begins
+- 9:00am Opening Ceremony 10:00am Hacking Begins 10:30am One-on-one company pitches 11:30am Networking 12:30pm Lunch wave 1 1:30pm Lunch wave 2 2:00pm Diversity 3:00pm Workshops 6:00 pm Dinner 9:00pm Snacks!
+
+- Sun 10:00am Soft Submission 10:00am Submission q&a + info session 11:00am Hard Submission 11:30am Brunch 12:00pm - 3:30pm Project Demos + Judging 2:00pm Judging Deliberation 4:30pm Closing Ceremony
+
+--> /ul>
+
+- Sun Schedule of Events
+- 8:00am - Breakfast
+- 10:00am - Submissions Due
+- 11:00am - Judging
+- 11:30am - Lunch 2:00pm - Closing Ceremony
+
+Keynote Speaker
+
+# Dr. Rati Thanawala
+
+## Our 2022 Keynote Speaker!
+
+Dr. Thanawala is a Fellow at the Harvard Kennedy School. She has a Ph.D. in Computer Science from Yale University. In her 39-year career in the tech industry, the last 17 as a Vice President at Bell Labs, she has consistently broken new ground in the introduction of new technologies. She founded Bell Labs Consulting, a business unit within Bell Labs, that advises tech executives, globally, on building future communication networks. She has held executive positions in software development and product management at companies including AT&T, Lucent, and Nokia.
+
+Dr. Thanawala received a grant from the Women of Color in Computing Collaborative, funded by a Melinda Gates company. From her research, she developed “14 Levers” that, if mastered early by undergraduate and graduate students, will give them an increased ability to thrive in internships and early careers in tech. Dr. Thanawala established a multiyear curriculum for a Leadership Academy. The Leadership Academy was launched with two partners, the University of Massachusetts, and Harvard University. The program is virtual and welcomes students nationally. Last year students from 22 colleges participated in the six-week summer academy, and almost all students also enrolled in the unique industry mentorship program for the 9 months following the summer academy. In the last two years, 87 students have gone through the program.
 
 ##### Last Year's Prizes!
 
@@ -25037,9 +18586,13 @@ Best Beginner Hack
 
 Apple Air Tag
 
-<h4 class="lightbg-heading" style="padding-top:1em;padding-bottom:1em;">These are just some of last year's prizes. <li class="list-inline-item"> <a href="https://dashboard.hackher413.com/prizes"> <i class="fas fa-arrow-right" style = "color: #8d5c74;"></i> </a> </li></h4>
+#### These are just some of last year's prizes.
 
-<section id="involved"> <div class="container"> <br> <h2 class="lightbg-heading" style="text-align: center">Get Involved</h2> <p class="lightbg-para"> We encourage all gender identities to get involved with Hack(H)er413 through volunteering, mentoring, judging, recruiting or tabling with us! Unfortunately, this year's volunteer and mentor forms are closed. Check back next year to find out how you can get involved! <p> <p> </p> Marketing Icons Section <div class="row"> <div class="col-lg-4 mb-4"> <div class="card h-100"> <h4 class="card-header">Student Ambassadors</h4> <div class="card-body"> <p class="card-text">HackHer413 has student ambassadors from other universities represent HackHer413 on their university campus. </div> <div class="card-footer"> <p style="color:#4F7344; font-size:1.2em;">More Information Coming Soon!</p> </div> </div> </div> div class="col-lg-6"> <div class="card h-100"> <h4 class="card-header" style="color:#45A49B;text-emphasis: bold;">Be a Volunteer</h4> <div class="card-body"> <p class="card-text">Volunteer to help with briefing sponsors, checking in participants, and supporting the hackathon. </p> </div> <div class="card-footer"> <a style="color:#45A49B; font-size:1.2em;" href="https://forms.gle/poQXS3EbA5yZXK4g6"> Click Here to Apply!</a> </div> </div> </div div class="col-lg-6"> <div class="card h-100"> <h4 class="card-header" style="color:#45A49B;text-emphasis: bold;">Technical Mentors</h4> <div class="card-body"> <p class="card-text">Help students with their passion projects by supporting them both technically and surrounding product.</p> </div> <div class="card-footer"> <a style="color:#45A49B; font-size:1.2em;" href="https://forms.gle/qXEZNZUTkZU9XmMf7"> Click Here to Apply!</a> </div> </div> </div </div> </div> <br> </section> Last Year
+## Get Involved
+
+We encourage all gender identities to get involved with Hack(H)er413 through volunteering, mentoring, judging, recruiting or tabling with us! Unfortunately, this year's volunteer and mentor forms are closed. Check back next year to find out how you can get involved! Marketing Icons Section Student Ambassadors HackHer413 has student ambassadors from other universities represent HackHer413 on their university campus. More Information Coming Soon! div class="col-lg-6"> Be a Volunteer Volunteer to help with briefing sponsors, checking in participants, and supporting the hackathon. [Click Here to Apply!](https://forms.gle/poQXS3EbA5yZXK4g6) Technical Mentors Help students with their passion projects by supporting them both technically and surrounding product. [Click Here to Apply!](https://forms.gle/qXEZNZUTkZU9XmMf7)
+
+Last Year
 
 ##### A Look Back to Hack(H)er413 in 2025
 
@@ -25051,11 +18604,7 @@ Apple Air Tag
 - 36 attendees had attended 3 or more hackathons before Hack(H)er413 2024
 - 30+ projects submitted!
 
-<a target="_blank" href="https://www.hackher413.com/2020"><span class="highlight">Check Out Last Year's Event!</span></a>
-
-<img class="last-year-pic" src="assets/images/2022/travellers_opening_slide.png" />
-
-[Image: Second slide]
+[Check Out Last Year's Event!](https://www.hackher413.com/2020)
 
 [Previous](https://www.hackher413.com/#carouselExampleIndicators) [Next](https://www.hackher413.com/#carouselExampleIndicators)
 
@@ -25065,49 +18614,31 @@ HIGHLIGHTS
 
 Our mission is to create a welcoming and inclusive environment for all women (cis and trans) and non-binary empowering students of all ethnic, gender, socioeconomic, and educational backgrounds and identities to come innovate, learn, and feel safe while doing so!
 
-[Image: Image]
-
 ###### Attend Workshops with Professors and Industry
 
 Sponsors conduct interactive workshops on industry topics, professors deliver talks in their specialized areas.
-
-[Image: Image]
 
 ###### Land an Internship or Full-Time Offer at our Career Fair
 
 Sponsors seek interns and hires through Hack(H)er413, so bring your resume and pitch!
 
-[Image: Image]
-
 ###### Brainstorm, Collaborate, Create, to Win an Award
 
 Team-forming events, mentors, abundance of hardware, and an API directory for your winning hack!
-
-[Image: Image]
 
 ###### Network with Industry Reps in "Coffee with Mentors"
 
 Our low sponsor-to-attendee ratio ensures one-on-one networking + valuable learning from industry reps.
 
-[Image: Image]
-
 ###### Indulge in the #1 University Dining Halls in the U.S
 
 Attendees enjoy access to the #1-ranked Princeton Review Dining Halls at UMass Amherst.
-
-[Image: Image]
 
 ###### Engage in an interactive Diversity Panel
 
 Join our empowering Diversity Panel on women and non-binary leaders in tech.
 
-[Image: Image]
-
-###### Open to All Levels
-
 Inclusive for all coding levels with events designed around to include all levels!
-
-[Image: Image]
 
 ###### Launch Your Start-Up or Product + Receive Funding
 
@@ -25121,61 +18652,41 @@ We encourage all gender identities to get involved with Hack(H)er413 through vol
 
 ###### Take a look at some of 2026's project winners!
 
-[Image: Image]
-
 ###### [Ready Present](https://github.com/SherryNazifi/ReadyPresent)
 
 ReadyPresent is the simplest and easiest web application for presentation preparation, optimized with live feedback, a sleek interface, and personalized presentation tips for each user.
-
-[Image: Image]
 
 ###### [CourtVision](https://github.com/codeArjya/CourtVision/tree/main)
 
 AI-powered NBA intelligence layer delivering real-time player projections, trend insights, and predictive game analysis - turning stats into insights for modern, or especially, new fans.
 
-[Image: Image]
-
 ###### Hiring Manager Pro
 
 Because hiring decisions shouldn’t rely on vibes alone
-
-[Image: Image]
 
 ###### Closure
 
 Bring Closure to your Team
 
-[Image: Image]
-
 ###### WhereDaMilk?
 
 AI-powered vision assistant that helps visually impaired users shop independently by finding items, reading labels, and understanding products through voice.
-
-[Image: Image]
 
 ###### Give Me Peace
 
 Need somewhere to study? We can help you.
 
-[Image: Image]
-
 ###### Fuzzy Wuzzy Study Buddies
 
 Never look down at your phone again! It tracks your eyes using machine learning and does real-time 2D rendering of your face to ensure you are focused on the task. Cute pets await, so don't look away!
-
-[Image: Image]
 
 ###### [Eyes on You](https://github.com/Ananya-Jha-code/Eyes-on-You)
 
 AI powered YouTube focus assistant to enforce what you meant to do, not what the algorithm tempts you to do
 
-[Image: Image]
-
 ###### Dialyn
 
 Dialyn is a voice AI that handles customer calls and books doctor appointments. It uses Twilio, Deepgram, OpenAI, and ElevenLabs to act as an AI receptionist over the phone.
-
-[Image: Image]
 
 ###### [Witness](https://github.com/arshiyasharma/witness)
 
@@ -25183,89 +18694,185 @@ Evidence of injustice is deleted every day. Witness turns your phone into a bloc
 
 ###### Take a look at some of our Previous Projects!
 
-[Image: Image]
-
 ###### POTSpacer
 
 The POTS (Postural Orthostatic Tachycardia Syndrome) Pacer is a wearable that measures body temperature and pulse to warn individuals of a POTS "attack."
-
-[Image: Image]
 
 ###### [Artificial Sign Language](https://github.com/AnanyaShekhawat/Artificial-Sign-Language-ASL-)
 
 The Artificial Sign Language uses AI to translate sign language into spoken words. This technology has the potential to break down communication barriers!
 
-[Image: Image]
-
 ###### [ProductiBunny](https://github.com/mabuissa24/HackHER413-2023)
 
 We've made a Chrome extension that serves as a "productivity hub"!These include a simple to do list and a representation of the weather, temperature, and time.
-
-[Image: Image]
 
 ###### [My(Non-Toxic)FitnessPal](https://github.com/crowelladrianna/hackher2023)
 
 My(Non-Toxic)FitnessPal is a wellness application that de-emphasizes calories in tracking nutrition, fitness, and wellbeing. It allows you search and track meals that you eat throughout the day.
 
-[Image: Image]
-
 ###### [Unwind](https://github.com/escapeprograms/unwind)
 
 Our website raises awareness about the importance of good posture to prevent health issues like carpal tunnel syndrome.
-
-[Image: Image]
 
 ###### [Bouba-Kiki Analyzer](https://github.com/jordaeday/bouba-kiki-analyzer)
 
 It takes in the user input using the Bouba/Kiki principle in linguistics to determine how "round" or "spiky" the input is.
 
-SPEAKER <section id="venue-speaker" class="whitebg"> <h2 class="lightbg-heading">Introducing Our Keynote Speaker</h2> <div class="container-fluid"> <div class="row align-items-center"> <div class="col-lg-6"> <div class="p-5"> <img class="img-fluid rounded-circle" src="assets/images/speaker.jpeg" alt="Renu Chipalkatti"> </div> </div> <div class="col-lg-6"> <div class="p-5"> <h2 class="display-6">Renu Chipalkatti</h2> <p> Renu is a passionate intrapreneur and led Innovation and new business development programs at Verizon. Previously, Renu served as the Global Head for New Business Incubation at Verizon Enterprise Solutions, where she was responsible for the development and commercialization of new products and services. Her portfolio included IoT, Data Analytics and Security solutions for vertical markets. As an early internet pioneer, she co-founded Superpages.com, a leading online yellow pages service, and helped it grow into a profitable business in 4 years. Additionally, she initiated and successfully launched multiple internet-based services delivering over $300M in revenue. </p> <p> We are excited and honored to welcome Renu as our keynote speaker for the hackathon. Renu is a graduate of UMass Amherst's College of Information and Computer Sciences and is a member of the prestigious advisory board. </p> </div> </div> </div> </div> </section> Tracks <section class="tracks"> <div class="container"> <h2 class="darkbg-heading">Tracks</h2> <p class="darkbg-para text-center">Hack(H)er413's tracks are categories we utilize to organize events at the hackathon so participants can have an understanding of the difficulty/programming level before attending. <em>Any participant can attend any event under any track!</em> </p> <div class="row"> <div class="col-lg-4 split feature_item"> <img class="track-img mx-auto d-block img-fluid" src="assets/images/2024/beginner_bee.png"> <h3>Beginner</h3> <ul> <li>Designed for for undergraduate students and first-time programmers</li> <li>Includes interactive introductory workshops delivered by sponsor companies</li> <li>Curates meet-ups for beginners in technology</li> <li>Optimal track for learning how to code and exploring different languages/technologies</li> </ul> </div> <div class="col-lg-4 split feature_item"> <img class="track-img mx-auto d-block img-fluid" src="assets/images/2024/plus_bee.png"> <h3>Beginner++</h3> <ul> <li>Designed for for graduate and Ph.D. students along with advanced programmers</li> <li>Includes workshops delivered by computer science and engineering professors from UMass Amherst on their research/doctoral dissertations</li> <li>Optimal track for exploring further academia and learning concepts outside the classroom</li> </ul> </div> </div> </div> </section> Workshops <section class="workshops"> <h2 class="lightbg-heading">Workshops</h2> <p class="lightbg-para">Check out a preview of the workshops being offered this year! The full list of workshops will be available at the event. </p> <div class="container-fluid"> <div class="row"> <div class="col-sm-12 col-lg-6"> <h3 class="lightbg-heading">Beginner</h3> <div class="row"> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/Stacie_Sheldon.jpg" alt="Stacie Sheldon"> <br> <h4>Sketching UX: Designing a Homepage</h4> <p>Workshop by Stacie Sheldon, Director, User Research & Experience at Echo & Co</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/Valeria_Surk.jpg" alt="Valeria Surk"> <br> <h4>Product Management: User-Centric Approach</h4> <p>Workshop by Valeria Surk, Product Manager at Veson Nautical</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/Shiri_Dori-Hacohen.jpg" alt="Shiri Dori-Hacohen"> <br> <h4>Giving in Networking and Negotiation: how to add values to others for fun and profit</h4> <p>Workshop by Shiri Dori-Hacohen, CEO of AuCoDe & UMass Alum</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/Quentin_Dupupet_Emily_Dzwil.jpg" alt="Quentin Dupupet and Emily Dzwil"> <br> <h4>Introduction to Modeling and Machine Learning</h4> <p>Workshop by Quentin Dupupet and Emily Dzwil, Junior Data Scientists at MassMutual</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/Aaron_Yeats.png" alt="Aaron Yeats"> <br> <h4>Three Powerful Google Cloud <br>Products for Your Project</h4> <p>Workshop by Aaron Yeats at Google Cloud Platform</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/logos/2020bee_color_nospecks.png" alt="HackHer413"> <br> <h4>Introduction to Programming in the Beehive with Python</h4> <p>Workshop by HackHer413</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/logos/2020bee_color_nospecks.png" alt="HackHer413"> <br> <h4>Building a Solar-Powered Bugbot!</h4> <p>Workshop by HackHer413</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/wayfair_react_workshop.jpg" alt="Shuchi Agrawal and Hadley Swello"> <br> <h4>Your First React App</h4> <p>Workshop by Shuchi Agrawal and Hadley Swello, Software Engineers at Wayfair</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/bose.jpg" alt="Elizabeth Mezias"> <br> <h4>How To? Bose Frames and Sound Touch APIs</h4> <p>Workshop by Elizabeth Mezias, Android Architect at Bose</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/liberty-mutual-workshop.JPG" alt="Mary Michaud"> <br> <h4>Introduction to MongoDB Atlas</h4> <p>Workshop by Mary Michaud, Architect at Liberty Mutual</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/voatz-workshop.jpeg" alt="Jonathan Kovach"> <br> <h4>Ethical Hacking and How to Start Security Testing of Mobile Applications</h4> <p>Workshop by Jonathan Kovach, Software Engineer at Voatz</p> </div> </div> </div> </div> <div class="col-sm-12 col-lg-6 vl"> <h3 class="lightbg-heading">Beginner++</h3> <div class="row"> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/Bri_Veillette.jpg" alt="Bri Veillette"> <br> <h4>Build & Deploy a Web App using Docker</h4> <p>Workshop by Bri Veillette, Senior DevOps Engineer at IDEXX</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/mohit_iyyer.png" alt="Mohit Iyyer"> <br> <h4>Using Machine Learning to Understand Language</h4> <p>Workshop by Mohit Iyyer, Professor at CICS</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/david_fisher.jpg" alt="David Fisher"> <br> <h4>Object Oriented Design</h4> <p>Workshop by David Fisher, Facilitator at CICS</p> </div> </div> <div class="col-6 "> <div class="feature_item"> <img class="img-circle workshop-img img-fluid" src="assets/images/workshops/cameron_musco.jpg" alt="Cameron Musco"> <br> <h4>Finding an Approximate Needle in a Haystack</h4> <p>Workshop by Cameron Musco, Assistant Professor at CICS</p> </div> </div> </div> </div> </div> </div> </section> Venue
+SPEAKER
+
+## Introducing Our Keynote Speaker
+
+## Renu Chipalkatti
+
+Renu is a passionate intrapreneur and led Innovation and new business development programs at Verizon. Previously, Renu served as the Global Head for New Business Incubation at Verizon Enterprise Solutions, where she was responsible for the development and commercialization of new products and services. Her portfolio included IoT, Data Analytics and Security solutions for vertical markets. As an early internet pioneer, she co-founded Superpages.com, a leading online yellow pages service, and helped it grow into a profitable business in 4 years. Additionally, she initiated and successfully launched multiple internet-based services delivering over $300M in revenue.
+
+We are excited and honored to welcome Renu as our keynote speaker for the hackathon. Renu is a graduate of UMass Amherst's College of Information and Computer Sciences and is a member of the prestigious advisory board.
+
+Tracks
+
+## Tracks
+
+Hack(H)er413's tracks are categories we utilize to organize events at the hackathon so participants can have an understanding of the difficulty/programming level before attending. *Any participant can attend any event under any track!*
+
+### Beginner
+
+- Designed for for undergraduate students and first-time programmers
+- Includes interactive introductory workshops delivered by sponsor companies
+- Curates meet-ups for beginners in technology
+- Optimal track for learning how to code and exploring different languages/technologies
+
+### Beginner++
+
+- Designed for for graduate and Ph.D. students along with advanced programmers
+- Includes workshops delivered by computer science and engineering professors from UMass Amherst on their research/doctoral dissertations
+- Optimal track for exploring further academia and learning concepts outside the classroom
+
+Workshops
+
+## Workshops
+
+Check out a preview of the workshops being offered this year! The full list of workshops will be available at the event.
+
+#### Sketching UX: Designing a Homepage
+
+Workshop by Stacie Sheldon, Director, User Research & Experience at Echo & Co
+
+#### Product Management: User-Centric Approach
+
+Workshop by Valeria Surk, Product Manager at Veson Nautical
+
+#### Giving in Networking and Negotiation: how to add values to others for fun and profit
+
+Workshop by Shiri Dori-Hacohen, CEO of AuCoDe & UMass Alum
+
+#### Introduction to Modeling and Machine Learning
+
+Workshop by Quentin Dupupet and Emily Dzwil, Junior Data Scientists at MassMutual
+
+#### Three Powerful Google Cloud
+Products for Your Project
+
+Workshop by Aaron Yeats at Google Cloud Platform
+
+#### Introduction to Programming in the Beehive with Python
+
+Workshop by HackHer413
+
+#### Building a Solar-Powered Bugbot!
+
+Workshop by HackHer413
+
+#### Your First React App
+
+Workshop by Shuchi Agrawal and Hadley Swello, Software Engineers at Wayfair
+
+#### How To? Bose Frames and Sound Touch APIs
+
+Workshop by Elizabeth Mezias, Android Architect at Bose
+
+#### Introduction to MongoDB Atlas
+
+Workshop by Mary Michaud, Architect at Liberty Mutual
+
+#### Ethical Hacking and How to Start Security Testing of Mobile Applications
+
+Workshop by Jonathan Kovach, Software Engineer at Voatz
+
+#### Build & Deploy a Web App using Docker
+
+Workshop by Bri Veillette, Senior DevOps Engineer at IDEXX
+
+#### Using Machine Learning to Understand Language
+
+Workshop by Mohit Iyyer, Professor at CICS
+
+#### Object Oriented Design
+
+Workshop by David Fisher, Facilitator at CICS
+
+#### Finding an Approximate Needle in a Haystack
+
+Workshop by Cameron Musco, Assistant Professor at CICS
+
+Venue
 
 ##### Our Venue
 
 Hack(H)er413 2025-2026 will be held in the new Computer Sciences Laboratories (CSL) Building at the University of Massachusetts Amherst campus.
 
-Career Fair Plus section id="cfp-section" class="cfp-section"> <div class="container-fluid split feature_item"> <div> <a target="_blank" href="https://www.careerfairplus.com/"><img class="hackher413-cfp-logo align-middle" src="assets/images/sponsors/CFP_logo.png" alt="CFP"></a> </div> <div> <h1 class="about-heading"><b>Career Fair Plus at Hack(H)er413</b></h1> <p> Career Fair Plus is a platform that allows sponsor representatives to schedule 1:1 or group info sessions with attendees to talk about life at their companies and open positions. Hack(H)er413 2023 attendees will have the opportunity to sign up for these meetings starting January 31st. <a href="https://help.careerfairplus.com/en/articles/4037918-candidate-checklist">Read more about how to use the platform here!</a> </p> </div> </div> </section Testing Sponsor section Current Sponsors
+Career Fair Plus section id="cfp-section" class="cfp-section">
+
+# **Career Fair Plus at Hack(H)er413**
+
+Career Fair Plus is a platform that allows sponsor representatives to schedule 1:1 or group info sessions with attendees to talk about life at their companies and open positions. Hack(H)er413 2023 attendees will have the opportunity to sign up for these meetings starting January 31st. [Read more about how to use the platform here!](https://help.careerfairplus.com/en/articles/4037918-candidate-checklist)
 
 ##### Current Sponsors
 
-Current Contributors <section id="contributors-section-hexagons" class="contributors-section-hexagons" style="padding-bottom:5em;"> <h2 class="lightbg-heading" style="padding-top: 1em; padding-bottom: .5em;">Current Contributors</h2> <div class=" justify-content-center"> <div class="" style="display: block; margin-left: 43%; margin-right: auto; width: 50%;"> <a target="_blank" href="https://www.zenbusiness.com/"><img src="assets\images\contributors\ZenBusiness.jpg" width="200" height="auto" alt="ZenBusiness"></a> </div> </div> Past Sponsors
+Current Contributors
+
+## Current Contributors
+
+Past Sponsors
 
 ##### Past Sponsors
 
-<li class="hex"> <div class="hexIn"> <a class="hexLink" href="https://mlh.io/"> <img src="assets/images/sponsors//mlh-logo-color.png" width="60%" height="23%" alt="" style="margin-top: 45%;" alt="" /> <h1>MLH</h1> </a> </div> </li> <li class="hex"> <div class="hexIn"> <a class="hexLink" href="https://nordsecurity.com/"> <img src="assets/images/sponsors//nord.png" width="70%" height="55%" alt="" style="margin-top: 27%;" alt="" /> <h1>Nord Security</h1> </a> </div> </li> <li class="hex"> <div class="hexIn"> <a class="hexLink" href="https://www.wolfram.com/?source=nav"> <img src="assets/images/sponsors/wolfram.png" width="70%" height="50%" alt="" style="margin-top: 27%;" alt="" /> <h1>Wolfram</h1> </a> </div> </li> <li class="hex"> <div class="hexIn"> <a class="hexLink" href="https://www.mathworks.com/"> <img src="assets/images/sponsors/mathworks.png" width="95%" height="50%" alt="" style="margin-top: 27%;" alt="" /> <h1>MathWorks</h1> </a> </div> </li> <li class="hex" style = "margin-left: 0%;"> <div class="hexIn"> <a class="hexLink" href="https://www.massmutual.com/"> <img src="assets/images/sponsors/massmutual.png" width="80%" height="10%" alt="" style="margin-top: 52%;" alt="" /> <h1>MassMutual</h1> s </a> </div> </li> li class="hex"> <div class="hexIn"> <a class="hexLink" href="https://www.libertymutual.com/"> <img src="assets/images/sponsors/Liberty-Mutual.png" width="200" height="60" alt="" style="margin-top: 48%;" alt="" /> <h1>Liberty Mutual</h1> </a> </div> </li> <li class="hex"> <div class="hexIn"> <a class="hexLink" href="https://about.meta.com/"> <img src="assets/images/sponsors/meta.png" width="200" height="100" alt="" style="margin-top: 39%;" alt="" /> <h1>Meta</h1> </a> </div> </li> <li class="hex"> <div class="hexIn"> <a class="hexLink" href="https://www.ford.com/"> <img src="assets/images/sponsors/ford.png" width="210" height="80" alt="" style="margin-top: 39%;" alt="" /> <h1>Ford</h1> </a> </div> </li> <li class="hex"> <div class="hexIn"> <a class="hexLink" href="https://www.travelers.com/"> <img src="assets/images/sponsors/TravelersLogo.png" width="200" height="50" alt="" style="margin-top: 47%;" alt="" /> <h1>Travelers</h1> </a> </div> </li <style> .left-contributor{ width: 50%; float: left; overflow: hidden } .right-partners{ width: 50%; float: left; overflow: hidden; } </style> <section class = "left-contributor" id="contributors-section" style=" margin-top: -2.58 %;"> <h2 class="lightbg-heading" style=" padding-top: 1.5em;">Our Contributors</h2> <div class="container-fluid"> <div class="row justify-content-center"> <div class="center-center" style="padding-top: 2.5em; padding-bottom: 3.5em;"> <a target="_blank" href="https://www.adobe.com/express/"><img src="assets/images/sponsors/adobe.jpg" width="150" height="auto" alt="Adobe Express"></a> </div> </div> </div> </section> <section id="right-partners" class="sponsor-section"> <h2 class="lightbg-heading" style="padding-bottom: .5em;">Partners</h2> <div class="container-fluid"> <div class="row justify-content-center"> <div class="col-sm-12 col-lg-6" style="padding-top: 2.5em;"> <a target="_blank" href="https://www.stickermule.com/"><img src="assets/images/sponsors/stickmule.png" width="300" height="auto" alt="Sticker Mule"></a> </div> </div> </div> <br> </section>
+[MLH](https://mlh.io/) [Nord Security](https://nordsecurity.com/) [Wolfram](https://www.wolfram.com/?source=nav) [MathWorks](https://www.mathworks.com/) [MassMutual s](https://www.massmutual.com/) li class="hex">
+
+[Liberty Mutual](https://www.libertymutual.com/)
+
+[Meta](https://about.meta.com/) [Ford](https://www.ford.com/) [Travelers](https://www.travelers.com/) .left-contributor{ width: 50%; float: left; overflow: hidden } .right-partners{ width: 50%; float: left; overflow: hidden; }
+
+## Our Contributors
+
+## Partners
 
 ##### Past Contributors
 
 center-center pt-5 pb-5
 
-[[Image: Adobe Express]](https://www.adobe.com/express/)
+[Adobe Express](https://www.adobe.com/express/)
 
-[[Image: Insight Global]](https://insightglobal.com/)
+[Insight Global](https://insightglobal.com/)
 
-[[Image: Subway]](https://www.subway.com/en-us)
+[Subway](https://www.subway.com/en-us)
 
-[[Image: Subway]](https://incogni.com/)
+[Subway](https://incogni.com/)
 
-[[Image: Subway]](https://www.wolfram.com/?source=nav)
+[Subway](https://www.wolfram.com/?source=nav)
 
 ##### Past Partners
 
-[[Image: Sticker Mule]](https://mule.to/p5do)
+[Sticker Mule](https://mule.to/p5do)
 
-[[Image: MLH]](https://mlh.io/)
+[MLH](https://mlh.io/)
 
-[[Image: Google Cloud]](https://cloud.google.com/?hl=en)
+[Google Cloud](https://cloud.google.com/?hl=en)
 
-<div class="w-100"></div>
+[Stand Out Stickers](http://hackp.ac/mlh-StandOutStickers-hackathons)
 
-[[Image: Stand Out Stickers]](http://hackp.ac/mlh-StandOutStickers-hackathons)
+[Echo 3D](https://www.mathworks.com/)
 
-[[Image: Echo 3D]](https://www.mathworks.com/)
-
-[[Image: Echo 3D]](https://www.echo3d.com/)
-
-<div class="d-flex flex-column"> <div class="col-sm-12 col-lg-4" style="padding-top: 3em;"> <a target="_blank" href="https://cloud.google.com/?hl=en"><img src="assets\images\sponsors\Google_Cloud_logo.svg.png" width="300" height="auto" alt="Google Cloud"></a> </div> </div>
+[Echo 3D](https://www.echo3d.com/)
 
 Sponsors
 
@@ -25287,9 +18894,19 @@ Your company can feature new job and internship postings and technology updates 
 
 Your company will donate prizes for a specific pre-existing category. Create Your Own Prize Category: You can create your own category specific to your company & sponsor the prize!
 
-<h4 class="lightbg-heading" style="padding-top:1em;padding-bottom:1em;">We have finalized our Sponsors for the 2024 Event, however, if you or your Company are interested in sponsoring us next year, send us an email! <li class="list-inline-item"> <a href="mailto: arohra@umass.edu"> <i class="fas fa-envelope"></i> </a> </li></h4>
+#### We have finalized our Sponsors for the 2024 Event, however, if you or your Company are interested in sponsoring us next year, send us an email!
 
-h2 class="lightbg-heading" style="padding-top: 1em; padding-bottom: .5em;">Interested in Sponsoring Hack(H)er413?</h2> <div class="row justify-content-center"> <div class="col-4" style="padding-top: 6em;"> <img src="assets/images/whyspons/1.png" width = "500" height = "auto" > </div> <div class="col-4" style="padding-top: 6em;"> <p><h2><u>Mentorship Opportunities</u></h2> <h4 style="color: #0D1D2C;">Employees (engineers and anyone excited about tech) may volunteer to serve as mentors at the hackathon to help participants with creating and presenting their projects.</h4></p> </div> <div class="col-4" style="padding-top: 6em;"> <img src="assets/images/whyspons/2.png" width = "500" height = "auto" > </div> </div> </div> <div class="row justify-content-center"> <div class="col-4" style="padding-top: 6em;"> <p><h2><u>Donate Prizes</u></h2> <h4 style="color: #366189;">Your company will donate prizes for a specific pre-existing category. Create Your Own Prize Category: You can create your own category specific to your company & sponsor the prize!</h4></p> </div> <div class="col-4" style="padding-top: 6em;"> <a target="_blank" ><img src="assets/images/whyspons/3.png" width = "500" height = "auto" ></a> </div> <div class="col-4" style="padding-top: 6em;"> <p><h2><u> Host a Workshop</u></h2> <h4 style="color: #366189;">A company representative can host a virtual or in person workshop on any tech topic; it's a great way to introduce participants to technology that relates to what your company works with.</h4></p> </div> </div> </div> <div class="row justify-content-center"> <div class="col-4" style="padding-top: 6em;"> <a target="_blank" ><img src="assets/images/whyspons/4.png" width = "500" height = "auto" ></a> </div> <div class="col-4" style="padding-top: 6em;"> <p><h2><u>Network with Students</u></h2> <h4 style="color: #45A49B;">Your company can feature new job and internship postings and technology updates in our weekly newsletter sent to over 300 students across the world. Your recruiters will have access to the event's slack channel along with a private company slack where they can send virtual blasts about events they are hosting and chat with participants one-on-one.</h4></p> </div> <div class="col-4" style="padding-top: 6em;"> <a target="_blank" ><img src="assets/images/whyspons/5.png" width = "500" height = "auto" ></a> </div> </div> </div <h2 class="lightbg-heading" style="padding-top: 1em; padding-bottom: .5em;">Past Sponsors</h2> <div class="container-fluid"> <div class="row"> <div class="col-sm-12 col-lg-4"> <a target="_blank" href="https://www.isenberg.umass.edu/centers/berthiaume-center-for-entrepreneurship"><img src="assets/images/sponsors/berthiuame.png" width = "400" height = "auto" alt="Berthiaume Center For Entrepreneurship" ></a> </div> <div class="col-sm-12 col-lg-4" style="padding-top: 3.5em;"> <a target="_blank" href="https://www.massmutual.com/"><img src="assets/images/sponsors/massmutual.png" width = "400" height = "auto" alt="MassMutual"></a> </div> <div class="col-sm-12 col-lg-4" style="padding-top: 2em;"> <a target="_blank" href="https://www.masslottery.com/"><img src="assets/images/sponsors/Lottery.jpg" width = "300" height = "auto" alt="Mass State Lottery"></a> </div> </div> <div class="row justify-content-center"> <div class="col-sm-12 col-lg-4"> <a target="_blank" href="https://about.facebook.com/meta"><img class="hackher413-sponsor-logo align-middle" src="assets/images/sponsors/meta.png" alt="Facebook"></a> </div> <div class="col-4" style="padding-top: 4em;"> <a target="_blank" href="https://www.cics.umass.edu/"><img src="assets/images/sponsors/manningcics.jpg" width = "200" height = "auto" alt="UMass CICS"></a> </div> <div class="col-4" style="padding-top: 3.5em;"> <a target="_blank" href="https://www.panerabread.com/en-us/home.html"><img src="assets/images/sponsors/panera.png" width = "200" height = "auto" alt="Panera Bread"></a> </div> <div class="col-sm-12 col-lg-4" style="padding-top: 4em;"> <a target="_blank" href="https://www.libertymutual.com/"><img src="assets/images/sponsors/Liberty-Mutual.png" width = "200" height = "auto" alt="Liberty Mutual"></a> </div> </div> <div class="row justify-content-center"> <div class="col-4" style="padding-top: 6em;"> <a target="_blank" href="https://www.masstlc.org/"><img src="assets/images/sponsors/masstlc.png" width = "150" height = "auto" alt="Mass Tech Leadership Council"></a> </div> <div class="col-4" style="padding-top: 6em;"> <a target="_blank" href="https://www.isenberg.umass.edu"><img src="assets/images/sponsors/isenberg.png" width = "150" height = "auto" alt="Isenberg"></a> </div> <div class="col-4" style="padding-top: 6em;"> <a target="_blank" href="https://www.travelers.com/"><img src="assets/images/sponsors/TravelersLogo.png" width = "150" height = "auto" alt="Traveler's Insurance"></a> </div> </div> <div class="row justify-content-center"> <div class="col-sm-12 col-lg-4" style="padding-top: 2em;"> <a target="_blank" href="https://www.kkr.com/kkr-today"><img class="hackher413-sponsor-logo align-middle" src="assets/images/sponsors/krr.jpg" alt="KKR"></a> </div </div>
+h2 class="lightbg-heading" style="padding-top: 1em; padding-bottom: .5em;">Interested in Sponsoring Hack(H)er413?
+
+Mentorship Opportunities Employees (engineers and anyone excited about tech) may volunteer to serve as mentors at the hackathon to help participants with creating and presenting their projects.
+
+Donate Prizes Your company will donate prizes for a specific pre-existing category. Create Your Own Prize Category: You can create your own category specific to your company & sponsor the prize!
+
+Host a Workshop A company representative can host a virtual or in person workshop on any tech topic; it's a great way to introduce participants to technology that relates to what your company works with.
+
+Network with Students Your company can feature new job and internship postings and technology updates in our weekly newsletter sent to over 300 students across the world. Your recruiters will have access to the event's slack channel along with a private company slack where they can send virtual blasts about events they are hosting and chat with participants one-on-one.
+
+Past Sponsors
 
 FAQ
 
@@ -25327,7 +18944,21 @@ This year, we plan to host the event in the ILC (Integrated Learning Center) at 
 
 Yes there is. We strictly enforce the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
 
-In the Press section id="press"> <h2 class="lightbg-heading press-heading">Hack(H)er413 in the News</h2> <div class="container"> <div class="row latest_blog_inner"> <div class="col-lg-4"> <div class="l_blog_item news"> <div class="l_blog_img newsImg"> <img class="img-fluid" src="assets/images/news/networkingevent.jpeg" alt="Members of the HackHer413 organizing team at a networking event"> </div> <div class="l_blog_text"> <div class="blog_date"> <p>July 17, 2019 | By UMass Amherst News & Relations Staff</p> </div> <a target="_blank" href="https://www.umass.edu/newsoffice/article/hackher413-holds-networking-event-plans"> <h4>Hack(H)er413 Holds Networking Event, Plans Hackathon for February</h4> </a> </div> </div> </div> <div class="col-lg-4"> <div class="l_blog_item news"> <div class="l_blog_img newsImg"> <img class="img-fluid" src="assets/images/news/amherstwire.png" alt="Amherst Wire"> </div> <div class="l_blog_text"> <div class="blog_date"> <p>April 10, 2019 | By Brian Choquet</p> </div> <a href="https://amherstwire.com/28151/campus/diversifying-hackathons-umass-students-put-a-spin-on-the-popular-tech-event/"> <h4>Diversifying hackathons: UMass students put a spin on the popular tech event</h4> </a> </div> </div> </div> <div class="col-lg-4"> <div class="l_blog_item news"> <div class="l_blog_img newsImg"> <img class="img-fluid" src="assets/images/news/hackathonexperience.jpeg" alt="HackHer, written in balloons at the 2019 event"> </div> <div class="l_blog_text"> <div class="blog_date"> <p>February 10, 2019 | By Kallan Angus</p> </div> <a href="http://www.umass.edu/admissions/student-blog/2019/hackher413-my-hackathon-experience"> <h4>Hack(H)er413: My Hackathon Experience</h4> </a> </div> </div> </div> </div> </div> </section> <!================End Latest Blog Area ================= Team
+In the Press section id="press">
+
+## Hack(H)er413 in the News
+
+July 17, 2019 | By UMass Amherst News & Relations Staff
+
+[Hack(H)er413 Holds Networking Event, Plans Hackathon for February](https://www.umass.edu/newsoffice/article/hackher413-holds-networking-event-plans)
+
+April 10, 2019 | By Brian Choquet
+
+[Diversifying hackathons: UMass students put a spin on the popular tech event](https://amherstwire.com/28151/campus/diversifying-hackathons-umass-students-put-a-spin-on-the-popular-tech-event/)
+
+February 10, 2019 | By Kallan Angus
+
+[Hack(H)er413: My Hackathon Experience](http://www.umass.edu/admissions/student-blog/2019/hackher413-my-hackathon-experience)
 
 ##### Meet Our Organizing Team
 
@@ -25353,9 +18984,9 @@ she/her/hers
 
 Head of Outreach
 
-she/her
+#### Arishya Sharma
 
-<div class="row"> <div class="col-sm-4"> <div class="team-member"> <img class="mx-auto rounded-circle" src="assets/images/2026/2026_team_pictures/HackHer Photos/WhatsApp Image 2025-08-22 at 21.15.31 - Arshiya Sharma.jpeg" width="100" height="100" alt=""> <h4>Arishya Sharma</h4> <p class="text-muted">Assistant Head of Outreach</p> <p class="text-muted2">she/her</p> <ul class="list-inline social-buttons"> <li class="list-inline-item"> <a href=" https://www.linkedin.com/in/arshiyasharma/> <i class="fab fa-linkedin-in"></i> </a> </li> <li class="list-inline-item"> <a href="mailto: hallieliu@umass.edu"> <i class="fas fa-envelope"></i> </a> </li> </ul></div> </div>
+Assistant Head of Outreach
 
 ###### Carol Ding
 
@@ -25373,63 +19004,39 @@ he/him
 
 Head of Finance
 
-she/her
-
 ###### Hiya Dagli
 
 Head of Social Media
-
-she/her
 
 ###### Gianna Leidich
 
 Head of Marketing
 
-she/her
-
 ###### Rakshita Saroha
 
 Head of Diversity and Inclusion
-
-she/her
 
 ###### Priyal Nanda
 
 Head of Technology
 
-she/her
-
 ###### Niharika Elangovan
 
 Assistant Head of Technology
 
-she/her
-
 ###### Jennifer Ye
-
-Assistant Head of Technology
-
-she/her
 
 THIS IS THE ROW END DIV TAG
 
 ###### Jeba Shalin
 
-Assistant Head of Technology
-
-she/her
-
 ###### Elizabeth Peter
 
 Head of Logistics
 
-she/her
-
 ###### Shriya Gautam
 
 Assistant Head of Logistics
-
-she/her
 
 END OF ROW DIV
 
@@ -25443,11 +19050,9 @@ he/him
 
 Co-Head of Hardware
 
-she/her
+THIS IS THE DIV END TAG FOR CONTAINER
 
-THIS IS THE DIV END TAG FOR CONTAINER </div> <div class="row justify-content-center"> </div> </div>
-
-Footer JavaScripts <script src="assets/js/new-landing.js"></script> <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script> script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function (L) { L.start({ "baseUrl": "mc.us19.list-manage.com", "uuid": "6c4144b39d9809691e1bafe95", "lid": "c91b4d9912", "uniqueMethods": true }) })</script
+Footer JavaScripts script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function (L) { L.start({ "baseUrl": "mc.us19.list-manage.com", "uuid": "6c4144b39d9809691e1bafe95", "lid": "c91b4d9912", "uniqueMethods": true }) })
 
 ### Website 110: Hack To The Beat
 - Card URL: [https://wicshacks-oss.github.io/WiCSHackathon2025/](https://wicshacks-oss.github.io/WiCSHackathon2025/)
@@ -25456,15 +19061,15 @@ Footer JavaScripts <script src="assets/js/new-landing.js"></script> <script type
 - Final URL: [https://wicshacks-oss.github.io/WiCSHackathon2025/](https://wicshacks-oss.github.io/WiCSHackathon2025/)
 - Expanded FAQ/accordion controls: 10
 
-<div class="event-sub">UVA WiCS presents</div> <img src="/static/img/wics_presents.svg" alt="subtitle" class="site-subtitle"/> [Image: UVA WiCS presents] <h1 class="hero-title">Hack to the Beat</h1> <img src="/static/img/hack_2_beat.svg" alt="title" class="site-title"/> [Image: Hack to the Beat]
+UVA WiCS presents
+
+# Hack to the Beat
 
 Coming February 21st - 22nd, 2026
 
 00 : 00 : 00 : 00
 
-<a class="btn btn-primary" href="/schedule">See Schedule</a> [See Schedule](https://wicshacks-oss.github.io/WiCSHackathon2025/index.html#schedule-containter) <a class="btn btn-outline-secondary" href="/faq">FAQ</a> [FAQ](https://wicshacks-oss.github.io/WiCSHackathon2025/index.html#faq)
-
-[Image: about]
+[See Schedule](https://wicshacks-oss.github.io/schedule) [See Schedule](https://wicshacks-oss.github.io/WiCSHackathon2025/index.html#schedule-containter) [FAQ](https://wicshacks-oss.github.io/faq) [FAQ](https://wicshacks-oss.github.io/WiCSHackathon2025/index.html#faq)
 
 text
 
@@ -25478,13 +19083,9 @@ Join us on February 21 – 22 at Rice Hall!
 
 image
 
-[Image: WiCS community]
-
 RIGHT COLUMN
 
 image
-
-[Image: Hackathon illustration]
 
 text
 
@@ -25493,10 +19094,6 @@ text
 WiCS is a chapter of ACM-W, a committee that provides opportunities like scholarships to research, conferences, etc. We follow the ACM-W guidelines and add our own twist.
 
 We are a club that supports, celebrates, and encourages the growing community of women in computing. We aim to raise awareness of issues faced by women in technology, in addition to inspiring women to explore educational and professional opportunities in the field through mentorship and service.
-
-[Image: Schedule Part 1] [Image: Schedule Part 2]
-
-[Image: Sponsors Title] [Image: Sponsors]
 
 ##### FAQ
 
@@ -25527,10 +19124,6 @@ No, you don’t have to! However, if you’re looking to form a team of up to fo
 - Final URL: [https://hackuncp.github.io/](https://hackuncp.github.io/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: HackUNCP Logo]
-
 #### HACKUNCP
 
 2026
@@ -25546,15 +19139,9 @@ Apply Now View 2025 Highlights
 
 DAYS
 
-00
-
 HRS
 
-00
-
 MIN
-
-00
 
 SEC
 
@@ -25691,13 +19278,9 @@ JTH
 
 Hacking with GitHub Copilot (MLH)
 
-Upchurch Auditorium
-
 9:00 – 9:30 PM
 
 Intro to Google AI Studio (MLH)
-
-Upchurch Auditorium
 
 11:59 PM
 
@@ -25709,17 +19292,13 @@ Slack / Online
 
 We're partnering with organizations who believe in student-led AI innovation.
 
-[[Image: CodeCrafters]](https://codecrafters.io/) [[Image: College of Arts and Sciences - UNC Pembroke]](https://www.uncp.edu/academics/colleges-and-schools/college-of-arts-and-sciences/index.html) [[Image: Department of Mathematics & Computer Science - UNC Pembroke]](https://www.uncp.edu/academics/colleges-and-schools/college-of-arts-and-sciences/mathematics-and-computer-science/index.html)
+[CodeCrafters](https://codecrafters.io/) [College of Arts and Sciences - UNC Pembroke](https://www.uncp.edu/academics/colleges-and-schools/college-of-arts-and-sciences/index.html) [Department of Mathematics & Computer Science - UNC Pembroke](https://www.uncp.edu/academics/colleges-and-schools/college-of-arts-and-sciences/mathematics-and-computer-science/index.html)
 
-[[Image: Byrd's Computer Service]](https://www.byrdscomputerservice.com/) [[Image: Thomas College of Business and Economics - UNC Pembroke]](https://www.uncp.edu/academics/colleges-and-schools/thomas-college-of-business-and-economics/index.html)
-
-[Image: Sakura Sky]
+[Byrd's Computer Service](https://www.byrdscomputerservice.com/) [Thomas College of Business and Economics - UNC Pembroke](https://www.uncp.edu/academics/colleges-and-schools/thomas-college-of-business-and-economics/index.html)
 
 ##### HackUNCP 2025
 
 Our inaugural hackathon.
-
-[Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025] [Image: HackUNCP 2025]
 
 2 / 25
 
@@ -25737,27 +19316,19 @@ Our inaugural hackathon.
 
 Advisor
 
-[Image: Mark Hunt]
-
 Mark Hunt
 
 Advisor
 
 Organizers
 
-[Image: Najmul Hasan]
-
 Najmul Hasan
 
 Lead Organizer
 
-[Image: Aidan Kuster]
-
 Aidan Kuster
 
 Organizer
-
-[Image: Marcus Bland]
 
 Marcus Bland
 
@@ -25806,34 +19377,6 @@ team@hackuncp.com
 - Final URL: [https://hacklytics.io/](https://hacklytics.io/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: Decorative cloud]
-
-[Image: Decorative cloud]
-
-[Image: Decorative cloud]
-
-[Image: Decorative cloud]
-
-[Image: Decorative cloud]
-
-[Image: Decorative cloud]
-
-[Image: Decorative cloud]
-
-[Image: Decorative cloud]
-
-[Image: Candy left]
-
-[Image: Candy right]
-
-[Image: DSGT Footer]
-
-[Image: Decorative cloud]
-
-[Image: Decorative cloud]
-
 ##### Hacklytics 2026
 
 #### Golden Byte
@@ -25845,14 +19388,6 @@ team@hackuncp.com
 00 MINUTES
 
 00 SECONDS
-
-[Image: Candy]
-
-[Image: Candy]
-
-[Image: Candy]
-
-[Image: Candy]
 
 #### About
 
@@ -25866,8 +19401,6 @@ Inspired by the whimsical world of Willy Wonka, we invite hackers from across th
 
 Tackle challenges across 5 exciting tracks, fuel your curiosity, and uncover the sweet rewards of solving complex problems with code.
 
-[Image: Candy]
-
 ###### Where & When?
 
 Feb. 20 - 22, 2026
@@ -25876,8 +19409,6 @@ Klaus Advanced Computing Building
 
 Georgia Tech Campus
 
-[Image: Candy]
-
 ###### Why Join Us?
 
 Build projects that matter
@@ -25885,12 +19416,6 @@ Build projects that matter
 Connect with hackers
 
 Free food, swag, & prizes!
-
-[Image: Candy]
-
-[Image: Candy]
-
-[Image: Candy]
 
 #### Schedule
 
@@ -25906,15 +19431,11 @@ All Events General Food Workshop Activity
 
 📍 Klaus Atrium
 
-[Image: general]
-
 6:30 PM - 7:15 PM
 
 ###### Opening Ceremony
 
 📍 Howey
-
-[Image: general]
 
 7:30 PM - 8:30 PM
 
@@ -25922,15 +19443,11 @@ All Events General Food Workshop Activity
 
 📍 Klaus Atrium
 
-[Image: general]
-
 8:30 PM
 
 ###### Dinner
 
 📍 Klaus 1116
-
-[Image: food]
 
 9:30 PM - 10:30 PM
 
@@ -25938,29 +19455,13 @@ All Events General Food Workshop Activity
 
 📍 Klaus 1443
 
-[Image: workshop]
-
 10:30 PM - 11:30 PM
 
 ###### Wellness Kit Distribution
 
-📍 Klaus 1116
-
-[Image: activity]
-
 12:00 AM
 
 ###### Midnight Snack
-
-📍 Klaus 1116
-
-[Image: food]
-
-[Image: Candy]
-
-[Image: Candy]
-
-[Image: Candy]
 
 #### Tracks
 
@@ -25986,127 +19487,59 @@ Unleash your creativity, explore unconventional ideas, and use data to build the
 
 See how AI is transforming movies, gaming, and interactive experiences.
 
-[Image: Candy]
-
-[Image: Candy]
-
 #### Grand Prizes
-
-[Image: Apple AirPods Max]
 
 Apple AirPods Max
 
-[Image: Apple MacBook Air M4]
-
 Apple MacBook Air M4
-
-[Image: Samsung Odyssey G5 Monitor]
 
 Samsung Odyssey G5 Monitor
 
 #### Track Prizes
 
-###### Finance
-
 Analyze market trends, predict stock movements, and build fintech solutions
-
-[Image: Nespresso Virtuo Next w/ Milk Frother]
 
 1st Place
 
 Nespresso Virtuo Next w/ Milk Frother
 
-[Image: JBL Grip Speaker]
-
 2nd Place
 
 JBL Grip Speaker
-
-[Image: Clay Poker Set]
 
 3rd Place
 
 Clay Poker Set
 
-###### Sports Analytics
-
 Dive into player performance, game strategy, and the future of sports data
-
-[Image: Apple 40mm Watch SE 3]
-
-1st Place
 
 Apple 40mm Watch SE 3
 
-[Image: JBL Grip Speaker]
-
-2nd Place
-
 JBL Grip Speaker
-
-[Image: Pickleball Set + Backpack]
-
-3rd Place
 
 Pickleball Set + Backpack
 
-###### Healthcare
-
 Innovate in bioinformatics, patient care, and personal health technology
-
-[Image: Theragun Mini Gen 3]
-
-1st Place
 
 Theragun Mini Gen 3
 
-[Image: Fitbit Inspire 3]
-
-2nd Place
-
 Fitbit Inspire 3
-
-[Image: Owala Waterbottle]
-
-3rd Place
 
 Owala Waterbottle
 
-###### Entertainment
-
 See how AI is transforming movies, gaming, and interactive experiences
-
-[Image: Projector]
-
-1st Place
 
 Projector
 
-[Image: Karaoke Machine]
-
-2nd Place
-
 Karaoke Machine
-
-[Image: Vinyl Record Turntable]
-
-3rd Place
 
 Vinyl Record Turntable
 
-###### Pure Imagination
-
 Unleash your creativity, explore unconventional ideas, and use data to build the coolest, most unique project
-
-[Image: Ninja Swirl by CREAMi Soft Serve and Ice Cream Maker]
-
-1st Place
 
 Ninja Swirl by CREAMi Soft Serve and Ice Cream Maker
 
 #### Speakers
-
-[Image: TBD]
 
 ###### TBD
 
@@ -26114,35 +19547,11 @@ Keynote Speaker
 
 Coming Soon
 
-[Image: TBD]
-
-###### TBD
-
 Guest Speaker
-
-Coming Soon
-
-[Image: TBD]
-
-###### TBD
 
 Workshop Lead
 
-Coming Soon
-
-[Image: TBD]
-
-###### TBD
-
 Guest Speaker
-
-Coming Soon
-
-[Image: Candy]
-
-[Image: Candy]
-
-[Image: Candy]
 
 #### FAQ
 
@@ -26178,31 +19587,21 @@ Lots of people come in without teams! You can find people to form a team with du
 
 Yes! We also provide food and other goodies if you are in-person.
 
-[Image: Candy]
-
-[Image: Candy]
-
 #### Sponsors
 
 [See who sponsored last year!View 2025 Sponsors](https://2025.hacklytics.io/#sponsors)
 
-[[Image: Intuit]](https://www.intuit.com) [[Image: Databricks]](https://www.databricks.com)
+[Intuit](https://www.intuit.com) [Databricks](https://www.databricks.com)
 
-[[Image: Sphinx AI]](https://sphinx.ai) [[Image: Growth Factor]](https://www.growthfactor.ai/)
+[Sphinx AI](https://sphinx.ai) [Growth Factor](https://www.growthfactor.ai/)
 
-[[Image: Scale]](https://scale.com/) [[Image: Figma]](https://www.figma.com) [[Image: D.E. Shaw]](https://www.deshaw.com) [[Image: AT&T]](https://www.att.com/) [[Image: Actian]](https://www.actian.com/) [[Image: NLP Logix]](https://nlplogix.com/) [[Image: Cox]](https://www.coxautoinc.com/) [[Image: SafetyKit]](https://www.safetykit.com/) [[Image: Tractian]](https://tractian.com) [[Image: Create-X]](https://create-x.gatech.edu/)
+[Scale](https://scale.com/) [Figma](https://www.figma.com) [D.E. Shaw](https://www.deshaw.com) [AT&T](https://www.att.com/) [Actian](https://www.actian.com/) [NLP Logix](https://nlplogix.com/) [Cox](https://www.coxautoinc.com/) [SafetyKit](https://www.safetykit.com/) [Tractian](https://tractian.com) [Create-X](https://create-x.gatech.edu/)
 
 ###### Partner With Us
 
 Help us build a world of pure imagination for hackers everywhere.
 
 Become a Sponsor
-
-[Image: Cloud left]
-
-[Image: Cloud center]
-
-[Image: Cloud right]
 
 Contact Us [Instagram](https://instagram.com/dsgt) [LinkedIn](https://linkedin.com/company/dsgt) [DSGT](https://datasciencegt.org) [Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
 
@@ -26214,8 +19613,6 @@ Made with 💖 by DSGT Tech
 - Rendered title: Hack@Davidson - Davidson's Premier Hackathon
 - Final URL: [https://hackatdavidson.com/](https://hackatdavidson.com/)
 - Expanded FAQ/accordion controls: 9
-
-[Image: Hack@Davidson Logo]
 
 February 20-22, 2026
 
@@ -26282,8 +19679,6 @@ Fuel up for the night ahead
 
 Start building!
 
-8:00 PM
-
 ###### Hardware WorkshopHurthub 208
 
 Eric Beall
@@ -26328,11 +19723,7 @@ Genevieve from MLH
 
 6:00 PM
 
-###### Dinner
-
 Evening meal
-
-8:00 PM
 
 ###### AI Studio WorkshopHurthub 208
 
@@ -26347,8 +19738,6 @@ Late night fuel
 ###### Day 3 - Sunday, February 22
 
 8:00 AM
-
-###### Breakfast
 
 Final day fuel
 
@@ -26371,8 +19760,6 @@ Finalize your projects
 Present to our judges
 
 12:00 PM
-
-###### Lunch
 
 Meal break
 
@@ -26410,73 +19797,45 @@ Browse through submissions, read about their tech stacks, and see what our talen
 
 Moments captured from an incredible weekend of hacking, learning, and building together
 
-[Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026] [Image: Hack@Davidson 2026]
-
 ##### Meet The Team
 
 The passionate individuals making Hack@Davidson possible
-
-[Image: Murtaza Nikzad]
 
 ###### Murtaza Nikzad
 
 President
 
-[Image: Pacis Nkubito]
-
 ###### Pacis Nkubito
 
 Vice President
-
-[Image: Tanaka Makoni]
 
 ###### Tanaka Makoni
 
 Finance
 
-[Image: Abdul Rafae Kamran]
-
 ###### Abdul Rafae Kamran
 
 Finance
-
-[Image: Tenzing Dhendup Dorji]
 
 ###### Tenzing Dhendup Dorji
 
 Logistics
 
-[Image: Hakan Bora Yavuzkara]
-
 ###### Hakan Bora Yavuzkara
 
-Logistics
-
-[Image: Tony Mallen-Ntiador]
-
 ###### Tony Mallen-Ntiador
-
-Logistics
-
-[Image: Julia Holt]
 
 ###### Julia Holt
 
 Outreach
 
-[Image: Yurdanur Yolcu]
-
 ###### Yurdanur Yolcu
 
 Social Media
 
-[Image: Alp Niksarli]
-
 ###### Alp Niksarli
 
 Advisor
-
-[Image: Gopesh Baheti]
 
 ###### Gopesh Baheti
 
@@ -26510,46 +19869,6 @@ We offer limited travel reimbursements for students coming from outside the Char
 
 Made possible by our amazing partners
 
-[Image: Precisely]
-
-[Image: Vercel]
-
-[Image: ElevenLabs]
-
-[Image: Fidelity Investments]
-
-[Image: The Hurt Hub @ Davidson]
-
-[Image: Starknet]
-
-[Image: Stellar]
-
-[Image: Forest]
-
-[Image: CLT]
-
-[Image: Summit Coffee]
-
-[Image: GoDaddy Registry]
-
-[Image: Kintone]
-
-[Image: Pure Buttons]
-
-[Image: Major League Hacking]
-
-[Image: Mobbin]
-
-[Image: PCBWay]
-
-[Image: Davidson College]
-
-[Image: Nord]
-
-[Image: Cloudflare]
-
-[Image: GDG]
-
 ###### Interested in Sponsoring?
 
 Help us create an amazing experience for students while connecting with top talent
@@ -26563,13 +19882,7 @@ Help us create an amazing experience for students while connecting with top tale
 - Final URL: [https://www.winghacks.com/](https://www.winghacks.com/)
 - Expanded FAQ/accordion controls: 13
 
-[[Image: Logo]](https://www.winghacks.com/#home)
-
 [Home](https://www.winghacks.com/#home) [Sponsors](https://www.winghacks.com/#sponsor)
-
-[[Image: Major League Hacking 2024 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=blue)
-
-[Image: WiNGHacks Website Banner]
 
 📅 Feb 20–22, 2026 📍 Newell Hall — Gainesville, FL
 
@@ -26581,8 +19894,6 @@ WiNGHacks is the University of Florida (UF)'s first hackathon specifically creat
 
 The goal of our hackathon is to create a welcoming learning and growing environment for underrepresented genders in the tech industry. We hope to remove the barrier of entry to these events for many people, especially first-time hackers, and help them reap the many benefits that hackathons bring.
 
-[[Image: WiNGHacks Collaborator Logo]](https://www.instagram.com/winghacks/)
-
 ##### About the Event
 
 ##### Meet the Team
@@ -26591,32 +19902,22 @@ All Directors Awards PR Merch Operations Sponsorship Tech-support Website Worksh
 
 #### Tracks
 
-- [Image: Best Overall]Best OverallAwarded to unparalleled excellence in a project's innovation and execution
+- Best OverallAwarded to unparalleled excellence in a project's innovation and execution
 - FinTech Track (Sponsored by Twocents)Awarded to a project that creatively explores financial technology, especially using new tools or ideasNote: Hackers must download and register for Twocents to be eligible for consideration
 - AI Track (Sponsored by DSI)Awarded to projects that demonstrate clear novelty and technical depth in AI/ML, with emphasis on non-trivial implementations and good coding conventions
-- [Image: First Flight]First FlightGiven to a team made up of only first-time hackers; shows exemplary performance in their first hackathon.
+- First FlightGiven to a team made up of only first-time hackers; shows exemplary performance in their first hackathon.
 
 #### Sponsors
 
 ##### Platinum Sponsors
 
-[[Image: Twocents Logo]](https://www.twocents.money/)
-
 ##### Gold Sponsors
-
-[[Image: BNYMellon Logo]](https://www.bny.com/corporate/global/en.html) [[Image: Department of Experiential Learning Logo]](https://www.ece.ufl.edu/academics/undergraduate/experiential-learning/)
 
 ##### Silver Sponsors
 
-[[Image: ECE Department Logo]](https://www.ece.ufl.edu/)
-
 ##### Bronze Sponsors
 
-[[Image: Epislon Logo]](https://www.epsilonsystems.com/) [[Image: TI Logo]](https://www.ti.com/) [[Image: IEE Logo]](https://ieee.ece.ufl.edu/)
-
 ##### Other Sponsors
-
-[[Image: GitHub Logo]](https://github.com/) [[Image: Pure Buttons Logo]](https://www.purebuttons.com/?srsltid=AfmBOorfJTNFsM6iwlqLCYyeHfADYpRP8T4l8oksIMxfyCuD7vj-dSNq) [[Image: Celsius Logo]](https://www.celsius.com/) [[Image: Monster Logo]](https://www.monsterenergy.com/en-us/) [[Image: Snag Logo]](https://snagdelivery.app/) [[Image: DSI Logo]](https://www.ufdsi.com/) [[Image: Perplexity Logo]](https://www.perplexity.ai/)
 
 Sponsorship Packet
 
@@ -26654,8 +19955,6 @@ Q . “I have more questions!
 
 If you have any further questions or concerns, please contact us at uf.winghacks@gmail.com
 
-[Image: Logo]
-
 Made with ♥ by the WiNGHacks team
 
 [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
@@ -26669,315 +19968,17 @@ Made with ♥ by the WiNGHacks team
 - Final URL: [https://hackncstate.org/](https://hackncstate.org/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2027 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2027-season&utm_content=black) <a title="Play Hack_NCState Theme" id="noir-music-player" href="#" onclick="playMusic()" style="position:absolute; top:10px; left:10px; z-index:10000; background-color:#1f2937; color:#ffffff; border-radius:100%; font-weight:bold; display:flex; align-items:center; justify-content:center; width:45px; height:45px; filter: drop-shadow(0 0 6px rgba(0, 0, 0, 0.342));"> <div style="position:relative; width:40px; height:40px; flex-shrink:0;"> <img id="cd-image" src="assets/img/cd.jpg" alt="Play Music" style="width:100%; height:100%; border-radius:100%;"> <div id="light" style="position:absolute; bottom:1px; right:1px; width:8px; height:8px; background-color:#1f2937; border-radius:50%; box-shadow:0 0 3px #1f2937;"> </div> </div> <audio id="music" src="assets/audio/jazz-noir-detective-music.mp3" loop></audio> </a> parallax bg container
+parallax bg container
 
 1
 
-1
-
-1
-
-1
-
-1
-
-0
-
-1
-
-0
-
-1
-
-0
-
-1
-
-0
-
-0
-
-1
-
-1
-
-0
-
-1
-
-0
-
-1
-
-0
-
-1
-
-1
-
-1
-
-0
-
-0
-
-0
-
-0
-
-1
-
-1
-
-0
-
-1
-
-1
-
-1
-
-0
-
-1
-
-0
-
-1
-
-0
-
-1
-
-1
-
-0
-
-0
-
-1
-
-0
-
-1
-
-1
-
-1
-
-1
-
-0
-
-0
-
-0
-
-0
-
-0
-
-1
-
-0
-
-1
-
-0
-
-0
-
-0
-
-1
-
-1
-
-0
-
-1
-
-1
-
-1
-
-1
-
-0
-
-0
-
-1
-
-1
-
-0
-
-1
-
-0
-
-0
-
-1
-
 0
-
-1
-
-1
-
-0
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-0
-
-1
-
-0
-
-0
-
-1
-
-0
-
-1
-
-0
-
-1
-
-0
-
-1
-
-1
-
-1
-
-0
-
-0
-
-0
-
-0
-
-1
-
-0
-
-1
-
-0
-
-0
-
-0
-
-1
-
-0
-
-1
-
-1
-
-1
-
-0
-
-0
-
-1
-
-1
-
-0
-
-1
-
-1
-
-1
-
-0
-
-1
-
-1
-
-0
-
-0
-
-1
-
-1
-
-0
-
-0
-
-1
-
-0
-
-1
-
-0
-
-1
-
-0
-
-1
-
-1
-
-1
-
-0
-
-1
-
-1
-
-0
-
-0
-
-1
 
 Tint layer with vignette
 
 hero content
 
 actual content
-
-[Image: Hack_NCState Logo]
 
 #### Hack_NCState
 
@@ -27074,29 +20075,29 @@ If you have any unanswered questions, don’t hesitate to reach out to us at hac
 
 We are grateful to our sponsors for their support in making Hack_NCState possible. If you are interested in sponsoring Hack_NCState, please reach out to us at hackncstate@ncsu.edu.
 
-[[Image: Cisco]](https://www.cisco.com/) [[Image: Fidelity]](https://www.fidelity.com/) [[Image: Lowe's]](https://www.lowes.com/) [[Image: NetApp]](https://www.netapp.com/) [[Image: LexisNexis]](https://www.lexisnexis.com/)
+[Cisco](https://www.cisco.com/) [Fidelity](https://www.fidelity.com/) [Lowe's](https://www.lowes.com/) [NetApp](https://www.netapp.com/) [LexisNexis](https://www.lexisnexis.com/)
 
-[[Image: AWS]](https://aws.amazon.com/)
+[AWS](https://aws.amazon.com/)
 
-[[Image: Tailscale]](https://tailscale.com/) [[Image: Valkey]](https://valkey.io/)
+[Tailscale](https://tailscale.com/) [Valkey](https://valkey.io/)
 
-[[Image: TwelveLabs]](https://www.twelvelabs.io/) [[Image: DigiKey]](https://www.digikey.com/) [[Image: Backboard]](https://backboard.io/)
+[TwelveLabs](https://www.twelvelabs.io/) [DigiKey](https://www.digikey.com/) [Backboard](https://backboard.io/)
 
-[[Image: iRODS]](https://irods.org/) [[Image: Keebio]](https://keeb.io/)
+[iRODS](https://irods.org/) [Keebio](https://keeb.io/)
 
-[[Image: NordVPN]](https://nordvpn.com/hackathons) [[Image: NordPass]](https://nordpass.com) [[Image: NordProtect]](https://nordprotect.com) [[Image: Saily]](https://saily.com/) [[Image: Incogni]](https://incogni.com/) [[Image: nexos.ai]](https://nexos.ai/)
+[NordVPN](https://nordvpn.com/hackathons) [NordPass](https://nordpass.com) [NordProtect](https://nordprotect.com) [Saily](https://saily.com/) [Incogni](https://incogni.com/) [nexos.ai](https://nexos.ai/)
 
-[[Image: .xyz]](https://gen.xyz/)
+[.xyz](https://gen.xyz/)
 
 ##### Meet the Team
 
 ###### Directors
 
-[[Image: Pranav Rajagopal] Pranav Rajagopal Director of Sponsorship link](https://www.linkedin.com/in/pranavrajagopal/) [[Image: Koray Öztürkler] Koray Öztürkler Director of Software link](https://www.linkedin.com/in/kerim-koray-ozturkler/) [[Image: Leo Wang] Leo Wang Co-director of Logistics link](https://www.linkedin.com/in/leowang0234/) [[Image: Ethan Perez] Ethan Perez Co-director of Logistics link](https://www.linkedin.com/in/ethan-d-perez/) [[Image: Nick Farley] Nick Farley Director of Media & Finance link](https://www.linkedin.com/in/nicholas-farley-66b5762a9/)
+[ Pranav Rajagopal Director of Sponsorship link](https://www.linkedin.com/in/pranavrajagopal/) [ Koray Öztürkler Director of Software link](https://www.linkedin.com/in/kerim-koray-ozturkler/) [ Leo Wang Co-director of Logistics link](https://www.linkedin.com/in/leowang0234/) [ Ethan Perez Co-director of Logistics link](https://www.linkedin.com/in/ethan-d-perez/) [ Nick Farley Director of Media & Finance link](https://www.linkedin.com/in/nicholas-farley-66b5762a9/)
 
 ###### Organizers
 
-[[Image: Aarya Rajoju] Aarya Rajoju Logistics, Software, & Sponsorship Organizer link](https://www.linkedin.com/in/aaryarajoju/) [[Image: Aivan Byrnes] Aivan Byrnes Sponsorship Organizer link](http://linkedin.com/in/aivan-byrnes-818311250) [[Image: Ayush Gala] Ayush Gala Software & Sponsorship Organizer link](https://www.linkedin.com/in/ayush-gala/) [[Image: Cooper Sizemore] Cooper Sizemore Software Organizer link](https://www.linkedin.com/in/cooper-sizemore/) [[Image: Emery Tchervenski] Emery Tchervenski Graphic Designer & Software Organizer link](https://www.linkedin.com/in/emery-tchervenski-504474320/) [[Image: Eric Pham] Eric Pham Finance & Sponsorship Organizer link](https://www.linkedin.com/in/eric-fam/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [[Image: Ethan Tarlton] Ethan Tarlton Software Organizer link](https://www.linkedin.com/in/ethan-tarlton-5a3944384/) [[Image: Reece Dobro] Reece Dobro Logistics Organizer link](https://reecedobro.onrender.com/) [[Image: Sakshi Singh] Sakshi Singh Logistics, Sponsorship, & Software Organizer link](https://www.linkedin.com/in/sakshi-singh9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[ Aarya Rajoju Logistics, Software, & Sponsorship Organizer link](https://www.linkedin.com/in/aaryarajoju/) [ Aivan Byrnes Sponsorship Organizer link](http://linkedin.com/in/aivan-byrnes-818311250) [ Ayush Gala Software & Sponsorship Organizer link](https://www.linkedin.com/in/ayush-gala/) [ Cooper Sizemore Software Organizer link](https://www.linkedin.com/in/cooper-sizemore/) [ Emery Tchervenski Graphic Designer & Software Organizer link](https://www.linkedin.com/in/emery-tchervenski-504474320/) [ Eric Pham Finance & Sponsorship Organizer link](https://www.linkedin.com/in/eric-fam/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [ Ethan Tarlton Software Organizer link](https://www.linkedin.com/in/ethan-tarlton-5a3944384/) [ Reece Dobro Logistics Organizer link](https://reecedobro.onrender.com/) [ Sakshi Singh Logistics, Sponsorship, & Software Organizer link](https://www.linkedin.com/in/sakshi-singh9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Are you a passionate NC State student? Join the planning committee!
 
@@ -27108,8 +20109,6 @@ The Hack_NCState Planning Committee is a registered NC State student organizatio
 
 [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf) Contact Us [Instagram](https://www.instagram.com/hack_ncstate/) [LinkedIn](https://www.linkedin.com/company/hackncstate/)
 
-[Image: Hack_NCState Logo]
-
 Foreground Vignette
 
 ### Website 116: MakeUofT 2026
@@ -27119,7 +20118,7 @@ Foreground Vignette
 - Final URL: [https://makeuoft.ca/](https://makeuoft.ca/)
 - Expanded FAQ/accordion controls: 0
 
-MLH Badge [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/seasons/2026/events)
+MLH Badge
 
 #### MakeUofT 2026
 
@@ -27134,8 +20133,6 @@ a hackathon where hardware-based projects are manifested
 ###### February 14-15, 2026
 
 View MLH Code of Conduct
-
-[Image: landing]
 
 ###### About us
 
@@ -27154,8 +20151,6 @@ Participant Registration
 10AM
 
 Hacking Begins!
-
-10AM
 
 Hardware Component Distribution
 
@@ -27188,8 +20183,6 @@ Breakfast
 9AM
 
 Hardware room closes for Sunday
-
-10AM
 
 Hacking Ends!
 
@@ -27239,25 +20232,7 @@ Closing Ceremony
 
 ###### Check out our previous Hacks!
 
-IMAGES MUST ALL BE THE SAME SIZE [Image: 2020-image-1] [Image: 2020-image-2] [Image: 2020-image-3] [Image: 2020-image-4] [Image: 2020-image-5] [Image: 2020-image-6] [Image: 2020-image-7] [Image: 2020-image-8] [Image: 2020-image-9] [Image: 2020-image-10] [Image: 2020-image-11] [Image: 2020-image-12] [Image: 2020-image-13] [Image: 2020-image-14] [Image: 2020-image-15] å
-
-###### Sponsors
-
-[Image: Qualcomm]
-
-[Image: Alphawave Semi]
-
-[Image: Marvell]
-
-[Image: MLH]
-
-[Image: Titan Haptics]
-
-[Image: Altera]
-
-[Image: University of Toronto ECE Department]
-
-[Image: Edge Impulse]
+IMAGES MUST ALL BE THE SAME SIZE å
 
 If you would like to sponsor us, feel free to reach out: hello@makeuoft.ca
 
@@ -27274,13 +20249,11 @@ Scripts React and ReactDOM from CDN Sponsors configuration
 
 [Sponsor Us](https://www.hackbeanpot.com/sponsor-us) Apply
 
-[[Image: HackBeanpot Instagram]](https://www.instagram.com/hackbeanpot/?hl=en) [[Image: HackBeanpot LinkedIn]](https://www.linkedin.com/company/hackbeanpot-inc) [[Image: HackBeanpot TikTok]](https://www.tiktok.com/@hackbeanpot)
+[HackBeanpot Instagram](https://www.instagram.com/hackbeanpot/?hl=en) [HackBeanpot LinkedIn](https://www.linkedin.com/company/hackbeanpot-inc) [HackBeanpot TikTok](https://www.tiktok.com/@hackbeanpot)
 
 #### Come one, come all!
 
 Brought to you by
-
-[Image: Amazon Logo] [Image: MavenAGI Logo]
 
 ###### Applications are now closed.
 
@@ -27340,8 +20313,6 @@ Does my project have to be carnival themed?+
 
 Back to top
 
-[[Image: HackBeanpot Instagram]](https://www.instagram.com/hackbeanpot/?hl=en) [[Image: HackBeanpot LinkedIn]](https://www.linkedin.com/company/hackbeanpot-inc) [[Image: HackBeanpot TikTok]](https://www.tiktok.com/@hackbeanpot)
-
 ###### Join our mailing list
 
 Stay up to date with HackBeanpot by signing up for our mailing list!
@@ -27357,8 +20328,6 @@ Submit
 - Final URL: [https://www.hackfaxpatriothacks.org/](https://www.hackfaxpatriothacks.org/)
 - Expanded FAQ/accordion controls: 9
 
-[Image: HackFax PatriotHacks Logo]
-
 #### HackFax
 💘
 PatriotHacks
@@ -27371,15 +20340,9 @@ February 13-15, 2026
 
 Days
 
-00
-
 Hours
 
-00
-
 Minutes
-
-00
 
 Seconds
 
@@ -27397,8 +20360,6 @@ Check-in
 
 Front of Dewberry (until 8pm)
 
-5:00 PM
-
 Henna Station
 
 Dewberry (until 5:30pm)
@@ -27413,11 +20374,7 @@ Dewberry
 
 Hacking Begins
 
-7:00 PM
-
 Team Matchmaking
-
-Dewberry
 
 7:30 PM
 
@@ -27431,11 +20388,7 @@ Intro to Hackathons
 
 Virtual via Zoom
 
-9:00 PM
-
 Capture The Flag (CTF) Info Session
-
-Dewberry
 
 9:30 PM
 
@@ -27448,8 +20401,6 @@ Johnson Center Room A
 AI Club: Demo & Promote with AI
 
 Johnson Center Room B
-
-10:00 PM
 
 BreakFamous: Intro to Break Dancing Workshop I
 
@@ -27485,8 +20436,6 @@ Horizon 1010
 
 Capture The Flag (CTF) Deployed
 
-11:00 AM
-
 Microsoft: Women in STEM Panel
 
 Horizon 3008
@@ -27508,8 +20457,6 @@ Dewberry (until 2:30pm)
 Peraton: UI/UX Design
 
 Horizon 2017
-
-2:00 PM
 
 Microsoft: Early Career Panel (EiC Group)
 
@@ -27539,8 +20486,6 @@ MLH: Experiment with Google AI Studio
 
 Horizon 3010
 
-5:00 PM
-
 Engineering and Computing Student Council Event
 
 Horizon 2017
@@ -27551,17 +20496,11 @@ Society of Women Engineers: AI as an Assistant Workshop
 
 Horizon 4008
 
-6:00 PM
-
 Capture The Flag (CTF) Closed
-
-7:00 PM
 
 Dinner
 
 Domino's in Dewberry
-
-7:00 PM
 
 NSBE: Beyond Base Salary, Maximizing Total Compensation
 
@@ -27579,11 +20518,7 @@ GMU AWS Club: Serverless Computing
 
 Horizon 1007
 
-9:00 PM
-
 HackFax x PatriotHacks Exec Surprise Workshop
-
-10:00 PM
 
 Closing
 
@@ -27603,8 +20538,6 @@ Ernst & Young (EY): The Client Journey
 
 Horizon 1010
 
-11:00 AM
-
 BreakFamous: Intro to Break Dancing Workshop II
 
 Horizon 1008
@@ -27619,25 +20552,17 @@ Stone Hot Pizza in Dewberry
 
 Devpost Submission Deadline
 
-2:00 PM
-
 Judging
 
 (until 4:45pm)
-
-3:00 PM
 
 Capture The Flag (CTF) Challenge Walkthroughs
 
 Horizon 1008 (until 5:30pm)
 
-3:00 PM
-
 LinkedIn Headshots Booth
 
 MIX Media Lab (until 5:30pm)
-
-6:00 PM
 
 Dinner
 
@@ -27651,635 +20576,77 @@ Closing Ceremony
 
 Memories made, friendships formed, and amazing projects built together
 
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
-[Image: Past Hackathon]
-
 ##### Meet the Team
 
 The passionate students making HackFax × PatriotHacks happen.
 
-[Image: CS Club Logo]
-
-[Image: Emmanuel Ortega]
-
 ###### Emmanuel Ortega
 
 President
-
-[Image: Rayaan Ahmed]
 
 ###### Rayaan Ahmed
 
 Vice President
 
-[Image: Priya Mohan]
-
 ###### Priya Mohan
 
 Secretary
-
-[Image: Ahmed Abdel-Aziz]
 
 ###### Ahmed Abdel-Aziz
 
 Treasurer
 
-[Image: Ali Mohsin]
-
 ###### Ali Mohsin
 
 Webmaster
-
-[Image: Ananyaa Nanavala]
 
 ###### Ananyaa Nanavala
 
 Mason Networking Chair
 
-[Image: Nathaniel Farrell]
-
 ###### Nathaniel Farrell
 
 Professional Networking Chair
-
-[Image: Tanisha Chowdhury]
 
 ###### Tanisha Chowdhury
 
 Historian
 
-[Image: Iamen Ibrahim]
-
 ###### Iamen Ibrahim
-
-Historian
-
-[Image: Joshua Jones]
 
 ###### Joshua Jones
 
 Transitional Officer
 
-[Image: Emmanuel Ortega]
-
-###### Emmanuel Ortega
-
-President
-
-[Image: Rayaan Ahmed]
-
-###### Rayaan Ahmed
-
-Vice President
-
-[Image: Priya Mohan]
-
-###### Priya Mohan
-
-Secretary
-
-[Image: Ahmed Abdel-Aziz]
-
-###### Ahmed Abdel-Aziz
-
-Treasurer
-
-[Image: Ali Mohsin]
-
-###### Ali Mohsin
-
-Webmaster
-
-[Image: Ananyaa Nanavala]
-
-###### Ananyaa Nanavala
-
-Mason Networking Chair
-
-[Image: Nathaniel Farrell]
-
-###### Nathaniel Farrell
-
-Professional Networking Chair
-
-[Image: Tanisha Chowdhury]
-
-###### Tanisha Chowdhury
-
-Historian
-
-[Image: Iamen Ibrahim]
-
-###### Iamen Ibrahim
-
-Historian
-
-[Image: Joshua Jones]
-
-###### Joshua Jones
-
-Transitional Officer
-
-[Image: Emmanuel Ortega]
-
-###### Emmanuel Ortega
-
-President
-
-[Image: Rayaan Ahmed]
-
-###### Rayaan Ahmed
-
-Vice President
-
-[Image: Priya Mohan]
-
-###### Priya Mohan
-
-Secretary
-
-[Image: Ahmed Abdel-Aziz]
-
-###### Ahmed Abdel-Aziz
-
-Treasurer
-
-[Image: Ali Mohsin]
-
-###### Ali Mohsin
-
-Webmaster
-
-[Image: Ananyaa Nanavala]
-
-###### Ananyaa Nanavala
-
-Mason Networking Chair
-
-[Image: Nathaniel Farrell]
-
-###### Nathaniel Farrell
-
-Professional Networking Chair
-
-[Image: Tanisha Chowdhury]
-
-###### Tanisha Chowdhury
-
-Historian
-
-[Image: Iamen Ibrahim]
-
-###### Iamen Ibrahim
-
-Historian
-
-[Image: Joshua Jones]
-
-###### Joshua Jones
-
-Transitional Officer
-
-[Image: Emmanuel Ortega]
-
-###### Emmanuel Ortega
-
-President
-
-[Image: Rayaan Ahmed]
-
-###### Rayaan Ahmed
-
-Vice President
-
-[Image: Priya Mohan]
-
-###### Priya Mohan
-
-Secretary
-
-[Image: Ahmed Abdel-Aziz]
-
-###### Ahmed Abdel-Aziz
-
-Treasurer
-
-[Image: Ali Mohsin]
-
-###### Ali Mohsin
-
-Webmaster
-
-[Image: Ananyaa Nanavala]
-
-###### Ananyaa Nanavala
-
-Mason Networking Chair
-
-[Image: Nathaniel Farrell]
-
-###### Nathaniel Farrell
-
-Professional Networking Chair
-
-[Image: Tanisha Chowdhury]
-
-###### Tanisha Chowdhury
-
-Historian
-
-[Image: Iamen Ibrahim]
-
-###### Iamen Ibrahim
-
-Historian
-
-[Image: Joshua Jones]
-
-###### Joshua Jones
-
-Transitional Officer
-
-[Image: Emmanuel Ortega]
-
-###### Emmanuel Ortega
-
-President
-
-[Image: Rayaan Ahmed]
-
-###### Rayaan Ahmed
-
-Vice President
-
-[Image: Priya Mohan]
-
-###### Priya Mohan
-
-Secretary
-
-[Image: Ahmed Abdel-Aziz]
-
-###### Ahmed Abdel-Aziz
-
-Treasurer
-
-[Image: Ali Mohsin]
-
-###### Ali Mohsin
-
-Webmaster
-
-[Image: Ananyaa Nanavala]
-
-###### Ananyaa Nanavala
-
-Mason Networking Chair
-
-[Image: Nathaniel Farrell]
-
-###### Nathaniel Farrell
-
-Professional Networking Chair
-
-[Image: Tanisha Chowdhury]
-
-###### Tanisha Chowdhury
-
-Historian
-
-[Image: Iamen Ibrahim]
-
-###### Iamen Ibrahim
-
-Historian
-
-[Image: Joshua Jones]
-
-###### Joshua Jones
-
-Transitional Officer
-
-[Image: PatriotHacks Logo]
-
-[Image: Amirkhon Mamadaliev]
-
 ###### Amirkhon Mamadaliev
 
 Sponsor
 
-[Image: Charles Landreaux]
-
 ###### Charles Landreaux
-
-President
-
-[Image: Cherish Mulpuru]
 
 ###### Cherish Mulpuru
 
 Operations
 
-[Image: Dannielle Nguyen]
-
 ###### Dannielle Nguyen
 
-President
-
-[Image: Ethan-Dang Ton]
-
 ###### Ethan-Dang Ton
-
-Operations
-
-[Image: Om Patel]
 
 ###### Om Patel
 
 Technology
 
-[Image: Shayer Khan]
-
 ###### Shayer Khan
 
 Workshop
-
-[Image: Udit Verma]
 
 ###### Udit Verma
 
 Workshop, Technology
 
-[Image: Zachary Suh]
-
 ###### Zachary Suh
 
 Marketing
-
-[Image: Harun Khan]
-
-###### Harun Khan
-
-Marketing, Sponsors
-
-[Image: Amirkhon Mamadaliev]
-
-###### Amirkhon Mamadaliev
-
-Sponsor
-
-[Image: Charles Landreaux]
-
-###### Charles Landreaux
-
-President
-
-[Image: Cherish Mulpuru]
-
-###### Cherish Mulpuru
-
-Operations
-
-[Image: Dannielle Nguyen]
-
-###### Dannielle Nguyen
-
-President
-
-[Image: Ethan-Dang Ton]
-
-###### Ethan-Dang Ton
-
-Operations
-
-[Image: Om Patel]
-
-###### Om Patel
-
-Technology
-
-[Image: Shayer Khan]
-
-###### Shayer Khan
-
-Workshop
-
-[Image: Udit Verma]
-
-###### Udit Verma
-
-Workshop, Technology
-
-[Image: Zachary Suh]
-
-###### Zachary Suh
-
-Marketing
-
-[Image: Harun Khan]
-
-###### Harun Khan
-
-Marketing, Sponsors
-
-[Image: Amirkhon Mamadaliev]
-
-###### Amirkhon Mamadaliev
-
-Sponsor
-
-[Image: Charles Landreaux]
-
-###### Charles Landreaux
-
-President
-
-[Image: Cherish Mulpuru]
-
-###### Cherish Mulpuru
-
-Operations
-
-[Image: Dannielle Nguyen]
-
-###### Dannielle Nguyen
-
-President
-
-[Image: Ethan-Dang Ton]
-
-###### Ethan-Dang Ton
-
-Operations
-
-[Image: Om Patel]
-
-###### Om Patel
-
-Technology
-
-[Image: Shayer Khan]
-
-###### Shayer Khan
-
-Workshop
-
-[Image: Udit Verma]
-
-###### Udit Verma
-
-Workshop, Technology
-
-[Image: Zachary Suh]
-
-###### Zachary Suh
-
-Marketing
-
-[Image: Harun Khan]
-
-###### Harun Khan
-
-Marketing, Sponsors
-
-[Image: Amirkhon Mamadaliev]
-
-###### Amirkhon Mamadaliev
-
-Sponsor
-
-[Image: Charles Landreaux]
-
-###### Charles Landreaux
-
-President
-
-[Image: Cherish Mulpuru]
-
-###### Cherish Mulpuru
-
-Operations
-
-[Image: Dannielle Nguyen]
-
-###### Dannielle Nguyen
-
-President
-
-[Image: Ethan-Dang Ton]
-
-###### Ethan-Dang Ton
-
-Operations
-
-[Image: Om Patel]
-
-###### Om Patel
-
-Technology
-
-[Image: Shayer Khan]
-
-###### Shayer Khan
-
-Workshop
-
-[Image: Udit Verma]
-
-###### Udit Verma
-
-Workshop, Technology
-
-[Image: Zachary Suh]
-
-###### Zachary Suh
-
-Marketing
-
-[Image: Harun Khan]
-
-###### Harun Khan
-
-Marketing, Sponsors
-
-[Image: Amirkhon Mamadaliev]
-
-###### Amirkhon Mamadaliev
-
-Sponsor
-
-[Image: Charles Landreaux]
-
-###### Charles Landreaux
-
-President
-
-[Image: Cherish Mulpuru]
-
-###### Cherish Mulpuru
-
-Operations
-
-[Image: Dannielle Nguyen]
-
-###### Dannielle Nguyen
-
-President
-
-[Image: Ethan-Dang Ton]
-
-###### Ethan-Dang Ton
-
-Operations
-
-[Image: Om Patel]
-
-###### Om Patel
-
-Technology
-
-[Image: Shayer Khan]
-
-###### Shayer Khan
-
-Workshop
-
-[Image: Udit Verma]
-
-###### Udit Verma
-
-Workshop, Technology
-
-[Image: Zachary Suh]
-
-###### Zachary Suh
-
-Marketing
-
-[Image: Harun Khan]
 
 ###### Harun Khan
 
@@ -28287,7 +20654,7 @@ Marketing, Sponsors
 
 ##### Our Sponsors and Supporters
 
-[[Image: Peraton]](https://www.peraton.com/) [[Image: Red Bull]](https://www.redbull.com/us-en/events/red-bull-basement-usa-2026/) [[Image: Microsoft]](https://www.microsoft.com/) [[Image: AWS]](https://aws.amazon.com/) [[Image: CloudForce]](https://gocloudforce.com/) [[Image: MetroStar]](https://www.metrostar.com/) [[Image: Cipher Tech Solutions]](https://ciphertechsolutions.com/) [[Image: ICS]](https://ics-nett.com/) [[Image: EY]](https://www.ey.com/) [[Image: ISACA]](https://www.isaca.org/) [[Image: Makpar]](https://www.makpar.com/) [[Image: Lumeria]](https://lumeria.us/) [[Image: Desi Breakfast Club]](https://desibreakfastclub.com/) [[Image: GMU Office of Outreach]](https://www.gmu.edu/) [[Image: Virginia Cyber Range]](https://www.virginiacyberrange.org/) [[Image: Tech4Good]](https://mason360.gmu.edu/t4g/home/)
+[Peraton](https://www.peraton.com/) [Red Bull](https://www.redbull.com/us-en/events/red-bull-basement-usa-2026/) [Microsoft](https://www.microsoft.com/) [AWS](https://aws.amazon.com/) [CloudForce](https://gocloudforce.com/) [MetroStar](https://www.metrostar.com/) [Cipher Tech Solutions](https://ciphertechsolutions.com/) [ICS](https://ics-nett.com/) [EY](https://www.ey.com/) [ISACA](https://www.isaca.org/) [Makpar](https://www.makpar.com/) [Lumeria](https://lumeria.us/) [Desi Breakfast Club](https://desibreakfastclub.com/) [GMU Office of Outreach](https://www.gmu.edu/) [Virginia Cyber Range](https://www.virginiacyberrange.org/) [Tech4Good](https://mason360.gmu.edu/t4g/home/)
 
 ##### Join Us
 
@@ -28342,10 +20709,6 @@ Made with for hackers, by ओम and علي
 - Final URL: [https://www.ctrlhackdel.com/](https://www.ctrlhackdel.com/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: Markham Campus]
-
 CTRLCTRL HACKHACK DELDEL 2.02.0
 
 ##### February 13 – 15
@@ -28357,18 +20720,6 @@ EFFECTS ON
 Click to reduce motion
 
 Thanks for joining CTRL+HACK+DEL 2.0 this year! Stay tuned for CHD 3.0
-
-##### Return to the Hackersphere_
-
-##### Return to the Hackersphere_
-
-##### Return to the Hackersphere_
-
-##### Return to the Hackersphere_
-
-##### Return to the Hackersphere_
-
-##### Return to the Hackersphere_
 
 ##### Return to the Hackersphere_
 
@@ -28386,87 +20737,39 @@ Last year we had...
 
 applicants applicants applicants applicants applicants applicants applicants
 
-0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
-
-0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
-
-0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
-
 hackers hackers hackers hackers hackers hackers hackers
-
-0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
-
-0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
 
 sponsors sponsors sponsors sponsors sponsors sponsors sponsors
 
-[Image: Balloons and Elf] [Image: Balloons and Elf] [Image: Balloons and Elf] [Image: Balloons and Elf] [Image: Balloons and Elf] [Image: Balloons and Elf] [Image: Balloons and Elf]
-
-##### Our Sponsors_
-
-##### Our Sponsors_
-
-##### Our Sponsors_
-
-##### Our Sponsors_
-
-##### Our Sponsors_
-
-##### Our Sponsors_
-
 ##### Our Sponsors_
 
 Brought to you by:
 
-Brought to you by:
+[York University](https://www.yorku.ca/)
 
-Brought to you by:
+[Dayforce](https://www.dayforce.com/)
 
-Brought to you by:
+[York Region](https://www.york.ca/)
 
-Brought to you by:
+[Major League Hacking](https://mlh.io/)
 
-Brought to you by:
+[Saily](https://saily.com/)
 
-Brought to you by:
+[NordVPN](https://nordvpn.com/)
 
-[[Image: York University]](https://www.yorku.ca/)
+[NordProtect](https://nordprotect.com/)
 
-[[Image: Dayforce]](https://www.dayforce.com/)
+[NordPass](https://nordpass.com/)
 
-[[Image: York Region]](https://www.york.ca/)
+[Incogni](https://incogni.com/)
 
-[[Image: Major League Hacking]](https://mlh.io/)
+[Nexos AI](https://nexos.ai/)
 
-[[Image: Saily]](https://saily.com/)
+[PlanVersion](https://planversion.com/)
 
-[[Image: NordVPN]](https://nordvpn.com/)
+[FeatherlessAI](https://featherless.ai/)
 
-[[Image: NordProtect]](https://nordprotect.com/)
-
-[[Image: NordPass]](https://nordpass.com/)
-
-[[Image: Incogni]](https://incogni.com/)
-
-[[Image: Nexos AI]](https://nexos.ai/)
-
-[[Image: PlanVersion]](https://planversion.com/)
-
-[[Image: FeatherlessAI]](https://featherless.ai/)
-
-[[Image: CSHub]](https://www.cshub.tech)
-
-##### Get Ready to Hack_
-
-##### Get Ready to Hack_
-
-##### Get Ready to Hack_
-
-##### Get Ready to Hack_
-
-##### Get Ready to Hack_
-
-##### Get Ready to Hack_
+[CSHub](https://www.cshub.tech)
 
 ##### Get Ready to Hack_
 
@@ -28494,10 +20797,6 @@ Do I need to have a team to register?
 
 No, you can register as an individual and join a team during the event. We offer team formation opportunities at the beginning to help you find a group.
 
-[Image: Happy friends] [Image: Happy friends] [Image: Happy friends] [Image: Happy friends] [Image: Happy friends] [Image: Happy friends] [Image: Happy friends]
-
-[Image: CTRL+HACK+DEL Organizer] [Image: CTRL+HACK+DEL Organizer] [Image: CTRL+HACK+DEL Organizer] [Image: CTRL+HACK+DEL Organizer] [Image: CTRL+HACK+DEL Organizer] [Image: CTRL+HACK+DEL Organizer] [Image: CTRL+HACK+DEL Organizer]
-
 Can I work on my project before the event?
 
 No, all hacking must be done within the hackathon timeframe to ensure a fair competition.
@@ -28524,23 +20823,7 @@ If you have any additional questions, feel free to email us at admin@ctrlhackdel
 
 ##### Get in Touch_
 
-##### Get in Touch_
-
-##### Get in Touch_
-
-##### Get in Touch_
-
-##### Get in Touch_
-
-##### Get in Touch_
-
-##### Get in Touch_
-
 Have questions or want to learn more? Reach out to us at admin@ctrlhackdel.com
-
-[Image: Cyber Elf]
-
-$ /$
 
 ### Website 120: SFHacks 2026
 - Card URL: [https://sfhacks.io](https://sfhacks.io)
@@ -28556,13 +20839,11 @@ $ /$
 
 [Skip to main content](https://www.mlh.com/signin?return_to=https://organize.mlh.com/auth/callback/organizer#main-content)
 
-[[Image: Major League Hacking]](https://www.mlh.com/)
+[Major League Hacking](https://www.mlh.com/)
 
 Participate Organizers Community About [DEV](https://dev.to) [Attend](https://www.mlh.com/seasons/2026/events) [For Businesses](https://sponsor.mlh.io/)
 
 [Sign In](https://www.mlh.com/signin)
-
-[Image: MLH Logo]
 
 #### Welcome Back
 
@@ -28577,8 +20858,6 @@ About Tracks FAQ Sponsors
 
 [Register](https://events.mlh.io/events/13394-code-for-change)
 
-[Image: C4C-logo-and-date]
-
 ##### WHAT IS CODE FOR CHANGE?
 
 Code for Change is SHPE UF’s annual, now 24-hour hackathon!
@@ -28592,43 +20871,35 @@ betterment of society.
 
 ###### The winning team of each category will receive a money prize!
 
-[Image: Trophy]
-
 Most Innovative: Education
-
-[Image: Trophy]
 
 Most Innovative: Health
 
-[Image: Trophy]
-
 Most Innovative: Environment
-
-[Image: Trophy]
 
 Most Innovative: Sponsor Challenge
 
 #### FAQ
 
-###### [Image: Chevron Down]What is a hackathon? Will there be actual hacking?
+###### What is a hackathon? Will there be actual hacking?
 
-###### [Image: Chevron Down]Is the event free to attend??
+###### Is the event free to attend??
 
-###### [Image: Chevron Down]When do applications open?
+###### When do applications open?
 
-###### [Image: Chevron Down]Are you sending out acceptances? Is there a deadline to apply? Is there a waitlist?
+###### Are you sending out acceptances? Is there a deadline to apply? Is there a waitlist?
 
-###### [Image: Chevron Down]Where is the event?
+###### Where is the event?
 
-###### [Image: Chevron Down]Who can attend?
+###### Who can attend?
 
-###### [Image: Chevron Down]What is the team size limit?
+###### What is the team size limit?
 
-###### [Image: Chevron Down]Are there travel reimbursements?
+###### Are there travel reimbursements?
 
-###### [Image: Chevron Down]When can we start working on our project? Can I work on a previous project?
+###### When can we start working on our project? Can I work on a previous project?
 
-###### [Image: Chevron Down]What kind of activities will there be?
+###### What kind of activities will there be?
 
 We will post the event schedule closer to the even date. We will host workshops, info sessions, and networking events for you to meet other hackers!.
 
@@ -28637,8 +20908,6 @@ We will post the event schedule closer to the even date. We will host workshops,
 Sponsor us!
 
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 ### Website 123: LeedsHack 2026
 - Card URL: [https://leedshack.com](https://leedshack.com)
@@ -28650,8 +20919,6 @@ Sponsor us!
 [LeedsHack 2026](https://leedshack.com/) [FAQ](https://leedshack.com/faq) [Committee](https://leedshack.com/committee) [2025](https://leedshack.com/2025) [Leeds Computing Society](https://luucompsoc.co.uk)
 
 LeedsHack 2026 FAQ Committee 2025 Leeds Computing Society
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/eu?utm_source=eu-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
 
 LeedsHack
 
@@ -28688,8 +20955,6 @@ UoL Students
 External Students
 
 36
-
-[Image: LeedsHack 2026 attendees]
 
 Congratulations!
 
@@ -28865,10 +21130,6 @@ Joseph Garnett
 
 You can also check out all the other amazing projects on our [Devpost](https://leedshack-2026.devpost.com/project-gallery) .
 
-[Image: Attendees showing their work to a judge at LeedsHack 2025] [Image: Attendees working on their hackathon project at LeedsHack 2025]
-
-[Image: Attendees showing their work to a judge at LeedsHack 2025] [Image: Attendees working on their hackathon project at LeedsHack 2025]
-
 Thanks To Our Sponsors
 
 Find out more about the sponsors who made LeedsHack 2026 possible.
@@ -28884,8 +21145,6 @@ Founded in 2010, Parallax is a digital innovation consultancy with a team of 40 
 Ligentia is a leading supply chain technology and solutions provider with over almost 30 years' experience delivering more sustainable and agile supply chains. Our customers include some of the world's most sophisticated retailers and best-known brands in manufacturing, healthcare, and consumer goods. With teams located across Asia, Australia, North America, and Europe, our people are supply chain experts who provide world-class sector and regional expertise, backed by smart technology. We give businesses the data, insights and tools they need to transform their supply chains, proactively manage disruption, reduce supply chain waste, and deliver exceptional experiences for their customers.
 
 Partners
-
-$ /$
 
 © 2026 LeedsHack By [Leeds Computing Society](https://luucompsoc.co.uk)
 
@@ -28907,8 +21166,6 @@ By registering for LeedsHack 2026 you agree to abide by the [MLH Code of Conduct
 - Rendered title: Hack McWiCS — McWiCS - McGill Women in Computer Science
 - Final URL: [https://www.mcwics.com/hackathon](https://www.mcwics.com/hackathon)
 - Expanded FAQ/accordion controls: 3
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 ##### Hack McWiCS 2026
 
@@ -28946,8 +21203,6 @@ By registering for LeedsHack 2026 you agree to abide by the [MLH Code of Conduct
 
 [2018](https://www.mcwics.com/hackathon#hack_18)
 
----
-
 ##### Hack McWiCS 2025
 
 **January 18 - 19 2025 @ Trottier Building**
@@ -28956,9 +21211,7 @@ McWiCS recently hosted its annual hackathon with great success! We had over 150 
 
 **Thank you to our sponsors:****CN Rail, Intact, Accenture, Morgan Stanley, Ciena, Deepmind, and Jukebox!**
 
----
-
-[VIEW ALL HACKS [Image: Fast Forward Icon]](https://hack-mcwics-2025.devpost.com/)
+[VIEW ALL HACKS ](https://hack-mcwics-2025.devpost.com/)
 
 ### Website 125: Hacklahoma
 - Card URL: [https://hacklahoma.org/](https://hacklahoma.org/)
@@ -28973,13 +21226,9 @@ McWiCS recently hosted its annual hackathon with great success! We had over 150 
 - archive
 - contact
 
-[Image: logo]
-
 #### Hacklahoma
 
 ##### [Check out Hacklahoma 2026!](https://2026.hacklahoma.org/)
-
-[Image: hacklahoma team]
 
 #### We Organize Hackathons
 
@@ -28987,43 +21236,25 @@ Our mission is to kindle creativity and innovation in our Oklahoma community. We
 
 #### 2025
 
-[Image: 2025 logo]
-
 #### 2024
-
-[Image: 2024 logo]
 
 #### 2023
 
-[Image: 2023 logo]
-
 #### 2022
-
-[Image: 2022 logo]
 
 #### 2021
 
-[Image: 2021 logo]
-
 #### 2020
-
-[Image: 2020 logo]
 
 #### 2019
 
-[Image: 2019 logo]
-
 #### 2018
-
-[Image: 2018 logo]
 
 #### Contact Our Team
 
 We'd love to hear from you! Contact us at hacklahoma@ou.edu or through social media. We even welcome suggestions! Send us what you’d like to see at our next event.
 
-[[Image: facebook]](https://www.facebook.com/Hacklahoma/) [[Image: twitter]](https://twitter.com/hacklahoma/) [[Image: instagram]](https://www.instagram.com/hacklahoma/)
-
-[Image: trees] [Image: logo]
+[facebook](https://www.facebook.com/Hacklahoma/) [twitter](https://twitter.com/hacklahoma/) [instagram](https://www.instagram.com/hacklahoma/)
 
 Copyright © 2021-2024 Hacklahoma ~ Made with ♡ in Norman
 
@@ -29047,8 +21278,6 @@ Creative Computing Society is back with HackTU 7.0 , our flagship event hosted a
 Whether you're a seasoned developer or new to hackathons, there's something for everyone. Development is more than just coding it's an adrenaline rush that drives innovation. Today's tech world demands solutions that are both cutting-edge and user-friendly.
 
 Gear up your tech stack , brainstorm innovative ideas, ignite team spirit, and build solutions for real-world problems at HackTU 7.0 - the biggest offline hackathon at TIET!
-
-[Image: About graphic]
 
 Last Year...
 
@@ -29084,15 +21313,9 @@ Selecting this track makes you eligible for a Pre-Placement Offer (PPI) from Dil
 
 RSSI-Driven Autonomous Antenna Tracker
 
-Problem
-
 Ground stations lose UAV comms when drones maneuver unpredictably
 
-Challenge
-
 Build an antenna tracker that autonomously follows a UAV using ONLY RSSI signals (no GPS/telemetry)
-
-Requirements
 
 RSSI threshold-based direction finding
 
@@ -29102,21 +21325,11 @@ PID control for smooth tracking
 
 Real-time signal strength visualization
 
-PPI Opportunity
-
-Selecting this track makes you eligible for a Pre-Placement Offer (PPI) from Dilaton.
-
 Campus Guardian Drone
-
-Problem
 
 Campuses need 24/7 surveillance but can't afford enterprise solutions
 
-Challenge
-
 Deploy a low cost autonomous patrol drone (less than ₹25k)
-
-Requirements
 
 Raspberry Pi camera + motion detection
 
@@ -29134,21 +21347,11 @@ Object classification (person/bike/litter)
 
 Live streaming + event recording
 
-PPI Opportunity
-
-Selecting this track makes you eligible for a Pre-Placement Offer (PPI) from Dilaton.
-
 Indoor GPS-Denied Maze Navigator
-
-Problem
 
 GPS fails indoors. Drones need to navigate tight spaces autonomously
 
-Challenge
-
 Build a micromouse-inspired drone that solves 3x3m indoor mazes
-
-Requirements
 
 Visual odometry (camera-based)
 
@@ -29160,21 +21363,11 @@ Obstacle avoidance (<30cm clearance)
 
 Bonus: Map reconstruction + fastest solve time
 
-PPI Opportunity
-
-Selecting this track makes you eligible for a Pre-Placement Offer (PPI) from Dilaton.
-
 GPS-Jammed Autonomous Navigation
-
-Problem
 
 Enemy jamming/spoofing disables GPS. Mission must continue
 
-Challenge
-
 Enable UAV to complete waypoint mission using GPS-denied sensors only
-
-Requirements
 
 Visual odometry (optical flow)
 
@@ -29184,17 +21377,9 @@ Compass (magnetometer)
 
 Optional: Pre-loaded map matching
 
-PPI Opportunity
-
-Selecting this track makes you eligible for a Pre-Placement Offer (PPI) from Dilaton.
-
 OPEN DEFENCE INNOVATION
 
 Surprise us! Propose + prototype any defense-relevant drone solution: Counter-UAV jamming Swarm coordination Thermal target tracking Autonomous package delivery (ISR) Your wildest idea...
-
-PPI Opportunity
-
-Selecting this track makes you eligible for a Pre-Placement Offer (PPI) from Dilaton.
 
 Open Innovation
 
@@ -29376,37 +21561,37 @@ Sponsor
 
 Hackathon Sponsor
 
-[[Image: Major League Hacking]](https://mlh.io/)
+[Major League Hacking](https://mlh.io/)
 
 Platform Partner
 
-[[Image: Devfolio]](https://devfolio.co/)
+[Devfolio](https://devfolio.co/)
 
 Power Sponsor
 
-[[Image: Github]](https://github.com)
+[Github](https://github.com)
 
-[[Image: Dilathon]](http://dilaton.ai/)
+[Dilathon](http://dilaton.ai/)
 
 Associate Sponsor
 
-[[Image: Genesis]](https://instagram.com/zk_genesis/)
+[Genesis](https://instagram.com/zk_genesis/)
 
-[[Image: Atovio]](https://atovio.in/)
+[Atovio](https://atovio.in/)
 
-[[Image: ETHIndia]](https://ethindia-villa.devfolio.co/overview)
+[ETHIndia](https://ethindia-villa.devfolio.co/overview)
 
-[[Image: SPEC-NITH]](https://spec.nith.ac.in/)
+[SPEC-NITH](https://spec.nith.ac.in/)
 
-[[Image: Navan]](https://navan.ai/)
+[Navan](https://navan.ai/)
 
-[[Image: Keploy]](https://keploy.io/)
+[Keploy](https://keploy.io/)
 
-[[Image: Think-Cell]](https://www.think-cell.com/en/essentials)
+[Think-Cell](https://www.think-cell.com/en/essentials)
 
-[[Image: XYZ]](https://gen.xyz/)
+[XYZ](https://gen.xyz/)
 
-[[Image: Interview Buddy]](https://interviewbuddy.net/)
+[Interview Buddy](https://interviewbuddy.net/)
 
 Looking to Sponsor?
 
@@ -29453,10 +21638,6 @@ Contact us at: +91 7388878724 +91 7821800212 support@ccstiet.com
 - Final URL: [https://hackthecoast.susubc.ca/](https://hackthecoast.susubc.ca/)
 - Expanded FAQ/accordion controls: 6
 
-[Image: Background]
-
-[Image: Logo]
-
 HACKTHECOAST
 
 UBC Science Undergraduate Society's first-ever Hackathon
@@ -29466,8 +21647,6 @@ Hack the Coast 2026 has concluded!
 Stay tuned for Hack the Coast 2027!
 
 [View Winners](https://hackthecoast.susubc.ca/winners)
-
-[Image: Background graphic] [Image: Background graphic]
 
 Dive into Hack the Coast
 
@@ -29482,8 +21661,6 @@ Hack the Coast is UBC Science’s first-ever hackathon, built to connect discipl
 Think of it as a 24 hour playground for ideas. You’ll form a team, dream up a project, and bring it to life: whether it’s an app, a game, a website, or something no one’s seen before. Along the way, you’ll learn from mentors, attend workshops, meet incredible people, and get a LOT of free swag.
 
 Hosted by the Science Undergraduate Society, Hack the Coast is a free, inclusive, and community-driven experience that welcomes you as you are.
-
-[Image: Background graphic]
 
 Who is Hack the Coast For?
 
@@ -29519,8 +21696,6 @@ Explore new tools, learn from experts, and see where creativity takes you
 
 A weekend at Hack the Coast comes with a lot more than just building projects.
 
-[Image: Hackathon experience roadmap]
-
 ##### Event Schedule
 
 Your complete guide to 24 hours of hacking, workshops, and fun activities!
@@ -29549,8 +21724,6 @@ LSC 1003
 
 12:00 PM
 
-LSI Atrium E
-
 ###### Lunch
 
 1:00 PM
@@ -29567,37 +21740,25 @@ LSI 1510
 
 3:00 PM
 
-LSI 1510
-
 ###### Workshop: SAP Sponsored
 
 4:00 PM
-
-LSI 1510
 
 ###### Workshop: Meet Muay Thai (ft. UBC Muay Thai Club)
 
 5:00 PM
 
-LSI 1510
-
 ###### Workshop: Hello Hardware (ft. Surprise Host)
 
 6:00 PM
-
-LSI 1510
 
 ###### Dinner
 
 7:00 PM
 
-LSI Central Hallway
-
 ###### Activity: Speed Typing Competition
 
 10:00 PM
-
-LSI 1510
 
 ###### Midnight Ramen Bar
 
@@ -29609,13 +21770,9 @@ Life Science Institute
 
 All-Day
 
-Life Science Institute
-
 ###### DuckHunt Scavenger Hunt
 
 All-Day
-
-Life Science Institute
 
 Feb 8, 20267 events
 
@@ -29623,37 +21780,21 @@ Feb 8, 20267 events
 
 8:00 AM
 
-LSI 1510
-
 ###### Breakfast
 
 9:00 AM
 
-LSI Central Hallway
-
 ###### Submissions Hard Deadline!
-
-12:00 PM
 
 Devpost
 
-###### Lunch
-
-12:00 PM
-
-LSI Central Hallway
-
 ###### Photobooth: Photoism
-
-12:00 PM
 
 LSI
 
 ###### Project Expo + Judging
 
 1:00 PM
-
-LSI Atrium E
 
 ###### Closing Ceremony
 
@@ -29662,8 +21803,6 @@ LSI Atrium E
 LSI 1003
 
 Venue Map
-
-[Image: Venue Map]
 
 ##### FAQ
 
@@ -29691,64 +21830,44 @@ That’s totally okay! Hackathons aren’t just for programmers. You can contrib
 
 Yes — mentors from academia and industry will be available throughout the event for guidance and feedback.
 
-[Image: Background]
-
 ##### Meet Our Team
 
 Meet the brains and heart behind Hack the Coast!
 We're a crew of science lovers, tech enthusiasts, and event planners excited to bring you UBC Science's very first hackathon.
 
-[Image: Claire Zhang: Hackathon Co-Lead]
-
-[Image: Ridhi: Logistics Committee Member]
-
-[Image: Insha Majeed: Outreach Committee Member]
-
-[Image: Gianna Li: Engagement Committee Lead]
-
-[Image: Arnavdeep: Marketing Committee Lead]
-
-[Image: David Lim: Developer Lead]
-
-[Image: Background]
-
 ##### Our Sponsors
 
-[[Image: SAP]](https://www.sap.com/canada/index.html) [[Image: SmartCohort]](https://smartcohort.org/) [[Image: AMS]](https://www.ams.ubc.ca/) [[Image: UBC Walter H. Gage Memorial Fund]](https://vpstudents.ubc.ca/walter-gage/) [[Image: Major League Hacking]](https://mlh.io/)
+[SAP](https://www.sap.com/canada/index.html) [SmartCohort](https://smartcohort.org/) [AMS](https://www.ams.ubc.ca/) [UBC Walter H. Gage Memorial Fund](https://vpstudents.ubc.ca/walter-gage/) [Major League Hacking](https://mlh.io/)
 
-[[Image: Kardium]](https://kardium.com/) [[Image: Deloitte]](https://www.deloitte.com/ca/en.html)
+[Kardium](https://kardium.com/) [Deloitte](https://www.deloitte.com/ca/en.html)
 
 ###### In-Kind Sponsors
 
-[[Image: Feather]](https://featherless.ai/)
+[Feather](https://featherless.ai/)
 
-[[Image: Vancouver Lookout]](https://vancouverlookout.com/)
+[Vancouver Lookout](https://vancouverlookout.com/)
 
-[[Image: Indomie]](https://indomieonline.ca/?srsltid=AfmBOooLX_FdpVd95w-vGZeDzzGmdKWyK4Ky1QqT4t-DwvzyUXZoaOVG)
+[Indomie](https://indomieonline.ca/?srsltid=AfmBOooLX_FdpVd95w-vGZeDzzGmdKWyK4Ky1QqT4t-DwvzyUXZoaOVG)
 
-[[Image: Vancouver Water Adventures]](https://vancouverwateradventures.com/seadoos/?utm_source=google&utm_medium=cpc&utm_campaign=21262818222&utm_content=&utm_term=&gad_source=1&gad_campaignid=21262832874&gbraid=0AAAAABVapELYAGaBxKIwbzsTVpRA5_AJl&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoIT_T13-ruNw6Bw81w9QM561xE3s4PD6UZ9l5DrKB6E4j4mkSuo1PUaAkwEEALw_wcB)
+[Vancouver Water Adventures](https://vancouverwateradventures.com/seadoos/?utm_source=google&utm_medium=cpc&utm_campaign=21262818222&utm_content=&utm_term=&gad_source=1&gad_campaignid=21262832874&gbraid=0AAAAABVapELYAGaBxKIwbzsTVpRA5_AJl&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoIT_T13-ruNw6Bw81w9QM561xE3s4PD6UZ9l5DrKB6E4j4mkSuo1PUaAkwEEALw_wcB)
 
-[[Image: Blackbird Interactive]](https://blackbirdinteractive.com/)
+[Blackbird Interactive](https://blackbirdinteractive.com/)
 
-[[Image: Steve's Poke Bar]](https://www.stevespokebar.ca/)
+[Steve's Poke Bar](https://www.stevespokebar.ca/)
 
-[[Image: Photoism]](https://en.photoismshop.com/)
+[Photoism](https://en.photoismshop.com/)
 
-[[Image: Rain or Shine]](https://www.rainorshineicecream.com/)
+[Rain or Shine](https://www.rainorshineicecream.com/)
 
-[[Image: Red Bull]](https://www.redbull.com/ca-en)
+[Red Bull](https://www.redbull.com/ca-en)
 
-[[Image: Firebird Prints]](https://firebirdprints.com/)
+[Firebird Prints](https://firebirdprints.com/)
 
-[Image: UBC SUS — Hack the Coast]
-
-[Image: Email] [[Image: Facebook]](https://www.facebook.com/susubc/) [[Image: Instagram]](https://www.instagram.com/susubc/) [[Image: LinkedIn]](https://www.linkedin.com/company/susubc/posts/?feedView=all) [[Image: Spotify]](https://open.spotify.com/show/6LvV59dTsORiXSn4z28Zon?si=0708d6d527c145ce) [[Image: TikTok]](https://www.tiktok.com/@sus_ubc) [[Image: YouTube]](https://www.youtube.com/@scienceundergraduatesocietyubc)
+[Facebook](https://www.facebook.com/susubc/) [Instagram](https://www.instagram.com/susubc/) [LinkedIn](https://www.linkedin.com/company/susubc/posts/?feedView=all) [Spotify](https://open.spotify.com/show/6LvV59dTsORiXSn4z28Zon?si=0708d6d527c145ce) [TikTok](https://www.tiktok.com/@sus_ubc) [YouTube](https://www.youtube.com/@scienceundergraduatesocietyubc)
 
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
 Copyright © 2025 UBC Science Undergraduate Society
-
-$ /$
 
 ### Website 128: QWER Hacks
 - Card URL: [https://www.qwerhacks.com/](https://www.qwerhacks.com/)
@@ -29762,8 +21881,6 @@ $ /$
 No events to display
 
 ##### Scheduled Workshops
-
-[Image: BruinAI: Intro to API logo]
 
 ###### BruinAI: Intro to API
 
@@ -29781,13 +21898,9 @@ Welcome to AI API workshop hosted by BruinAI! We will walk you through everythin
 - Final URL: [https://mac-a-thon.gdgmcmaster.ca/](https://mac-a-thon.gdgmcmaster.ca/)
 - Expanded FAQ/accordion controls: 9
 
-[Image: Beach background]
-
 Applications for Mac-a-thon are now closed.
 
 Stay tuned for updates on our next event!
-
-[Image: Beach background]
 
 Mission
 
@@ -29796,8 +21909,6 @@ At GDG McMasterU, we connect, learn, and grow. We connect by enabling students t
 Vision
 
 GDG McMasterU started in 2020, and has grown to be one of the largest chapters in North America. We are a club of passionate students who organize events that showcase Google Technologies, and foster a community to learn about the software industry together. With a following in the thousands across all our social media channels, we continue to engage with students and implement feedback to grow the community!
-
-[Image: Statistics Background]
 
 Hackers
 
@@ -29817,19 +21928,7 @@ Projects
 
 The number of project submissions at the previous GDG Hackathon
 
-[Image: slide-0]
-
-[Image: slide-1]
-
-[Image: slide-2]
-
-[Image: slide-3]
-
-[Image: slide-4]
-
-[Image: slide-5]
-
-[Image: Beach background] [[Image: Mobbin]](https://mobbin.com/) [[Image: getcracked.io]](https://getcracked.io/) [[Image: StrataScratch]](https://www.stratascratch.com/) [[Image: Google]](https://mac-a-thon.gdgmcmaster.ca/) [[Image: CodeCrafters]](https://codecrafters.io/) [[Image: McMaster Engineering Society]](https://www.macengsociety.ca/) [[Image: ATS]](https://atsautomation.com/) [[Image: NordVPN]](https://nordvpn.com/) [[Image: Vue School]](https://vueschool.io/) [[Image: .xyz]](https://gen.xyz/) [[Image: Intern Insider]](https://www.interninsider.me/)
+[Mobbin](https://mobbin.com/) [getcracked.io](https://getcracked.io/) [StrataScratch](https://www.stratascratch.com/) [Google](https://mac-a-thon.gdgmcmaster.ca/) [CodeCrafters](https://codecrafters.io/) [McMaster Engineering Society](https://www.macengsociety.ca/) [ATS](https://atsautomation.com/) [NordVPN](https://nordvpn.com/) [Vue School](https://vueschool.io/) [.xyz](https://gen.xyz/) [Intern Insider](https://www.interninsider.me/)
 
 ##### FAQ
 
@@ -29853,68 +21952,12 @@ The number of project submissions at the previous GDG Hackathon
 
 Reach out to us at dsc.mcmasteru@gmail.com. Follow us on social media to stay up to date with announcements and event updates.
 
-[Image: Team Background]
-
-[Image: Umar Ahmer]
-
-[Image: Ranee Hong]
-
-[Image: Leon Yao]
-
-[Image: Yusuf Khan]
-
-[Image: Varunan Varathan]
-
-[Image: Erin Chen]
-
-[Image: Aazmir Ahmed]
-
-[Image: Bhravi Prajapati]
-
-[Image: Krisha Patel]
-
-[Image: Kabir Arora]
-
-[Image: Yusuf Alam]
-
-[Image: Colin Chambachan]
-
-[Image: Umar Ahmer]
-
-[Image: Ranee Hong]
-
-[Image: Leon Yao]
-
-[Image: Yusuf Khan]
-
-[Image: Varunan Varathan]
-
-[Image: Erin Chen]
-
-[Image: Aazmir Ahmed]
-
-[Image: Bhravi Prajapati]
-
-[Image: Krisha Patel]
-
-[Image: Kabir Arora]
-
-[Image: Yusuf Alam]
-
-[Image: Colin Chambachan]
-
 ### Website 131: InnovateHer
 - Card URL: [http://innovateherhacks.org/](http://innovateherhacks.org/)
 - Referenced by: InnovateHer
 - Rendered title: InnovateHer
 - Final URL: [https://innovateherhacks.org/](https://innovateherhacks.org/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
-
-✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿
-
-#### [Image: InnovateHer]
 
 ##### **Date:** February 6-7, 2027
 **Location:** TBD
@@ -29927,19 +21970,13 @@ Purdue University's women-centric hackathon. Making space for every voice in tec
 
 InnovateHer is a women-centric hackathon hosted at Purdue University that empowers students to learn, build, and innovate together. Through mentorship, workshops, and a welcoming community, we aim to foster creativity, confidence, and collaboration in tech.
 
-[Image: Learn]
-
 ###### LEARN.
 
 Explore new technologies and workshops led by industry professionals and fellow students. Whether you're a beginner or experienced hacker, there's something for everyone to discover.
 
-[Image: Build]
-
 ###### BUILD.
 
 Collaborate with a team to turn your ideas into reality. Code, design, prototype, and bring innovative solutions to life during 24 hours of creativity.
-
-[Image: Share]
 
 ###### SHARE.
 
@@ -29957,53 +21994,7 @@ More details to come soon!
 
 A huge thank you to the organizations that have supported our mission to empower women in technology.
 
-[Image: Oracle]
-
-[Image: Capital One]
-
-[Image: Lockheed Martin]
-
-[Image: Caterpillar]
-
-[Image: L3Harris]
-
-[Image: Popsockets]
-
-[Image: Chamberlain Group]
-
-[Image: OReilly]
-
-[Image: Purdue WHPC]
-
-[Image: Poppi]
-
-[Image: Wolfram]
-
-[Image: Balsamiq]
-
-[Image: MLH]
-
-[Image: Groq]
-
-[Image: Purdue CS]
-
-[Image: Sans]
-
-[Image: Badger]
-
-[Image: Pure Buttons]
-
-[Image: Women & Hi Tech]
-
-[Image: Bubblr]
-
-[Image: Interview Cake]
-
 #### Gallery
-
-❮
-
-❯
 
 [View All 2026 Photos →](https://drive.google.com/drive/u/2/folders/1j0sokOG2WLshdQtTA5g6KHG_QRq0h1gA)
 
@@ -30011,13 +22002,9 @@ A huge thank you to the organizations that have supported our mission to empower
 
 Watch demo videos from our 2026 hackathon winners and explore the full Devpost gallery below.
 
-‹
-
 ###### 1st Place: BarBabes
 
 BarBabes is your party's AI safety net. Combining NFC tracking, Gemini sobriety tests, and more, the app assists in responsible drinking, combats hangxiety, and empowers women to enjoy college safely.
-
-›
 
 [View full Devpost gallery](https://innovateher-2026.devpost.com)
 
@@ -30027,7 +22014,7 @@ Explore previous years' websites.
 
 2026
 
-[[Image: InnovateHer 2026 website screenshot]](https://innovateherhacks.github.io)
+[InnovateHer 2026 website screenshot](https://innovateherhacks.github.io)
 
 #### FAQ
 
@@ -30043,18 +22030,12 @@ What is Major League Hacking? Major League Hacking is the [official student hack
 
 Is there a code of conduct? Yes there is. We enforce it very strongly. You can [find it here](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md).
 
-↑
-
 ### Website 132: DevFest '26
 - Card URL: [https://devfestcu.netlify.app/](https://devfestcu.netlify.app/)
 - Referenced by: DevFest '26
 - Rendered title: DevFest 2026
 - Final URL: [https://devfestcu.netlify.app/](https://devfestcu.netlify.app/)
 - Expanded FAQ/accordion controls: 0
-
-[Image: Purple Background]
-
-[Image: DevFest Logo]
 
 #### Devfest 2026
 
@@ -30082,9 +22063,7 @@ Join our devfest [discord](https://discord.com/invite/sg8mENaRB2) community to a
 
 Stay in touch: [Instagram](https://www.instagram.com/adicolumbia/), [Tiktok](https://www.tiktok.com/@adicolumbia), [Discord](https://discord.com/invite/sg8mENaRB2)
 
-[[Image: Schedule]](https://docs.google.com/spreadsheets/d/1sSDcNFrFrXo1Hk3-0M5JQBzCOKoNsQynivQOTraLfCU/edit?usp=sharing) [[Image: FAQ Planet]](https://devfestcu.netlify.app/faq) [[Image: Tracks]](https://devfestcu.netlify.app/tracks) [[Image: Judges/Speakers]](https://devfestcu.netlify.app/speakers)
-
-[Image: Roarie Character]
+[Schedule](https://docs.google.com/spreadsheets/d/1sSDcNFrFrXo1Hk3-0M5JQBzCOKoNsQynivQOTraLfCU/edit?usp=sharing) [FAQ Planet](https://devfestcu.netlify.app/faq) [Tracks](https://devfestcu.netlify.app/tracks) [Judges/Speakers](https://devfestcu.netlify.app/speakers)
 
 Welcome to DevFest 2026! Click on the planets to explore!
 
@@ -30092,19 +22071,19 @@ Welcome to DevFest 2026! Click on the planets to explore!
 
 ###### Platinum
 
-[[Image: Dedalus Labs]](https://www.dedaluslabs.ai/)
+[Dedalus Labs](https://www.dedaluslabs.ai/)
 
 ###### Gold
 
-[[Image: Flowglad]](https://www.flowglad.com/) [[Image: IFM]](https://ifm.ai/)
+[Flowglad](https://www.flowglad.com/) [IFM](https://ifm.ai/)
 
 ###### Silver
 
-[[Image: SafetyKit]](https://www.safetykit.com/) [[Image: Scale]](https://scale.com/) [[Image: SonarSource]](https://www.sonarsource.com/) [[Image: Columbia]](https://www.columbia.edu/)
+[SafetyKit](https://www.safetykit.com/) [Scale](https://scale.com/) [SonarSource](https://www.sonarsource.com/) [Columbia](https://www.columbia.edu/)
 
 ###### Bronze
 
-[[Image: ElevenLabs]](https://elevenlabs.io/) [[Image: Balsamiq]](https://balsamiq.com/) [[Image: Figma]](https://figma.com/) [[Image: Featherless]](https://featherless.ai/)
+[ElevenLabs](https://elevenlabs.io/) [Balsamiq](https://balsamiq.com/) [Figma](https://figma.com/) [Featherless](https://featherless.ai/)
 
 ### Website 133: TidalHack
 - Card URL: [https://tidaltamu.com/hackathon](https://tidaltamu.com/hackathon)
@@ -30118,23 +22097,13 @@ Welcome to DevFest 2026! Click on the planets to explore!
 - Final URL: [https://cxc.uwdatascience.ca/](https://cxc.uwdatascience.ca/)
 - Expanded FAQ/accordion controls: 9
 
-[Image: CXC]
-
 FEB 6-8 · An AI Hackathon [Check Results](https://cxc.uwdatascience.ca/dashboard/results)
 
-Presented by[Image: tangerine-cursor] [Image: tangerine-logo]
+Presented by
 
 ##### About CXC
 
 Join us for the 5th year of Waterloo's largest student-run AI hackathon this February 6th to February 8th! We are a beginner-friendly AI hackathon that brings together students and companies to build projects that solve real-world problems. Join us again this year for a weekend of hacking and fun!
-
-[Image: CXC Event 1]
-
-[Image: CXC Event 2]
-
-[Image: CXC Event 3]
-
-[Image: CXC Event 4]
 
 ##### You Belong Here
 
@@ -30164,65 +22133,41 @@ CXC • 5TH ITERATION • AI HACKATHON •
 
 CXC 2025
 
-[Image: CXC 2025 UFO]
+[AI-powered next-action recommendations to boost user engagement, streamline decision-making, and enhance personalized experiences with intelligent automation.Lasagna](https://devpost.com/software/federato-data-challenge)
 
-[Image: alien]
+[Submission to CxC 2025 SAP Challenge, Poverty AnalyticsMacrodata Refinement](https://devpost.com/software/cxc-2025-sap-challenge)
 
-[[Image: Lasagna]AI-powered next-action recommendations to boost user engagement, streamline decision-making, and enhance personalized experiences with intelligent automation.Lasagna](https://devpost.com/software/federato-data-challenge)
-
-[Image: alien]
-
-[[Image: Macrodata Refinement]Submission to CxC 2025 SAP Challenge, Poverty AnalyticsMacrodata Refinement](https://devpost.com/software/cxc-2025-sap-challenge)
-
-[Image: alien]
-
-[[Image: Adaptive Workflow Engine]Leveraging causal inference, predictive modeling and interactive graph visualizations to optimize user navigation and enhance engagement on the Federato RiskOps platformAdaptive Workflow Engine](https://devpost.com/software/cxc-2025-sap-challenge)
+[Leveraging causal inference, predictive modeling and interactive graph visualizations to optimize user navigation and enhance engagement on the Federato RiskOps platformAdaptive Workflow Engine](https://devpost.com/software/cxc-2025-sap-challenge)
 
 CXC 2024
 
-[Image: CXC 2024 UFO]
+[Predict missing IAQ values with the power of Tensorflow, multivariate LSTMs and monkes!Monke](https://devpost.com/software/monke-y2s5fc)
 
-[Image: alien]
+[We attempt to devise a solution to predict missing values for data generated by Indoo Air Quality sensors in the occasion of outages.Quadreal Challenge](https://devpost.com/software/quadreal-challenge)
 
-[[Image: Monke]Predict missing IAQ values with the power of Tensorflow, multivariate LSTMs and monkes!Monke](https://devpost.com/software/monke-y2s5fc)
-
-[Image: alien]
-
-[[Image: Quadreal Challenge]We attempt to devise a solution to predict missing values for data generated by Indoo Air Quality sensors in the occasion of outages.Quadreal Challenge](https://devpost.com/software/quadreal-challenge)
-
-[Image: alien]
-
-[[Image: Our ML Churney]Leveraging historical data from Infinite Investment Systems, research on wealth management, and ML techniques to build a highly performant predictive model.Our ML Churney](https://devpost.com/software/our-ml-churney)
+[Leveraging historical data from Infinite Investment Systems, research on wealth management, and ML techniques to build a highly performant predictive model.Our ML Churney](https://devpost.com/software/our-ml-churney)
 
 CXC 2023
 
-[Image: CXC 2023 UFO]
+[Classification model for binding sites using an LSTM + GNNGNN + LSTM embedding](https://devpost.com/software/lstm-embeddings-gnn)
 
-[Image: alien]
+[Trained a Medical Document classifier using HuggingFace's XLNet NLP Model. The project contains the predictions, and a notebook outlining the process.j4noronh_Intact](https://devpost.com/software/j4noronh_intact_cxc2023)
 
-[[Image: GNN + LSTM embedding]Classification model for binding sites using an LSTM + GNNGNN + LSTM embedding](https://devpost.com/software/lstm-embeddings-gnn)
-
-[Image: alien]
-
-[[Image: j4noronh_Intact]Trained a Medical Document classifier using HuggingFace's XLNet NLP Model. The project contains the predictions, and a notebook outlining the process.j4noronh_Intact](https://devpost.com/software/j4noronh_intact_cxc2023)
-
-[Image: alien]
-
-[[Image: Team Snowflakes]A classification model to predict the drug binding sites on AlphaFold2-predicted proteins.Team Snowflakes](https://devpost.com/software/cyclia-submission)
+[A classification model to predict the drug binding sites on AlphaFold2-predicted proteins.Team Snowflakes](https://devpost.com/software/cyclia-submission)
 
 ##### Our Sponsors
 
 ###### Platinum Sponsor
 
-[[Image: Tangerine]](https://www.tangerine.ca/en/about-us)
+[Tangerine](https://www.tangerine.ca/en/about-us)
 
 ###### Bronze Sponsors
 
-[[Image: Equitable]](https://equitable.ca/home) [[Image: Nomad Futurist]](https://nomadfuturist.org/) [[Image: Accenture]](https://www.accenture.com/ca-en) [[Image: KPMG]](https://kpmg.com/ca/en/home.html) [[Image: Conrad]](https://uwaterloo.ca/brand/uw-logo/school-logos/conrad-school-entrepreneurship-and-business) [[Image: Around Hi]](https://aroundhisolutions.com/) [[Image: Backboard.io]](https://backboard.io/)
+[Equitable](https://equitable.ca/home) [Nomad Futurist](https://nomadfuturist.org/) [Accenture](https://www.accenture.com/ca-en) [KPMG](https://kpmg.com/ca/en/home.html) [Conrad](https://uwaterloo.ca/brand/uw-logo/school-logos/conrad-school-entrepreneurship-and-business) [Around Hi](https://aroundhisolutions.com/) [Backboard.io](https://backboard.io/)
 
 ###### Partners
 
-[[Image: Redbull]](https://www.redbull.com/ca-en) [[Image: Figma]](https://www.figma.com/) [[Image: Chef]](https://thechefsignature.ca/) [[Image: MEF]](https://uwaterloo.ca/math-endowment-fund/)
+[Redbull](https://www.redbull.com/ca-en) [Figma](https://www.figma.com/) [Chef](https://thechefsignature.ca/) [MEF](https://uwaterloo.ca/math-endowment-fund/)
 
 Interested in sponsoring CXC? Click the button to get in touch.
 
@@ -30276,8 +22221,6 @@ CXC follows the Major League Hacking (MLH) Code of Conduct. All participants are
 
 ##### FOLLOW US
 
-$ /$
-
 ### Website 135: QHacks
 - Card URL: [https://qhacks.io/](https://qhacks.io/)
 - Referenced by: QHacks
@@ -30291,12 +22234,6 @@ $ /$
 - [FAQ](https://qhacks.io/#faq)
 - [Meet the Team](https://qhacks.io/#team)
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
-
-[Image: glowing ellipse]
-
-[Image: QHacks crown]
-
 #### QHacks
 
 2026
@@ -30307,42 +22244,6 @@ Already have an account?
 
 [Login](https://qhacks.io/login)
 
-[Image: projector]
-
-[Image: Join QHacks]
-
-[Image: See the full flow]
-
-[Image: Projects you're proud of]
-
-[Image: Schools everywhere]
-
-[Image: Mentors on speed dial]
-
-[Image: Newcomer-friendly]
-
-[Image: See the full flow]
-
-[Image: Projects you're proud of]
-
-[Image: Schools everywhere]
-
-[Image: Mentors on speed dial]
-
-[Image: Newcomer-friendly]
-
-[Image: Theatre Background]
-
-[Image: Slide 0]
-
-[Image: Slide 1]
-
-[Image: Slide 2]
-
-[Image: Slide 3]
-
-[Image: Carousel Background]
-
 ###### Interested in
 Partnering?
 
@@ -30351,7 +22252,7 @@ Download our [sponsorship package](https://cdn.qhacks.io/assets/7947bfeb-53f9-4a
 ##### Honouring our
 Current Sponsors
 
-[#124KODAK 400[Image: AMS]](https://www.myams.org/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#125KODAK 400[Image: AWAKE]](https://awakechocolate.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#126KODAK 400[Image: Backboard IO]](https://backboard.io/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#127KODAK 400[Image: City of Kingston]](https://www.cityofkingston.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#128KODAK 400[Image: CSE Canada]](https://www.cse-cst.gc.ca/en?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#129KODAK 400[Image: COMPSA]](https://compsa.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#130KODAK 400[Image: DOSE]](https://dosejuice.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#131KODAK 400[Image: ENGRL]](https://engrl.co/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#132KODAK 400[Image: Gradium]](https://gradium.ai/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#133KODAK 400[Image: MadeGood]](https://www.madegoodfoods.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#134KODAK 400[Image: Manulife]](https://www.manulife.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#135KODAK 400[Image: NBC]](https://www.nbc.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#136KODAK 400[Image: Poparide]](https://www.poparide.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#137KODAK 400[Image: Queen's Innovation Centre]](https://www.queensu.ca/innovationcentre/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#138KODAK 400[Image: Queen's School of Computing]](https://www.cs.queensu.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#139KODAK 400[Image: AMS]](https://www.myams.org/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#140KODAK 400[Image: AWAKE]](https://awakechocolate.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#141KODAK 400[Image: Backboard IO]](https://backboard.io/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#142KODAK 400[Image: City of Kingston]](https://www.cityofkingston.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#143KODAK 400[Image: CSE Canada]](https://www.cse-cst.gc.ca/en?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#144KODAK 400[Image: COMPSA]](https://compsa.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#145KODAK 400[Image: DOSE]](https://dosejuice.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#146KODAK 400[Image: ENGRL]](https://engrl.co/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#147KODAK 400[Image: Gradium]](https://gradium.ai/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#148KODAK 400[Image: MadeGood]](https://www.madegoodfoods.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#149KODAK 400[Image: Manulife]](https://www.manulife.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#150KODAK 400[Image: NBC]](https://www.nbc.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#151KODAK 400[Image: Poparide]](https://www.poparide.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#152KODAK 400[Image: Queen's Innovation Centre]](https://www.queensu.ca/innovationcentre/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#153KODAK 400[Image: Queen's School of Computing]](https://www.cs.queensu.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026)
+[#124KODAK 400](https://www.myams.org/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#125KODAK 400](https://awakechocolate.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#126KODAK 400](https://backboard.io/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#127KODAK 400](https://www.cityofkingston.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#128KODAK 400](https://www.cse-cst.gc.ca/en?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#129KODAK 400](https://compsa.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#130KODAK 400](https://dosejuice.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#131KODAK 400](https://engrl.co/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#132KODAK 400](https://gradium.ai/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#133KODAK 400](https://www.madegoodfoods.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#134KODAK 400](https://www.manulife.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#135KODAK 400](https://www.nbc.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#136KODAK 400](https://www.poparide.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#137KODAK 400](https://www.queensu.ca/innovationcentre/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#138KODAK 400](https://www.cs.queensu.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#139KODAK 400](https://www.myams.org/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#140KODAK 400](https://awakechocolate.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#141KODAK 400](https://backboard.io/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#142KODAK 400](https://www.cityofkingston.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#143KODAK 400](https://www.cse-cst.gc.ca/en?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#144KODAK 400](https://compsa.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#145KODAK 400](https://dosejuice.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#146KODAK 400](https://engrl.co/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#147KODAK 400](https://gradium.ai/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#148KODAK 400](https://www.madegoodfoods.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#149KODAK 400](https://www.manulife.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#150KODAK 400](https://www.nbc.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#151KODAK 400](https://www.poparide.com/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#152KODAK 400](https://www.queensu.ca/innovationcentre/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026) [#153KODAK 400](https://www.cs.queensu.ca/?utm_source=qhacks.io&utm_medium=homepage&utm_campaign=qhacks_2026)
 
 ###### Honouring our Past Sponsors
 
@@ -30359,123 +22260,61 @@ By partnering with QHacks, you will not only empower the next generation of lead
 
 #842 PORTRA 800
 
-[Image: Amazon]
-
 #843 PORTRA 800
-
-[Image: AMD]
 
 #844 PORTRA 800
 
-[Image: AssemblyAI]
-
 #845 PORTRA 800
-
-[Image: Axure]
 
 #846 PORTRA 800
 
-[Image: Bayun]
-
 #847 PORTRA 800
-
-[Image: BMO]
 
 #848 PORTRA 800
 
-[Image: Bounce]
-
 #849 PORTRA 800
-
-[Image: Github]
 
 #850 PORTRA 800
 
-[Image: IBM]
-
 #851 PORTRA 800
-
-[Image: OTPP]
 
 #852 PORTRA 800
 
-[Image: QtGroup]
-
 #853 PORTRA 800
-
-[Image: Scotiabank]
 
 #854 PORTRA 800
 
-[Image: Amazon]
-
 #855 PORTRA 800
-
-[Image: AMD]
 
 #856 PORTRA 800
 
-[Image: AssemblyAI]
-
 #857 PORTRA 800
-
-[Image: Axure]
 
 #858 PORTRA 800
 
-[Image: Bayun]
-
 #859 PORTRA 800
-
-[Image: BMO]
 
 #860 PORTRA 800
 
-[Image: Bounce]
-
 #861 PORTRA 800
-
-[Image: Github]
 
 #862 PORTRA 800
 
-[Image: IBM]
-
 #863 PORTRA 800
-
-[Image: OTPP]
 
 #864 PORTRA 800
 
-[Image: QtGroup]
-
 #865 PORTRA 800
-
-[Image: Scotiabank]
-
-[Image: FAQ TV Screen]
-
-[Image: FAQ 1]
 
 A hackathon is a 36-hour event where students come together to build a project from scratch. It's a great opportunity to learn new skills, meet new people, and win prizes!
 
-[Image: FAQ 2]
-
 QHacks is fully in-person located at Queen's University in Kingston, Ontario.
-
-[Image: FAQ 3]
 
 Teams can be formed with groups of 1-4.
 
-[Image: FAQ 4]
-
 No problem! We will have team formation events before the hackathon. You can also find teammates on our Discord server, which will be released after applications have closed.
 
-[Image: FAQ 5]
-
 QHacks is open to all undergraduate students from any university or college.
-
-[Image: FAQ 6]
 
 This year's hackathon theme will be announced closer to the event. Follow us on social media to stay updated.
 
@@ -30501,115 +22340,63 @@ OFFICER
 
 ##### LOGISTICS
 
-DIRECTOR
-
 ARYAMAN BHATIA
-
-DIRECTOR
 
 VICTOR VONG
 
-OFFICER
-
 ABDEL-RAHMAN MOBARAK
-
-OFFICER
 
 [FRANCOIS OLIVIER](https://www.linkedin.com/in/francois-olivier-280850341/)
 
-OFFICER
-
 AHMED EL SAWWAH
-
-OFFICER
 
 [JULIA TUN](https://www.linkedin.com/in/thuthutun/)
 
 ##### MARKETING
 
-DIRECTOR
-
 SUE OLIVEROS
-
-DIRECTOR
 
 ROUNIKA SAXENA
 
-OFFICER
-
 IVAN FANG
-
-OFFICER
 
 BRANDON YIP
 
 ##### OPERATIONS
 
-DIRECTOR
-
 JEFFERY WU
 
-OFFICER
-
 [RASTIN AGHIGHI](https://www.linkedin.com/in/rastinaghighi/)
-
-OFFICER
 
 HARISH KANDAVELL
 
 ##### PARTNERSHIPS
 
-DIRECTOR
-
 EASTAL LAW
-
-DIRECTOR
 
 KELVIN NGUYEN
 
-OFFICER
-
 [JASON CHEN](https://www.linkedin.com/in/jason-chen-dev/)
-
-OFFICER
 
 JESHNA KANDURI
 
-OFFICER
-
 HARSH KALYANI
 
-OFFICER
-
 [JOSE KERKETTA](https://www.linkedin.com/in/jose-kerketta/)
-
-OFFICER
 
 MAIRA OPEL
 
 ##### TECH
 
-DIRECTOR
-
 KOSI AMOBI-OLEKA
-
-DIRECTOR
 
 KUZEY BILGIN
 
-OFFICER
-
 [TECHMENG AING](https://www.linkedin.com/in/tms06/)
-
-OFFICER
 
 AAYUSH ARYAL
 
-OFFICER
-
 [ISAAC FUNG](https://www.linkedin.com/in/isaacfungg/)
-
-OFFICER
 
 [ALFONSO SINA](https://www.linkedin.com/in/alfonso-sina/)
 
@@ -30622,150 +22409,54 @@ SOMAIYA HASSAN
 LISA LI
 
 [NISHI SHAH](https://www.linkedin.com/in/nishiiishahhh/)
-
-#### MEET THE EXECS
-
-##### CO-CHAIRS
 
 AMANDA CAO
 
-[MICHAEL KWON](https://www.linkedin.com/in/michaelkwon5/)
-
 WILL WU
-
-##### FINANCE
-
-DIRECTOR
-
-[ASHMAAN SOHAIL](https://www.linkedin.com/in/ashmaan-sohail/)
-
-OFFICER
-
-[ELA AYDINER](https://www.linkedin.com/in/ela-aydiner/)
-
-##### LOGISTICS
-
-DIRECTOR
 
 ARYAMAN BHATIA
 
-DIRECTOR
-
 VICTOR VONG
-
-OFFICER
 
 ABDEL-RAHMAN MOBARAK
 
-OFFICER
-
-[FRANCOIS OLIVIER](https://www.linkedin.com/in/francois-olivier-280850341/)
-
-OFFICER
-
 AHMED EL SAWWAH
-
-OFFICER
-
-[JULIA TUN](https://www.linkedin.com/in/thuthutun/)
-
-##### MARKETING
-
-DIRECTOR
 
 SUE OLIVEROS
 
-DIRECTOR
-
 ROUNIKA SAXENA
-
-OFFICER
 
 IVAN FANG
 
-OFFICER
-
 BRANDON YIP
-
-##### OPERATIONS
-
-DIRECTOR
 
 JEFFERY WU
 
-OFFICER
-
-[RASTIN AGHIGHI](https://www.linkedin.com/in/rastinaghighi/)
-
-OFFICER
-
 HARISH KANDAVELL
-
-##### PARTNERSHIPS
-
-DIRECTOR
 
 EASTAL LAW
 
-DIRECTOR
-
 KELVIN NGUYEN
-
-OFFICER
-
-[JASON CHEN](https://www.linkedin.com/in/jason-chen-dev/)
-
-OFFICER
 
 JESHNA KANDURI
 
-OFFICER
-
 HARSH KALYANI
-
-OFFICER
-
-[JOSE KERKETTA](https://www.linkedin.com/in/jose-kerketta/)
-
-OFFICER
 
 MAIRA OPEL
 
 ##### TECH
 
-DIRECTOR
-
 KOSI AMOBI-OLEKA
-
-DIRECTOR
 
 KUZEY BILGIN
 
-OFFICER
-
-[TECHMENG AING](https://www.linkedin.com/in/tms06/)
-
-OFFICER
-
 AAYUSH ARYAL
-
-OFFICER
-
-[ISAAC FUNG](https://www.linkedin.com/in/isaacfungg/)
-
-OFFICER
-
-[ALFONSO SINA](https://www.linkedin.com/in/alfonso-sina/)
-
-##### FIRST YEAR REPS
 
 MOUCTAR DIALLO
 
 SOMAIYA HASSAN
 
 LISA LI
-
-[NISHI SHAH](https://www.linkedin.com/in/nishiiishahhh/)
 
 ### Website 136: UGAHacks 11
 - Card URL: [https://11.ugahacks.com](https://11.ugahacks.com)
@@ -30773,8 +22464,6 @@ LISA LI
 - Rendered title: UGAHacks 11
 - Final URL: [https://11.ugahacks.com/](https://11.ugahacks.com/)
 - Expanded FAQ/accordion controls: 9
-
-[Image: UGA Hacks 11 Logo]
 
 February 6-8, 2026
 UGA Miller Learning Center
@@ -30786,8 +22475,6 @@ UGA Miller Learning Center
 UGAHacks is an annual hackathon organized by students at the University of Georgia in Athens, Georgia. Hackathons are all about dedicated people coming together to create something amazing in an epic 48-hour programming sleepover.
 
 Even though submitting a project is the main objective, that's not all there is. We'll have mentors, free food, video game competitions, workshops, and more. There's even a workshop for anyone who still needs to find teammates!
-
-[Image: Byte the wizard mascot]
 
 #### Tracks
 
@@ -30857,29 +22544,17 @@ Award given to the project that most aligns with UGAHacks 11's theme, Magic!
 
 #### Sponsor Tracks
 
-[Image: Sponsor Logo]
-
 ###### Inventory Health Monitor
 
 Create a simple dashboard predicting stockouts and suggesting reorder timing for large scale restaurants.
-
-[Image: Sponsor Logo]
 
 ###### Web App with AI for Sustainability
 
 Build a web application that leverages AI to promote sustainability. Judging is based on AI usage, workflow with AI, community impact, and clean and efficient code.
 
-[Image: Sponsor Logo]
-
 ###### Like a Good Neighbor
 
 Create a product that will benefit your community! Innovate for Impact! From safety and wellness to sustainability and connectivity. A winning project will make a positive impact on your community.
-
-[Image: Star]
-
-[Image: Star]
-
-[Image: Schedule]
 
 [Download .ics](https://11.ugahacks.com/UGAHacks_2026_Schedule.ics)
 
@@ -30903,8 +22578,6 @@ EL Credit Info Session
 
 7:30-8:30 PM
 
-MLC 102
-
 Dinner
 
 8:30-9:30 PM
@@ -30925,31 +22598,21 @@ MLC 213
 
 NCR Voyix Challenge
 
-10-11:00 PM
-
 MLC 214
 
 Tractian Challenge
-
-10-11:00 PM
 
 MLC 148
 
 State Farm Challenge
 
-10-11:00 PM
-
 MLC 150
 
 ##### Saturday – DAY 2
 
-Event Time Location
-
 Breakfast
 
 8-9:00 AM
-
-2ND FLOOR
 
 Scavenger Hunt
 
@@ -30965,19 +22628,9 @@ MLC 250
 
 Intro React.js Workshop
 
-10-11:00 AM
-
-MLC 213
-
 Tractian Workshop
 
-10-11:00 AM
-
-MLC 148
-
 MLH: Coding with Google AI Studio Workshop
-
-10-11:00 AM
 
 MLC 147
 
@@ -30991,8 +22644,6 @@ Cox: Running with Scissors - Get Hands on with Cox Automotive Engineers
 
 11-12:00 PM
 
-MLC 213
-
 Professional Development Workshop
 
 11-11:30 AM
@@ -31003,47 +22654,25 @@ Lunch
 
 12-1:00 PM
 
-2ND FLOOR
-
 Esports Challenges
 
 1-7:30 PM
-
-MLC 102
 
 Chrome Extension Workshop
 
 1-2:00 PM
 
-MLC 250
-
 NCR Voyix Workshop
 
-1-2:00 PM
-
-MLC 214
-
 Palantir Guest Speaker
-
-1-2:00 PM
-
-MLC 148
 
 AWS Workshop
 
 2-3:00 PM
 
-MLC 250
-
 Intro to Databases Workshop
 
-2-3:00 PM
-
-MLC 213
-
 Hot Ones: Tractian
-
-2-3:00 PM
 
 MLC 268
 
@@ -31051,49 +22680,23 @@ MLH Workshop
 
 3-4:00 PM
 
-MLC 147
-
 State Farm Workshop
-
-3-4:00 PM
-
-MLC 150
 
 Hot Ones: Cox
 
-3-4:00 PM
-
-MLC 268
-
 Intro to ML Workshop
-
-3-4:00 PM
-
-MLC 250
 
 Game Development Workshop
 
 4-5:00 PM
 
-MLC 213
-
 Hot Ones: NCR Voyix
 
-4-5:00 PM
-
-MLC 268
-
 IEEE Workshop
-
-4-5:00 PM
-
-MLC 214
 
 Google Cloud AI Workshop
 
 5-6:00 PM
-
-MLC 250
 
 House of Cards Challenge
 
@@ -31105,13 +22708,9 @@ Beyond the Hackathon
 
 5-5:30 PM
 
-MLC 150
-
 Meet the Team
 
 5:30-6:00 PM
-
-MLC 147
 
 AI Assistant Workshop
 
@@ -31121,21 +22720,11 @@ MLC 350
 
 Lettuce Eating Competition
 
-6-7:00 PM
-
-MLC 148
-
 Escape Room - SCS
-
-6-7:00 PM
-
-MLC 150
 
 Dinner
 
 8-9:00 PM
-
-2ND FLOOR
 
 Nerf War
 
@@ -31147,8 +22736,6 @@ Talent Show
 
 11-12:30 AM
 
-MLC 213
-
 Chill Space
 
 1 PM-12 AM
@@ -31157,19 +22744,13 @@ MLC 207
 
 Point Store
 
-1 PM-12 AM
-
 4TH FLOOR
 
 Painting Workshop
 
-1 PM-12 AM
-
 MLC 348
 
 ##### Sunday – DAY 3
-
-Event Time Location
 
 Submission Deadline
 
@@ -31181,8 +22762,6 @@ Breakfast
 
 8-9:30 AM
 
-2ND FLOOR
-
 Judging + Company Expo
 
 10-1:00 PM
@@ -31191,21 +22770,11 @@ Judging + Company Expo
 
 Lunch
 
-1-2:00 PM
-
-2ND FLOOR
-
 Closing Ceremony
-
-3-4:00 PM
-
-MLC 102
 
 #### FrequentlyAskedQuestions
 
 ##### The secrets behind the spellbook
-
-[Image: FAQ animation]
 
 ###### Where will it be held this year?
 
@@ -31243,25 +22812,13 @@ There is no hard limit, but we recommend teams be at most 4 people, as we only h
 
 Reach out to hello@ugahacks.com and we'll be happy to answer it!
 
-[Image: background prop]
-
-[Image: background prop]
-
-[Image: Our Team book]
-
-[Image: Our Team Book]
-
 [Visit Team Page](https://ugahacks.com/#team)
 
 ##### Sponsors
 
-[[Image: Sponsor logo]](https://cox.com) [[Image: Sponsor logo]](https://www.statefarm.com/) [[Image: Sponsor logo]](https://www.ncrvoyix.com/) [[Image: Sponsor logo]](https://tractian.com/en) [[Image: Sponsor logo]](https://github.com/) [[Image: Sponsor logo]](https://research.uga.edu) [[Image: Sponsor logo]](https://KTPGeorgia.com) [[Image: Sponsor logo]](https://www.coca-cola.com/us/en) [[Image: Sponsor logo]](https://purebuttons.com)
-
 This event is supported in part by the President's Venture Fund through the generous gifts of University of Georgia donors.
 
 [Sponsorship Packet](https://drive.google.com/file/d/1Z2wJ8JBNY99TbEUve9kWX_e6I-flhKX4/view?usp=sharing)
-
-[Image: Decorative book]
 
 © 2026 UGAHacks. All rights reserved.
 
@@ -31274,27 +22831,17 @@ Follow Us
 - Final URL: [https://www.hackviolet.com/](https://www.hackviolet.com/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=gray)
-
-[[Image: HackViolet 2025 Logo][Image: HackViolet 2025 Text]](https://www.hackviolet.com/#landing)
+[HackViolet 2025 Text](https://www.hackviolet.com/)
 
 [About](https://www.hackviolet.com/#about) [FAQ](https://www.hackviolet.com/#faq) [Team](https://www.hackviolet.com/#team)
 
 Resources
 
-[[Image: register icon]Register for 2026](https://tally.so/r/n0gdr6)
+[Register for 2026](https://tally.so/r/n0gdr6)
 
 [All Resources](https://www.hackviolet.com/resources#info) [Judging Preference Form](https://www.hackviolet.com/resources#info) [Rules](https://www.hackviolet.com/resources#rules) [Location](https://www.hackviolet.com/resources#location) [Raffle Giveaways](https://www.hackviolet.com/resources#raffle) [Teams](https://www.hackviolet.com/resources#teams) [Help & Mentors](https://www.hackviolet.com/resources#mentors) [Judging](https://www.hackviolet.com/resources#judging) [Project Submission](https://www.hackviolet.com/resources#submission) [Starter Packs](https://www.hackviolet.com/resources#starter)
 
-[Image: godrays]
-
-[Image: halfFlower]
-
 Jan. 31 - Feb. 1, 2026[Squires Student Center](https://maps.app.goo.gl/DgFgkjvSVCVpsTXB7)
-
-[Image: gradient flower]
-
-[Image: gradient pinwheel]
 
 Empowering you to
 
@@ -31331,8 +22878,6 @@ Through the event, we encourage all individuals to learn about and become change
 ##### What is a hackathon?
 
 A hackathon is a fast-paced event where participants of diverse backgrounds come together for typically 24-48 intensive hours and solve a specific problem by developing a new, working product. Participants submit these projects and compete in different tracks to win prizes, unique opportunities, and merch. Hackathons are also a great place to build connections with top businesses or other hackers, learn about the tech world, and make lasting memories!
-
-[Image: about photos]
 
 FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS / FREQUENTLY ASKED QUESTIONS /
 
@@ -31473,12 +23018,6 @@ Made with by the HackViolet team.
 - Final URL: [https://royalhackaway.com/](https://royalhackaway.com/)
 - Expanded FAQ/accordion controls: 10
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/eu?utm_source=eu-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=red)
-
-[Image: Hackaway Photo]
-
-[Image: Hackaway Logo]
-
 100+
 
 Attendees
@@ -31566,8 +23105,6 @@ Opening ceremony!
 
 Hacking begins 🚀
 
-10:00
-
 Team building with ***Hackathons UK***!
 
 11:00
@@ -31612,8 +23149,6 @@ Breakfast 🥐
 
 Devpost helpdesk, we are here to help with any last minute submission issues and questions!
 
-10:00
-
 Hacking ends!
 
 11:00
@@ -31642,73 +23177,43 @@ Want to sponsor us?
 
 ###### Gold
 
-[[Image: Royal Holloway Computer Science Logo]](https://www.rhul.ac.uk/computer-science/)
-
 ###### Silver
-
-###### Nothing yet, could you be the first?
 
 ###### Bronze
 
-[[Image: Keyboard Co Logo]](https://www.keyboardco.com/)
-
 ###### Supporter
-
-[[Image: Pure Buttons Logo]](https://purebuttons.com/)
 
 ###### Partner
 
-[[Image: Hackathons UK Logo]](https://www.hackathons.org.uk/)
-
-[[Image: MLH Logo]](https://mlh.io/)
-
 ##### Meet the Team!
-
-[Image: jacob]
 
 ###### Jacob
 
 ###### President
 
-[Image: joshua]
-
 ###### Joshua
 
 ###### Vice President
-
-[Image: ole]
 
 ###### Ole
 
 ###### Treasurer
 
-[Image: wiktoria]
-
 ###### Wiktoria
 
 ###### Promotions Director
-
-[Image: joseph]
 
 ###### Joseph
 
 ###### Competitions Director
 
-[Image: meric]
-
 ###### Meric
 
 ###### Events Director
 
-[Image: finn]
-
 ###### Finn
 
 ###### Secretary
-
----
-
-[Image: logo]
 
 CompSoc
 
@@ -31749,10 +23254,6 @@ Hackaway
 - Final URL: [https://hackathon.utra.ca/](https://hackathon.utra.ca/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: UTRA Hacks Logo]
-
-[[Image: UTRA Hacks Logo]](https://hackathon.utra.ca/)
-
 January 31 - February 1, 2026 • In-person event
 
 [Login to Hacker Portal](https://hackathon.utra.ca/login) Interested in becoming a sponsor? [Mentor Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSfVRBZxNHkXtvaape_JTkrjzKzvUMIV1PRznHQO8dEaTWP_2Q/viewform) [Volunteer Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdLj6WU-UjY51ZTUymSS_o1UFGUX9it-4ulyT7hwVFFTp9Vxw/viewform?usp=header)
@@ -31763,8 +23264,6 @@ At UTRA, we aim to inspire **creativity**, enable **collaboration**, and foster 
 
 0
 
-[Image: UTRA Mascot]
-
 days until
 UTRA Hacks!
 
@@ -31772,37 +23271,25 @@ UTRA Hacks!
 
 ###### SATURDAY, JAN 31ST
 
-[Image: Schedule marker]
-
 9:00 AM
 
 Participant Registration
-
-[Image: Schedule marker]
 
 9:30 AM
 
 Opening Ceremonies
 
-[Image: Schedule marker]
-
 10:00 AM
 
 Hacking Begins!
-
-[Image: Schedule marker]
 
 12:00 PM
 
 Lunch
 
-[Image: Schedule marker]
-
 2:00 PM
 
 Workshops, Activities, Panels
-
-[Image: Schedule marker]
 
 5:50 PM
 
@@ -31810,25 +23297,17 @@ Dinner
 
 ###### SUNDAY, FEB 1ST
 
-[Image: Schedule marker]
-
 9:00 AM
 
 Breakfast
-
-[Image: Schedule marker]
 
 10:00 AM
 
 Hacking Ends, Judging/Test Time Begins
 
-[Image: Schedule marker]
-
 11:30 AM
 
 Lunch
-
-[Image: Schedule marker]
 
 3:30 PM
 
@@ -31837,14 +23316,6 @@ Closing Ceremonies
 UTRA HACKSHIGHLIGHTS2025
 
 We are proud to host North America's largest robotics hackathon once again this year. As UTRA Hacks continues to inspire young minds and foster creativity, let's take the time to revisit some of our achievements from the past year.
-
-[Image: UTRA highlight 1]
-
-[Image: UTRA highlight 2]
-
-[Image: UTRA highlight 3]
-
-[Image: UTRA highlight 4]
 
 ##### FREQUENTLY ASKED QUESTIONS
 
@@ -31878,19 +23349,11 @@ How many people can be on a team? Do I need to have a team to apply?
 
 Thank you to the support from our amazing sponsors who make hosting UTRA Hacks possible!
 
-[Image: Engineering Society]
-
-[Image: VEX Robotics]
-
-[Image: Cloud Native Computing Foundation]
-
 AND MORE TO COME...
 
 WITH THAT SAID...
 
 LET THE GAMES BEGIN!
-
-$ /$
 
 ### Website 141: SpartaHack
 - Card URL: [https://spartahack.com/](https://spartahack.com/)
@@ -31924,10 +23387,6 @@ Contact us at hello@spartahack.com
 - Final URL: [https://www.innerve.tech/](https://www.innerve.tech/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Hero Image]
-
-[Image: Innerve Logo 2]
-
 - [Prizes](https://www.innerve.tech/#prizepool-section)
 - [Tracks](https://www.innerve.tech/#track-section)
 - [Timeline](https://www.innerve.tech/#timeline-section)
@@ -31935,53 +23394,11 @@ Contact us at hello@spartahack.com
 
 Brochure
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: Balloon Ship]
-
-[Image: Blue dragon]
-
-[Image: GreenDragonImage]
-
-[Image: Balloon]
-
-[Image: Balloon]
-
-[Image: Bat-1]
-
-[Image: Bat-1]
-
-[Image: Bat-1]
-
-[Image: Bat2]
-
-[Image: Bat2]
-
-[Image: Bat-1]
-
-[Image: Bat2]
-
-[Image: Innerve Heading Logo] Results
-
----
-
-[Image: Clouds]
-
-[Image: Clouds]
-
-[Image: clouds background]
+Results
 
 War Starts In
 
-[Image: Clock Animation]
-
 0d : 0h : 0m : 0s
-
-[Image: Countdown Arrow]
-
-[Image: Countdown Arrow]
-
-[Image: rope image] [Image: rope image]
 
 30
 
@@ -31989,215 +23406,55 @@ Jan
 
 2026
 
--
-
 31
 
 Jan
 
 2026
 
-[Image: prizepoolCrown]
-
-[Image: prizepoolHeadingPolygon]
-
 Prize Pool: Rs 12 Lacs+
 
 1st PRIZE
 
-[Image: rectangle]
-
 STORE BONUS
 
-[Image: Axe]
-
 Rs.125K+
-
-[Image: Gold Storage 1]
 
 Innerve Goodies and Merch. Fundings and Internship opportunities from our sponsors
 
 2nd PRIZE
 
-[Image: rectangle]
-
-STORE BONUS
-
-[Image: Axe]
-
 Rs.75K+
-
-[Image: Gold Storage 2]
-
-Innerve Goodies and Merch. Fundings and Internship opportunities from our sponsors
 
 3rd PRIZE
 
-[Image: rectangle]
-
-STORE BONUS
-
-[Image: Axe]
-
 Rs.50K+
-
-[Image: Gold Storage 3]
-
-Innerve Goodies and Merch. Fundings and Internship opportunities from our sponsors
 
 Ingenious Spark
 
-[Image: rectangle]
-
-STORE BONUS
-
-[Image: Axe]
-
 Rs.25K+
-
-[Image: Gold Storage 4]
-
-Innerve Goodies and Merch. Fundings and Internship opportunities from our sponsors
 
 Visionary Spark
 
-[Image: rectangle]
-
-STORE BONUS
-
-[Image: Axe]
-
 Rs.15K+
-
-[Image: Gold Storage 5]
-
-Innerve Goodies and Merch. Fundings and Internship opportunities from our sponsors
-
-[Image: BottomForest]
-
-[Image: DividerButtonImg]
-
----
-
-[Image: Track button Img]
-
-[Image: Track Health]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
 
 Health
 
-[Image: Track AR/VR]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
 AR/VR
-
-[Image: Track EduTech]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
 
 EduTech
 
-[Image: Track GameDev]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
 GameDev
-
-[Image: Track FinTech]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
 
 FinTech
 
-[Image: Track CyberSec]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
 CyberSec
-
-[Image: Track BlockChain]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
 
 BlockChain
 
-[Image: Track Logistics]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
 Logistics
 
-[Image: Track Defence]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
-[Image: Corner Img]
-
 Defence
-
-[Image: background image] [Image: background image upper]
-
-[Image: DividerButtonImg]
-
----
-
-[Image: Timeline Header]
-
-[Image: Timeline Niddle]
 
 Timeline
 
@@ -32231,19 +23488,7 @@ Results Announced
 
 Winners will be announced on January 31, 2026. Exciting prizes and recognition awaits!
 
-[Image: Timeline Bottom]
-
-[Image: DividerButtonImg]
-
----
-
-[Image: sponsor card]
-
 TESTIMONIALS
-
-[Image: sponsor card]
-
-[Image: Quote]
 
 Innerve provided an excellent platform for innovation and self-challenge. I had the opportunity to engage with talented individuals, work on pioneering ideas, and observe diverse approaches to problem-solving. The energy and learning experiences were exceptional. I highly recommend it
 
@@ -32251,15 +23496,11 @@ Priya Verma, Data Scientist
 
 RVCE Bangalore
 
-[Image: Quote]
-
 Innerve 8 was an incredible experience! The challenges were both exciting and tough, pushing me to think creatively and outside the box. The collaborative atmosphere made problem-solving even more rewarding, and I’ve learned a ton from my teammates. Can't wait for the next one!
 
 Anjali Gupta, Developer
 
 NIT Patna
-
-[Image: Quote]
 
 Participating in Innerve 9 was a transformative experience. The hackathon not only allowed me to enhance my coding skills but also provided the opportunity to work on real-world projects alongside dedicated developers. The mentorship provided was exceptional, and the event was exceptionally well-organized.
 
@@ -32267,78 +23508,50 @@ Jaskirat Singh, UI/UX designer
 
 Graphic Era Hill University
 
----
-
-[Image: sparks background]
-
-[Image: planks]
-
-[Image: sponsor card]
-
 SPONSORS
-
-[Image: sponsor card]
 
 TITLE SPONSOR
 
-[[Image: sponsor card][Image: ETHIndia Sponsor]](https://www.keychain.com/)
+[sponsor card / ETHIndia Sponsor](https://www.keychain.com/)
 
 PLATINUM SPONSOR
 
-[[Image: sponsor card][Image: MiniOrange Sponsor]](https://ethindia-villa.devfolio.co/)
+[sponsor card / MiniOrange Sponsor](https://ethindia-villa.devfolio.co/)
 
 GOLD SPONSOR
 
-[[Image: sponsor card][Image: Josh Sponsor]](https://www.joshsoftware.com/)
+[sponsor card / Josh Sponsor](https://www.joshsoftware.com/)
 
 BRONZE SPONSOR
 
-[[Image: sponsor card][Image: Accops Sponsor]](https://www.accops.com/)
+[sponsor card / Accops Sponsor](https://www.accops.com/)
 
 EVENT PARTNER
 
-[[Image: sponsor card][Image: ETHIndia Sponsor]](https://mlh.io/)
+[sponsor card / ETHIndia Sponsor](https://mlh.io/)
 
 BANKING PARTNER
 
-[[Image: sponsor card][Image: BankOfBaroda Sponsor]](https://bankofbaroda.bank.in/)
+[sponsor card / BankOfBaroda Sponsor](https://bankofbaroda.bank.in/)
 
 PLATFORM SPONSOR
 
-[[Image: sponsor card][Image: Devfolio Sponsor]](https://devfolio.co/discover)
+[sponsor card / Devfolio Sponsor](https://devfolio.co/discover)
 
 MEDIA PARTNER
 
-[[Image: sponsor card][Image: Eventopia Sponsor]](https://eventopia.in/)
+[sponsor card / Eventopia Sponsor](https://eventopia.in/)
 
 SUPPORTING SPONSORS
 
-[[Image: sponsor card][Image: MongoDb Sponsor]](https://www.mongodb.com/) [[Image: sponsor card][Image: ETHIndia Sponsor]](https://ethindia-villa.devfolio.co/) [[Image: sponsor card][Image: ETHIndia Sponsor]](https://givemycertificate.com/) [[Image: sponsor card][Image: ETHIndia Sponsor]](https://keplo.com/) [[Image: sponsor card][Image: ETHIndia Sponsor]](https://codecrafters.io/) [[Image: sponsor card][Image: MastraAi Sponsor]](https://mastra.ai/)
-
-[Image: planks]
-
----
-
-[Image: WTSUSponsorsBonus]
+[sponsor card / MongoDb Sponsor](https://www.mongodb.com/) [sponsor card / ETHIndia Sponsor](https://ethindia-villa.devfolio.co/) [sponsor card / ETHIndia Sponsor](https://givemycertificate.com/) [sponsor card / ETHIndia Sponsor](https://keplo.com/) [sponsor card / ETHIndia Sponsor](https://codecrafters.io/) [sponsor card / MastraAi Sponsor](https://mastra.ai/)
 
 Champion Wild Card
-
-[Image: WTSUglow] [Image: WSTUChampionCard]
-
-[Image: Center image]
 
 ##### Want To
 Sponsor Us?
 
-[Image: Glow effect] [Image: Central sponsor image]
-
-[Image: Rod] [Image: Rod]
-
 Fill The Form Make a Payment
-
-[Image: DividerButtonImg]
-
----
 
 #### FAQs
 
@@ -32361,10 +23574,6 @@ Innerve 10 welcomes participants passionate about coding with keen interest in p
 What kind of prizes can participants expect? +
 
 Prizes include cash rewards, goodies, certificates, and special surprises for the winners.
-
----
-
-[Image: Footer Image]
 
 Contact Us
 
@@ -32399,83 +23608,47 @@ To Be Announced · In-person event · MLH Official Member
 
 [Hacker Interest Form](https://forms.gle/QshrSZ9ZgNYN3M1u8)
 
-[Image: Candle] [Image: Yellow Balloon] [Image: Right Balloon] [Image: Girl holding coffee cup] [Image: Balloons] [Image: Coffee Cup] [Image: Cake]
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
-
-[Image: Mouse Image]
-
 ElleHacks is Canada's largest hackathon for women and gender-diverse students, celebrating our 10th year anniversary!
 
 We're a free, student-run, and beginner-friendly competition serving as your canvas to pitch bold solutions to global challenges, participate in engaging workshops, and connect with a diverse community of recruiters, industry professionals, and peers.
 
 No coding experience? No problem! ElleHacks is designed for everyone, from tech enthusiasts to those taking their first steps in the digital world.
 
-[Image: Image1] [Image: Image2]
-
 #### Last Years Sponsors
 
-[[Image: Wealthsimple Logo]](https://www.wealthsimple.com/en-ca?utm_source=google&utm_medium=performance&campaign_id=13076524258&adgroup_id=122608715656&ad_id=769675182122&keyword=wealth%20simple&gad_source=1&gad_campaignid=13076524258&gbraid=0AAAAADN8OOb3EcloUYB1cbBpqRFrQVCJ1&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu1mts4l_ZIm5Aq0xS8RkcnlTczkYb4vmBLHdwN1-Xx6QxiJ6pVkvhxoCGLEQAvD_BwE)
+[FDM img](https://www.fdmgroup.com/en-ca/)
 
-[[Image: York Region Logo]](https://www.york.ca/)
+[CPP Investments img](https://www.cppinvestments.com/?utm_source=programmatic)
 
-[[Image: Ubisoft Logo]](https://www.ubisoft.com/en-ca)
+[Interview Cake](https://www.interviewcake.com/)
 
-[[Image: Shopify Logo]](https://www.shopify.com/ca/ppc/online-store?term=shopify&adid=641903051274&campaignid=15436644442&branded_enterprise=1&BOID=brand&utm_medium=cpc&utm_source=google&gad_source=1&gad_campaignid=15436644442&gbraid=0AAAAADp4t0qDIeLXaRoLjR_Ho_7POHvgj&gclid=CjwKCAiA64LLBhBhEiwA-Pxguzkzt9GC616NZpD0wOwVuGZLe4lrQtJW__5o_XfGx588gIx-oyi7QxoCVrQQAvD_BwE)
+[Ranfoods img](https://www.ranfoods.com/)
 
-[[Image: KPM Logo]](https://www.kpmpower.com/products?gad_source=1&gad_campaignid=1945954542&gbraid=0AAAAACwaK6AiiZylxSJDBUSu0OP7nPLYJ&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu4i-dgyze2bK9KvpGWBsULXMABsnJxx_xHYs72Az1GBB92__Zt2_jBoCV1kQAvD_BwE)
+[Fgf img](https://www.fgfbrands.com/)
 
-[[Image: CSE Logo]](https://www.cse-cst.gc.ca/en)
+[Vue School img](https://vueschool.io/)
 
-[[Image: Experience Ventures Logo]](https://www.canada.ca/en.html)
+[Intern Insider img](https://www.interninsider.me/)
 
-[[Image: Government of Canada Logo]](https://www.canada.ca/en.html)
+[Kids img](https://www.360kids.ca/)
 
-[[Image: FDM img]](https://www.fdmgroup.com/en-ca/)
+[City of Brampton img](https://www.brampton.ca/EN/pages/Welcome.aspx)
 
-[[Image: Porter Logo]](https://www.flyporter.com/en-ca/)
+[Saily img](https://saily.com/offer/?utm_source=google&utm_medium=cpc&utm_campaign=21042331412&utm_content=160754904922&utm_term=saily&gad_source=1&gad_campaignid=21042331412&gbraid=0AAAAA9ThE5LtJi9zqHrofEtewMU9qKJOL&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu_NLGeCKj6PB8xgmQaf_Q_i7wxHurCDjb7ET9yCrVxSqEoODvhTbThoCsYAQAvD_BwE)
 
-[[Image: CPP Investments img]](https://www.cppinvestments.com/?utm_source=programmatic)
+[NordVPN img](https://nordvpn.com/coupon/deal/?coupon=hackathons&utm_medium=affiliate&utm_term=&utm_content&utm_source=aff92203&utm_campaign=off600)
 
-[[Image: CodeCrafters Logo]](https://codecrafters.io/)
+[NordPass img](https://nordpass.com/password-manager/special/?utm_source=google&utm_medium=cpc&utm_campaign=18308653414&utm_content=141393143419&utm_term=nordpass&gad_source=1&gad_campaignid=18308653414&gbraid=0AAAAACc38-qvFIFy0N6OtsCCxjdd1G8R-&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu-awgA1WPa-rgq-45H5tgZfBSOKPOgrEQ-WJXNos8bh-HxxfGtaqhxoCJmIQAvD_BwE)
 
-[[Image: XYZ. Logo]](https://gen.xyz/)
+[NordProtect img](https://nordprotect.com/)
 
-[[Image: PureButtons Logo]](https://www.purebuttons.com/?srsltid=AfmBOorpeUFg2qzpBT_fJkrqT0Le86F3olwy3YsYex2I2I9EYdqiNieW)
+[Nexos AI img](https://nexos.ai/)
 
-[[Image: Interview Cake]](https://www.interviewcake.com/)
+[Incogni img](https://incogni.com/data-removal-from-internet?utm_source=google&utm_medium=cpc&utm_campaign=SEARCH-CA-BRAND-EXT&utm_content=Incogni+-+pure&utm_term=incogni&matchtype=e&device=c&GeoLoc=9000799&placement=&network=g&campaign_id=23178428396&adset_id=182677896410&ad_id=780626427985&gad_source=1&gad_campaignid=23178428396&gbraid=0AAAAAoSUmxpLPbX3Z2Slfe28q6XJAvePl&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu3WQI3g9XA5UvuTexBFY7sBJbre-yU2UGikXTh2fjmZZetg1ENwVvBoCysEQAvD_BwE&did=dsc_01jjvcjknqftc1ke3ndjpndyd2&coupon=REMOVEME)
 
-[[Image: Ranfoods img]](https://www.ranfoods.com/)
+[Scale without borders img](https://scalewithoutborders.com/)
 
-[[Image: Fgf img]](https://www.fgfbrands.com/)
-
-[[Image: Vue School img]](https://vueschool.io/)
-
-[[Image: Intern Insider img]](https://www.interninsider.me/)
-
-[[Image: Kids img]](https://www.360kids.ca/)
-
-[[Image: City of Brampton img]](https://www.brampton.ca/EN/pages/Welcome.aspx)
-
-[[Image: Saily img]](https://saily.com/offer/?utm_source=google&utm_medium=cpc&utm_campaign=21042331412&utm_content=160754904922&utm_term=saily&gad_source=1&gad_campaignid=21042331412&gbraid=0AAAAA9ThE5LtJi9zqHrofEtewMU9qKJOL&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu_NLGeCKj6PB8xgmQaf_Q_i7wxHurCDjb7ET9yCrVxSqEoODvhTbThoCsYAQAvD_BwE)
-
-[[Image: NordVPN img]](https://nordvpn.com/coupon/deal/?coupon=hackathons&utm_medium=affiliate&utm_term=&utm_content&utm_source=aff92203&utm_campaign=off600)
-
-[[Image: NordPass img]](https://nordpass.com/password-manager/special/?utm_source=google&utm_medium=cpc&utm_campaign=18308653414&utm_content=141393143419&utm_term=nordpass&gad_source=1&gad_campaignid=18308653414&gbraid=0AAAAACc38-qvFIFy0N6OtsCCxjdd1G8R-&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu-awgA1WPa-rgq-45H5tgZfBSOKPOgrEQ-WJXNos8bh-HxxfGtaqhxoCJmIQAvD_BwE)
-
-[[Image: NordProtect img]](https://nordprotect.com/)
-
-[[Image: Nexos AI img]](https://nexos.ai/)
-
-[[Image: Incogni img]](https://incogni.com/data-removal-from-internet?utm_source=google&utm_medium=cpc&utm_campaign=SEARCH-CA-BRAND-EXT&utm_content=Incogni+-+pure&utm_term=incogni&matchtype=e&device=c&GeoLoc=9000799&placement=&network=g&campaign_id=23178428396&adset_id=182677896410&ad_id=780626427985&gad_source=1&gad_campaignid=23178428396&gbraid=0AAAAAoSUmxpLPbX3Z2Slfe28q6XJAvePl&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu3WQI3g9XA5UvuTexBFY7sBJbre-yU2UGikXTh2fjmZZetg1ENwVvBoCysEQAvD_BwE&did=dsc_01jjvcjknqftc1ke3ndjpndyd2&coupon=REMOVEME)
-
-[[Image: Scale without borders img]](https://scalewithoutborders.com/)
-
-[[Image: Girl Guides img]](https://www.girlguides.ca/web/)
-
-[[Image: Github Logo]](https://github.com/)
-
-[Image: curtain] [Image: Girl with megaphone] [Image: Girl with gears] [Image: Girl with gears] [Image: Balloons] [Image: Balloons]
+[Girl Guides img](https://www.girlguides.ca/web/)
 
 Interested in Sponsoring?
 
@@ -32505,13 +23678,7 @@ North York, ON M3J 1P3
 
 [View our interactive map](https://map.concept3d.com/?id=1200#!m/317129?s/?sbc/)
 
-[Image: ElleHacks Logo]
-
 Get in Contact With Us
-
-[Image: Window view]
-
-[Image: Laptop setup] [Image: Tea and plate]
 
 ### Website 144: Hard Hack
 - Card URL: [https://hardhack.dev/](https://hardhack.dev/)
@@ -32519,12 +23686,6 @@ Get in Contact With Us
 - Rendered title: Hard Hack 2026
 - Final URL: [https://hardhack.dev/](https://hardhack.dev/)
 - Expanded FAQ/accordion controls: 15
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/eu?utm_source=eu-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=gray)
-
-[Image: Hard Hack 2026]
-
-[Image: Yonder Logo] [Image: HKN Logo] [Image: IEEE Logo]
 
 Date: January 24th & 25th, 2026
 
@@ -32534,25 +23695,17 @@ Location: Qualcomm Conference Center
 
 ##### Our Sponsors
 
-[Image: ECE]
-
 ###### UCSD ECE Department
 
 Supporting student innovation, technical excellence, and professional development within engineering.
-
-[Image: Digi-Key]
 
 ###### Digi-Key Electronics
 
 Empowering engineers with components, tools, and resources for rapid prototyping and learning.
 
-[Image: Qualcomm]
-
 ###### Qualcomm
 
 Driving innovation in wireless technologies and microcontroller development supporting future engineers through education initiatives.
-
-[Image: Monster]
 
 ###### Monster Energy
 
@@ -32562,91 +23715,61 @@ Fueling creativity, collaboration, and late-night builds.
 
 ###### What are the rules?
 
-−
-
 HARD Hack follows the [Major League Hacking (MLH) Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md). All participants are expected to behave professionally, respectfully, and inclusively throughout the event. Harassment, discrimination, or disruptive behavior will not be tolerated. By attending, you agree to follow these rules to help create a safe and welcoming environment for everyone.
 
 ###### I am a non-UCSD Affiliate, how should I join?
-
-−
 
 Non-UCSD affiliates are welcome to join HARD Hack! You can register through the sign-up form on our website. Please print and fill out [this form](https://hardhack.dev/media/docs/Hard_Hack_Waiver.pdf) with your details with your team(And bring it to the day of competition). We look forward to having you at the event!
 
 ###### What is the schedule for HardHack like?
 
-−
-
 The latest schedule can be found [here](https://docs.google.com/spreadsheets/d/1ihSYHDD8JpAtZpU26DFgQgHUk2Z7AXW1J3ahGX50Yjs/edit?gid=0#gid=0)
 
 ###### What is a hackathon?
-
-−
 
 A hackathon is a gathering where people collaboratively build a project from the ground-up over a short period of time. While working on a particular project, the idea is for each group member to have the ability and freedom to work on whatever they want.
 
 ###### Do I need any prior experience?
 
-−
-
 No, prior experience is not required to participate in the event. To cater to all experience levels, we have separate judging categories for Beginner, Intermediate and Advanced teams. Additionally, we have workshops planned throughout the event for participants to learn new technical and professional skills.
 
 ###### Is it free?
-
-−
 
 Yes! There is no cost to participate in the event, all costs are covered by the ECE department and Associated Students UCSD. The only perceived cost to participants is the time and effort you put into your project and networking during the event.
 
 ###### In-person, hybrid, or virtual?
 
-−
-
 Hard hack will be in-person.
 
 ###### What do I bring?
-
-−
 
 Recommended items: sleeping bag, pillow, blanket, comfortable clothing, toiletries, water bottles, energy drinks and snacks. There will be water refill stations and we will be providing drinks and snacks.
 
 ###### What parts will I have access to?
 
-−
-
 We have many Arduinos and basic components for use as well as quite a few sensors. During the event, we will have a dedicated parts room with a database of parts you can search through. Feel free to reach out if you need specialized hardware or bring your own parts!
 
 ###### Do I need a team?
-
-−
 
 Teams are up to 4 people, so feel free to work by yourself, in a pair, or with a full team of 4! However, it is recommended to form a team of 4 just because it's you and 3 other people working on one project versus just yourself.
 
 ###### What are the themes/tracks?
 
-−
-
 Make sure to follow our Instagram account before Week 3 of Winter quarter, we will be doing a theme and track reveal leading up to the event!!
 
 ###### Where is it?
-
-−
 
 Qualcomm Room, first floor of Jacobs Hall at UC San Diego
 
 ###### When is it?
 
-−
-
 January 24th 2026 10AM - January 25th 2026 10:30AM
 
 ###### How to be a mentor or judge?
 
-−
-
 Email hardhack@eng.ucsd.edu if you are interested in volunteering as a mentor and/or presiding as a judge.
 
 ###### Will it be held overnight?
-
-−
 
 Yes, this year we have secured overnight security, so the event will be held overnight. Participants are welcome to stay throughout the night to work on their projects!
 
@@ -32661,11 +23784,7 @@ Yes, this year we have secured overnight security, so the event will be held ove
 
 Apply
 
-[Image: Apply button]
-
 Mentor
-
-[Image: Mentor button]
 
 TAMUhack is a
 
@@ -32832,15 +23951,11 @@ Hardware participants are still required to check in to the event on January 24t
 
 *Can't find what you're looking for? Contact Our Team
 
-[Image: Shopping cart] [Image: Schedule]
-
 schedule row
 
-plastic wrap [Image: Plastic wrap]
+plastic wrap
 
 title image
-
-[Image: Saturday Schedule]
 
 render events
 
@@ -32860,25 +23975,17 @@ MSC 2500
 
 ###### Waitlist Acceptances + Team Formation
 
-MSC 2300
-
 ###### 11:30am
 
 ###### Opening Ceremony
-
-MSC 2300
 
 ###### 12:00pm
 
 ###### Hacking Starts
 
-MSC 2300
-
 ###### 12:05pm
 
 ###### In Person Mentor Hours Begin
-
-MSC 2300
 
 ###### 12:25pm
 
@@ -32890,31 +23997,21 @@ MSC 2400
 
 ###### Intro to Git + Devpost Presentation
 
-MSC 2300
-
 ###### 1:30pm
 
 ###### MLH Workshop + Mini-Event
-
-MSC 2500
 
 ###### 2:45pm
 
 ###### Sponsor Workshop : NMC²
 
-MSC 2500
-
 ###### 3:45pm
 
 ###### Mini Event : Midday Mixer
 
-MSC 2500
-
 ###### 5:30pm
 
 ###### Dinner : MSY + Tiff's Treats
-
-MSC 2300
 
 ###### 6:00pm
 
@@ -32926,11 +24023,9 @@ MSC 2300
 
 MSC
 
-plastic wrap [Image: Plastic wrap] [Image: Schedule flower] [Image: Schedule flower]
+plastic wrap
 
 title image
-
-[Image: Sunday Schedule]
 
 render events
 
@@ -32944,21 +24039,11 @@ ONLINE
 
 ###### Judging
 
-ONLINE
-
 ###### 5:00pm
 
 ###### Closing Ceremony
 
-ONLINE
-
-[Image: Time tag] [Image: Plastic wrap]
-
-[Image: Sad seal]
-
-[Image: Shopping cart]
-
-SVG plant decoration <SchedulePlant />
+SVG plant decoration
 
 Max width based roughly off two receipts
 
@@ -33042,7 +24127,7 @@ Best hardware hack created by first-time hackers. To qualify, teams must be at l
 
 ##### and partners...
 
-[[Image: Texas A&M University homepage]](https://www.tamu.edu/) [[Image: IEEE TAMU homepage]](https://ieee-tamu.org/) [[Image: SEC homepage]](https://sec.tamu.edu/)
+[Texas A&M University homepage](https://www.tamu.edu/) [IEEE TAMU homepage](https://ieee-tamu.org/) [SEC homepage](https://sec.tamu.edu/)
 
 ### Website 146: ConUHacks X
 - Card URL: [https://www.conuhacks.io/](https://www.conuhacks.io/)
@@ -33051,19 +24136,9 @@ Best hardware hack created by first-time hackers. To qualify, teams must be at l
 - Final URL: [https://www.conuhacks.io/](https://www.conuhacks.io/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Cloud Image] [Image: Cloud Image] [Image: Cloud Image] [Image: Cloud Image] [Image: Cloud Image] [Image: Cloud Image]
-
-[Image: Swords Image]
-
-##### January 24-25, 2026[Image: Left Coin]In-Person[Image: Right Coin]Concordia University
+##### January 24-25, 2026In-PersonConcordia University
 
 #### CONUHACKS
-
-[Image: Map Image]
-
-[Image: Conuhacks X Logo]
-
-[Image: Chest Image]
 
 [Register Now](https://register.conuhacks.io/login)
 
@@ -33071,59 +24146,31 @@ Best hardware hack created by first-time hackers. To qualify, teams must be at l
 
 ConUHacks is a 24-hour competition where a team of up to four students build a software or hardware project, referred to as a 'hack'. Our theme and sponsored challenges serve as guides for your creativity, and using cutting-edge technology like IoT and (of course!) AI, students bring them to life. After 24 hours of caffeine-infused 'hacking', all teams present their projects to judges.
 
-[Image: Conuhacks Crowd at event]
-
-[Image: Heart Separator Divider]
-
 ###### Who are we?
 
 Hosted in the heart of downtown Montreal, ConUHacks is back for the 10th edition this January 24th to 25th 2026. Our 24-hour hackathon promotes teamwork and innovation, allowing you to showcase your passion for technology, creativity, and problem-solving skills.
 
-[Image: Conuhacks team members photo]
-
 #### Last year we had...
-
-[Image: 850+ hackers]
 
 850+ hackers
 
-[Image: 50+ mentors]
-
 50+ mentors
-
-[Image: 180+ projects]
 
 180+ projects
 
-[Image: 200+ teams]
-
 200+ teams
 
-[Image: 30+ sponsors]
-
 30+ sponsors
-
-[Image: 2100+ applicants]
 
 2100+ applicants
 
 [Become a mentor or judge](https://docs.google.com/forms/d/e/1FAIpQLSfRxwECmxffD2YGZkXeMEtAvr5qbJYOlnTeKXbf7rqD11r2IQ/viewform)
 
-[Image: Dream It Hack It event photo 1] [Image: Dream It Hack It event photo 2] [Image: Dream It Hack It event photo 3]
-
-[Image: Decorative stars left]
-
 #### Dream It Hack It
-
-[Image: Decorative stars right]
-
-[Image: Dream It Hack It event photo 4] [Image: Dream It Hack It event photo 5] [Image: Dream It Hack It event photo 6]
 
 #### Meet the Game Masters
 
 Our panel of esteemed judges from diverse industries will evaluate your projects on innovation, technical complexity, impact, and presentation. They can’t wait to see your creativity and skills come to life!
-
-[Image: Mohan Kumar]
 
 ###### Aira Security
 
@@ -33131,15 +24178,11 @@ Our panel of esteemed judges from diverse industries will evaluate your projects
 
 ###### CEO & Co-Founder
 
-[Image: Mark Savic]
-
 ###### Bucky AI
 
 ###### Mark Savic
 
 ###### CTO & Co-Founder
-
-[Image: Andy Yu]
 
 ###### Liftoff
 
@@ -33147,23 +24190,15 @@ Our panel of esteemed judges from diverse industries will evaluate your projects
 
 ###### Co-Founder
 
-[Image: Vincent Fortier]
-
 ###### Databricks
 
 ###### Vincent Fortier
 
 ###### Engineering Manager
 
-[Image: Gregoire Portier]
-
-###### Databricks
-
 ###### Gregoire Portier
 
 ###### Solution Architect
-
-[Image: Ankur]
 
 ###### IBM
 
@@ -33171,15 +24206,11 @@ Our panel of esteemed judges from diverse industries will evaluate your projects
 
 ###### Cloud & Generative AI Engineer
 
-[Image: David Carciente]
-
 ###### Lockheed Martin
 
 ###### David Carciente
 
 ###### Program and Supply Chain Security
-
-[Image: Annabel Zecchel]
 
 ###### Shopify
 
@@ -33187,15 +24218,11 @@ Our panel of esteemed judges from diverse industries will evaluate your projects
 
 ###### Software Engineer
 
-[Image: Jonah Seguin]
-
 ###### Internet Backyard Inc.
 
 ###### Jonah Seguin
 
 ###### Founding Member of Technical Staff
-
-[Image: Zafeerah Rohomutally]
 
 ###### KPMG
 
@@ -33203,15 +24230,11 @@ Our panel of esteemed judges from diverse industries will evaluate your projects
 
 ###### Tech Consultant
 
-[Image: Jason Gadoury]
-
 ###### KPMG
 
 ###### Jason Gadoury
 
 ###### Senior Technology Consultant
-
-[Image: Jeffrey Chan]
 
 ###### CN Railways
 
@@ -33219,23 +24242,17 @@ Our panel of esteemed judges from diverse industries will evaluate your projects
 
 ###### Data Engineer
 
-[Image: Omar Abdul Wahab]
-
 ###### Polytechnique Montreal
 
 ###### Omar Abdul Wahab
 
 ###### Professor
 
-[Image: Rishav Rishav]
-
 ###### Mila
 
 ###### Rishav Rishav
 
 ###### Graduate Researcher
-
-[Image: Eeham Khan]
 
 ###### Concordia University
 
@@ -33251,26 +24268,6 @@ Partner with us!
 
 Get in touch! [Sponsorship package](https://drive.google.com/file/d/1OGlsmob802szRBcnPbdo0qEgVaFJ6Vz7/view)
 
-[[Image: Desjardins Logo]](https://www.desjardins.com/)
-
-[[Image: Bassilichat Logo]](https://www.bassiligroup.com)
-
-[[Image: Concordia Logo]](https://www.concordia.ca/ginacody.html) [[Image: ECA Logo]](https://ecaconcordia.ca/)
-
-[[Image: Celsius Logo]](https://www.celsius.com/) [[Image: Beenox Logo]](https://beenox.com/en/) [[Image: SAP Logo]](https://www.sap.com/canada/index.html)
-
-[[Image: D3 Security Logo]](https://d3security.com/) [[Image: Honda Foundation Logo]](https://www.hondacanadafoundation.ca/en) [[Image: FunHub Logo]](https://funhub.ca/)
-
-[[Image: Genetec Logo]](https://www.genetec.com/) [[Image: Dialogue Logo]](https://www.dialogue.co/en/) [[Image: Druide Logo]](https://www.druide.com/en/) [[Image: Behaviour Logo]](https://www.bhvr.com/)
-
-[[Image: Talsom Logo]](https://www.talsom.com/) [[Image: Deck Logo]](https://www.deck.co/) [[Image: Poulet Rouge Logo]](https://poulet-rouge.ca/)
-
-[[Image: Squarepoint Logo]](https://www.shopify.com/ca) [[Image: Squarepoint Logo]](https://www.squarepoint-capital.com/) [[Image: Mentormates Logo]](https://www.mentormates.ai/) [[Image: Poulet Rouge Logo]](https://waltonsystems.ca/) [[Image: Build Canada Logo]](https://www.buildcanada.com/)
-
-[[Image: Dominos Logo]](https://www.dominos.ca/)
-
-[[Image: Desjardins Logo]](https://www.desjardins.com/)
-
 As a cooperative financial group contributing to the development of communities, Desjardins give our members and clients the support they need to be financially empowered. A local cooperative financial group for 125 years, Desjardins supports the next generation and innovation through initiatives that help our communities grow.
 
 #### More coming soon!!
@@ -33282,14 +24279,6 @@ As a cooperative financial group contributing to the development of communities,
 ##### Co-President
 
 Bachelor Computer Science Student Joint Major Data Science, Co-President of HackConcordia, Adv Analytics & AI team at BDC, and proud cat mom.
-
-[Image: Previous] [Image: Next]
-
-[Image: Bertin Mihigo Sano]
-
-[Image: Elizabeth Wong]
-
-[Image: Mohammed Huzaifa]
 
 #### Frequently Asked Questions
 
@@ -33340,29 +24329,9 @@ Reimbursement is limited to hackers travelling from outside of Quebec and is con
 
 [Register to Hack](https://app.swamphacks.com/events/53a94d27-4525-489b-8467-a0412722b313/application) [Register to Mentor](https://docs.google.com/forms/d/1CXXY-PgU43g_edHMLboSsQl7Cb45lIH0aX8ptTiG23g/viewform?edit_requested=true) [Sign Up to Volunteer](https://swamphack.notion.site/2af3b41de22f80d7a5d9e1ddecf26004?pvs=105)
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[ [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] [Image: Bush 1] [Image: Bush 2] [Image: Bush 3] [Image: Bush 4] ]
-
-[
-
-[Image: Car]
-
-]
-
-[Image: About Us Title]
-
-[Image: UF Arches Title] [Image: UF Arch Building]
-
 Greetings from SwampHacks!
 
-[Image: Placeholder]
-
-[ ]
-
 Join us for an epic road trip through UF with innovation and nature
-
-[Image: Postcard Sticker] [Image: Squiggly] [Image: Airmail]
 
 SwampHacks is the University of Florida’s flagship hackathon, bringing together 300+ students each year for 36 hours of creativity, collaboration, and innovation.
 
@@ -33372,8 +24341,6 @@ Whether you’re a first-time hacker or a seasoned coder, SwampHacks is the plac
 
 ##### Tracks
 
-[ [Image: track] [Image: track] [Image: track] [Image: track] [Image: track] ]
-
 ###### Overall Prize (General Track)
 
 All projects are considered for the Overall Prize. The General Track is for any innovative projects that do not necessarily fit under any of the other tracks.
@@ -33382,115 +24349,87 @@ All projects are considered for the Overall Prize. The General Track is for any 
 
 ###### General
 
-[Image: Hippodrome Building]
-
 ###### Event Details
-
-[Image: Cade Building]
 
 ###### Logistics
 
-[Image: Harn Building]
-
 ###### Miscellaneous
-
-[Image: Museum Building]
-
-[! ]
-
-[!
-
-[Image: Lake Background]
 
 ##### Our Sponsors
 
 Thank you to our amazing sponsors who make SwampHacks possible!
 
-[[Image: Vobile] Visit Vobile](https://www.vobile.com/)
+[ Visit Vobile](https://www.vobile.com/)
 
-[[Image: Fifth Third Bank] Visit Fifth Third Bank](https://www.53.com/)
+[ Visit Fifth Third Bank](https://www.53.com/)
 
-[[Image: Towerhill Insurance] Visit Towerhill Insurance](https://www.thig.com/)
+[ Visit Towerhill Insurance](https://www.thig.com/)
 
-[[Image: Major League Hacking] Visit Major League Hacking](https://mlh.io/)
+[ Visit Major League Hacking](https://mlh.io/)
 
-[[Image: UF Center of Experiential Learning] Visit UF Center of Experiential Learning](https://www.eng.ufl.edu/undergraduate/programs-and-partnerships/center-for-experiential-learning/)
+[ Visit UF Center of Experiential Learning](https://www.eng.ufl.edu/undergraduate/programs-and-partnerships/center-for-experiential-learning/)
 
-[[Image: Morgan & Morgan] Visit Morgan & Morgan](https://www.forthepeople.com/)
+[ Visit Morgan & Morgan](https://www.forthepeople.com/)
 
-[[Image: Andor] Visit Andor](https://andorhealth.com/)
+[ Visit Andor](https://andorhealth.com/)
 
-[[Image: Capital One] Visit Capital One](https://www.capitalone.com/)
+[ Visit Capital One](https://www.capitalone.com/)
 
-[[Image: GitHub] Visit GitHub](https://github.com/)
+[ Visit GitHub](https://github.com/)
 
-[[Image: Amazon] Visit Amazon](https://www.amazon.com/)
+[ Visit Amazon](https://www.amazon.com/)
 
-[[Image: Pure Buttons] Visit Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons/)
+[ Visit Pure Buttons](https://mlh.link/MLH-PureButtons-hackathons/)
 
-[[Image: Aesthetic Print] Visit Aesthetic Print](https://aestheticprint.com/)
-
-]
-
-[!
+[ Visit Aesthetic Print](https://aestheticprint.com/)
 
 ##### Student Organizations
 
 Shoutout to our amazing partners! Check out their websites by clicking on the bats.
 
-[Image: Bathouse]
+[ CSK](https://ufcskickstart.com/)
 
-[[Image: CSK] CSK](https://ufcskickstart.com/)
+[ CSU](https://ufcsu.org/)
 
-[[Image: CSU] CSU](https://ufcsu.org/)
+[ DSI](https://www.ufdsi.com/)
 
-[[Image: DSI] DSI](https://www.ufdsi.com/)
+[ FES](https://www.gatorfes.org/)
 
-[[Image: FES] FES](https://www.gatorfes.org/)
+[ Gator Robotics](https://www.instagram.com/gator_battlebots)
 
-[[Image: Gator Robotics] Gator Robotics](https://www.instagram.com/gator_battlebots)
+[ IEEE](https://ieee.ece.ufl.edu/)
 
-[[Image: IEEE] IEEE](https://ieee.ece.ufl.edu/)
+[ SEC](https://ufsec.org/)
 
-[[Image: SEC] SEC](https://ufsec.org/)
+[ SPCB](https://www.spcbatuf.org/)
 
-[[Image: SPCB] SPCB](https://www.spcbatuf.org/)
+[ Swamplaunch](https://www.swamplaunch.org/)
 
-[[Image: Swamplaunch] Swamplaunch](https://www.swamplaunch.org/)
+[ UF Engineering Ambassadors](https://linktr.ee/ufengineeringambassadors/)
 
-[[Image: UF Engineering Ambassadors] UF Engineering Ambassadors](https://linktr.ee/ufengineeringambassadors/)
+[ UF Puppy Club](https://linktree.com/floridapuppyclub/)
 
-[[Image: UF Puppy Club] UF Puppy Club](https://linktree.com/floridapuppyclub/)
+[ UFSIT](https://ufsit.club/)
 
-[[Image: UFSIT] UFSIT](https://ufsit.club/)
+[ SASE](https://ufsase.com/)
 
-[[Image: SASE] SASE](https://ufsase.com/)
+[ UNLITTER](https://www.unlitter.org/uf)
 
-[[Image: UNLITTER] UNLITTER](https://www.unlitter.org/uf)
+[ WICSE](https://ufwicse.com/)
 
-[[Image: WICSE] WICSE](https://ufwicse.com/)
+[ OSC](https://ufosc.org/)
 
-[[Image: OSC] OSC](https://ufosc.org/)
+[ SHPE](https://www.shpeuf.com/)
 
-[[Image: SHPE] SHPE](https://www.shpeuf.com/)
+[ WingHacks](https://www.winghacks.com/)
 
-[[Image: WingHacks] WingHacks](https://www.winghacks.com/)
-
-[[Image: SWE] Society of Women Engineers](https://uf.swe.org/)
-
-]
+[ Society of Women Engineers](https://uf.swe.org/)
 
 ##### Meet the team!
-
-[! ]
-
-[ ]
 
 Ready to Hack?
 
 [Register to Hack](https://app.swamphacks.com/events/53a94d27-4525-489b-8467-a0412722b313/application)
-
-[Image: back layer] [Image: middle layer] [Image: front layer]
 
 Made with ❤️ by the Swamphacks Team
 
@@ -33558,27 +24497,19 @@ Smart GridSmart grid technology integrates digital systems with traditional powe
 - Software for permitting systems.
 - Hardware prototypes demonstrating innovative conversion, tracking, or storage mechanisms for renewables.
 
-**Key Focus Areas**
-
 - Expansion of electric vehicle (EV) adoption and infrastructure
 - Smart charging and grid-connected mobility solutions
 - Electrification of public transport and logistics
 - Policy and innovation for low-emission transportation
 
-**Participants Might Consider Developing**
-
 - Software for optimizing electric vehicle charging operations or analyzing mobility energy demand.
 - Hardware prototypes improving charging efficiency, battery performance, or powertrain components.
-
-**Key Focus Areas**
 
 - Digitalization and automation of power networks
 - Real-time monitoring and predictive maintenance
 - Integration of renewable and distributed energy resources
 - Enhancing grid reliability, efficiency, and cybersecurity
 - Data Center operations
-
-**Participants Might Consider Developing**
 
 - Software for grid monitoring, predictive fault detection, or distributed energy management.
 - Hardware prototypes enabling real-time sensing, control, or communication within smart grids.
@@ -33669,12 +24600,6 @@ Gold
 
 Silver
 
-Silver
-
-Silver
-
-Silver
-
 Bronze
 
 Event Partner
@@ -33698,11 +24623,7 @@ Contact Us
 - Final URL: [https://www.hackhive.ca/](https://www.hackhive.ca/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: HackHive Logo]
-
 Schedule Login
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 #### HackHive 2026
 
@@ -33715,8 +24636,6 @@ Hosted at Ontario Tech University • Oshawa, Ontario
 #### About
 
 WHERE INNOVATION SWARMS
-
-[Image: HackHive Logo]
 
 Join 250+ innovative and creative developers, designers, and creators for 48 hours of hacking.
 
@@ -33750,13 +24669,13 @@ SPARK YOUR BUILD WITH PURPOSE
 
 Diamond Sponsors
 
-[[Image: Diamond Sponsor]](https://careers.microsoft.com/v2/global/en/home.html) [[Image: Diamond Sponsor]](https://www.kyndryl.com/us/en) [Image: Diamond Sponsor]
+[Diamond Sponsor](https://careers.microsoft.com/v2/global/en/home.html) [Diamond Sponsor](https://www.kyndryl.com/us/en)
 
 Gold Sponsors
 
 Silver Sponsors
 
-[[Image: Silver Sponsor]](https://careers.microsoft.com/v2/global/en/home.html) [[Image: Silver Sponsor]](https://fantuan.ca/en/) [[Image: Silver Sponsor]](https://www.fidelity.ca/en/)
+[Silver Sponsor](https://careers.microsoft.com/v2/global/en/home.html) [Silver Sponsor](https://fantuan.ca/en/) [Silver Sponsor](https://www.fidelity.ca/en/)
 
 Bronze Sponsors
 
@@ -33774,8 +24693,6 @@ Login / Register to Apply
 - Rendered title: HoyaHacks
 - Final URL: [https://hoyahacks.georgetown.domains/](https://hoyahacks.georgetown.domains/)
 - Expanded FAQ/accordion controls: 0
-
-[Image: Hoya Hacks 2027]
 
 .lp-staticslider
 
@@ -33797,8 +24714,6 @@ Pour les joueurs suisses, la sécurité n'est pas secondaire. C'est la condition
 
 [Read More *"Jouez en toute sécurité sur Rollflame Casino en Suisse"*](https://hoyahacks.georgetown.domains/comment-utiliser-rollflame-casino-jeux-de-croupier-en-direct-populaires/)
 
-lp-box
-
 [Come Raggiungere il Supporto di X3bet Casino per un’Assistenza Rapida in Italia](https://hoyahacks.georgetown.domains/come-raggiungere-il-supporto-di-x3bet-casino-per-unassistenza-rapida-in-italia/)
 
 ###### [Come Raggiungere il Supporto di X3bet Casino per un’Assistenza Rapida in Italia](https://hoyahacks.georgetown.domains/come-raggiungere-il-supporto-di-x3bet-casino-per-unassistenza-rapida-in-italia/)
@@ -33806,8 +24721,6 @@ lp-box
 Giocare sul web è divertente, ma se qualcosa non funziona è necessario un intervento. X3bet Casino lo ha ben chiaro e per questo fornisce ai...
 
 [Read More *"Come Raggiungere il Supporto di X3bet Casino per un’Assistenza Rapida in Italia"*](https://hoyahacks.georgetown.domains/come-raggiungere-il-supporto-di-x3bet-casino-per-unassistenza-rapida-in-italia/)
-
-lp-box
 
 [Permesso e Affidabilità di Cowboy Spin Casino in Svizzera: Visione d’insieme per i Utenti](https://hoyahacks.georgetown.domains/permesso-e-affidabilita-di-cowboy-spin-casino-in-svizzera-visione-dinsieme-per-i-utenti/)
 
@@ -33817,49 +24730,15 @@ Optare per un casino online in Svizzera comporta attenzione. La tutela e la lega
 
 [Read More *"Permesso e Affidabilità di Cowboy Spin Casino in Svizzera: Visione d’insieme per i Utenti"*](https://hoyahacks.georgetown.domains/permesso-e-affidabilita-di-cowboy-spin-casino-in-svizzera-visione-dinsieme-per-i-utenti/)
 
-lp-box
-
 .lp-boxes
-
-[Billybets Casino Propose une Aventure de Casino Mobile Sans accroc en Belgique](https://hoyahacks.georgetown.domains/billybets-casino-propose-une-aventure-de-casino-mobile-sans-accroc-en-belgique/)
-
-###### [Billybets Casino Propose une Aventure de Casino Mobile Sans accroc en Belgique](https://hoyahacks.georgetown.domains/billybets-casino-propose-une-aventure-de-casino-mobile-sans-accroc-en-belgique/)
 
 Pour les amateurs belges, le téléphone est devenu le principal accès au...
 
-[Read More *"Billybets Casino Propose une Aventure de Casino Mobile Sans accroc en Belgique"*](https://hoyahacks.georgetown.domains/billybets-casino-propose-une-aventure-de-casino-mobile-sans-accroc-en-belgique/)
-
-lp-box
-
-[Jouez en toute sécurité sur Rollflame Casino en Suisse](https://hoyahacks.georgetown.domains/comment-utiliser-rollflame-casino-jeux-de-croupier-en-direct-populaires/)
-
-###### [Jouez en toute sécurité sur Rollflame Casino en Suisse](https://hoyahacks.georgetown.domains/comment-utiliser-rollflame-casino-jeux-de-croupier-en-direct-populaires/)
-
 Pour les joueurs suisses, la sécurité n'est pas secondaire. C'est la condition...
-
-[Read More *"Jouez en toute sécurité sur Rollflame Casino en Suisse"*](https://hoyahacks.georgetown.domains/comment-utiliser-rollflame-casino-jeux-de-croupier-en-direct-populaires/)
-
-lp-box
-
-[Come Raggiungere il Supporto di X3bet Casino per un’Assistenza Rapida in Italia](https://hoyahacks.georgetown.domains/come-raggiungere-il-supporto-di-x3bet-casino-per-unassistenza-rapida-in-italia/)
-
-###### [Come Raggiungere il Supporto di X3bet Casino per un’Assistenza Rapida in Italia](https://hoyahacks.georgetown.domains/come-raggiungere-il-supporto-di-x3bet-casino-per-unassistenza-rapida-in-italia/)
 
 Giocare sul web è divertente, ma se qualcosa non funziona è necessario...
 
-[Read More *"Come Raggiungere il Supporto di X3bet Casino per un’Assistenza Rapida in Italia"*](https://hoyahacks.georgetown.domains/come-raggiungere-il-supporto-di-x3bet-casino-per-unassistenza-rapida-in-italia/)
-
-lp-box
-
-[Permesso e Affidabilità di Cowboy Spin Casino in Svizzera: Visione d’insieme per i Utenti](https://hoyahacks.georgetown.domains/permesso-e-affidabilita-di-cowboy-spin-casino-in-svizzera-visione-dinsieme-per-i-utenti/)
-
-###### [Permesso e Affidabilità di Cowboy Spin Casino in Svizzera: Visione d’insieme per i Utenti](https://hoyahacks.georgetown.domains/permesso-e-affidabilita-di-cowboy-spin-casino-in-svizzera-visione-dinsieme-per-i-utenti/)
-
 Optare per un casino online in Svizzera comporta attenzione. La tutela e...
-
-[Read More *"Permesso e Affidabilità di Cowboy Spin Casino in Svizzera: Visione d’insieme per i Utenti"*](https://hoyahacks.georgetown.domains/permesso-e-affidabilita-di-cowboy-spin-casino-in-svizzera-visione-dinsieme-per-i-utenti/)
-
-lp-box
 
 [Misez astucieusement et remportez plus grâce aux promotions chez Scooore Casino pour le Canada](https://hoyahacks.georgetown.domains/misez-astucieusement-et-remportez-plus-grace-aux-promotions-chez-scooore-casino-pour-le-canada/)
 
@@ -33869,8 +24748,6 @@ Dans un casino en ligne, un bonus n'est pas qu'un modeste cadeau...
 
 [Read More *"Misez astucieusement et remportez plus grâce aux promotions chez Scooore Casino pour le Canada"*](https://hoyahacks.georgetown.domains/misez-astucieusement-et-remportez-plus-grace-aux-promotions-chez-scooore-casino-pour-le-canada/)
 
-lp-box
-
 [Irwin Casino – Erkunde die besten Casino-Spiele in Deutschland](https://hoyahacks.georgetown.domains/irwin-casino-erkunde-die-besten-casino-spiele-in-deutschland/)
 
 ###### [Irwin Casino – Erkunde die besten Casino-Spiele in Deutschland](https://hoyahacks.georgetown.domains/irwin-casino-erkunde-die-besten-casino-spiele-in-deutschland/)
@@ -33878,8 +24755,6 @@ lp-box
 Herzlich willkommen bei Irwin Casino! Du suchst einem exzellenten Online-Casino in Deutschland?...
 
 [Read More *"Irwin Casino – Erkunde die besten Casino-Spiele in Deutschland"*](https://hoyahacks.georgetown.domains/irwin-casino-erkunde-die-besten-casino-spiele-in-deutschland/)
-
-lp-box
 
 [Vilken Säker är Ditt Konto på Spinjoy Casino för Svenska Spelare?](https://hoyahacks.georgetown.domains/vilken-saeker-aer-ditt-konto-pa-spinjoy-casino-foer-svenska-spelare/)
 
@@ -33889,8 +24764,6 @@ Valet av ett onlinecasino handlar i grunden om en enda sak: att...
 
 [Read More *"Vilken Säker är Ditt Konto på Spinjoy Casino för Svenska Spelare?"*](https://hoyahacks.georgetown.domains/vilken-saeker-aer-ditt-konto-pa-spinjoy-casino-foer-svenska-spelare/)
 
-lp-box
-
 [AllySpin Casino : L’option privilégiée des joueurs au Canada](https://hoyahacks.georgetown.domains/allyspin-casino-loption-privilegiee-des-joueurs-au-canada/)
 
 ###### [AllySpin Casino : L’option privilégiée des joueurs au Canada](https://hoyahacks.georgetown.domains/allyspin-casino-loption-privilegiee-des-joueurs-au-canada/)
@@ -33899,11 +24772,7 @@ Parmi les nombreux casinos en ligne accessibles au Canada, AllySpin Casino s'est
 
 [Read More *"AllySpin Casino : L’option privilégiée des joueurs au Canada"*](https://hoyahacks.georgetown.domains/allyspin-casino-loption-privilegiee-des-joueurs-au-canada/)
 
-lp-box
-
 .lp-boxes
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 ##### **We are so excited to invite you to Georgetown University for Hoya Hacks 2027!**
 
@@ -33913,15 +24782,11 @@ lp-box
 
 ###### ********Stay tuned for more information throughout the year.********
 
----
-
 [2027 TRACKS](https://hoyahacks.georgetown.domains/tracks-2027/)
 
 [FAQ](https://hissing-library-ea2.notion.site/Hoya-Hacks-Hacker-Guide-ecd2690c2353448a80c55a9a7691412c)
 
 [MEET THE TEAM](https://hoyahacks.georgetown.domains/meet-our-organizers/)
-
----
 
 **Hello Hackers!**
 
@@ -33931,20 +24796,14 @@ lp-box
 
 [**Link for High School Participants!**](https://docs.google.com/forms/d/e/1FAIpQLSfllguxNM3P-kQ0oTwqUsLUhwHa4JsBpQFclFmaBj_dWIoA5Q/viewform?usp=header)
 
----
-
 ##### Interested in being a sponsor for Hoya Hacks 2027?
 
 ###### [More information?](https://hoyahacks.georgetown.domains/wp-content/uploads/2026/01/2026-Sponsor-Packet.pdf)
 [Become a sponsor!](https://hoyahacks.georgetown.domains/wp-content/uploads/2022/06/HOYA-HACKS-SPONSOR-INSTRUCTIONS.pdf)
 
----
-
 ##### Interested in donating to support HoyaHacks?
 
 ###### [CalledtoBe Donation Link](https://secure.advancement.georgetown.edu/s/1686/18/giving.aspx?sid=1686&gid=4&pgid=3975&cid=5816&dids=815&bledit=1&sort=1&unit=0&appealcode=26HW009866&corporate_gift=1\)
-
----
 
 ##### Thank you to our 2026 Sponsors!
 
@@ -34135,10 +24994,6 @@ Le meccaniche speciali di rulli e bonus buy arricchiscono le moderne [slots non 
 - Final URL: [https://datathon.rice.edu/](https://datathon.rice.edu/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: D2K Logo]
-
 [**Register for Datathon 2026!**](https://docs.google.com/forms/d/e/1FAIpQLSdJKSlxQTRuiLC8mRZLoIrZykfpwdcnZsR86jL8LuvropAG4Q/viewform?usp=sharing&ouid=117593357278772113519)
 
 **Learn More**
@@ -34167,15 +25022,23 @@ What's a Datathon?
 
 A datathon is a multi-day event for data science enthusiasts to come together, learn, and compete in exciting data science challenges! There will be prizes for winning teams, opportunities to network, and lots of good food. [Register for Rice Datathon 2026 today!](https://docs.google.com/forms/d/e/1FAIpQLSdJKSlxQTRuiLC8mRZLoIrZykfpwdcnZsR86jL8LuvropAG4Q/viewform?usp=sharing&ouid=117593357278772113519)
 
-<div class="mb-2 pb-4"> <div class="container"> <div class="h5 text-center my-3 color-3"> <em> Past Rice Datathons:</em></div> <div class="row justify-content-center mx-5"> <div class="col text-center"> <a href="https://www.ricethresher.org/article/2023/02/fifth-datathon-held-at-rice" class="btn btn-color-2 my-1 w-100 color-3">2023</a> </div> <div class="col text-center"> <a href="https://d2k.rice.edu/news/4th-annual-rice-datathon-winner-announced" class="btn btn-color-2 my-1 w-100 color-3">2022</a> </div> <div class="col text-center"> <a href="https://d2k.rice.edu/news/congratulations-all-winners-and-participants-rice-datathon-2021" class="btn btn-color-2 my-1 w-100 color-3">2021</a> </div> <div class="col text-center"> <a href="https://news.rice.edu/news/2020/rice-students-sweep-second-datathon" class="btn btn-color-2 my-1 w-100 color-3">2020</a> </div> <div class="col text-center"> <a href="https://d2k.rice.edu/news/rice-datathon-2019#:~:text=The%20Rice%20Datathon%202019%20competition,25%2D26" class="btn btn-color-2 my-1 w-100 color-3">2019</a> </div> </div> </div> </div>
+*Past Rice Datathons:*
+
+[2023](https://www.ricethresher.org/article/2023/02/fifth-datathon-held-at-rice)
+
+[2022](https://d2k.rice.edu/news/4th-annual-rice-datathon-winner-announced)
+
+[2021](https://d2k.rice.edu/news/congratulations-all-winners-and-participants-rice-datathon-2021)
+
+[2020](https://news.rice.edu/news/2020/rice-students-sweep-second-datathon)
+
+[2019](https://d2k.rice.edu/news/rice-datathon-2019#:~:text=The%20Rice%20Datathon%202019%20competition,25%2D26)
 
 SCHEDULE SECTION
 
 Schedule
 
 **Friday, Jan 23rd**
-
----
 
 4:00 pm - 5:30 pm
 
@@ -34202,8 +25065,6 @@ Mentors Available
 Night Snacks @ Martel Hall
 
 **Saturday, Jan 24th**
-
----
 
 9:00 am - 10:30 am
 
@@ -34235,10 +25096,6 @@ ALL participants MUST LEAVE by this time
 
 **Sunday, Jan 25th**
 
----
-
--------
-
 All events will be VIRTUAL this day
 
 9:00 am
@@ -34255,15 +25112,11 @@ Tracks
 
 Track 1
 
-[Image: Track icon: green mario]
-
 Beginner Track
 
 Healthcare
 
 Track 2
-
-[Image: Track icon: star]
 
 Finance Track
 
@@ -34271,15 +25124,11 @@ With BroadVail Capital
 
 Track 3
 
-[Image: Track icon: mushroom]
-
 Education Track
 
 With OpenStax
 
 Track 4
-
-[Image: Track icon: red owl]
 
 Neuroscience Track
 
@@ -34325,29 +25174,27 @@ TEAM SECTION
 
 Our Team
 
-[Image: Photo Missing] Granger Bering-James Director STAT, DS • 2028
+Granger Bering-James Director STAT, DS • 2028
 
-[Image: Photo Missing] Chloe Park Director CS, DS • 2027
+Chloe Park Director CS, DS • 2027
 
-[Image: Photo Missing] Mythily Kalra Director CS • 2028
+Mythily Kalra Director CS • 2028
 
-[Image: Photo Missing] Juliet Sun Director CS • 2027
+Juliet Sun Director CS • 2027
 
-[Image: Photo Missing] John Tian Workshops CS • 2027
+John Tian Workshops CS • 2027
 
-[Image: Photo Missing] Andrew Chu Workshops CS • 2027
+Andrew Chu Workshops CS • 2027
 
-[Image: Photo Missing] Lexi Xu Workshops CS, CSCI • 2028
+Lexi Xu Workshops CS, CSCI • 2028
 
-[Image: Photo Missing] Skylar Wang Merch ECE• 2029
+Skylar Wang Merch ECE• 2029
 
-[Image: Photo Missing] Oscar Pan Logistics CS, Math • 2028
+Oscar Pan Logistics CS, Math • 2028
 
-[Image: Photo Missing] Liam Durcan Tracks STAT • 2028
+Liam Durcan Tracks STAT • 2028
 
-[Image: Photo Missing] Miranda Schriver Tracks DS (Masters) • 2027
-
-<script src="dev/script.js"></script>
+Miranda Schriver Tracks DS (Masters) • 2027
 
 ### Website 152: Hackville
 - Card URL: [https://www.hackville.io/](https://www.hackville.io/)
@@ -34356,49 +25203,25 @@ Our Team
 - Final URL: [https://www.hackville.io/](https://www.hackville.io/)
 - Expanded FAQ/accordion controls: 11
 
-[[Image: Major League Hacking 2027 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2027-season&utm_content=white)
-
-[Image: Hackville]
-
 For the upcoming 2027 season we'd love to hear back from our community
 
 Exciting plans are taking shape and you could influence this
 
 [Get priority access for 2027](https://docs.google.com/forms/d/e/1FAIpQLSerBwsz2Oo5SRhSfNmMmC8O55dXtedgsBAfHVK6qyzWaqw-5A/viewform)
 
-[Image: About Us Image]
-
 #### We are Canada'sfirstcollege-runhackathon!
 
 Each year, GTA students in Tech, Design & Business unite at **Hackville** to tackle real-world challenges, spark innovation, and jumpstart their careers in a fast-paced, collaborative community.
-
-[Image: About Us Image]
-
-[Image: Pink Swirl]
-
-[Image: Blue Swirl]
-
-[Image: Blue Star]
 
 Sheridan's HMC Campus
 
 24-hour hackathon
 
-[Image: Blue Star]
-
-[Image: Pink Line Star]
-
-[Image: Blue Arrow]
-
-[Image: About Us Image]
-
-[Image: About Us Image]
-
 ##### Hackville Applications
 
 Applications are currently closed. Share your interest to get priority access for Hackville 2027!
 
-[[Image: Interest Form]Interest FormShare your feedback and get priority consideration for Hackville 2027.Open now — takes 2 minutesGet Started→](https://docs.google.com/forms/d/e/1FAIpQLSerBwsz2Oo5SRhSfNmMmC8O55dXtedgsBAfHVK6qyzWaqw-5A/viewform)
+[Interest FormShare your feedback and get priority consideration for Hackville 2027.Open now — takes 2 minutesGet Started→](https://docs.google.com/forms/d/e/1FAIpQLSerBwsz2Oo5SRhSfNmMmC8O55dXtedgsBAfHVK6qyzWaqw-5A/viewform)
 
 What's in it for you?
 
@@ -34414,12 +25237,6 @@ What's in it for you?
 
 #### Check out some pastwinners!
 
-[Image: yellow arrow]
-
-[Image: BearTracks thumbnail]
-
-[Image: BearTracks background]
-
 1st place
 
 ##### BearTracks
@@ -34428,79 +25245,55 @@ An interactive 3D map for the Sheridan campuses, designed to consolidate scatter
 
 [View project](https://devpost.com/software/beartracks-gk0d16?_gl=1*zrla0i*_gcl_au*ODgwMzg5MzIxLjE3NjEzMjUzOTc.*_ga*MTAxNTQ0MDkwMS4xNzYxMzI1Mzk3*_ga_0YHJK3Y10M*czE3NjEzMjUzOTckbzEkZzEkdDE3NjEzMjU0MjIkajM1JGwwJGgw)
 
-[Image: Study hub tag]
-
-[Image: Study hub tag]
-
-[Image: Xccel tag]
-
-[Image: Xccel tag]
-
-[Image: curl3-yellow]
-
-[Image: spiral-green]
-
-[Image: curl2-pink]
-
-[Image: curl2-blue]
-
-[Image: star7-green]
-
-[Image: curl1-yellow]
-
 ##### Take a look at our schedule!
-
-[Image: Card 1]
-
-[Image: Card 2]
 
 ##### Our Sponsors!
 
-[[Image: SSU]](https://www.thessu.ca/)
+[SSU](https://www.thessu.ca/)
 
-[[Image: Google Developers]](https://developers.google.com/)
+[Google Developers](https://developers.google.com/)
 
-[[Image: Simple Ventures]](https://www.simpleventures.ca/)
+[Simple Ventures](https://www.simpleventures.ca/)
 
-[[Image: Sheridan EDGE]](https://edge.sheridancollege.ca/)
+[Sheridan EDGE](https://edge.sheridancollege.ca/)
 
-[[Image: Moorcheh.ai]](https://moorcheh.ai/)
+[Moorcheh.ai](https://moorcheh.ai/)
 
-[[Image: Major League Hacking]](https://mlh.io/)
+[Major League Hacking](https://mlh.io/)
 
-[[Image: Pixel Perfect]](https://www.instagram.com/pixelperfect_sheridan/)
+[Pixel Perfect](https://www.instagram.com/pixelperfect_sheridan/)
 
-[[Image: Swiftie Club]](https://sheridanswiftieclub.com)
+[Swiftie Club](https://sheridanswiftieclub.com)
 
-[[Image: GitHub]](https://github.com/)
+[GitHub](https://github.com/)
 
 ###### Our In-kind Partners!
 
-[[Image: Figma]](https://www.figma.com/)
+[Figma](https://www.figma.com/)
 
-[[Image: Lovable]](https://lovable.dev/)
+[Lovable](https://lovable.dev/)
 
-[[Image: Pure Buttons]](https://www.purebuttons.com/)
+[Pure Buttons](https://www.purebuttons.com/)
 
-[[Image: NordProtect]](https://nordprotect.com/)
+[NordProtect](https://nordprotect.com/)
 
-[[Image: NordPass]](https://nordpass.com/)
+[NordPass](https://nordpass.com/)
 
-[[Image: NordVPN]](https://nordvpn.com/hackathons)
+[NordVPN](https://nordvpn.com/hackathons)
 
-[[Image: Nexos.ai]](https://nexos.ai/)
+[Nexos.ai](https://nexos.ai/)
 
-[[Image: Saily]](https://saily.com/)
+[Saily](https://saily.com/)
 
-[[Image: Incogni]](https://incogni.com/)
+[Incogni](https://incogni.com/)
 
-[[Image: InsForge]](https://insforge.dev/)
+[InsForge](https://insforge.dev/)
 
-[[Image: Backboard.io]](https://backboard.io/)
+[Backboard.io](https://backboard.io/)
 
-[[Image: PTTF]](https://power-type.com/)
+[PTTF](https://power-type.com/)
 
-[[Image: BobaGreen]](https://www.bobagreen.ca/)
+[BobaGreen](https://www.bobagreen.ca/)
 
 Interested in sponsoring? hackville.outreach@gmail.com
 
@@ -34557,53 +25350,51 @@ What if i still have questions?
 
 No worries, please e-mail us at hackville.info@gmail.com and we will be more than happy to answer your question!
 
-[Image: Mascot]Meet Our Team
+Meet Our Team
 
-- [Image: President mascot]President
-- [[Image: Jane Hou]](https://www.linkedin.com/in/hou-jane)
-- [[Image: Belinda Chen]](https://www.linkedin.com/in/belinda-chen-9b7245184/)
-- [Image: Sponsorship mascot]Sponsorship
-- [[Image: Vidhya Ganapathy Subramanian]](https://www.linkedin.com/in/vidhya-gs/)
-- [[Image: Jesse Vieira]](https://www.linkedin.com/in/jesse-vieira17)
-- [Image: Emilio Soto]
-- [Image: Alejandra Flores]
-- [Image: Technology mascot]Technology
-- [[Image: Aman Purohit]](https://www.linkedin.com/in/amanhiranpurohit/)
-- [Image: Ken Kanjanaprayut]
-- [[Image: Anmolpreet Sidhu]](https://www.linkedin.com/in/anmol-sidhu-810579220/)
-- [[Image: Neel Sabhaya]](https://www.linkedin.com/in/neelsabhaya/)
-- [Image: Joaquin Florentino]
-- [[Image: Shrey Jani]](https://www.linkedin.com/in/shrey-jani/)
-- [[Image: Siddharth Lamba]](http://www.linkedin.com/in/sid-lamba)
-- [Image: Logistics mascot]Logistics
-- [[Image: Olivia Ho]](https://www.linkedin.com/in/holiviah)
-- [Image: Design mascot]Design
-- [[Image: Emily Ibañez]](https://www.linkedin.com/in/ibanezemily/)
-- [[Image: Katherine Dao]](http://linkedin.com/in/katherine-dao2609)
-- [[Image: Sejeong Seo]](https://www.linkedin.com/in/sejeongseo)
-- [[Image: Sabrina Paramitha]](https://www.linkedin.com/in/paramits/)
-- [[Image: Marina Au]](https://www.linkedin.com/in/aumarina/)
-- [[Image: Celine Heidie Hermanto]](https://www.linkedin.com/in/celineheidie)
-- [[Image: Chloe Tang]](https://www.linkedin.com/in/chloe-tang-2a1a832b1/)
-- [Image: Social Media mascot]Social Media
-- [[Image: Parris Tinianov]](https://www.linkedin.com/in/parris-tinianov)
-- [[Image: Sasha Knutt]](https://www.linkedin.com/in/sasha-alexandra-designs/)
-- [[Image: Amelia Sharp]](https://www.linkedin.com/in/ameliasharp/)
-- [[Image: Arsh Sidhu]](https://www.linkedin.com/in/arshkaursidhu)
-- [[Image: Bre Velasco]](https://www.linkedin.com/in/breana-velasco)
-- [[Image: Franziska Kwan]](https://www.linkedin.com/in/franziskakwan)
-- [Image: Katrina Hu]
-- [[Image: Ankie Chen]](https://www.linkedin.com/in/ankie-chen)
-- [Image: Advisors mascot]Advisors
-- [Image: Jaine Yoonsoo Shin]
-- [[Image: Nayeong Cho]](https://www.linkedin.com/in/nayeong-cho/)
-- [Image: Andrew George Geevarghese]
-- [Image: Jessie Feng]
-- [[Image: Francine Arabela Paguio]](https://www.linkedin.com/in/francinearabela)
-- [[Image: Ken Piquero]](https://www.linkedin.com/in/kenpiquero/)
-- [Image: Hayat Galbete]
-
-$ /$
+- President
+- [Jane Hou](https://www.linkedin.com/in/hou-jane)
+- [Belinda Chen](https://www.linkedin.com/in/belinda-chen-9b7245184/)
+- Sponsorship
+- [Vidhya Ganapathy Subramanian](https://www.linkedin.com/in/vidhya-gs/)
+- [Jesse Vieira](https://www.linkedin.com/in/jesse-vieira17)
+-
+-
+- Technology
+- [Aman Purohit](https://www.linkedin.com/in/amanhiranpurohit/)
+-
+- [Anmolpreet Sidhu](https://www.linkedin.com/in/anmol-sidhu-810579220/)
+- [Neel Sabhaya](https://www.linkedin.com/in/neelsabhaya/)
+-
+- [Shrey Jani](https://www.linkedin.com/in/shrey-jani/)
+- [Siddharth Lamba](http://www.linkedin.com/in/sid-lamba)
+- Logistics
+- [Olivia Ho](https://www.linkedin.com/in/holiviah)
+- Design
+- [Emily Ibañez](https://www.linkedin.com/in/ibanezemily/)
+- [Katherine Dao](http://linkedin.com/in/katherine-dao2609)
+- [Sejeong Seo](https://www.linkedin.com/in/sejeongseo)
+- [Sabrina Paramitha](https://www.linkedin.com/in/paramits/)
+- [Marina Au](https://www.linkedin.com/in/aumarina/)
+- [Celine Heidie Hermanto](https://www.linkedin.com/in/celineheidie)
+- [Chloe Tang](https://www.linkedin.com/in/chloe-tang-2a1a832b1/)
+- Social Media
+- [Parris Tinianov](https://www.linkedin.com/in/parris-tinianov)
+- [Sasha Knutt](https://www.linkedin.com/in/sasha-alexandra-designs/)
+- [Amelia Sharp](https://www.linkedin.com/in/ameliasharp/)
+- [Arsh Sidhu](https://www.linkedin.com/in/arshkaursidhu)
+- [Bre Velasco](https://www.linkedin.com/in/breana-velasco)
+- [Franziska Kwan](https://www.linkedin.com/in/franziskakwan)
+-
+- [Ankie Chen](https://www.linkedin.com/in/ankie-chen)
+- Advisors
+-
+- [Nayeong Cho](https://www.linkedin.com/in/nayeong-cho/)
+-
+-
+- [Francine Arabela Paguio](https://www.linkedin.com/in/francinearabela)
+- [Ken Piquero](https://www.linkedin.com/in/kenpiquero/)
+-
 
 ### Website 153: nwHacks
 - Card URL: [https://nwhacks.io/](https://nwhacks.io/)
@@ -34621,8 +25412,6 @@ Get notified when applications open!
 [Interest Form](https://forms.gle/731hXWXsFFAb7wQo8)
 
 Become a Sponsor
-
-[Image: hero island]
 
 Join us for the 12th iteration of nwHacks!
 
@@ -34687,8 +25476,6 @@ Do you offer travel reimbursements?
 
 Is nwHacks in-person or virtual? What if I want to join virtually?
 
-[Image: Bear animation]
-
 Sponsor nwHacks 2027
 
 nwHacks is more than just a hackathon; it's a place that supports and fosters a community for the next generation of tech leaders.
@@ -34698,62 +25485,6 @@ If you're interested in collaborating with us or speaking at one of our events, 
 Sponsor us!
 
 Pacific Coastal Computing Association (PCCA) is a non-profit bringing a H.E.A.R.T.S. - Health, Earth, Arts, Reconciliation, Technology and Storytelling - mandate to its advisory, partnership development and project ideation-to-management services. PCCA is also advancing an innovation large language model (LLM) platform for social impact projects, focusing on health opportunities initially. As a nwPlus sponsor, PCCA is bringing a brain wellness collaboration stream to the hackathons.
-
-[[Image: Sponsor Logo]](https://pacificcoastalcomputing.ca/)
-
-[[Image: Sponsor Logo]](https://www.telus.com/en/about/careers/graduate-technology-leadership-program)
-
-[[Image: Sponsor Logo]](https://block.xyz/)
-
-[[Image: Sponsor Logo]](https://arcteryx.com/ca/en/careers)
-
-[[Image: Sponsor Logo]](https://www.bcitsa.ca/)
-
-[[Image: Sponsor Logo]](https://cclinvest.cclgroup.com/)
-
-[[Image: Sponsor Logo]](https://1password.com/careers)
-
-[[Image: Sponsor Logo]](https://www.cse-cst.gc.ca/en)
-
-[[Image: Sponsor Logo]](https://thecdm.ca/)
-
-[[Image: Sponsor Logo]](https://alumni.ubc.ca/about/student-alumni-council/)
-
-[[Image: Sponsor Logo]](https://github.com)
-
-[[Image: Sponsor Logo]](https://www.interndb.io/companies)
-
-[[Image: Sponsor Logo]](https://www.susubc.ca/)
-
-[[Image: Sponsor Logo]](https://www.getinvestly.com/investly/en/home/)
-
-[[Image: Sponsor Logo]](http://warp.dev/)
-
-[[Image: Sponsor Logo]](https://www.nationgraph.com/)
-
-[[Image: Sponsor Logo]](https://www.ideamatch.ai/)
-
-[[Image: Sponsor Logo]](https://www.nandos.ca/)
-
-[[Image: Sponsor Logo]](https://microsoft.com/)
-
-[[Image: Sponsor Logo]](https://www.progressionbouldering.com/)
-
-[[Image: Sponsor Logo]](https://www.koerners.ca/)
-
-[[Image: Sponsor Logo]](https://www.barrys.com/studio/vancouver/)
-
-[[Image: Sponsor Logo]](https://bobatalks.com)
-
-[[Image: Sponsor Logo]](https://www.stevespokebar.ca/)
-
-[[Image: Sponsor Logo]](https://indomieonline.ca/?srsltid=AfmBOoq0igAIQpK5FCx_Yx4wG0jyYi7EN73TxgVQP8WdLWU08xv_pHaW)
-
-[[Image: Sponsor Logo]](https://lovable.dev/)
-
-[[Image: Sponsor Logo]](https://vidigami.com/)
-
-[[Image: Sponsor Logo]](https://spinsociety.ca/)
 
 Email Us Become a Sponsor [Code of Conduct](http://hackp.ac/coc)
 
@@ -34772,11 +25503,9 @@ Copyright © nwHacks 2027
 - Final URL: [https://hackbi.org/](https://hackbi.org/)
 - Expanded FAQ/accordion controls: 9
 
-#### [[Image: logo]HackBI](https://hackbi.org/)
+#### [HackBI](https://hackbi.org/)
 
 [FAQ](https://hackbi.org/#faq) [Workshops](https://hackbi.org/workshops) [Team](https://hackbi.org/team) [Contact](https://hackbi.org/contact) [Conduct](https://hackbi.org/conduct) [Source](https://github.com/devinlinux/hackbi-website)
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 ###### Hack BI IX has officially concluded. Stay tuned for Hack BI X in January 2027!
 
@@ -34784,9 +25513,9 @@ Copyright © nwHacks 2027
 
 Hack BI is an annual hackathon for middle and high school students that has been run by the students of Bishop Ireton High School for 9 consecutive years. At HackBI, you will learn new things and collaborate with others to make your ideas come to life. Check out our [FAQ](https://hackbi.org/faq) if you have any questions.
 
-[Learn[Image: Learn]](https://hackbi.org/#learn) [Unite[Image: Unite]](https://hackbi.org/#unite)
+[Learn](https://hackbi.org/#learn) [Unite](https://hackbi.org/#unite)
 
-[[Image: Pitch]Pitch](https://hackbi.org/#pitch) [[Image: Celebrate]Celebrate](https://hackbi.org/#celebrate)
+[Pitch](https://hackbi.org/#pitch) [Celebrate](https://hackbi.org/#celebrate)
 
 ###### FAQ
 
@@ -34835,33 +25564,7 @@ You can come with a pre-determined team if you want. If you're coming individual
 
 Interested in being a sponsor? [Contact us!](https://hackbi.org/contact)
 
----
-
 Thanks to our **2026** Sponsors:
-
-[Image: Bishop Ireton High School]
-
----
-
-[Image: MLH]
-
-[Image: Cathy Hackl]
-
-[Image: Virginia Tech Institute of Advanced Computing]
-
-[Image: Potbelly's]
-
-[Image: Hallow]
-
-[Image: Dominos Pizza]
-
-[Image: Stand Out Stickers]
-
-[Image: 4Imprint]
-
-[Image: Reston Shirt]
-
-[Image: Paradigm]
 
 © 2026 Michael Bobrowski. All Rights Reserved.
 
@@ -34886,8 +25589,6 @@ FAQ
 Events
 
 Contact
-
-[Image: Background grid]
 
 Canada’s Capital Hackathon Canada’s Capital Hackathon Canada’s Capital Hackathon
 
@@ -34968,7 +25669,7 @@ Made with 🤍 by the uOttaHack Team Made with 🤍 by the uOttaHack Team
 ### Website 157: GoatHacks
 - Card URL: [https://hack.wpi.edu](https://hack.wpi.edu)
 - Referenced by: GoatHacks
-- Capture status: Failed - Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hack.wpi.edu/ Call log:   - navigating to "https://hack.wpi.edu/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hack.wpi.edu/ Call log: - navigating to "https://hack.wpi.edu/", waiting until "domcontentloaded"
 
 ### Website 158: BrébeufHx 9.0
 - Card URL: [https://brebeufhackathon.com](https://brebeufhackathon.com)
@@ -34981,35 +25682,7 @@ Navbar Hero Section
 
 Snow Background
 
-❄
-
-❅
-
-❆
-
-❄
-
-❅
-
-❆
-
-❄
-
-❅
-
-❆
-
-❄
-
 Ice Crystals
-
-🧊
-
-💎
-
-🧊
-
-💎
 
 #### BrébeufHx 9.0
 
@@ -35017,9 +25690,9 @@ Ice Crystals
 
 24 hours of coding, creating, and connecting. Build solutions that could change the world.
 
-[❄️ Register](https://brebeufhackathon.com/#register) [Discord server](https://brebeufhackathon.com/discord) [Advanced challenge](https://brebeufhx-9-0.devpost.com) [Beginner challenges](https://www.hackerrank.com/brebeufhx-1759027297) <form class="flex flex-col gap-4 justify-center items-center sm:flex-row" action="https://docs.google.com/forms/d/e/1FAIpQLSeiKzwMFyy_dV9_eAJRLj663ViiB0F08ny8sGnuDjfblZWHwg/formResponse" method="GET" target="_blank" onsubmit="return resetAfterSubmit(event);"> <! -- Update if we ever change the form -- > <input type="hidden" name="submit" value="Submit"> <input type="hidden" name="usp" value="pp_url"> <input type="email" name="entry.1548815878" placeholder="Enter your email" data-en-placeholder="Enter your email" data-fr-placeholder="Ton courriel" class="px-6 py-3 text-lg text-white rounded-lg border-2 border-white backdrop-blur-sm transition-all bg-white/10 placeholder-white/70 focus:outline-none focus:border-ice-blue-200"> <input type="hidden" name="entry.1287066897" value=""> <! -- First name -- > <input type="hidden" name="entry.854837853" value="English"> <input type="hidden" name="entry.1307065638" value="__other_option__"> <input type="hidden" name="entry.1307065638.other_option_response" value="frontpage hero: brebeufhackathon.com newsletter field"> <button type="submit" class="flex justify-center items-center px-4 py-3 text-lg font-semibold bg-gradient-to-r from-white rounded-lg shadow-lg transition-all transform to-ice-blue-100 text-ice-blue-700 hover:shadow-xl hover:translate-x-1" data-en="Submit →" data-fr="M'abonner →">Submit →</button> </form>
+[❄️ Register](https://brebeufhackathon.com/#register) [Discord server](https://brebeufhackathon.com/discord) [Advanced challenge](https://brebeufhx-9-0.devpost.com) [Beginner challenges](https://www.hackerrank.com/brebeufhx-1759027297)
 
-<p class="mx-auto mt-4 text-sm text-white/80" data-en="We'll notify you when registration opens and share exclusive updates!" data-fr="On te notifiera quand les inscriptions ouvrent et on te partagera des mises à jour exclusives!">We'll notify you when registration opens and share exclusive updates!</p>
+We'll notify you when registration opens and share exclusive updates!
 
 About Section
 
@@ -35051,51 +25724,25 @@ BrébeufHx is proud to be supported by these amazing organizations and wouldn't 
 
 update md:grid-cols-2 to match amount of sponsors in this section
 
-[Image: La COOP]
+Your logo here
 
-<div class="flex justify-center items-center w-40 h-40 shadow-md mb-2 overflow-hidden bg-ice-blue-100 rounded-lg" data-en="Your logo here" data-fr="Votre logo ici">Your logo here</div>
+[Druide](https://www.antidote.info/)
 
-[Image: inLibro]
+[NordVPN](https://nordvpn.com/hackathons)
 
-[Image: OVHcloud]
+[incogni](https://incogni.com/)
 
-[Image: Morgan Stanley]
+[NordPass](https://nordpass.com/)
 
-[Image: Front Row Ventures]
+[Saily](https://saily.com/)
 
-[Image: Pizza Domino's]
+[NordProtect](https://nordprotect.com/)
 
-[[Image: Druide]](https://www.antidote.info/)
+[nexos.ai](https://nexos.ai)
 
-[Image: Association des Parents de Brébeuf]
+[Pure Buttons](https://mlh.link/purebuttons)
 
-<div class="flex justify-center items-center w-42 h-28 p-2 shadow-md mb-2 overflow-hidden bg-ice-blue-100 rounded-lg"> <img class="object-contain w-auto h-24" src="assets/sponsors/laitqc.png" alt="Producteurs de Lait de l'Outaouais" loading="lazy" /> </div>
-
-[Image: AGEB]
-
-[[Image: NordVPN]](https://nordvpn.com/hackathons)
-
-[[Image: incogni]](https://incogni.com/)
-
-[[Image: NordPass]](https://nordpass.com/)
-
-[[Image: Saily]](https://saily.com/)
-
-[[Image: NordProtect]](https://nordprotect.com/)
-
-[[Image: nexos.ai]](https://nexos.ai)
-
-<div class="flex justify-center items-center w-28 h-28 p-2 shadow-md mb-2 overflow-hidden bg-ice-blue-100 rounded-lg"> <img class="object-contain w-24 h-auto" src="assets/sponsors/cse-cst.png" alt="CSE-CST Canada" loading="lazy" /> </div>
-
-[Image: Quebec Science]
-
-[[Image: Pure Buttons]](https://mlh.link/purebuttons)
-
-[[Image: Off Script]](https://offscriptstore.com)
-
-[Image: Restaurant et Boulangerie Al-Amine]
-
-[Image: Sandwicherie Viet]
+[Off Script](https://offscriptstore.com)
 
 ###### Want to place your brand where tomorrow's innovators are born?
 
@@ -35105,9 +25752,9 @@ Become a sponsor [See prospectus](https://brebeufhackathon.com/assets/sponsors/p
 
 We're proud to work with these amazing organizations.
 
-[[Image: Major League Hacking]](https://mlh.io/?utm_source=brebeufhackathon.com) [[Image: MariHacks]](https://www.marihacks.com/?utm_source=brebeufhackathon.com) [[Image: Tail'ed Community]](https://tailed.ca/?utm_source=brebeufhackathon.com)
+[Major League Hacking](https://mlh.io/?utm_source=brebeufhackathon.com) [MariHacks](https://www.marihacks.com/?utm_source=brebeufhackathon.com) [Tail'ed Community](https://tailed.ca/?utm_source=brebeufhackathon.com)
 
-Bring back with Schedule section <div class="absolute right-0 bottom-0 left-0 h-16 bg-white icicle" style="clip-path: polygon(0 0, 20% 80%, 40% 20%, 60% 80%, 80% 20%, 100% 80%, 100% 100%, 0 100%)"></div>
+Bring back with Schedule section
 
 Register Section
 
@@ -35149,7 +25796,7 @@ Footer
 ### Website 159: brAInwave 2.0
 - Card URL: [https://brainwave.aimsdtu.in/](https://brainwave.aimsdtu.in/)
 - Referenced by: brAInwave 2.0
-- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://brainwave.aimsdtu.in/ Call log:   - navigating to "https://brainwave.aimsdtu.in/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://brainwave.aimsdtu.in/ Call log: - navigating to "https://brainwave.aimsdtu.in/", waiting until "domcontentloaded"
 
 ### Website 160: SB Hacks XII
 - Card URL: [https://sbhacks.com/](https://sbhacks.com/)
@@ -35157,10 +25804,6 @@ Footer
 - Rendered title: SB Hacks XII
 - Final URL: [https://sbhacks.com/](https://sbhacks.com/)
 - Expanded FAQ/accordion controls: 11
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=blue)
-
-[[Image: SB HACKS LOGO]](https://sbhacks.com/)
 
 - [About](https://sbhacks.com/#about)
 - [FAQ](https://sbhacks.com/#faq)
@@ -35170,13 +25813,9 @@ Footer
 
 [2026] sbhacks.com
 
-[Image: SB HACKS XII]
-
 24 Hours Jan 10-11, 2026
 
 [Timeline](https://sbhacks.com/day-of)
-
-[Image: Info Sign]
 
 ##### About Us
 
@@ -35236,205 +25875,101 @@ Feel free to email us with any questions at team@sbhacks.com.
 
 ##### Our Story
 
-[Image: Vines bordering the photos] [Image: Butterflies flying around the photos] [Image: Wizard otter]
-
-- [Image: Hacking Time!]
-
 Hacking Time!
 
 ##### Thank you to our Sponsors!
 
-[[Image: UCSB College of Engineering Logo]](https://engineering.ucsb.edu/) [[Image: Capital One Logo]](https://www.capitalone.com/) [[Image: Chip Agents Logo]](https://chipagents.ai/)
-
-[[Image: Unwrap.ai Logo]](https://www.unwrap.ai/) [[Image: Google Quantum AI Logo]](https://quantumai.google/) [[Image: Deepgram Logo]](https://deepgram.com/) [[Image: Twelve Labs Logo]](https://www.twelvelabs.io/)
-
-[[Image: Guava Logo]](https://guavahealth.com/) [[Image: Telus Digital Logo]](https://www.telusdigital.com/) [[Image: ScOp Venture Capital Logo]](https://scopvc.com/) [[Image: UCSB Open Source Programs Logo]](https://ucospo.net/santa-barbara/)
-
-[[Image: GitHub Logo]](https://github.com) [[Image: Pure Buttons Logo]](https://mlh.link/MLH-PureButtons-hackathons)
-
 ##### Team
 
-Presidents[Image: Mushroom button to view Presidents team] Design[Image: Mushroom button to view Design team] Logistics[Image: Mushroom button to view Logistics team] Sponsorships[Image: Mushroom button to view Sponsorships team] Marketing[Image: Mushroom button to view Marketing team] Development[Image: Mushroom button to view Development team]
+Presidents Design Logistics Sponsorships Marketing Development
 
-[Image: Lotus frame around Ritam Saha's photo]
-
-[Image: Ritam Saha's photo] Ritam Saha
+Ritam Saha
 
 Co-president
 
-[Image: Lotus frame around Emily Zheng's photo]
-
-[Image: Emily Zheng's photo] Emily Zheng
+Emily Zheng
 
 Design Director
 
-[Image: Lotus frame around Celine Zhao's photo]
-
-[Image: Celine Zhao's photo] Celine Zhao
+Celine Zhao
 
 Design Officer
 
-[Image: Lotus frame around Ali Shahid's photo]
-
-[Image: Ali Shahid's photo] Ali Shahid
+Ali Shahid
 
 Logistics Director
 
-[Image: Lotus frame around Ana Carthikeyan's photo]
-
-[Image: Ana Carthikeyan's photo] Ana Carthikeyan
+Ana Carthikeyan
 
 Logistics Officer
 
-[Image: Lotus frame around Vanessa Xu's photo]
+Vanessa Xu
 
-[Image: Vanessa Xu's photo] Vanessa Xu
-
-Logistics Officer
-
-[Image: Lotus frame around Joaquin Del Pego's photo]
-
-[Image: Joaquin Del Pego's photo] Joaquin Del Pego
+Joaquin Del Pego
 
 Sponsorships Director
 
-[Image: Lotus frame around Shelly Parekh's photo]
-
-[Image: Shelly Parekh's photo] Shelly Parekh
+Shelly Parekh
 
 Sponsorships Officer
 
-[Image: Lotus frame around John Lins's photo]
+John Lins
 
-[Image: John Lins's photo] John Lins
+Dylan Lu
 
-Sponsorships Officer
-
-[Image: Lotus frame around Dylan Lu's photo]
-
-[Image: Dylan Lu's photo] Dylan Lu
-
-Sponsorships Officer
-
-[Image: Lotus frame around Shreya Chati's photo]
-
-[Image: Shreya Chati's photo] Shreya Chati
+Shreya Chati
 
 Marketing Director
 
-[Image: Lotus frame around Anika Choudhary's photo]
-
-[Image: Anika Choudhary's photo] Anika Choudhary
+Anika Choudhary
 
 Marketing Officer
 
-[Image: Lotus frame around Ramon Wang's photo]
-
-[Image: Ramon Wang's photo] Ramon Wang
+Ramon Wang
 
 Development Director
 
-[Image: Lotus frame around Aiden Shi's photo]
-
-[Image: Aiden Shi's photo] Aiden Shi
+Aiden Shi
 
 Development Officer
 
-[Image: Lotus frame around Pratik Kulkarni's photo]
+Pratik Kulkarni
 
-[Image: Pratik Kulkarni's photo] Pratik Kulkarni
-
-Development Officer
-
-[Image: Lotus frame around Cindy Zhao's photo]
-
-[Image: Cindy Zhao's photo] Cindy Zhao
+Cindy Zhao
 
 Co-president
 
-[Image: Lotus frame around Sarah Hong's photo]
-
-[Image: Sarah Hong's photo] Sarah Hong
+Sarah Hong
 
 Design Officer
 
-[Image: Lotus frame around Mihir Srivastava's photo]
+Mihir Srivastava
 
-[Image: Mihir Srivastava's photo] Mihir Srivastava
+Pranav Gunhal
 
-Logistics Director
+Ritvick Raghuvanshi
 
-[Image: Lotus frame around Pranav Gunhal's photo]
-
-[Image: Pranav Gunhal's photo] Pranav Gunhal
-
-Logistics Director
-
-[Image: Lotus frame around Ritvick Raghuvanshi's photo]
-
-[Image: Ritvick Raghuvanshi's photo] Ritvick Raghuvanshi
-
-Logistics Officer
-
-[Image: Lotus frame around Calvin Lu's photo]
-
-[Image: Calvin Lu's photo] Calvin Lu
+Calvin Lu
 
 Sponsorships Director
 
-[Image: Lotus frame around Samprita Chakraborty's photo]
+Samprita Chakraborty
 
-[Image: Samprita Chakraborty's photo] Samprita Chakraborty
+Lavinna Wu
 
-Sponsorships Officer
+Henry Jin
 
-[Image: Lotus frame around Lavinna Wu's photo]
+Aman Desai
 
-[Image: Lavinna Wu's photo] Lavinna Wu
+Maitri Allani
 
-Sponsorships Officer
+John Yang
 
-[Image: Lotus frame around Henry Jin's photo]
+Youwen Wu
 
-[Image: Henry Jin's photo] Henry Jin
+Jayden Tan
 
-Sponsorships Officer
-
-[Image: Lotus frame around Aman Desai's photo]
-
-[Image: Aman Desai's photo] Aman Desai
-
-Sponsorships Officer
-
-[Image: Lotus frame around Maitri Allani's photo]
-
-[Image: Maitri Allani's photo] Maitri Allani
-
-Marketing Officer
-
-[Image: Lotus frame around John Yang's photo]
-
-[Image: John Yang's photo] John Yang
-
-Marketing Officer
-
-[Image: Lotus frame around Youwen Wu's photo]
-
-[Image: Youwen Wu's photo] Youwen Wu
-
-Development Officer
-
-[Image: Lotus frame around Jayden Tan's photo]
-
-[Image: Jayden Tan's photo] Jayden Tan
-
-Development Officer
-
-[Image: Lotus frame around Jiaming Liu's photo]
-
-[Image: Jiaming Liu's photo] Jiaming Liu
-
-Development Officer
+Jiaming Liu
 
 ### Website 161: DeltaHacks
 - Card URL: [https://www.deltahacks.com/](https://www.deltahacks.com/)
@@ -35452,15 +25987,11 @@ A hackathon is a type of technical competition! Attendees work with new people o
 - Final URL: [https://www.shehacks.ca/](https://www.shehacks.ca/)
 - Expanded FAQ/accordion controls: 8
 
-[Image: SheHacks X Logo]
-
 #### 10th Iteration of Canada's Largest All-Female and Non-Binary 36 Hr Hackathon
 
 ###### January 9-11, 2026 ✦ Western University ✦ In-person
 
-[[Image: Apply Now!]](https://tally.so/r/rj5keX)
-
-[Image: Our Mission section]
+[Apply Now!](https://tally.so/r/rj5keX)
 
 ##### Our Mission
 
@@ -35468,23 +25999,11 @@ Our vision is to enhance inclusivity by inviting participants from diverse facul
 
 SheHacks+ is dedicated to empowering women and non-binary individuals to grow as innovators, fostering leadership and creativity in a traditionally underrepresented industry. We provide support through building, innovating, and connecting with experts beyond the classroom.
 
-[Image: Star decoration]
-
-[Image: SheHacks Nintendo section]
-
-[Image: Last Year We Had]
-
 ##### This Year's Sponsors !!
 
-[Image: Sponsors]
-
-[[Image: cibc]](https://www.cibc.com) [[Image: td]](https://www.td.com) [[Image: otpp]](https://www.otpp.com) [[Image: ey]](https://www.ey.com) [[Image: cse]](https://www.cse-cst.gc.ca/en) [[Image: rtc]](https://www.rewritingthecode.org)
+[cibc](https://www.cibc.com) [td](https://www.td.com) [otpp](https://www.otpp.com) [ey](https://www.ey.com) [cse](https://www.cse-cst.gc.ca/en) [rtc](https://www.rewritingthecode.org)
 
 ##### Past SheHacks+ Winners
-
-[Image: Demo project screenshot: Space In Accessibility — First Place @ SheHacks+ 9]
-
-[Image: Past SheHacks+ Winners frame]
 
 ###### Space In Accessibility — First Place @ SheHacks+ 9
 
@@ -35494,20 +26013,14 @@ Spaceinaccessibility is a project designed to break barriers in space exploratio
 
 Hacker Olympics is an alternative competition stream designed for beginner hackers with little to no coding experience. Though we encourage everyone (even beginners) to try and develop a hack, we understand that it’s daunting to jump into a hackathon right away! Hacker Olympics is an alternative competition that beginner hackers can apply for. It is meant to develop coding skills and tech knowledge through the duration of SheHacks+.
 
-[[Image: Learn More]](https://www.shehacks.ca/olympics)
-
-[Image: Digital camera]
+[Learn More](https://www.shehacks.ca/olympics)
 
 ##### History of SheHacks+
 
 SheHacks+ traces its roots back over 7 years ago, emerging as a pioneering event aimed at tackling gender disparities in the tech industry head-on. Inspired by the growing recognition of underrepresentation and gender discrimination, the hackathon started as a grassroots initiative, driven by individuals deeply passionate about fostering diversity and inclusivity in technology.
 
-[Image: wits section]
-
 **Building a future for women+ in tech**
 WITS+ is a club at Western University that provides its community with initiatives and resources to inspire. We aim to empower women, women-identifying, and non-binary individuals in tech and equip them with the necessary skills to succeed in the industry.
-
-[Image: phone gif]
 
 ##### FAQ
 
@@ -35644,8 +26157,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Mini-Event Schedule
 
-##### Table
-
 ###### Row 1: Hacking with GitHub Copilot
 
 - Day (ET): Friday (ET)
@@ -35661,8 +26172,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Hacking with GitHub Copilot
 
 ###### Row 2: Intro to Google AI Studio
-
-- Day (ET): Friday (ET)
 
 - PT: 11:30 AM PT
 
@@ -35690,8 +26199,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 4: Skribbl.io Mini-Event
 
-- Day (ET): Saturday (ET)
-
 - PT: 8:00 AM PT
 
 - ET: 11:00 AM ET
@@ -35703,8 +26210,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Skribbl.io Mini-Event
 
 ###### Row 5: Hacky Hangout
-
-- Day (ET): Saturday (ET)
 
 - PT: 5:30 PM PT
 
@@ -35718,11 +26223,7 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Hackathon Schedule
 
-##### Table
-
 ###### Row 1: Opening Ceremony
-
-- Day (ET): Friday (ET)
 
 - PT: 8:00 AM PT
 
@@ -35736,8 +26237,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 2: Live Q&A
 
-- Day (ET): Friday (ET)
-
 - PT: 8:10 AM PT
 
 - ET: 11:10 AM ET
@@ -35749,8 +26248,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Live Q&A
 
 ###### Row 3: 36 Hours of Hacking Left
-
-- Day (ET): Friday (ET)
 
 - PT: 7:00 PM PT
 
@@ -35764,8 +26261,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 4: 24 Hours of Hacking Left
 
-- Day (ET): Saturday (ET)
-
 - PT: 7:00 AM PT
 
 - ET: 10:00 AM ET
@@ -35777,8 +26272,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: 24 Hours of Hacking Left
 
 ###### Row 5: Initial Submission due on Devpost
-
-- Day (ET): Sunday (ET)
 
 - PT: 5:00 AM PT
 
@@ -35792,8 +26285,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 6: Hacking Ends / Final Submission due on Devpost
 
-- Day (ET): Sunday (ET)
-
 - PT: 7:00 AM PT
 
 - ET: 10:00 AM ET
@@ -35805,8 +26296,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Hacking Ends / Final Submission due on Devpost
 
 ###### Row 7: Closing Stream & Winners Announced (Approximately)
-
-- Day (ET): Sunday (ET)
 
 - PT: 9:15 AM PT
 
@@ -35857,7 +26346,11 @@ We empower hackers!
 - Final URL: [https://pechacks.org/](https://pechacks.org/)
 - Expanded FAQ/accordion controls: 16
 
-PRELOADER <div id="preloader"> <div class="loader"> <div class="text"><span>PECHACKS</span></div> <div class="text"><span>PECHACKS</span></div> <div class="text"><span>PECHACKS</span></div> <div class="text"><span>PECHACKS</span></div> <div class="text"><span>PECHACKS</span></div> <div class="text"><span>PECHACKS</span></div> <div class="text"><span>PECHACKS</span></div> <div class="text"><span>PECHACKS</span></div> <div class="text"><span>PECHACKS</span></div> <div class="line"></div> </div> </div> NAVBAR
+PRELOADER
+
+PECHACKS
+
+NAVBAR
 
 Mobile Navigation
 
@@ -35885,9 +26378,19 @@ Visit 2.0
 
 NEW APPLY BUTTONS
 
-[Watch 3.0 After Movie](https://youtu.be/jhfaQ4hmcxc?si=En4RL8fiVibW-luJ) <a href="https://docs.google.com/forms/d/e/1FAIpQLScUTsP3sUL4erhowbtNXd06VNQTKlmz0mFT5ZtV0LwEu3uCsw/viewform" target="_blank" style="text-decoration: none"> <button class="home-apply-btn schools cursor-target"> High School Form </button> </a>
+[Watch 3.0 After Movie](https://youtu.be/jhfaQ4hmcxc?si=En4RL8fiVibW-luJ) [High School Form](https://docs.google.com/forms/d/e/1FAIpQLScUTsP3sUL4erhowbtNXd06VNQTKlmz0mFT5ZtV0LwEu3uCsw/viewform)
 
-Timer Container <div class="home-timer-container"> <div class="home-timer"> <div class="home-timer-unit"> <div class="home-timer-value" style="font-family: 'Outfit', sans-serif" id="homeDays"> 00 </div> <div class="home-timer-label">Days</div> </div> <div class="home-timer-unit"> <div class="home-timer-value" style="font-family: 'Outfit', sans-serif" id="homeHours"> 00 </div> <div class="home-timer-label">Hours</div> </div> <div class="home-timer-unit"> <div class="home-timer-value" style="font-family: 'Outfit', sans-serif" id="homeMinutes"> 00 </div> <div class="home-timer-label">Minutes</div> </div> <div class="home-timer-unit"> <div class="home-timer-value" style="font-family: 'Outfit', sans-serif" id="homeSeconds"> 00 </div> <div class="home-timer-label">Seconds</div> </div> </div> </div>
+Timer Container
+
+00
+
+Days
+
+Hours
+
+Minutes
+
+Seconds
 
 About section starts
 
@@ -35909,15 +26412,11 @@ Registrations (Large Box)
 
 10,000
 
-+
-
 Registrations
 
 Colleges (Small Box)
 
 360
-
-+
 
 Colleges
 
@@ -35925,13 +26424,9 @@ Cities (Small Box)
 
 80
 
-+
-
 Cities
 
 Hackers (Small Box)
-
-₹
 
 40
 
@@ -35943,15 +26438,11 @@ Projects (Small Box)
 
 100
 
-+
-
 Projects
 
 Prize Pool (Large Box)
 
 500
-
-+
 
 Hackers
 
@@ -35979,13 +26470,9 @@ Mrs. C Vijayarajeswari
 
 ###### Mrs. C Vijayarajeswari
 
-Director
-
 Dr. Saranya Sree Sakthi Kumar
 
 ###### Dr. Saranya Sree Sakthi Kumar
-
-Director
 
 CO PATRONS
 
@@ -36027,78 +26514,6 @@ Gallery Section
 
 ##### G A L L E R Y
 
-[Image: img01]
-
-[Image: img02]
-
-[Image: img03]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
-[Image: img04]
-
 Glimpse Section
 
 GLIMPSE
@@ -36109,31 +26524,75 @@ domain section starts
 
 ##### D O M A I N S
 
-[Image: Digital Healthcare]
-
 ##### HEALTHCARE
-
-[Image: FinTech]
 
 ##### FINTECH
 
-[Image: Education Technology]
-
 ##### EDUTECH
-
-[Image: Digital Healthcare]
 
 ##### SUSTAINABILITY & GREEN TECH
 
-[Image: FinTech]
-
 ##### OPEN INNOVATION
-
-[Image: Education Technology]
 
 ##### SCHOOL TRACK
 
-timeline section starts <div class="timeline-section"> <div class="timeline-container"> Timeline Header <div class="section-heading about-not-selectable"> <h1 class="heading-shadow about-not-selectable">TIMELINE</h1> <h2 class="heading-small"> <div> <div>T</div> </div> <div> <div>I</div> </div> <div> <div>M</div> </div> <div> <div>E</div> </div> <div> <div>L</div> </div> <div> <div>I</div> </div> <div> <div>N</div> </div> <div> <div>E</div> </div> </h2> </div> <div class="timeline-component"> <div class="timeline-track"> <div class="timeline-progress" id="timeline-progressBar"></div> </div> <div class="timeline-events"> <div class="timeline-event"> <div class="timeline-event-content timeline-event-content-left"> <div class="timeline-event-badge">Phase 1</div> <div class="timeline-event-date">Registration Starts</div> <div class="timeline-event-description active"> 18th September 2025 </div> </div> <div class="timeline-event-center"> <div class="timeline-event-marker active"></div> </div> <div class="timeline-event-content timeline-event-content-right"></div> </div> <div class="timeline-event"> <div class="timeline-event-content timeline-event-content-left"></div> <div class="timeline-event-center"> <div class="timeline-event-marker"></div> </div> <div class="timeline-event-content timeline-event-content-right"> <div class="timeline-event-badge">Phase 2</div> <div class="timeline-event-date"> Early Bird Submissions Ends </div> <div class="timeline-event-description active"> 15th October 2025 </div> </div> </div> <div class="timeline-event"> <div class="timeline-event-content timeline-event-content-left"> <div class="timeline-event-badge">Phase 3</div> <div class="timeline-event-date"> Registration & Idea Submissions Ends </div> <div class="timeline-event-description active"> 30th October 2025 </div> </div> <div class="timeline-event-center"> <div class="timeline-event-marker active"></div> </div> <div class="timeline-event-content timeline-event-content-right"></div> </div> <div class="timeline-event"> <div class="timeline-event-content timeline-event-content-left"></div> <div class="timeline-event-center"> <div class="timeline-event-marker"></div> </div> <div class="timeline-event-content timeline-event-content-right"> <div class="timeline-event-badge">Phase 4</div> <div class="timeline-event-date"> Rollout of Shortlisted Teams </div> <div class="timeline-event-description active"> 27th November 2025 </div> </div> </div> <div class="timeline-event"> <div class="timeline-event-content timeline-event-content-left"> <div class="timeline-event-badge">Phase 5</div> <div class="timeline-event-date">Teams RSVP Begins</div> <div class="timeline-event-description active"> 30th November 2025 </div> </div> <div class="timeline-event-center"> <div class="timeline-event-marker active"></div> </div> <div class="timeline-event-content timeline-event-content-right"></div> </div> <div class="timeline-event"> <div class="timeline-event-content timeline-event-content-left"></div> <div class="timeline-event-center"> <div class="timeline-event-marker"></div> </div> <div class="timeline-event-content timeline-event-content-right"> <div class="timeline-event-badge">Phase 6</div> <div class="timeline-event-date">Team Mentoring Begins</div> <div class="timeline-event-description active"> 15th December 2025 </div> </div> </div> <div class="timeline-event"> <div class="timeline-event-content timeline-event-content-left"> <div class="timeline-event-badge">Phase 7</div> <div class="timeline-event-date">Hackathon Starts</div> <div class="timeline-event-description active"> 27th December 2025 </div> </div> <div class="timeline-event-center"> <div class="timeline-event-marker active"></div> </div> <div class="timeline-event-content timeline-event-content-right"></div> </div> <div class="timeline-event"> <div class="timeline-event-content timeline-event-content-left"></div> <div class="timeline-event-center"> <div class="timeline-event-marker"></div> </div> <div class="timeline-event-content timeline-event-content-right"> <div class="timeline-event-badge">Final Phase</div> <div class="timeline-event-date">Hackathon Ends</div> <div class="timeline-event-description active"> 28th December 2025 </div> </div> </div> </div> <div class="timeline-fade-overlay-top"></div> <div class="timeline-fade-overlay-bottom"></div> </div> </div> </div> prizes section
+timeline section starts
+
+Timeline Header
+
+# TIMELINE
+
+## T I M E L I N E
+
+Phase 1
+
+Registration Starts
+
+18th September 2025
+
+Phase 2
+
+Early Bird Submissions Ends
+
+15th October 2025
+
+Phase 3
+
+Registration & Idea Submissions Ends
+
+30th October 2025
+
+Phase 4
+
+Rollout of Shortlisted Teams
+
+27th November 2025
+
+Phase 5
+
+Teams RSVP Begins
+
+30th November 2025
+
+Phase 6
+
+Team Mentoring Begins
+
+15th December 2025
+
+Phase 7
+
+Hackathon Starts
+
+27th December 2025
+
+Final Phase
+
+Hackathon Ends
+
+28th December 2025
+
+prizes section
 
 Prizes Header
 
@@ -36143,8 +26602,6 @@ Prizes Header
 
 2ND PLACE (Left on Desktop, Middle on Mobile)
 
-[Image: Rank 2]
-
 ##### Runner Up
 
 ₹75,000
@@ -36153,8 +26610,6 @@ Prizes Header
 
 1ST PLACE (Center on Desktop, Top on Mobile)
 
-[Image: Rank 1]
-
 ##### Champion
 
 ₹1,00,000
@@ -36162,8 +26617,6 @@ Prizes Header
 [View](https://devfolio.co/projects/disha-ecosystem-6973)
 
 3RD PLACE (Right on Desktop, Bottom on Mobile)
-
-[Image: Rank 3]
 
 ##### 2nd Runner Up
 
@@ -36219,8 +26672,6 @@ Track 02
 
 ##### Google Gemini
 
-**Perks:**
-
 - Advanced AI models (chat, vision, code, UI automation)
 - Powerful API for GenAI apps
 - Seamless integration with Google Cloud
@@ -36247,8 +26698,6 @@ Track 03
 
 ##### ElevenLabs
 
-**Perks:**
-
 - Human-like AI voice generation
 - Text-to-speech & voice agents
 - Emotionally expressive audio
@@ -36260,8 +26709,6 @@ Track 4: OpenRouter
 Track 04
 
 ##### OpenRouter
-
-**Perks:**
 
 - Access multiple AI models (OpenAI, Claude, Llama, etc.) via one API
 - Easy model switching & cost control
@@ -36275,8 +26722,6 @@ Track 05
 
 ##### DigitalOcean
 
-**Perks:**
-
 - $200 free cloud credits
 - GPU droplets & AI infrastructure
 - Easy app deployment
@@ -36288,8 +26733,6 @@ Track 6: Cloudflare
 Track 06
 
 ##### Cloudflare
-
-**Perks:**
 
 - Cloudflare Workers & Workers AI
 - Serverless hosting, storage, security
@@ -36303,8 +26746,6 @@ Track 07
 
 ##### Solana
 
-**Perks:**
-
 - Ultra-fast blockchain
 - Near-zero transaction fees
 - Ideal for DeFi, games, payments
@@ -36316,8 +26757,6 @@ Track 8: Aptos
 Track 08
 
 ##### Aptos
-
-**Perks:**
 
 - High-performance Layer 1 blockchain
 - Fast transactions with low fees
@@ -36331,8 +26770,6 @@ Track 09
 
 ##### Orkes Conductor
 
-**Perks:**
-
 - Powerful *workflow orchestration* platform
 - Easily build and manage *FinTech workflows*
 - Supports microservices, APIs, and event-driven systems
@@ -36345,8 +26782,6 @@ Track 10
 
 ##### Requestly
 
-**Perks:**
-
 - Modify and intercept *HTTP/HTTPS requests* easily
 - Mock APIs and test frontend without backend changes
 - Boost debugging, testing, and rapid prototyping
@@ -36358,8 +26793,6 @@ Track 11: InsForge
 Track 11
 
 ##### InsForge
-
-**Perks:**
 
 - Instant PostgreSQL, Auth & Storage
 - Auto-generated APIs & Edge Functions
@@ -36387,16 +26820,12 @@ JUDGE 2
 ###### Founder & CEO
 Cloud Engine Labs
 
-JUDGE
-
 JUDGE 3
 
 ##### Kannan K
 
 ###### Chief Technology Officer (CTO)
 ConcertIDC
-
-JUDGE
 
 JUDGE 4
 
@@ -36405,16 +26834,12 @@ JUDGE 4
 ###### Consultant
 Sakz Consulting
 
-JUDGE
-
 JUDGE 5
 
 ##### Aravind Kumar J
 
 ###### Lead Software Engineer
 Freshworks
-
-JUDGE
 
 JUDGE 6
 
@@ -36423,16 +26848,12 @@ JUDGE 6
 ###### SDE (Software Development Engineer)
 Highbrow Technology (Ex-Zoho)
 
-JUDGE
-
 JUDGE 7
 
 ##### Santhosam M
 
 ###### Manager IT
 Calphark
-
-JUDGE
 
 JUDGE 8
 
@@ -36441,8 +26862,6 @@ JUDGE 8
 ###### SOFTWARE ENGINEER MANAGER
 Cognizant Technology Solutions
 
-JUDGE
-
 JUDGE 9
 
 ##### Rajasekar Devaraj
@@ -36450,18 +26869,12 @@ JUDGE 9
 ###### Application Architect
 Cognizant Technology Solutions
 
-JUDGE
-
 MENTOR 1 JUDGE 10 (Sudhakar)
-
-[Image: Sudhakar]
 
 ##### Sudhakar
 
 ###### CEO and Co-Founder
 Vault Infosec
-
-JUDGE
 
 ##### Aakash Dhakshnamoorthy
 
@@ -36489,15 +26902,11 @@ Day 1: December 16, 2025
 
 December 16, 2025
 
-•
-
 6:00 - 8:00 PM
 
 ##### Pitch-perfect: The Art of Pitching Your Product in Hackathons
 
 ###### SPEAKER
-
-[Image: Keerthana M G]
 
 Keerthana M G
 
@@ -36529,243 +26938,37 @@ Hackathon Partners
 
 ###### HACKATHON PARTNER
 
-[[Image: ETHINDIA LOGO]](https://mlh.io/)
-
 Gold Partners
 
 ###### GOLD SPONSORS
-
-[[Image: GIT-HUB LOGO]](https://github.com/) [[Image: DEVFOLIO LOGO]](https://devfolio.co/) [[Image: bolt LOGO]](https://bolt.new/) [[Image: THIRDWEB LOGO]](https://thirdweb.com/) [[Image: CODECRAFTERS LOGO]](https://codecrafters.io/) [[Image: ORKES LOGO]](https://orkes.io/) [[Image: IPROAT LOGO]](https://www.iproat.com/) [[Image: IEEE-madras-section LOGO]](https://ieeemadras.org/) [[Image: GIT-HUB LOGO]](https://eventopia.in/) [[Image: insforge LOGO]](https://insforge.dev/)
 
 Silver Partners
 
 ###### SILVER SPONSORS
 
-[[Image: ETHINDIA LOGO]](https://ethindia2024.devfolio.co/) [[Image: rise-in LOGO]](https://www.risein.com/) [[Image: aptos LOGO]](https://aptosnetwork.com/) [[Image: navan-ai LOGO]](https://navan.ai/) [[Image: navan-ai LOGO]](https://www.skool.com/autom8-plus-by-navanai-4544) [[Image: beeceptor LOGO]](https://beeceptor.com?utm_source=hackathon&utm_campaign=pec_chennai) [[Image: INTERVIEW-CAKE LOGO]](https://www.interviewcake.com/) [[Image: Requestly_LOGO]](https://requestly.com/)
-
 Bronze Partners
 
 ###### BRONZE SPONSORS
-
-[[Image: google-gemini LOGO]](https://gemini.google/) [[Image: eleven-labs LOGO]](https://elevenlabs.io/) [[Image: digital-ocen LOGO]](https://www.digitalocean.com/) [[Image: cloud-flare LOGO]](https://cloudflare.com/) [[Image: solana LOGO]](https://solana.com/) [[Image: open-router LOGO]](https://openrouter.ai/) [[Image: auth0 LOGO]](https://auth0.com/) [[Image: balsamiq LOGO]](https://balsamiq.com) [[Image: nord LOGO]](https://nordpass.com/) [[Image: nordvpn LOGO]](https://nordvpn.com/hackathons) [[Image: saily LOGO]](https://saily.com/) [[Image: incogni LOGO]](https://incogni.com/) [[Image: AOPS LOGO]](https://artofproblemsolving.com/) [[Image: nexosai LOGO]](https://nexos.ai/) [[Image: nordprotect LOGO]](https://nordprotect.com/) [[Image: trikaya LOGO]](https://trikaya.io/) [[Image: beetlx LOGO]](https://trikaya.io/) [[Image: interview-buddy LOGO]](https://interviewbuddy.net/?srsltid=AfmBOoqTSPHc4ymlXWuZhXtvhmKgFLQPbrEqMw-EuZfg35QfV257jcMb) [[Image: xyz LOGO]](https://gen.xyz/) [[Image: slido LOGO]](https://www.slido.com/) [[Image: slido LOGO]](http://rootsprouthub.com) [[Image: hyrup LOGO]](http://hyrup.in/) [[Image: 1000-vibes LOGO]](https://www.1000vibes.com/) [[Image: Certopus LOGO]](https://certopus.com/)
 
 internship Partners
 
 ###### INTERNSHIP PARTNER
 
-[[Image: altruisty LOGO]](https://altruistyinnovation.com/)
-
-[[Image: Blueprint_AI LOGO]](https://www.theblueprintai.com/)
-
 Gaming Partners
 
 ###### GAMING PARTNER
-
-[[Image: spinnow LOGO]](https://play.google.com/store/apps/details?id=com.spinnow.casual)
 
 Community Partners
 
 ###### COMMUNITY PARTNERS
 
-[[Image: avishkaar LOGO]](https://www.instagram.com/avishkaar.aitam?igsh=MXRvZ3NpMDhhZms3bg==)
+[gdg-vit-chennai](https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/)
 
-[[Image: chatrapathi-sivaji-university LOGO]](https://www.linkedin.com/company/gdgoncampus-snscollegeofengineering/)
+[gdg-JEC](https://gdg.community.dev/gdg-on-campus-jeppiaar-engineering-college-chennai-india/)
 
-[[Image: cit-chennai LOGO]](https://gdg.community.dev/gdg-on-campus-chennai-institute-of-technology-chennai-india/)
+[aws-club-sharda-university](https://awscc.dev)
 
-[[Image: CIT-COIMBATORE LOGO]](https://gdg.community.dev/gdg-on-campus-coimbatore-institute-of-technology-coimbatore-india/)
-
-[[Image: IEEE LOGO]](https://www.ieee.org/)
-
-[Image: computer-society LOGO]
-
-[[Image: CNCF LOGO]](https://community.cncf.io/dashboard/kubernetes-madurai/home)
-
-[[Image: CODE-CRAFTERS LOGO]](https://www.instagram.com/codekrafterssrm.rmp?igsh=Znkyb2NzNnEydGF1&utm_source=qr)
-
-[[Image: DSC-SRM-RMP LOGO]](https://developerstudents.club/)
-
-[[Image: GEC-PALAKKAD LOGO]](https://www.instagram.com/gdggecpalakkad?igsh=MWhlbTRvNXpxM2wzNQ==)
-
-[[Image: GRAPHIC-CAFE LOGO]](https://www.instagram.com/nitandhra_graphic_cafe?igsh=OWY0eDBzZnd4OHJx)
-
-[[Image: GURU NAYAR LOGO]](https://gdg.community.dev/gdg-on-campus-guru-nanak-dev-university-amritsar-india/)
-
-[[Image: GVPCE LOGO]](https://gdg.community.dev/gdg-on-campus-gayatri-vidya-parishad-college-of-engineering-visakhapatnam-india/)
-
-[[Image: iilm-university LOGO]](https://gdg.community.dev/gdg-on-campus-iilm-university-greater-noida-india/)
-
-[[Image: indian-data-club LOGO]](https://www.indiandataclub.com/)
-
-[[Image: PAAVAI LOGO]](https://linktr.ee/gdg_oc_paavai)
-
-[[Image: SPEC-NIT-LOGO LOGO]](http://spec.nith.ac.in)
-
-[[Image: srgec(gudlavalleru) LOGO]](https://www.instagram.com/gdg_on_campus_srgec)
-
-[[Image: ssn LOGO]](https://www.ssncodingclub.site)
-
-[[Image: SVCE LOGO]](https://gdg.community.dev/gdg-on-campus-sri-venkateswara-college-of-engineering-tirupati-india/)
-
-[[Image: UNIVERSITY-PETROLEUM LOGO]](https://gdg.community.dev/gdg-on-campus-university-of-petroleum-and-energy-studies-dehradun-india/)
-
-[[Image: 7-ELITES LOGO]](https://linktr.ee/theelites.in)
-
-[[Image: gdg-vit-chennai]](https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/)
-
-[[Image: make-a-ton LOGO]](http://makeaton.in)
-
-[[Image: make-a-ton LOGO]](http://makeaton.in)
-
-[[Image: studlyf LOGO]](https://studlyf.in/home)
-
-[[Image: code-on-jvm LOGO]](https://bento.me/codeonjvmchennai)
-
-[[Image: avishkaar LOGO]](https://www.instagram.com/avishkaar.aitam?igsh=MXRvZ3NpMDhhZms3bg==)
-
-[[Image: chatrapathi-sivaji-university LOGO]](https://www.linkedin.com/company/gdgoncampus-snscollegeofengineering/)
-
-[[Image: cit-chennai LOGO]](https://gdg.community.dev/gdg-on-campus-chennai-institute-of-technology-chennai-india/)
-
-[[Image: CIT-COIMBATORE LOGO]](https://gdg.community.dev/gdg-on-campus-coimbatore-institute-of-technology-coimbatore-india/)
-
-[[Image: IEEE LOGO]](https://www.ieee.org/)
-
-[Image: computer-society LOGO]
-
-[[Image: CNCF LOGO]](https://community.cncf.io/dashboard/kubernetes-madurai/home)
-
-[[Image: CODE-CRAFTERS LOGO]](https://www.instagram.com/codekrafterssrm.rmp?igsh=Znkyb2NzNnEydGF1&utm_source=qr)
-
-[[Image: DSC-SRM-RMP LOGO]](https://developerstudents.club/)
-
-[[Image: GEC-PALAKKAD LOGO]](https://www.instagram.com/gdggecpalakkad?igsh=MWhlbTRvNXpxM2wzNQ==)
-
-[[Image: GRAPHIC-CAFE LOGO]](https://www.instagram.com/nitandhra_graphic_cafe?igsh=OWY0eDBzZnd4OHJx)
-
-[[Image: GURU NAYAR LOGO]](https://gdg.community.dev/gdg-on-campus-guru-nanak-dev-university-amritsar-india/)
-
-[[Image: GVPCE LOGO]](https://gdg.community.dev/gdg-on-campus-gayatri-vidya-parishad-college-of-engineering-visakhapatnam-india/)
-
-[[Image: iilm-university LOGO]](https://gdg.community.dev/gdg-on-campus-iilm-university-greater-noida-india/)
-
-[[Image: indian-data-club LOGO]](https://www.indiandataclub.com/)
-
-[[Image: PAAVAI LOGO]](https://linktr.ee/gdg_oc_paavai)
-
-[[Image: SPEC-NIT-LOGO LOGO]](http://spec.nith.ac.in)
-
-[[Image: srgec(gudlavalleru) LOGO]](https://www.instagram.com/gdg_on_campus_srgec)
-
-[[Image: ssn LOGO]](https://www.ssncodingclub.site)
-
-[[Image: SVCE LOGO]](https://gdg.community.dev/gdg-on-campus-sri-venkateswara-college-of-engineering-tirupati-india/)
-
-[[Image: UNIVERSITY-PETROLEUM LOGO]](https://gdg.community.dev/gdg-on-campus-university-of-petroleum-and-energy-studies-dehradun-india/)
-
-[[Image: 7-ELITES LOGO]](https://linktr.ee/theelites.in)
-
-[[Image: gdg-vit-chennai]](https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/)
-
-[[Image: make-a-ton LOGO]](http://makeaton.in)
-
-[[Image: make-a-ton LOGO]](http://makeaton.in)
-
-[[Image: studlyf LOGO]](https://studlyf.in/home)
-
-[[Image: code-on-jvm LOGO]](https://bento.me/codeonjvmchennai)
-
-[[Image: START-THE-UP LOGO]](https://pechacks.org/linkedin.com/company/start-the-up/)
-
-[[Image: CODENEURAX LOGO]](https://www.codeneurax.in/)
-
-[[Image: D3 LOGO]](https://bento.me/d3community)
-
-[[Image: E-VJIT LOGO]](LinkedIn: https://www.linkedin.com/company/e-cell-vjit/)
-
-[[Image: ESHWARI COE LOGO]](https://gdg.community.dev/gdg-on-campus-sri-eshwar-college-of-engineering-coimbatore-india/)
-
-[[Image: FRESOURCES LOGO]](https://fresources.tech/)
-
-[[Image: GLA-UNIVERSITY LOGO]](https://gdg.community.dev/gdg-on-campus-gla-university-mathura-india/)
-
-[[Image: INTELLEXA LOGO]](https://www.linkedin.com/company/intellexa-rec/)
-
-[[Image: RCC-IOT LOGO]](https://www.instagram.com/gdgoncampus.rcciit/)
-
-[[Image: SDC-CIT-COIMBATORE LOGO]](https://www.linkedin.com/company/sdc-cit/)
-
-[[Image: SVCE-TIRUPATHI LOGO]](https://gdg.community.dev/gdg-on-campus-sri-venkateswara-college-of-engineering-tirupati-india/)
-
-[[Image: SWOC LOGO]](https://gdg.community.dev/events/details/google-gdg-on-campus-kalasalingam-academy-of-research-education-krishnankoil-india-presents-swoc-an-introduction-to-open-source-contribution/)
-
-[[Image: THE-ASCENT-CIRCLET LOGO]](https://pechacks.org/ascentcircle.web.app)
-
-[[Image: THE-STUDENT-SPOT LOGO]](https://bento.me/thestudentspot)
-
-[[Image: CODESAPIENS LOGO]](https://bento.me/codesapiens)
-
-[[Image: SPARK-TECH LOGO]](https://www.instagram.com/sparktechaihub?igsh=MWh3ajVmZjE1YnRsaw==)
-
-[[Image: microsoft-fabric-user-groups LOGO]](https://community.fabric.microsoft.com/t5/Fabric-User-Groups/ct-p/fbc_usergroups)
-
-[[Image: the-dev-army LOGO]](https://thedevarmy.com/)
-
-[[Image: tamboo-baba LOGO]](https://tamboobaba.com/)
-
-[[Image: gdg-JEC]](https://gdg.community.dev/gdg-on-campus-jeppiaar-engineering-college-chennai-india/)
-
-[[Image: aws-club-sharda-university]](https://awscc.dev)
-
-[[Image: HACK-CBS]](https://www.linkedin.com/company/hackcbs/)
-
-[[Image: GHRCE-NAGPUR LOGO]](https://gdg.community.dev/gdg-on-campus-g-h-raisoni-college-of-engineering-nagpur-india/)
-
-[[Image: START-THE-UP LOGO]](https://pechacks.org/linkedin.com/company/start-the-up/)
-
-[[Image: CODENEURAX LOGO]](https://www.codeneurax.in/)
-
-[[Image: D3 LOGO]](https://bento.me/d3community)
-
-[[Image: E-VJIT LOGO]](LinkedIn: https://www.linkedin.com/company/e-cell-vjit/)
-
-[[Image: ESHWARI COE LOGO]](https://gdg.community.dev/gdg-on-campus-sri-eshwar-college-of-engineering-coimbatore-india/)
-
-[[Image: FRESOURCES LOGO]](https://fresources.tech/)
-
-[[Image: GLA-UNIVERSITY LOGO]](https://gdg.community.dev/gdg-on-campus-gla-university-mathura-india/)
-
-[[Image: INTELLEXA LOGO]](https://www.linkedin.com/company/intellexa-rec/)
-
-[[Image: RCC-IOT LOGO]](https://www.instagram.com/gdgoncampus.rcciit/)
-
-[[Image: SDC-CIT-COIMBATORE LOGO]](https://www.linkedin.com/company/sdc-cit/)
-
-[[Image: SVCE-TIRUPATHI LOGO]](https://gdg.community.dev/gdg-on-campus-sri-venkateswara-college-of-engineering-tirupati-india/)
-
-[[Image: SWOC LOGO]](https://gdg.community.dev/events/details/google-gdg-on-campus-kalasalingam-academy-of-research-education-krishnankoil-india-presents-swoc-an-introduction-to-open-source-contribution/)
-
-[[Image: THE-ASCENT-CIRCLET LOGO]](https://pechacks.org/ascentcircle.web.app)
-
-[[Image: THE-STUDENT-SPOT LOGO]](https://bento.me/thestudentspot)
-
-[[Image: CODESAPIENS LOGO]](https://bento.me/codesapiens)
-
-[[Image: SPARK-TECH LOGO]](https://www.instagram.com/sparktechaihub?igsh=MWh3ajVmZjE1YnRsaw==)
-
-[[Image: microsoft-fabric-user-groups LOGO]](https://community.fabric.microsoft.com/t5/Fabric-User-Groups/ct-p/fbc_usergroups)
-
-[[Image: the-dev-army LOGO]](https://thedevarmy.com/)
-
-[[Image: tamboo-baba LOGO]](https://tamboobaba.com/)
-
-[[Image: gdg-JEC]](https://gdg.community.dev/gdg-on-campus-jeppiaar-engineering-college-chennai-india/)
-
-[[Image: aws-club-sharda-university]](https://awscc.dev)
-
-[[Image: HACK-CBS]](https://www.linkedin.com/company/hackcbs/)
-
-[[Image: GHRCE-NAGPUR LOGO]](https://gdg.community.dev/gdg-on-campus-g-h-raisoni-college-of-engineering-nagpur-india/)
+[HACK-CBS](https://www.linkedin.com/company/hackcbs/)
 
 Call to Action
 
@@ -36785,33 +26988,23 @@ Teams Section
 
 Row 1: 1 card
 
-[Image: Profile Picture]
-
 ###### Dr D Anuradha
 
 Lead Organiser
 
 Row 2: 4 cards
 
-[Image: Profile Picture]
-
 ###### Bharanivelan J
 
 Event Director
-
-[Image: Profile Picture]
 
 ###### Keshni B
 
 Event Director
 
-[Image: Profile Picture]
-
 ###### Sarath Kumaran P
 
 Tech Lead
-
-[Image: Profile Picture]
 
 ###### Praveen M
 
@@ -36819,25 +27012,17 @@ Outreach head
 
 Row 3: 4 cards
 
-[Image: Profile Picture]
-
 ###### Aakash M
 
 Media Head
-
-[Image: Profile Picture]
 
 ###### Alen Rex T
 
 Editorial Head
 
-[Image: Profile Picture]
-
 ###### Gopika V
 
 Outreach
-
-[Image: Profile Picture]
 
 ###### Hemkumar N
 
@@ -36845,25 +27030,17 @@ Web Ops
 
 Row 4: 4 cards
 
-[Image: Profile Picture]
-
 ###### Nancy Margaret B
 
 Sponsorship
-
-[Image: Profile Picture]
 
 ###### Rohit M
 
 Design & Media
 
-[Image: Profile Picture]
-
 ###### Surya R M
 
 Hospitality
-
-[Image: Profile Picture]
 
 ###### Vignesh R
 
@@ -36945,7 +27122,7 @@ Are only B.Tech or B.E students eligible to participate? +
 
 No, students pursuing M.Tech or M.E are also eligible to participate in this hackathon.
 
-footer section [[Image: Major]](https://mlh.io/apac?utm_source=apac-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white) Scroll to Top Progress Button
+footer section [Major](https://mlh.io/apac?utm_source=apac-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white) Scroll to Top Progress Button
 
 ### Website 166: Global Hack Week: AI/ML Week
 - Card URL: [https://events.mlh.io/events/12943-global-hack-week-ai-ml-week](https://events.mlh.io/events/12943-global-hack-week-ai-ml-week)
@@ -37027,15 +27204,11 @@ We empower hackers!
 - Final URL: [https://www.mlh.com/](https://www.mlh.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: MLH isometric hero illustration]
-
 #### The World's Largest Developer Community
 
 Hackathons, fellowships, and DEV's online community. 5 million software creators learn, build, and share together.
 
 [Attend an Event](https://www.mlh.com/seasons/2026/events)
-
-[Image: hackathon]
 
 5M+
 
@@ -37061,12 +27234,6 @@ MLH is where you build. We’ve created a home for software creators at every st
 
 ###### Connect with MLH:
 
-[Image: Jigsaw isometric illustration]
-
-$
-
-[Image: Exploded computer view illustration]
-
 ##### Join Our Fellowship
 
 Learn by doing, on a team.
@@ -37076,11 +27243,11 @@ Each track is a fully remote, 12-week internship alternative where participants 
 
 ###### Find Out More:
 
-[[Image: terminal]Software EngineeringFor aspiring Software Engineers to collaborate on real-world projects from our partners.](https://fellowship.mlh.io/programs/software-engineering?utm_source=mlh&utm_medium=referral&utm_content=Software+EngineeringFor+aspiring+Software+Engineers+to+collaborate+on+real-world+projects+from+our+partners.)
+[Software EngineeringFor aspiring Software Engineers to collaborate on real-world projects from our partners.](https://fellowship.mlh.io/programs/software-engineering?utm_source=mlh&utm_medium=referral&utm_content=Software+EngineeringFor+aspiring+Software+Engineers+to+collaborate+on+real-world+projects+from+our+partners.)
 
-[[Image: gear]Production EngineeringFor aspiring SREs who want to learn the skills required to keep systems running at scale.](https://fellowship.mlh.io/programs/production-engineering-sre?utm_source=mlh&utm_medium=referral&utm_content=Production+EngineeringFor+aspiring+SREs+who+want+to+learn+the+skills+required+to+keep+systems+running+at+scale.)
+[Production EngineeringFor aspiring SREs who want to learn the skills required to keep systems running at scale.](https://fellowship.mlh.io/programs/production-engineering-sre?utm_source=mlh&utm_medium=referral&utm_content=Production+EngineeringFor+aspiring+SREs+who+want+to+learn+the+skills+required+to+keep+systems+running+at+scale.)
 
-[[Image: wallet]Web3 EngineeringFor hackers who want to dive deep into blockchain and decentralized technology.](https://fellowship.mlh.io/programs/web3-engineering?utm_source=mlh&utm_medium=referral&utm_content=Web3+EngineeringFor+hackers+who+want+to+dive+deep+into+blockchain+and+decentralized+technology.)
+[Web3 EngineeringFor hackers who want to dive deep into blockchain and decentralized technology.](https://fellowship.mlh.io/programs/web3-engineering?utm_source=mlh&utm_medium=referral&utm_content=Web3+EngineeringFor+hackers+who+want+to+dive+deep+into+blockchain+and+decentralized+technology.)
 
 ##### Community Thoughts
 
@@ -37088,15 +27255,11 @@ Here is what our community has to say about MLH and DEV.
 
 > "Before MLH, I spent a lot of time learning on my own and constantly questioning if I was making real progress. That shift changed how I see myself in tech and pushed me to take my learning and career growth more seriously."
 
-[Image: Ijeoma Igboagu]
-
 Ijeoma Igboagu
 
 Lagos state university
 
 > "It's helped me develop my skill via hackathons, meet friends I never would have otherwise, collaborate and have friendly competition with hackers in a manner that pushes us all to do better, and learn an incredible amount each and every hackathon!"
-
-[Image: Vishnu Sai]
 
 Vishnu Sai
 
@@ -37104,15 +27267,11 @@ University of Toronto
 
 > "MLH introduced me to my current internship and allowed me to meet many other talented engineers."
 
-[Image: Adrian Omoruyi]
-
 Adrian Omoruyi
 
 University of Toronto
 
 > "I have met incredible people, surrounded myself with a circle who has spirit like me. I started to think more like the MLH fellows, in and out of so many hackathons. I understand products better."
-
-[Image: Tharunya Pathipati]
 
 Tharunya Pathipati
 
@@ -37121,10 +27280,6 @@ Colorado State University
 ##### Company Updates
 
 Read the latest announcements and posts from MLH and DEV.
-
-[Image: Major League Hacking (MLH) Acquires DEV (dev.to)]
-
-[Image: Major League Hacking] [Image: Jon Gottfried]
 
 Jon Gottfried for Major League Hacking FEB 18
 
@@ -37136,31 +27291,21 @@ Jon Gottfried for Major League Hacking FEB 18
 
 [Major League Hacking (MLH) Acquires DEV (dev.to)](https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65?utm_source=mlh&utm_medium=referral&utm_content=Major+League+Hacking+%28MLH%29+Acquires+DEV+%28dev.to%29)
 
-[Image: Major League Hacking] [Image: Jenn Junod]
-
 Jenn Junod for Major League Hacking OCT 22
 
 ###### Major League Hacking (MLH) Partners with Google Cloud’s Gemini to Foster AI-Native Engineering Education
-
-#announcement
 
 2 min read
 
 [Major League Hacking (MLH) Partners with Google Cloud’s Gemini to Foster AI-Native Engineering Education](https://news.mlh.io/major-league-hacking-google-cloud-partnership-10-22-2025?utm_source=mlh&utm_medium=referral&utm_content=Major+League+Hacking+%28MLH%29+Partners+with+Google+Cloud%E2%80%99s+Gemini+to+Foster+AI-Native+Engineering+Education)
 
-[Image: Major League Hacking] [Image: Maria Dunning and Christine Kim]
-
 Maria Dunning and Christine Kim for Major League Hacking JUL 08
 
 ###### Welcome to the 2026 Hackathon Season!
 
-#announcement
-
 5 min read
 
 [Welcome to the 2026 Hackathon Season!](https://news.mlh.io/welcome-to-the-2026-hackathon-season-07-08-2025%22?utm_source=mlh&utm_medium=referral&utm_content=Welcome+to+the+2026+Hackathon+Season%21)
-
-[Image: Major League Hacking] [Image: Maria Dunning]
 
 Maria Dunning for Major League Hacking SEP 18
 
@@ -37176,17 +27321,11 @@ Maria Dunning for Major League Hacking SEP 18
 
 ##### Learn, build, and share with our global community of software creators.
 
-[Attend an Event](https://www.mlh.com/seasons/2026/events)
-
-[Image: MLH Tech Stack illustration]
-
 ##### Stay In The Loop
 
 Find out about our upcoming programs, offers, and more by subscribing to MLH’s monthly hacker newsletter.
 
 Subscribe
-
-/$
 
 ### Website 168: HackSussex GameJam 2025
 - Card URL: [https://www.hacksussex.com/](https://www.hacksussex.com/)
@@ -37194,8 +27333,6 @@ Subscribe
 - Rendered title: HackSussex
 - Final URL: [https://www.hacksussex.com/](https://www.hacksussex.com/)
 - Expanded FAQ/accordion controls: 0
-
-[Image: Hack Sussex Logo]
 
 [Gallery](https://www.hacksussex.com/gallery)
 
@@ -37211,19 +27348,7 @@ Subscribe
 
 Contact Us
 
-[Gallery](https://www.hacksussex.com/gallery)
-
-[Sponsors](https://www.hacksussex.com/sponsors)
-
-[All Events](https://www.hacksussex.com/events)
-
-[Committee](https://www.hacksussex.com/committee)
-
 [FAQ](https://www.hacksussex.com/faq)
-
-[Merch Store](https://hacksussex.square.site)
-
-[Image: Hack Sussex Logo]
 
 The University of Sussex computing society hosting hackathons, workshops, socials, and collaborative events for students of all skill levels. We bring together designers, developers, and problem-solvers to build, learn, and experiment in an inclusive, creative environment. Use the form below to sign up to get alerted about new events!
 
@@ -37232,14 +27357,6 @@ The University of Sussex computing society hosting hackathons, workshops, social
 Interested in supporting our events? Click the button below to get in touch
 
 Enquire about sponsoring
-
-[Image: Electric Square]
-
-[Image: EDF]
-
-[Image: BCS]
-
-[Image: Hastings Direct]
 
 #### See for yourself
 
@@ -37263,19 +27380,13 @@ Learn More
 
 Create games under time pressure with unique themes and challenges.
 
-Learn More
-
 ##### PwnSussex
 
 Hands-on learning events led by industry professionals and experienced mentors.
 
-Learn More
-
 ##### Coder’s Cup
 
 Competitive programming challenges designed to test problem-solving skills.
-
-Learn More
 
 ### Website 169: HackSheffield10
 - Card URL: [https://hacksheffield.uk/](https://hacksheffield.uk/)
@@ -37305,12 +27416,6 @@ Hope to see you next year!
 00 seconds
 
 Hosted By
-
-[Image: CompSoc Mascot: Kevin the Keycap]
-
-[Image: Sheffield CompSoc]
-
----
 
 ##### Frequently Asked Questions
 
@@ -37346,45 +27451,15 @@ Do I need loads of experience to participate?
 
 Not at all! HackSheffield is a great place to learn new skills, meet new people, and have fun. We'll have workshops and mentors to help you out.
 
----
-
 #### Sponsors
 
 ##### Gold Sponsors
 
-[Image: Reply Logo]
-
 ##### Silver Sponsors
-
-[Image: Grafana Logo]
-
-[Image: Frasers Group Logo]
 
 ##### Some Prizes Provided By
 
-[Image: TPP Logo]
-
 ##### Partners
-
-[Image: Major League Hacking Logo]
-
-[Image: Hackathons UK Logo]
-
-[Image: Sheffield Tech Societies Logo]
-
-[Image: CompSoc Logo]
-
-[Image: ShefESH Logo]
-
-[Image: SWICS Logo]
-
-[Image: GameDev Logo]
-
-[Image: DataSoc Logo]
-
-[Image: TechVision Logo]
-
----
 
 ##### Event Schedule
 
@@ -37480,8 +27555,6 @@ Not at all! HackSheffield is a great place to learn new skills, meet new people,
 
 ##### Table
 
-###### Row 1: 10:00
-
 - 09:00: 10:00
 
 - Morning Snacks: Morning Walk around Campus
@@ -37498,11 +27571,7 @@ Not at all! HackSheffield is a great place to learn new skills, meet new people,
 
 - Morning Snacks: Judging + Closing ceremony
 
----
-
 #### Gallery
-
-[Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image] [Image: Gallery Image]
 
 ### Website 170: Polihacks- CIS by Wolfram
 - Card URL: [https://www.polihacks.dev/](https://www.polihacks.dev/)
@@ -37510,8 +27579,6 @@ Not at all! HackSheffield is a great place to learn new skills, meet new people,
 - Rendered title: Polihacks
 - Final URL: [https://www.polihacks.dev/](https://www.polihacks.dev/)
 - Expanded FAQ/accordion controls: 7
-
-<div class="mhl-logo"> <img src="./images/mlh-official.png"> </div>
 
 2025
 
@@ -37522,8 +27589,6 @@ by CIS
 22-23 Nov 2025
 
 Sign-up!
-
-[Image: Hackathon]
 
 ACERCA DE
 
@@ -37543,7 +27608,23 @@ REGISTRATE!
 
 Todos son bienvenidos, pero la experiencia está enfocada principalmente a estudiantes universitarios alrededor del mundo, que cuenten con habilidades técnicas y estén cerca de terminar sus carreras o que terminaron el último año.
 
-<section class="agenda" id="agenda"> <div class="row justify-content-center"> <div class="col-md-1 col-2 d-none d-md-block section-title" id="agenda-text"> <p><span class="yellow-letter">A</span>GENDA</p> </div> <div class="col-10 col-lg-5 col-md-7" id="agenda-content"> <p id="agenda-header" class="d-md-none"> <span class="yellow-letter">A</span>GENDA </p> <p id="agenda-header1"> 21, 22 & 23 </p> <p id="agenda-header2"> January 2022 </p> <p class="agenda-day"> Friday </p> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> <p class="agenda-day"> Saturday </p> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> <p class="agenda-day"> Sunday </p> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> <div class="event-card"> <p> Title </p> <p> Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity. </p> </div> </div> </div> </div> </section>
+AGENDA
+
+AGENDA
+
+21, 22 & 23
+
+January 2022
+
+Friday
+
+Title
+
+Over three days the hackers will be immersed in a propitious atmosphere stimulate ingenuity and creativity.
+
+Saturday
+
+Sunday
 
 PATROCINADORES
 
@@ -37557,17 +27638,27 @@ Desde pequeña me he distinguido por mi carisma, entusiasmo y compromiso. Me gus
 
 Con el sueño de pertenecer al Instituto Politécnico Nacional, estudié en la Vocacional 1 “Gonzalo Vázquez Vela” y logré ingresar a la UPIITA, donde actualmente curso el quinto semestre de Ingeniería en Telemática. Formo parte de la escolta institucional y del capítulo IEEE, espacios donde sigo creciendo profesional y personalmente.Mi camino ha estado guiado por el esfuerzo, la disciplina y el amor por lo que hago. Cada experiencia me impulsa a seguir cumpliendo mis metas y a dar lo mejor de mí en cada etapa de mi vida.
 
-<div id="facilitators" class="row justify-content-center"> <div class="col-10"> <p lang="english" class="partners-subtitles">Facilitators</p> </div> <div class="col-10"> <p lang="español" class="partners-subtitles">Organizadores</p> </div> <div class="col-12 col-md-6"> <div id="carouselFacilitators" class="carousel slide" data-bs-ride="carousel"> <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselFacilitators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button> <button type="button" data-bs-target="#carouselFacilitators" data-bs-slide-to="1" aria-label="Slide 2"></button> <button type="button" data-bs-target="#carouselFacilitators" data-bs-slide-to="2" aria-label="Slide 3"></button> <button type="button" data-bs-target="#carouselFacilitators" data-bs-slide-to="3" aria-label="Slide 4"></button> <button type="button" data-bs-target="#carouselFacilitators" data-bs-slide-to="4" aria-label="Slide 5"></button> <button type="button" data-bs-target="#carouselFacilitators" data-bs-slide-to="5" aria-label="Slide 6"></button> </div> <div class="carousel-inner"> <div class="carousel-item active"> <div class="d-block w-100"> <div class="row justify-content-center"> <div class="card" style="width: 18rem;"> <img class="card-img-top fac-img" src="./images/facilitators/camarena.jpeg" alt="Card image cap"> <div class="card-body"> <h5 class="card-title">Alberto Camarena</h5> <span class="badge badge-GDSC">GDSC</span> <p class="card-text">Front End Developer en Be-Go / Estudiante de Ingeniería Mecatrónica</p> <a href="#" class="btn btn-primary">Go somewhere</a> </div> </div> </div> </div> </div> <div class="carousel-item"> <div class="d-block w-100"> <div class="row justify-content-center"> <div class="card" style="width: 18rem;"> <img class="card-img-top fac-img" src="./images/facilitators/Luis Rodriguez.jpg" alt="Card image cap"> <div class="card-body"> <h5 class="card-title">Luis Rodríguez</h5> <span class="badge badge-GDSC">GDSC</span> <p class="card-text">Mechatronics Engineering Student | Google DSC Lead</p> <!-- <a href="#" class="btn btn-primary">Go somewhere</a> </div> </div> </div> </div> </div> <div class="carousel-item"> <div class="d-block w-100"> <div class="row justify-content-center"> <div class="card" style="width: 18rem;"> <img class="card-img-top fac-img" src="./images/facilitators/Yslen.jpeg" alt="Card image cap"> <div class="card-body"> <h5 class="card-title">Yslen González</h5> <span class="badge badge-GDSC">GDSC</span> <span class="badge badge-WIE">WIE</span> <p class="card-text">Cloud & DevOps Engineer @Improving | WaiTALK Lead @Women in AI Mexico | Core Team @Google DSC IPN - UPIITA | Board of Directors @WIE IEEE UPIITA-IPN</p> <!-- <a href="#" class="btn btn-primary">Go somewhere</a> </div> </div> </div> </div> </div> <div class="carousel-item"> <div class="d-block w-100"> <div class="row justify-content-center"> <div class="card" style="width: 18rem;"> <img class="card-img-top fac-img" src="./images/facilitators/Eri.jpg" alt="Card image cap"> <div class="card-body"> <h5 class="card-title">Erika Maricruz</h5> <span class="badge badge-GDSC">GDSC</span> <span class="badge badge-MLSA">MLSA</span> <p class="card-text">Bionics Engineering Student | IBM Student Advocate | Beta Microsoft Learn Student Ambassador | Content Creator</p> <!-- <a href="#" class="btn btn-primary">Go somewhere</a> </div> </div> </div> </div> </div> <div class="carousel-item"> <div class="d-block w-100"> <div class="row justify-content-center"> <div class="card" style="width: 18rem;"> <img class="card-img-top fac-img" src="./images/facilitators/beto.jpg" alt="Card image cap"> <div class="card-body"> <h5 class="card-title">Alberto Moreno</h5> <span class="badge badge-GDSC">GDSC</span> <span class="badge badge-MLSA">MLSA</span> <p class="card-text">Student at Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas</p> <!-- <a href="#" class="btn btn-primary">Go somewhere</a> </div> </div> </div> </div> </div> <div class="carousel-item"> <div class="d-block w-100"> <div class="row justify-content-center"> <div class="card" style="width: 18rem;"> <img class="card-img-top fac-img" src="./images/facilitators/andi.jpg" alt="Card image cap"> <div class="card-body"> <h5 class="card-title">Erandi García</h5> <span class="badge badge-GDSC">GDSC</span> <span class="badge badge-MLSA">MLSA</span> <span class="badge badge-WIE">WIE</span> <p class="card-text">Vicepresidente en IEEE Women in Engineering</p> <!-- <a href="#" class="btn btn-primary">Go somewhere</a> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div id="aliados" class="row justify-content-center mt-4"> <div class="col-10"> <p lang="english" class="partners-subtitles">Partner communities</p> </div> <div class="col-10"> <p lang="español" class="partners-subtitles">Estas comunidades confían en nosotros</p> </div> <div class="col-12 col-lg-8 col-md-7"> <div id="carouselAliados" class="carousel slide" data-bs-ride="carousel"> <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselAliados" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button> <button type="button" data-bs-target="#carouselAliados" data-bs-slide-to="1" aria-label="Slide 2"></button> <button type="button" data-bs-target="#carouselAliados" data-bs-slide-to="2" aria-label="Slide 3"></button> <button type="button" data-bs-target="#carouselAliados" data-bs-slide-to="3" aria-label="Slide 4"></button> <button type="button" data-bs-target="#carouselAliados" data-bs-slide-to="4" aria-label="Slide 5"></button> </div> <div class="carousel-inner"> <div class="carousel-item active"> <div class="container"> <div class="row justify-content-center"> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/GDSCCU_UAEM_Valle_de_Mexico.png"> </div> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/GDSCPatagonia.png"> </div> </div> </div> </div> <div class="carousel-item"> <div class="container"> <div class="row justify-content-center"> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/GDSCsanpablo.png"> </div> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/GDSCUV.png"> </div> </div> </div> </div> <div class="carousel-item"> <div class="container"> <div class="row justify-content-center"> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/GDSCUMSA.png"> </div> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/GDSC_UANL.png"> </div> </div> </div> </div> <div class="carousel-item"> <div class="container"> <div class="row justify-content-center"> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/GDSCCordoba.png"> </div> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/GDSCUniversidadContinental.png"> </div> </div> </div> </div> <div class="carousel-item"> <div class="container"> <div class="row justify-content-center"> <div class="col-lg-6 col fac-img aliados-images"> <img src="./images/comunidades-aliadas/SG.png"> </div> <div class="col-lg-6 col fac-img aliados-images"> <img src="images/comunidades-aliadas/BBVA.png"> </div> </div> </div> </div> </div> </div> </div> </div> <!-- <div id="mentors" class="row justify-content-center person-car"> <div class="col-10 partners-subtitles"> <p lang="english">Mentors</p> <p lang="español">Mentores</p> </div> <div class="col-12"> <div id="carouselMentores" class="carousel slide" data-bs-ride="carousel"> <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselMentores" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button> <button type="button" data-bs-target="#carouselMentores" data-bs-slide-to="1" aria-label="Slide 2"></button> <button type="button" data-bs-target="#carouselMentores" data-bs-slide-to="2" aria-label="Slide 3"></button> </div> <div class="carousel-inner"> <div class="carousel-item active"> <div class="d-block w-100"> <div class="row justify-content-center"> <img class="col-4" src="./images/"> <div class="col-4 mentor-description"> <p>Ivan García</p> <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta porro quia eum voluptates repellendus libero nobis. Deleniti odio at aspernatur perspiciatis libero accusamus! Iusto blanditiis soluta modi suscipit voluptas praesentium? </p> </div> </div> </div> </div> <div class="carousel-item"> <div class="d-block w-100"> <div class="row justify-content-center"> <img class="col-4" src="./images/mentores/ChristianSanchez.jpg"> <div class="col-4 judge-description"> <p>Cristian Sánchez</p> <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae laboriosam corrupti maxime voluptatibus unde hic eius nam consectetur dolores! Ex doloremque ut dignissimos animi sapiente iste accusantium suscipit quae quasi! </p> </div> </div> </div> </div> <div class="carousel-item"> <div class="d-block w-100"> <div class="row justify-content-center"> <img class="col-4" src="http://images7.memedroid.com/images/UPLOADED43/5385438d7a708.jpeg"> <div class="col-4 judge-description"> <p class="bold">Miguel Torres Vargas</p> <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum cupiditate culpa aut corporis aliquid. Amet temporibus cupiditate nesciunt, aliquam quisquam rerum magni, pariatur libero nobis eos beatae! Consequatur, asperiores quis! </p> </div> </div> </div> </div> </div> </div> </div> </div>
+Facilitators
+
+Organizadores
+
+##### Alberto Camarena
+
+GDSC
+
+Front End Developer en Be-Go / Estudiante de Ingeniería Mecatrónica
+
+[Go somewhere](https://www.polihacks.dev/)
+
+##### Luis Rodríguez
+
+GDSC
+
+Mechatronics Engineering Student | Google DSC Lead
 
 Sección de Eventos Pasados
 
 EVENTOS ANTERIORES
-
-[Image: Evento 1]
-
-[Image: Evento 2]
-
-[Image: Evento 3]
 
 ¿Aceptas el reto?
 
@@ -37591,7 +27682,11 @@ FAQ's
 
 **Claro que sí!** No es obligatorio ser de nacionalidad mexicana. Es más, nos encantaría tener participantes de diversas nacionalidades, esto le agregará bastante diversidad de soluciones al polihacks.
 
-<div class="accordion-item"> <h2 class="accordion-header" id="headingFour"> <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> <p lang="español">¿El evento será presencial?</p> <p lang="english"></p> <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="15" height="15" x="0" y="0" viewBox="0 0 469.33333 469.33333" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path xmlns="http://www.w3.org/2000/svg" d="m437.332031 192h-160v-160c0-17.664062-14.335937-32-32-32h-21.332031c-17.664062 0-32 14.335938-32 32v160h-160c-17.664062 0-32 14.335938-32 32v21.332031c0 17.664063 14.335938 32 32 32h160v160c0 17.664063 14.335938 32 32 32h21.332031c17.664063 0 32-14.335937 32-32v-160h160c17.664063 0 32-14.335937 32-32v-21.332031c0-17.664062-14.335937-32-32-32zm0 0" fill="#ffffff" data-original="#000000" class=""></path></g></svg> </button> </h2> <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample"> <div lang="english" class="accordion-body"> <strong>No, PoliHacks will be completely online.</strong> Due to the COVID-19 contingency, this will also allow a more diverse participation, having students from all over Latin America in our event. </div> <div lang="español" class="accordion-body"> <strong>No, el PoliHacks será totalmente en línea.</strong> Esto debido a la contingencia del COVID-19, además esto permitirá una participación más diversa teniendo dentro de nuestro evento a estudiantes de toda america latina. </div> </div> </div>
+## ¿El evento será presencial?
+
+**No, PoliHacks will be completely online.** Due to the COVID-19 contingency, this will also allow a more diverse participation, having students from all over Latin America in our event.
+
+**No, el PoliHacks será totalmente en línea.** Esto debido a la contingencia del COVID-19, además esto permitirá una participación más diversa teniendo dentro de nuestro evento a estudiantes de toda america latina.
 
 CONTACTO
 
@@ -37610,15 +27705,7 @@ By [Ricardo Araujo Becerra ❤️](https://www.linkedin.com/in/araujo-becerra-ri
 
 Home
 
-[Image: Drag Me!]
-
-[Image: Hack Western Logo]
-
-[Image: Drag Me!]
-
 NOV 21 - NOV 23, 2025
-
-[Image: Hack Western XII]
 
 The world is your canvas.
 
@@ -37634,11 +27721,7 @@ Our sponsors make Hack Western possible.
 
 Thank you to the organizations that support our mission.
 
-[Image: hackwestern]
-
-[[Image: Scotiabank]](https://www.scotiabank.com) [[Image: Canada Life]](https://www.canadalife.com) [[Image: Accenture]](https://www.accenture.com/ca-en) [[Image: P&G]](https://www.pg.ca/en-ca/) [[Image: Sun Life]](https://www.sunlife.ca) [[Image: Manulife]](https://www.manulife.ca) [[Image: Meta]](https://www.meta.com) [[Image: Awake Caffeinated Chocolate]](https://www.awakechocolate.com) [[Image: Leuchtturm 1917]](https://www.leuchtturm1917.ca/) [[Image: Warp]](https://www.warp.dev/) [[Image: Communications Security Establishment Canada]](https://www.cse-cst.gc.ca/en) [[Image: Western Technology Services]](https://wts.uwo.ca/index.html) [[Image: Western Morrissette Institute for Entrepreneurship]](https://entrepreneurship.uwo.ca/)
-
-[Image: notepad]
+[Scotiabank](https://www.scotiabank.com) [Canada Life](https://www.canadalife.com) [Accenture](https://www.accenture.com/ca-en) [P&G](https://www.pg.ca/en-ca/) [Sun Life](https://www.sunlife.ca) [Manulife](https://www.manulife.ca) [Meta](https://www.meta.com) [Awake Caffeinated Chocolate](https://www.awakechocolate.com) [Leuchtturm 1917](https://www.leuchtturm1917.ca/) [Warp](https://www.warp.dev/) [Communications Security Establishment Canada](https://www.cse-cst.gc.ca/en) [Western Technology Services](https://wts.uwo.ca/index.html) [Western Morrissette Institute for Entrepreneurship](https://entrepreneurship.uwo.ca/)
 
 SPONSOR A WEEKEND OF INSPIRATION AND CREATION.
 
@@ -37650,17 +27733,7 @@ About
 
 Create. Collaborate. Innovate.
 
-[Image: Pencils]
-
-[Image: Lightbulb]
-
-[Image: Paintbrush]
-
-[Image: hackwestern]
-
 We cover food, travel, and lodging so you can focus on bringing your ideas to life!
-
-[Image: hackwestern]
 
 Collaborate in teams of up to 4 to create tech projects, while participating in workshops, learning from mentors, competing for prizes, and meet like-minded hackers.
 
@@ -37680,19 +27753,13 @@ Love, The Hack Western 12 Team
 
 A message to those new to hacking
 
-[Image: Mark3d]
-
 Mark3d
 
 Revolutionizing the secondhand online marketplace—with accessible 3D modelling
 
-[Image: Blocks]
-
 Blocks
 
 Scratch-like building blocks for Cairo smart contracts
-
-[Image: Bravo Dispatch]
 
 Bravo Dispatch
 
@@ -37706,71 +27773,71 @@ Here are what other students like you have created at Hack Western.
 
 Git-place
 
-[[Image: Card image 0]](https://devpost.com/software/git-place)
+[Card image 0](https://devpost.com/software/git-place)
 
 Ghostwriter
 
-[[Image: Card image 1]](https://devpost.com/software/ghostwriter-qf69jk)
+[Card image 1](https://devpost.com/software/ghostwriter-qf69jk)
 
 DreamScape
 
-[[Image: Card image 2]](https://devpost.com/software/dreamscape-vbkud5)
+[Card image 2](https://devpost.com/software/dreamscape-vbkud5)
 
 CREATIVE ARTS
 
 Co:herent
 
-[[Image: Card image 0]](https://devpost.com/software/co-herent)
+[Card image 0](https://devpost.com/software/co-herent)
 
 Talk To Duckie
 
-[[Image: Card image 1]](https://dorahacks.io/buidl/20337)
+[Card image 1](https://dorahacks.io/buidl/20337)
 
 Bravo Dispatch
 
-[[Image: Card image 2]](https://dorahacks.io/buidl/20371)
+[Card image 2](https://dorahacks.io/buidl/20371)
 
 AI-POWERED
 
 AR.cade
 
-[[Image: Card image 0]](https://devpost.com/software/ar-cade)
+[Card image 0](https://devpost.com/software/ar-cade)
 
 PacRoyale
 
-[[Image: Card image 1]](https://dorahacks.io/buidl/20381)
+[Card image 1](https://dorahacks.io/buidl/20381)
 
 Credit Crimes
 
-[[Image: Card image 2]](https://devpost.com/software/papers-please-clone)
+[Card image 2](https://devpost.com/software/papers-please-clone)
 
 GAMES
 
 Genee
 
-[[Image: Card image 0]](https://devpost.com/software/tempname-ilm584)
+[Card image 0](https://devpost.com/software/tempname-ilm584)
 
 Harbor.ed
 
-[[Image: Card image 1]](https://devpost.com/software/harbor-ed)
+[Card image 1](https://devpost.com/software/harbor-ed)
 
 Blocks
 
-[[Image: Card image 2]](https://dorahacks.io/buidl/20342)
+[Card image 2](https://dorahacks.io/buidl/20342)
 
 DELIGHTFUL DESIGN
 
 infu
 
-[[Image: Card image 0]](https://devpost.com/software/infu)
+[Card image 0](https://devpost.com/software/infu)
 
 SuperStage
 
-[[Image: Card image 1]](https://devpost.com/software/superstage)
+[Card image 1](https://devpost.com/software/superstage)
 
 HoverTouch
 
-[[Image: Card image 2]](https://devpost.com/software/hovertouch)
+[Card image 2](https://devpost.com/software/hovertouch)
 
 HARDWARE HACKS
 
@@ -37794,160 +27861,30 @@ Meet the team behind the event!
 
 We're here to help bring your ideas to life.
 
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: frame]
-
 Hack Western 12
 
-[Image: dream team] [Image: doodle]
-
-[Image: Frame]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
 CO-DIRECTORS
 
 CO-DIRECTORS
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: codirector]
-
-[Image: Swathi Thushiyandan]
 
 Swathi Thushiyandan Co-Director
 
-[Image: Sarah Huang]
-
 Sarah Huang Co-Director
-
-[Image: headphones] [Image: palette] [Image: cello] [Image: uc-hill]
-
-[Image: design]
-
-[Image: Rachel Chen]
 
 Rachel Chen Design Lead
 
-[Image: dancer]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
 DESIGN
 
 DESIGN
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Jessica Wang]
 
 Jessica Wang Design Organizer
 
-[Image: Anthony Ung]
-
 Anthony Ung Design Organizer
-
-[Image: rainbow] [Image: cat]
-
-[Image: events]
-
-[Image: Marissa Wang]
 
 Marrissa Wang Events Lead
 
-[Image: Jerry Zhang]
-
 Jerry Zhang Events Lead
 
-[Image: bear] [Image: butterfly] [Image: star] [Image: star] [Image: star]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
 EVENTS
 
 EVENTS
@@ -37963,26 +27900,10 @@ SPONSORSHIP
 WEB
 
 WEB
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
-
-[Image: Binding]
 
 [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white) [Dashboard](https://www.hackwestern.com/live)
+[Dashboard](https://www.hackwestern.com/live)
 
 ### Website 172: WHACK 2025
 - Card URL: [https://www.wellesleyhacks.org/](https://www.wellesleyhacks.org/)
@@ -37990,10 +27911,6 @@ WEB
 - Rendered title: WHACK 2025
 - Final URL: [https://www.wellesleyhacks.org/](https://www.wellesleyhacks.org/)
 - Expanded FAQ/accordion controls: 7
-
-[Image: Loading...]
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 Use an anchor so it opens the registration form in a new tab; preserve button styling and accessibility [Apply Now!](https://forms.gle/LBRGVTyU59hJLcfJ7)
 
@@ -38003,7 +27920,7 @@ The Wellesley Hackathon is an annual event that brings together students from mo
 
 Interactive expanding panels (replace old buttons)
 
-Track 1 [Image: Background] Track1 Deep Dive Technical Innovation Track 2 [Image: Background] Track2 Make Waves Social Impact
+Track 1 Track1 Deep Dive Technical Innovation Track 2 Track2 Make Waves Social Impact
 
 Panels for each track
 
@@ -38038,7 +27955,7 @@ Coming up soon! If you are interested in sponsoring Wellesley Hackathon, please 
 ### Website 173: HackRPI 2025
 - Card URL: [https://main.d1tlnv8a82wc4u.amplifyapp.com/](https://main.d1tlnv8a82wc4u.amplifyapp.com/)
 - Referenced by: HackRPI 2025
-- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://main.d1tlnv8a82wc4u.amplifyapp.com/ Call log:   - navigating to "https://main.d1tlnv8a82wc4u.amplifyapp.com/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://main.d1tlnv8a82wc4u.amplifyapp.com/ Call log: - navigating to "https://main.d1tlnv8a82wc4u.amplifyapp.com/", waiting until "domcontentloaded"
 
 ### Website 174: QuackHacks
 - Card URL: [https://quackhacks.org/](https://quackhacks.org/)
@@ -38061,12 +27978,10 @@ spring '27
 
 [Visit 2026.quackhacks.org](https://2026.quackhacks.org/)
 
-$ /$
-
 ### Website 175: HackNYU
 - Card URL: [https://hacknyu.org/](https://hacknyu.org/)
 - Referenced by: HackNYU
-- Capture status: Failed - Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hacknyu.org/ Call log:   - navigating to "https://hacknyu.org/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hacknyu.org/ Call log: - navigating to "https://hacknyu.org/", waiting until "domcontentloaded"
 
 ### Website 176: Technica
 - Card URL: [https://gotechnica.org/](https://gotechnica.org/)
@@ -38083,43 +27998,31 @@ $ /$
 
 Get pumped for Technica 2026!
 
-❮ ❯
-
 #### Explore Our Past Events!
 
-[[Image: Bring Your Ideas to Life]2025Bring Your Ideas to Life](https://2025.gotechnica.org) [[Image: Wonder Awaits]2024Wonder Awaits](https://2024.gotechnica.org) [[Image: Create Your Reality]2023Create Your Reality](https://2023.gotechnica.org) [[Image: Reach New Heights]2022Reach New Heights](https://2022.gotechnica.org) [[Image: Welcome Home]2021Welcome Home](https://2021.gotechnica.org) [[Image: Expand Your Horizons]2020Expand Your Horizons](https://2020.gotechnica.org) [[Image: Go Beyond]2019Go Beyond](https://2019.gotechnica.org) [[Image: Light The Way]2018Light The Way](https://2018.gotechnica.org) [[Image: Three Year Anniversary]2017Three Year Anniversary](https://2017.gotechnica.org) [[Image: Setting World Records]2016Setting World Records](https://2016.gotechnica.org)
+[2025Bring Your Ideas to Life](https://2025.gotechnica.org) [2024Wonder Awaits](https://2024.gotechnica.org) [2023Create Your Reality](https://2023.gotechnica.org) [2022Reach New Heights](https://2022.gotechnica.org) [2021Welcome Home](https://2021.gotechnica.org) [2020Expand Your Horizons](https://2020.gotechnica.org) [2019Go Beyond](https://2019.gotechnica.org) [2018Light The Way](https://2018.gotechnica.org) [2017Three Year Anniversary](https://2017.gotechnica.org) [2016Setting World Records](https://2016.gotechnica.org)
 
-[[Image: YouTube]](https://www.youtube.com/channel/UC-Wo4UqhGUKQEp4o-51VMIw/) [[Image: Twitter/X]](https://twitter.com/gotechnica) [[Image: Instagram]](https://www.instagram.com/gotechnica/) [[Image: Facebook]](https://www.facebook.com/gotechnica/) [[Image: LinkedIn]](https://www.linkedin.com/company/gotechnica) [[Image: TikTok]](https://www.tiktok.com/@gotechnica_) [[Image: Discord]](https://discord.gg/4dS8nB4WYg)
+[YouTube](https://www.youtube.com/channel/UC-Wo4UqhGUKQEp4o-51VMIw/) [Twitter/X](https://twitter.com/gotechnica) [Instagram](https://www.instagram.com/gotechnica/) [Facebook](https://www.facebook.com/gotechnica/) [LinkedIn](https://www.linkedin.com/company/gotechnica) [TikTok](https://www.tiktok.com/@gotechnica_) [Discord](https://discord.gg/4dS8nB4WYg)
 
 #### Frequently Asked Questions
 
 What is a "hackathon"?
 
----
-
 A hackathon is a technology-focused event where individuals and teams work on new projects in a short period of time.
 
 Who is eligible to apply?
-
----
 
 Anyone who identifies as a marginalized gender or otherwise underrepresented in tech may register as a hacker.
 
 Will Technica 2025 be in-person, online, or hybrid?
 
----
-
 Technica 2025 will take place in-person at UMD and virtually via our platform.
 
 Why make a hackathon for underrepresented genders?
 
----
-
 Technica’s goal is to create a welcoming environment where people of underrepresented genders can build cool projects and share their stories!
 
 What is the application process like?
-
----
 
 Just fill out our registration form — it’s free for all participants, thanks to our sponsors!
 
@@ -38128,7 +28031,7 @@ Just fill out our registration form — it’s free for all participants, thanks
 - [Technica Code of Conduct](https://docs.google.com/document/d/10NeTG-sm-0e_LcA58TfyniJN9ANM6zGw/edit?usp=sharing&ouid=104669897381416274191&rtpof=true&sd=true)
 - Contact Us
 
-Back To Top [Image: arrow]
+Back To Top
 
 ### Website 177: DandyHacks
 - Card URL: [https://dandyhacks.net/](https://dandyhacks.net/)
@@ -38149,33 +28052,41 @@ DandyHacks is the University of Rochester's annual **42-hour long hackathon**. T
 
 DandyHacks is very **beginner-friendly**, and we welcome **students from all backgrounds and majors**. Participating in DandyHacks is not just about winning; it is about collaborating with peers, learning from mentors, and gaining valuable experiences. This year, DandyHacks will take place on **Nov 14-16 in the Feldman Ballroom**. We hope to see you there!
 
-[Image: HappyPlant]
-
 ##### Tracks
 
 Choose one track to submit your project into. Each track will have three top winners, and each project may only win in one track. Each track will have different prizes, so pick and choose your track depending on which prize you want to win!
-
-[Image: Pixel fox with closed eyes, a flower by one ear, wearing a purple dress and cream collar, white-tipped tail]
 
 ###### Productivity & Innovation
 
 Build tools that save time, automate the boring, and spark new ideas.
 
-[Image: Pixel flowerpot character with a face and small arms, looking up at a yellow flower]
-
 ###### Interactive Entertainment & Game Design
 
 Create playful, polished experiences across gameplay, art, narrative, and sound.
-
-[Image: Pixel groundhog in a striped hat and blue apron, wide-eyed, holding a log with a flat tail behind]
 
 ###### Creative Immersive Technology
 
 AR/VR and spatial tech that merge digital and physical worlds.
 
-<div class="relative flex items-center justify-center text-xl"> <div class="flex flex-col grow-0 items-center w-full gap-7 lg:gap-11 px-9 lg:px-0 lg:w-[999px] pb-12 box-border text-base lg:text-xl" > <h2 class="text-5xl"> <div id="schedule" class="absolute -top-20"></div> Schedule </h2> <iframe class="airtable-embed" src="https://airtable.com/embed/apptXzBn6KSOHO9rk/shrA0pG3QN5rh3QGo?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc" ></iframe> </div> </div>
+## Schedule
 
-<div class="flex flex-col items-center justify-center py-12 lg:py-20 gap-12 lg:gap-20" > <h2 class="text-5xl"> <div id="prizes" class="absolute -top-20"></div> Prizes </h2> <div class="flex flex-wrap justify-center pointer-events-none max-w-7xl gap-6" > <div class="hover-scale pointer-events-auto flex items-center h-28 p-8 bg-no-repeat bg-contain w-72 md:w-80 lg:w-96 grow-0 rounded-2xl bg-prize-acer-nitro-monitor bg-violet bg-[bottom_-16px_right_-16px]" > <h3>Acer Nitro KG241Y Sbiip 23.8" Monitor</h3> </div> <div class="hover-scale pointer-events-auto flex items-center h-28 p-8 bg-no-repeat bg-contain w-72 md:w-80 lg:w-96 grow-0 rounded-2xl bg-prize-razer-blackwidow bg-violet bg-[bottom_-16px_right_-16px]" > <h3>Razer BlackWidow V4 with Yellow Switches</h3> </div> <div class="hover-scale pointer-events-auto flex items-center h-28 p-8 bg-no-repeat bg-contain w-72 md:w-80 lg:w-96 grow-0 rounded-2xl bg-prize-wireless-photo-printer bg-violet bg-[bottom_-16px_right_-16px]" > <h3>Wireless Photo Printer</h3> </div> <div class="hover-scale pointer-events-auto flex items-center h-28 p-8 bg-no-repeat bg-contain w-72 md:w-80 lg:w-96 grow-0 rounded-2xl bg-prize-jbl-flip-5 bg-violet bg-[bottom_-16px_right_-16px]" > <h3>JBL Flip 5 Speaker</h3> </div> <div class="hover-scale pointer-events-auto flex items-center h-28 p-8 bg-no-repeat bg-contain w-72 md:w-80 lg:w-96 grow-0 rounded-2xl bg-prize-desk-lamp bg-violet bg-[bottom_-8px_right_0px]" > <h3>Desk Lamp</h3> </div> <div class="hover-scale pointer-events-auto flex items-center h-28 p-8 bg-no-repeat bg-contain w-72 md:w-80 lg:w-96 grow-0 rounded-2xl bg-prize-echo-dot bg-violet bg-[bottom_-12px_right_-16px]" > <h3>Echo dot 5th gen</h3> </div> <div class="hover-scale pointer-events-auto flex items-center h-28 p-8 bg-no-repeat bg-contain w-72 md:w-80 lg:w-96 grow-0 rounded-2xl bg-prize-airtag bg-violet bg-[bottom_-16px_right_-16px]" > <h3>AirTag</h3> </div> <div class="hover-scale pointer-events-auto flex items-center h-28 p-8 bg-no-repeat bg-contain w-72 md:w-80 lg:w-96 grow-0 rounded-2xl bg-prize-amazon-fire-stick bg-violet bg-[bottom_-16px_right_0px]" > <h3>Amazon Fire Stick</h3> </div> </div> </div> </div>
+## Prizes
+
+### Acer Nitro KG241Y Sbiip 23.8" Monitor
+
+### Razer BlackWidow V4 with Yellow Switches
+
+### Wireless Photo Printer
+
+### JBL Flip 5 Speaker
+
+### Desk Lamp
+
+### Echo dot 5th gen
+
+### AirTag
+
+### Amazon Fire Stick
 
 ##### Past Projects
 
@@ -38237,78 +28148,6 @@ Nov 13th – 15th · 2,000 Participants · +100K€ Cash Prize Pool
 
 // TRUSTED BY WORLD-CLASS COMPANIES
 
-[Image: Nokia]
-
-[Image: Google]
-
-[Image: Microsoft]
-
-[Image: Cisco]
-
-[Image: Accenture]
-
-[Image: Figma]
-
-[Image: JetBrains]
-
-[Image: Intel]
-
-[Image: Reaktor]
-
-[Image: Rovio]
-
-[Image: OpenAI]
-
-[Image: ElevenLabs]
-
-[Image: Epic Games]
-
-[Image: Kone]
-
-[Image: SAP]
-
-[Image: Linear]
-
-[Image: Huawei]
-
-[Image: McKinsey]
-
-[Image: Nokia]
-
-[Image: Google]
-
-[Image: Microsoft]
-
-[Image: Cisco]
-
-[Image: Accenture]
-
-[Image: Figma]
-
-[Image: JetBrains]
-
-[Image: Intel]
-
-[Image: Reaktor]
-
-[Image: Rovio]
-
-[Image: OpenAI]
-
-[Image: ElevenLabs]
-
-[Image: Epic Games]
-
-[Image: Kone]
-
-[Image: SAP]
-
-[Image: Linear]
-
-[Image: Huawei]
-
-[Image: McKinsey]
-
 // UPCOMING EVENTS
 
 ##### Upcoming
@@ -38342,19 +28181,16 @@ junction_status.sh
 ```text
 $ junction --status
 
-> EDITION       XI
-> SINCE         2015
-> LOCATION      HEL, FIN
-> FORMAT        48H HACKATHON
-> PARTICIPANTS  10,000+
-> NATIONS       90+
-> PARTNERS      200+
-> CHALLENGES    ACTIVE
-> LANGUAGE      EN
-> STATUS        [OPEN]
-
-$ _
-```
+> EDITION XI
+> SINCE 2015
+> LOCATION HEL, FIN
+> FORMAT 48H HACKATHON
+> PARTICIPANTS 10,000+
+> NATIONS 90+
+> PARTNERS 200+
+> CHALLENGES ACTIVE
+> LANGUAGE EN
+> STATUS [OPEN]
 
 // WHY JUNCTION
 
@@ -38399,8 +28235,6 @@ From Aalto to MIT. From Helsinki to Tokyo. Participants from over 90 nationaliti
 48 hours per event
 
 200+ partner companies
-
-[Image: Junction participant in a Junction sweatshirt, lit by pink and cyan neon light]
 
 // Global Reach
 
@@ -38456,16 +28290,6 @@ Non-profit organisation · Helsinki, Finland · Since 2015
 - Final URL: [https://emoryhacks.com/](https://emoryhacks.com/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: bg.webp]
-
-[Image: coral-l.webp]
-
-[Image: coral-r.webp]
-
-[Image: fish-l.webp]
-
-[Image: turtle.webp]
-
 2025 FALL
 
 #### EMORY HACKSEMORY HACKS
@@ -38474,19 +28298,9 @@ Non-profit organisation · Helsinki, Finland · Since 2015
 
 [REGISTRATION CLOSED](https://forms.gle/TV76qB2en6bNJTiM9)
 
-[Image: bg.webp]
-
 ##### ABOUT
 
 Emory Hacks, presented by PROJECT Emory, is a hackathon hosted at Emory University. We are committed to bringing hundreds of students together for an intensive 36-hour hackathon where innovation comes to life. Whether you're a first-time coder or a seasoned developer come bond peers and industry professionals, and join us to push your creative and technical boundaries in this dynamic weekend of building and collaboration.
-
-[Image: bg.webp]
-
-[Image: jellyfish-tr.webp]
-
-[Image: jellyfish-tl.webp]
-
-[Image: jellyfish-bl.webp]
 
 ##### TRACKS
 
@@ -38505,12 +28319,6 @@ Design technology solutions for urban challenges and community improvement. Deve
 ROGUE
 
 Open-ended track for beginners to work on any project they find interesting. No specific theme or requirements, just build something you want to make. Could be a web app, mobile app, game, or any other software project. Focus is on learning and experimenting rather than competing for major prizes. Smaller prize pool compared to main tracks.
-
-[Image: bg.webp]
-
-[Image: rock.webp]
-
-[Image: fish.webp]
 
 ##### SCHEDULE
 
@@ -38532,15 +28340,9 @@ Friday Saturday Sunday
 
 10:00 PM Late-night Snack
 
-[Image: bg2.webp]
-
 ##### SPEAKERS
 
-[Image: Raphael Palacio]Raphael Palacio [Image: Sarah O'Brien]Sarah O'Brien [Image: Sridhar Hallyala]Sridhar Hallyala [Image: Zachary Farley]Zachary Farley [Image: Rosalind McCullough]Rosalind McCullough
-
-[Image: bg.webp]
-
-[Image: rock.webp]
+Raphael Palacio Sarah O'Brien Sridhar Hallyala Zachary Farley Rosalind McCullough
 
 ##### FAQ
 
@@ -38596,26 +28398,24 @@ I still have a question!
 
 Email us at contactemoryhacks@gmail.com
 
-[Image: bg.webp]
-
 #### SPONSORS
 
-[Image: SGK International] [[Image: Emory NLP]](https://www.emorynlp.org/)
+[Emory NLP](https://www.emorynlp.org/)
 
-[[Image: MSBA]](https://goizueta.emory.edu/msba/) [[Image: Siro]](https://www.siro.ai/) [[Image: Foxtrot]](https://www.foxtrot-services.com/) [[Image: Song, Youngsook(송영숙)]](https://github.com/songys) [[Image: Computer Networking Resources]](https://cnrit.com/) [[Image: Tractian]](https://www.tractian.com/)
+[MSBA](https://goizueta.emory.edu/msba/) [Siro](https://www.siro.ai/) [Foxtrot](https://www.foxtrot-services.com/) [Song, Youngsook(송영숙)](https://github.com/songys) [Computer Networking Resources](https://cnrit.com/) [Tractian](https://www.tractian.com/)
 
-[[Image: O'Reilly]](https://www.oreilly.com/) [[Image: Lablup]](https://www.lablup.com/) [[Image: Bawls]](https://www.oreillyauto.com/) [[Image: Lucky Energy]](https://luckybevco.com/) [[Image: Vectus AI]](https://tryvectus.ai/) [[Image: TFA]](https://www.teachforamerica.org/)
+[O'Reilly](https://www.oreilly.com/) [Lablup](https://www.lablup.com/) [Bawls](https://www.oreillyauto.com/) [Lucky Energy](https://luckybevco.com/) [Vectus AI](https://tryvectus.ai/) [TFA](https://www.teachforamerica.org/)
 
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
-### Website 180: UniHack 
+### Website 180: UniHack
 - Card URL: [https://unihack.eu/](https://unihack.eu/)
-- Referenced by: UniHack 
+- Referenced by: UniHack
 - Rendered title: UniHack
 - Final URL: [https://unihack.eu/](https://unihack.eu/)
 - Expanded FAQ/accordion controls: 0
 
-14 - 16 Nov. 2025MX Corneliu Miklosi Museum, Timișoara, RomaniaAn international hackathon for university and high school students, with a focus on solving civic issues.[Image: logo][Schedule](https://unihack.eu/schedule) [Log in](https://unihack.eu/root)[Find out more!](https://unihack.eu/#details)**Noticed a problem or have an idea for your community?**We’re launching an **open call** for civic ideas and challenges at UniHack!If there’s something you think needs fixing — or a cool idea that could make a difference — we want to hear from you. Let’s build solutions that matter, together.Submit your Feedback!48h of non-stop coding300+ international participantscivic tracksinnovative ideas & civic impactexperienced mentors, speakers and trainersawesome prizesno participation feeMore event detailsReasons to comeDevelop new projectsTalks and workshopsNo participation feeLearn new tricksCode & have fun with your teamPatronages Track Partners Networking Night and Conference Partner Sponsors PartnersCheck out this year's location!Our website uses cookies to improve your experience. We'll assume you're ok with this.I agreecontact@unihack.eu[FAQ](https://unihack.eu/faq)[MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)[Privacy Policy](https://unihack.eu/privacy-policy)Copyright © Liga AC - All rights reserved.[#UniHack](https://fb.com/hashtag/unihack) Facebook Pixel Code <script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '630540688129002'); fbq('track', 'PageView'); </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=630540688129002&ev=PageView&noscript=1" /></noscript> End Facebook Pixel Code
+14 - 16 Nov. 2025MX Corneliu Miklosi Museum, Timișoara, RomaniaAn international hackathon for university and high school students, with a focus on solving civic issues.[Schedule](https://unihack.eu/schedule) [Log in](https://unihack.eu/root)[Find out more!](https://unihack.eu/#details)**Noticed a problem or have an idea for your community?**We’re launching an **open call** for civic ideas and challenges at UniHack!If there’s something you think needs fixing — or a cool idea that could make a difference — we want to hear from you. Let’s build solutions that matter, together.Submit your Feedback!48h of non-stop coding300+ international participantscivic tracksinnovative ideas & civic impactexperienced mentors, speakers and trainersawesome prizesno participation feeMore event detailsReasons to comeDevelop new projectsTalks and workshopsNo participation feeLearn new tricksCode & have fun with your teamPatronages Track Partners Networking Night and Conference Partner Sponsors PartnersCheck out this year's location!Our website uses cookies to improve your experience. We'll assume you're ok with this.I agreecontact@unihack.eu[FAQ](https://unihack.eu/faq)[MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)[Privacy Policy](https://unihack.eu/privacy-policy)Copyright © Liga AC - All rights reserved.[#UniHack](https://fb.com/hashtag/unihack) Facebook Pixel Code End Facebook Pixel Code
 
 ### Website 181: GreatUniHack '25
 - Card URL: [https://greatunihack.com/](https://greatunihack.com/)
@@ -38623,8 +28423,6 @@ Email us at contactemoryhacks@gmail.com
 - Rendered title: GreatUniHack
 - Final URL: [https://greatunihack.com/](https://greatunihack.com/)
 - Expanded FAQ/accordion controls: 0
-
-[Image: background ribbon 1] [Image: background ribbon 2]
 
 #### ABOUT
 
@@ -38637,8 +28435,6 @@ Email us at contactemoryhacks@gmail.com
 #### FAQ
 
 #### TEAM
-
-[Image: main logo]
 
 #### MANCHESTER'S GREATEST HACKATHON
 
@@ -38666,31 +28462,7 @@ Email us at contactemoryhacks@gmail.com
 
 #### Furthermore, we take pride in our past achievements, having secured victory in the 2015 autumn season, as well as triumphs in the 2018 and 2019 seasons.
 
-[Image: Slideshow image 5]
-
-[Image: Slideshow image 6]
-
-[Image: Slideshow image 7]
-
-[Image: Slideshow image 0]
-
-[Image: Slideshow image 1]
-
-[Image: Slideshow image 2]
-
-[Image: Slideshow image 3]
-
-[Image: Slideshow image 4]
-
-#### <
-
-#### >
-
-#### Past Events
-
 #### Take a look at our past events and submissions!
-
-[Image: 2022 LOGO]
 
 #### GUH 2022
 
@@ -38698,15 +28470,11 @@ Email us at contactemoryhacks@gmail.com
 
 [View Event](https://greatunihack-2022.devpost.com/)
 
-[Image: 2023 LOGO]
-
 #### GUH 2023
 
 #### 180 attendees
 
 [View Event](https://great-uni-hack-2023.devpost.com/)
-
-[Image: 2024 LOGO]
 
 #### GUH 2024
 
@@ -38714,13 +28482,9 @@ Email us at contactemoryhacks@gmail.com
 
 [View Event](https://greatunihack-2024.devpost.com/)
 
-[Image: 2014 LOGO]
-
 #### GUH 2014
 
 #### 80 attendees
-
-[Image: 2015 LOGO]
 
 #### GUH 2015
 
@@ -38728,15 +28492,11 @@ Email us at contactemoryhacks@gmail.com
 
 [View Event](https://greatunihack-fall-2015.devpost.com/)
 
-[Image: 2016 LOGO]
-
 #### GUH 2016
 
 #### 200 attendees
 
 [View Event](https://2016fgreatunihack.devpost.com/)
-
-[Image: 2017 LOGO]
 
 #### GUH 2017
 
@@ -38744,23 +28504,17 @@ Email us at contactemoryhacks@gmail.com
 
 [View Event](https://greatunihack17.devpost.com/)
 
-[Image: 2018 LOGO]
-
 #### GUH 2018
 
 #### 225 attendees
 
 [View Event](https://greatunihack.devpost.com/)
 
-[Image: 2019 LOGO]
-
 #### GUH 2019
 
 #### 218 attendees
 
 [View Event](https://greatunihack19.devpost.com/)
-
-[Image: 2020 LOGO]
 
 #### GUH 2020
 
@@ -38769,8 +28523,6 @@ Email us at contactemoryhacks@gmail.com
 [View Event](https://greatunihack20.devpost.com/)
 
 #### <-- Swipe to see more -->
-
-#### SCHEDULE
 
 Hover over events for more details • Times subject to change
 
@@ -38786,15 +28538,11 @@ Hover over events for more details • Times subject to change
 
 Saturday 8th November
 
-📝
-
 09:00 AM
 
 Registration Opens
 
 Check in, collect your swag, and get ready for an amazing hackathon experience!
-
-⏰
 
 10:30 AM
 
@@ -38802,15 +28550,11 @@ Registration Closes
 
 Last chance to check in and join the hackathon!
 
-🎉
-
 11:00 AM
 
 Opening Ceremony
 
 Welcome to GreatUniHack! Learn about the rules, prizes, and get inspired.
-
-💻
 
 12:00 PM
 
@@ -38818,59 +28562,41 @@ Hacking Starts
 
 Time to code! Begin working on your amazing projects.
 
-🍕
-
 12:30 PM - 01:30 PM
 
 Lunch
 
 Fuel up with delicious food to keep your energy high.
 
-✈️
-
 02:00 PM - 02:45 PM
 
 Booking.com Workshop
-
-🏃
 
 03:00 PM - 03:45 PM
 
 Reply Workshop
 
-✦
-
 04:00 PM - 04:45 PM
 
 MLH Worshop - Intro to Google AI Studio
-
-🐙
 
 05:00 PM - 05:45 PM
 
 MLH Worshop - Hacking with GitHub Copilot
 
-🤝
-
 06:00 PM - 06:30 PM
 
 MLH TechTogether Meetup
 
-⌨️
-
 06:00 PM
 
 Speed Typing Challenge
-
-🍽️
 
 06:30 PM
 
 Dinner
 
 Enjoy a hearty dinner and network with other participants.
-
-🏨
 
 08:00 PM
 
@@ -38882,39 +28608,27 @@ Move to our overnight venue for continued hacking and rest.
 
 Sunday 9th November
 
-🌙
-
 12:00 AM
 
 Midnight Snack
 
 Late night fuel for those burning the midnight oil.
 
-🎬
-
 01:00 AM
 
 Midnight Screening
-
-⛏️
 
 02:00 AM
 
 Minecraft Games
 
-🎤
-
 04:00 AM
 
 Karaoke / Just Dance
 
-⚡️
-
 07:00 AM
 
 Energy Drink Pong
-
-🏢
 
 08:00 AM
 
@@ -38922,15 +28636,11 @@ Venue Change (UoM Nancy Rothwell Building)
 
 Return to the main venue for the final stretch.
 
-🥐
-
 09:15 AM
 
 Breakfast
 
 Start your final day with a nutritious breakfast.
-
-📤
 
 10:00 AM
 
@@ -38938,15 +28648,11 @@ Submissions Open
 
 Begin submitting your amazing projects for judging.
 
-⏰
-
 12:00 PM
 
 Submission Closes
 
 Final deadline for project submissions.
-
-🍱
 
 12:30 PM
 
@@ -38954,15 +28660,11 @@ Lunch
 
 Last meal together before presentations begin.
 
-👥
-
 13:30 PM
 
 Judging
 
 Judges evaluate all the incredible projects submitted.
-
-🎊
 
 04:30 PM
 
@@ -38970,15 +28672,11 @@ Closing Ceremony
 
 Awards ceremony and celebration of all achievements.
 
-👋
-
 05:00 PM
 
 Event Ends
 
 Thank you for an amazing GreatUniHack 2025!
-
-#### SPONSORS
 
 #### Below are the sponsors making this event possible!
 
@@ -38988,67 +28686,45 @@ Thank you for an amazing GreatUniHack 2025!
 
 What is a hackathon and what can I expect from it?
 
-[Image: Background]
-
 A hackathon is a collaborative event where people come together to solve problems using technology. Work in teams to brainstorm, design, and realise a project over 24 hours, with each creation presented to a panel of judges. Prizes are awarded to the winning teams and mini-events / workshops run throughout. Hackathons are a great way to challenge yourself, learn new skills, and have a great time with new people!
 
 What should I bring to the hackathon?
-
-[Image: Background]
 
 Please do not forget your student ID! This is crucial as we will use this to register you on the day. In addition, you could bring your laptop, charger, any hardware you might need, and any other tools or resources you would like. We also recommend bringing a change of clothes, toiletries, and anything else to stay comfortable during the event. Food and drink will be provided, but you are welcome to bring or buy your own if you prefer.
 
 How do I register for the hackathon?
 
-[Image: Background]
-
 Unfortunately, the registration period for GreatUniHack 2025 has already passed.
 
 Is registration for the event free of charge?
-
-[Image: Background]
 
 Yes, registration is completely free of charge! Feel free to join without any hesitation.
 
 What is the eligibility criteria for participants?
 
-[Image: Background]
-
 You need to be an Undergraduate/Postgraduate at any university and 18+. We encourage all levels of ability to have a go!
 
 How does the competition work
-
-[Image: Background]
 
 There will be a set of challenges or themes available for you to base your project around. Each challenge has its own set of rules, judging criteria, and expected outcome/delivery provided by the challenge setter (sponsors, societies, the organizing team, etc.)
 
 How are teams formed?
 
-[Image: Background]
-
 If you already have a team, you'll be able to register with them when the form opens. If not, there will be plenty of opportunity to join a team at the beginning of the event - hackathons are about meeting new people too! All teams must be 1-4 members.
 
 Are pre-made or previous projects allowed in the hackathon?
-
-[Image: Background]
 
 No, using pre-made or previously submitted projects is considered cheating according to MLH guidelines. If a team or participant is found to have used such work, we are required to report it to MLH, and it may result in disqualification of both the team and the individual involved.
 
 What are the prizes and awards for winners?
 
-[Image: Background]
-
 We have an awesome line-up of prizes for the winners of various challenges. We'll reveal the prizes before the hackathon, so stay tuned!
 
 Will food and drink be provided for participants?
 
-[Image: Background]
-
 We'll provide everyone with main meals, a midnight snack (covering all dietary requirements), as well as snacks and drinks throughout the event. A full menu will be available before the hackathon.
 
 Can I participate in multiple hackathon challenges?
-
-[Image: Background]
 
 Of course you can! Just keep in mind that you have a limited amount of time and resources, so plan wisely!
 
@@ -39062,15 +28738,9 @@ Of course you can! Just keep in mind that you have a limited amount of time and 
 
 #### Shirin
 
-#### Co-Director
-
 #### Tansi
 
-#### Co-Director
-
 #### Tansi
-
-#### Co-Director
 
 #### Archie
 
@@ -39078,27 +28748,15 @@ Of course you can! Just keep in mind that you have a limited amount of time and 
 
 #### Archie
 
-#### Development Lead
-
 #### Kaan
 
 #### Development
 
 #### Kaan
 
-#### Development
-
 #### Shrey
 
-#### Development
-
 #### Shrey
-
-#### Development
-
-#### Qistina
-
-#### PR and Graphics Lead
 
 #### Qistina
 
@@ -39110,35 +28768,17 @@ Of course you can! Just keep in mind that you have a limited amount of time and 
 
 #### Ansh
 
-#### PR and Graphics
+#### Rhea
 
 #### Rhea
 
-#### PR and Graphics
-
-#### Rhea
-
-#### PR and Graphics
+#### Ayesha
 
 #### Ayesha
 
-#### PR and Graphics
-
-#### Ayesha
-
-#### PR and Graphics
-
 #### Tai
 
-#### PR and Graphics
-
 #### Tai
-
-#### PR and Graphics
-
-#### Jonathan
-
-#### Sponsorships Lead
 
 #### Jonathan
 
@@ -39150,15 +28790,11 @@ Of course you can! Just keep in mind that you have a limited amount of time and 
 
 #### Arpan
 
-#### Finance Lead
-
 #### Arjun
 
 #### Logistics Lead
 
 #### Arjun
-
-#### Logistics Lead
 
 #### Palak
 
@@ -39166,31 +28802,15 @@ Of course you can! Just keep in mind that you have a limited amount of time and 
 
 #### Palak
 
-#### Logistics
+#### Yumnaa
 
 #### Yumnaa
 
-#### Logistics
-
-#### Yumnaa
-
-#### Logistics
+#### Satvik
 
 #### Satvik
 
-#### Logistics
-
-#### Satvik
-
-#### Logistics
-
 #### Abdullah
-
-#### Logistics
-
-#### Abdullah
-
-#### Logistics
 
 #### GreatUniHack is an event organised by UniCS, a society for University of Manchester students.
 
@@ -39201,10 +28821,6 @@ Of course you can! Just keep in mind that you have a limited amount of time and 
 #### Sponsorships → sponsors@hackathons.unicsmcr.com
 
 #### © GreatUniHack 2025
-
-[[Image: UniCS logo]](https://unicsmcr.com/) [[Image: University of Manchester logo]](https://www.manchester.ac.uk/) [[Image: MLH 2026 logo]](https://mlh.io/eu?utm_source=eu-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-$ /$
 
 ### Website 182: MakeUC 2025
 - Card URL: [https://makeuc.io/](https://makeuc.io/)
@@ -39225,18 +28841,12 @@ MakeUC is a 24-hour hackathon hosted by IEEE at the University of Cincinnati. Ma
 
 Here, we believe that the most critical challenges must be solved by interdisciplinary and diverse teams. All you need to participate is a passion for technology and bettering the world. You will have tools, APIs, and workshops at your fingertips to help you learn and accomplish your vision. Whether you are an experienced hacker or a complete beginner, you are welcome at MakeUC. We cannot wait to see what you all create!
 
----
-
 The MakeUC hackathon is brought to by
 [IEEE@UC](https://ieee.uc.edu) .
 
-[[Image: IEEE@UC Logo]](https://ieee.uc.edu)
-
----
-
 ###### Past Hackathons
 
-[[Image: MakeUC Logo 2020]Fall 2020](https://makeuc-2020.devpost.com/) [[Image: MakeUC Logo 2021]Fall 2021](https://makeuc-2021.devpost.com/) [[Image: MakeUC Logo 2022]Fall 2022](https://makeuc-2022.devpost.com/) [[Image: MakeUC Logo 2023]Fall 2023](https://makeuc-2023.devpost.com/) [[Image: MakeUC Logo 2024]Fall 2024](https://makeuc-2024.devpost.com/)
+[Fall 2020](https://makeuc-2020.devpost.com/) [Fall 2021](https://makeuc-2021.devpost.com/) [Fall 2022](https://makeuc-2022.devpost.com/) [Fall 2023](https://makeuc-2023.devpost.com/) [Fall 2024](https://makeuc-2024.devpost.com/)
 
 ##### Tracks
 
@@ -39304,19 +28914,13 @@ Security projects demonstrate security concerns/pitfalls, implement solutions to
 
 ###### Adonis
 
----
-
-[[Image: 1819]](https://innovation.uc.edu/)
+[1819](https://innovation.uc.edu/)
 
 ###### Swallowtail
 
----
-
 ###### Morpho
 
----
-
-[[Image: Kloob]](https://www.kloob.app/)
+[Kloob](https://www.kloob.app/)
 
 ### Website 183: UB Hacking 2025
 - Card URL: [https://ubhacking.com/](https://ubhacking.com/)
@@ -39347,8 +28951,6 @@ This is the event timeline for the hackathon.
 
 Event Calendar
 
-[Image: UB Hacking Logo]
-
 ##### See the Action
 
 Watch highlights from previous UB Hacking events and get excited for what's coming!
@@ -39368,8 +28970,6 @@ Get answers to the most frequently asked questions about UB Hacking.
 - Final URL: [https://tamudatathon.com/](https://tamudatathon.com/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: TAMU Datathon logo]](https://tamudatathon.com/)
-
 - [Home](https://tamudatathon.com/#home)
 - [Past Events](https://tamudatathon.com/#past-events)
 - [Team](https://tamudatathon.com/#team)
@@ -39378,97 +28978,21 @@ Get answers to the most frequently asked questions about UB Hacking.
 
 #### We are the largest data science and machine learning focused hackathon in Texas!
 
-$
-
 ##### Past Events
 
-[Image: Datathon Mascot]
+[Fall 2019](https://2019.tamudatathon.com/) [Fall 2020](https://2020.tamudatathon.com/) [Fall 2021](https://2021.tamudatathon.com/) [Fall 2022](https://2022.tamudatathon.com/) [Fall 2023](https://2023.tamudatathon.com/)
 
-[[Image: 2019 Datathon]Fall 2019](https://2019.tamudatathon.com/) [[Image: 2020 Datathon]Fall 2020](https://2020.tamudatathon.com/) [[Image: 2021 Datathon]Fall 2021](https://2021.tamudatathon.com/) [[Image: 2022 Datathon]Fall 2022](https://2022.tamudatathon.com/) [[Image: 2023 Datathon]Fall 2023](https://2023.tamudatathon.com/)
-
-[[Image: 2024 Lite Datathon]Spring 2024](https://2024-lite.tamudatathon.com/) [[Image: 2024 Datathon]Fall 2024](https://2024.tamudatathon.com/) [[Image: 2025 Lite Datathon]Spring 2025](https://2025-lite.tamudatathon.com/) [[Image: 2025 Datathon]Fall 2025](https://2025.tamudatathon.com/) [[Image: 2026 Lite Datathon]Spring 2026](https://2026-lite.tamudatathon.com/)
-
-/$ $
+[Spring 2024](https://2024-lite.tamudatathon.com/) [Fall 2024](https://2024.tamudatathon.com/) [Spring 2025](https://2025-lite.tamudatathon.com/) [Fall 2025](https://2025.tamudatathon.com/) [Spring 2026](https://2026-lite.tamudatathon.com/)
 
 ##### Past Sponsors
-
-[Image: Sponsor logo 1]
-
-[Image: Sponsor logo 2]
-
-[Image: Sponsor logo 3]
-
-[Image: Sponsor logo 4]
-
-[Image: Sponsor logo 5]
-
-[Image: Sponsor logo 6]
-
-[Image: Sponsor logo 7]
-
-[Image: Sponsor logo 8]
-
-[Image: Sponsor logo 9]
-
-[Image: Sponsor logo 10]
-
-[Image: Sponsor logo 11]
-
-[Image: Sponsor logo 12]
-
-[Image: Sponsor logo 13]
-
-[Image: Sponsor logo 14]
-
-[Image: Sponsor logo 15]
-
-[Image: Sponsor logo 16]
-
-[Image: Sponsor logo 1]
-
-[Image: Sponsor logo 2]
-
-[Image: Sponsor logo 3]
-
-[Image: Sponsor logo 4]
-
-[Image: Sponsor logo 5]
-
-[Image: Sponsor logo 6]
-
-[Image: Sponsor logo 7]
-
-[Image: Sponsor logo 8]
-
-[Image: Sponsor logo 9]
-
-[Image: Sponsor logo 10]
-
-[Image: Sponsor logo 11]
-
-[Image: Sponsor logo 12]
-
-[Image: Sponsor logo 13]
-
-[Image: Sponsor logo 14]
-
-[Image: Sponsor logo 15]
-
-[Image: Sponsor logo 16]
-
-/$ $
 
 ##### Meet the Teams
 
 ##### Executive
 
-[Image: Oluwadayo Bamgbelu]
-
 ###### Oluwadayo Bamgbelu
 
 President
-
-[Image: Mallika Parajuli]
 
 ###### Mallika Parajuli
 
@@ -39476,203 +29000,95 @@ Vice-President
 
 ##### Challenges
 
-[Image: Rishab Jadhav]
-
 ###### Rishab Jadhav
 
 Challenges Lead
-
-[Image: Pranav Harwadekar]
 
 ###### Pranav Harwadekar
 
 Challenges
 
-[Image: Nishit Aggarwal]
-
 ###### Nishit Aggarwal
-
-Challenges
-
-[Image: Abhinav Vurakaranam]
 
 ###### Abhinav Vurakaranam
 
-Challenges
-
-[Image: Ali Abouelazam]
-
 ###### Ali Abouelazam
-
-Challenges
-
-[Image: Vu Ha Anh Nguyen]
 
 ###### Vu Ha Anh Nguyen
 
-Challenges
-
-[Image: Dylan Bago]
-
 ###### Dylan Bago
-
-Challenges
-
-[Image: Pranav Nair]
 
 ###### Pranav Nair
 
-Challenges
-
 ##### Dev
-
-[Image: Het Koradia]
 
 ###### Het Koradia
 
 Dev Lead
 
-[Image: Layla Serrano]
-
 ###### Layla Serrano
 
 Dev
 
-[Image: Michael Rao]
-
 ###### Michael Rao
-
-Dev
-
-[Image: Zayd Nadir]
 
 ###### Zayd Nadir
 
-Dev
-
-[Image: Angela Yue]
-
 ###### Angela Yue
-
-Dev
-
-[Image: Aarav Pulsani]
 
 ###### Aarav Pulsani
 
-Dev
-
 ##### Outreach
-
-[Image: Shreyas Kumar]
 
 ###### Shreyas Kumar
 
 Outreach Lead
 
-[Image: Roa Elsaigh]
-
 ###### Roa Elsaigh
 
 Outreach
 
-[Image: Jonathan Jackson]
-
 ###### Jonathan Jackson
-
-Outreach
-
-[Image: Sharon Alex]
 
 ###### Sharon Alex
 
-Outreach
-
 ##### Logistics
-
-[Image: Harshini Srinivasan]
 
 ###### Harshini Srinivasan
 
 Logistics Lead
 
-[Image: Dakota Pound]
-
 ###### Dakota Pound
 
 Logistics
 
-[Image: Ragd Elsaigh]
-
 ###### Ragd Elsaigh
-
-Logistics
-
-[Image: Trey Schaider]
 
 ###### Trey Schaider
 
-Logistics
-
-[Image: Pragya Vetri]
-
 ###### Pragya Vetri
-
-Logistics
-
-[Image: Ryan Dobbelaere]
 
 ###### Ryan Dobbelaere
 
-Logistics
-
-[Image: Ram Pillai]
-
 ###### Ram Pillai
 
-Logistics
-
 ##### Design
-
-[Image: Kendall Nguyen]
 
 ###### Kendall Nguyen
 
 Design Lead
 
-[Image: Antony Quach]
-
 ###### Antony Quach
 
 Design
 
-[Image: Bhavana Venkatesh]
-
 ###### Bhavana Venkatesh
-
-Design
-
-[Image: Jessica Tran]
 
 ###### Jessica Tran
 
-Design
-
-[Image: Naomi Dao]
-
 ###### Naomi Dao
 
-Design
-
-[Image: Avery Shih]
-
 ###### Avery Shih
-
-Design
-
-/$ $ /$
-
-[[Image: logo]](https://tamudatathon.com/)
 
 ###### TAMU Datathon
 
@@ -39736,19 +29152,9 @@ Television
 
 About Us
 
-[Image: about-jelly fish left]
-
-[Image: about-bubble]
-
 HackTrent is the premier hackathon event hosted by Trent University. Join us for an exciting weekend of innovation, collaboration, and creativity. HackTrent offers an inclusive and inspiring environment to bring your ideas to life. Register now and be a part of the HackTrent experience!
 
-[Image: about-jelly fish right]
-
 The HackTrent Experience
-
-[Image: hack trent experience section- fish left]
-
-[Image: hack trent experience section- fish left]
 
 ##### Last Year We Had...
 
@@ -39764,135 +29170,49 @@ The HackTrent Experience
 
 ##### Thank you to our Sponsors
 
-[[Image: Impact Microgrant logo]](https://www.trentu.ca/careerspace/micro-credentials/campus-and-community-grant)
-
-[[Image: Quantum logo]](https://quantumleaplabs.ca/)
-
-[[Image: Innovation Cluster logo]](https://innovationcluster.ca/)
-
-[[Image: Best Buy logo]](https://www.bestbuy.ca/en-ca)
-
-[[Image: Dante's logo]](https://www.google.com/search?sca_esv=07cdbffa48f41bdb&rlz=1C1VDKB_enCA1029CA1030&sxsrf=AE3TifNyADsaYg6wj4hJM5oek2Lq1nJGyg:1761066857385&q=dantes+burrito&source=lnms&fbs=AIIjpHwdlVWI4oi2g38E8_BbusNm3pTf6ItdW8-u0JVVBgXow2SS4XfWu_GDEb99WFnlrQRvFr3eMHb1LywUKXZk83xhResmMTCue6Xg0MODas-sgcgOtHBcW-atzRmMITcRCyvbaHUD144Cm053AacYQLKVWkDCHdqgrP1ft5RH0PN1BoFFPes_5L--YpZNIvusc_rCGIepl4wqPlGILeLCGiCf8TjuK41_fFWTXuQCxsUOwhenawY&sa=X&ved=2ahUKEwi3_taj5bWQAxVQC3kGHRxUBiMQ0pQJegQICRAB&biw=1280&bih=551&dpr=1.5)
-
-[[Image: 1Password logo]](https://1password.com/)
-
-[[Image: Taskade logo]](https://www.taskade.com/)
-
-[[Image: CS Department logo]](https://www.trentu.ca/cois/)
-
-[[Image: Pure logo]](https://mlh.link/MLH-PureButtons-hackathons)
-
 ##### FAQ
-
-[Image: icon]
 
 ##### What is a hackathon?
 
 A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build & share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.
 
-[Image: icon]
-
 ##### Does HackTrent help with travel reimbursements?
 
 Unfortunately, HackTrent isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.
-
-[Image: icon]
 
 ##### MLH Code Of Conduct
 
 For more information regarding MLH's code of conduct, please visit MLH Code of Conduct: https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md.
 
-[Image: icon]
-
 ##### I just graduated, can I still come to an event?
 
 Yes. Anyone who has graduated within the last 12 months is still eligible to attend an HackTrent. After that, there’s plenty of non-student hackathons that exist for you to consider attending.
-
-[Image: icon]
 
 ##### What if I don’t know how to code?
 
 Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every HackTrent Member Event is passionate about making their hackathons very welcoming and beginner-friendly. If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.
 
-[Image: icon]
-
 ##### Who can participate?
 
 Students of any education level from anywhere in the world are eligible to apply for Hack Trent! All attendees must be 18 years or older to participate.
-
-[Image: icon]
 
 ##### How much does it cost to attend Hack Trent?
 
 Admission to Hack Trent is completely free! We will also provide food and accommodation for the entire event, as well as all the mentorship our hackers need to build something incredible.
 
-[Image: icon]
-
 ##### What if I’ve never been to a hackathon before?
 
 Hack Trent welcomes students of all skill levels. Many students attend Hack Trent as their first hackathon, and they always have a blast! We’ll provide mentors and workshops to help you with your project; hackathons can be a great place to learn new skills in a short amount of time. Just be eager to learn, and excited to meet lots of awesome people.
 
-[Image: icon]
-
 ##### How many people can be on a team?
 
 Hackers may form teams of up to 3 people. There are no restrictions for who they can be, so you can team up with hackers from any school, country, or experience level. Teams can be formed before or during the event at hackers’ own discretion.
-
-[Image: icon]
 
 ##### Will Hack Trent 2025 happen in person or virtually?
 
 Hack Trent 2025 will be an in-person hackathon, hosted at Trent University's Peterborough Campus in Ontario, Canada. Stay tuned to hear the latest updates by following our social media channels (@hacktrentu on Instagram and @HackTrent on LinkedIn).
 
 ##### Our Team
-
-[Image: Submarine Aiden Miah and Fiona Laygo]
-
-[Image: Submarine Batool Kazmi and Cameron von Criegern]
-
-[Image: Submarine Temiloluwa Aderogba and Vraj Chauhan]
-
-[Image: Submarine Molayo Ogunfowora and Micaela Sousa]
-
-[Image: Submarine Hikmatullah Hussain Zada and Shelmah Chebet]
-
-[Image: Submarine Elizabet Villas and Aqsa Susan Yousafzai]
-
-[Image: Submarine Suha Qazi and Dhrumil (Dave) Dungrani]
-
-[Image: Submarine Krunal Patel and Dhrumil (Dave) Dungrani]
-
-[Image: Submarine Swastika Bansal and Abdul-Wahab Imran]
-
-[Image: Submarine Rida Opal and Alana (Lana) Gafoor]
-
-[Image: Submarine Khushal Sethiya and Tala Said]
-
-[Image: Submarine Nirja Modi]
-
-[Image: Submarine Aiden Miah and Fiona Laygo]
-
-[Image: Submarine Batool Kazmi and Cameron von Criegern]
-
-[Image: Submarine Temiloluwa Aderogba and Vraj Chauhan]
-
-[Image: Submarine Molayo Ogunfowora and Micaela Sousa]
-
-[Image: Submarine Hikmatullah Hussain Zada and Shelmah Chebet]
-
-[Image: Submarine Elizabet Villas and Aqsa Susan Yousafzai]
-
-[Image: Submarine Suha Qazi and Dhrumil (Dave) Dungrani]
-
-[Image: Submarine Krunal Patel and Dhrumil (Dave) Dungrani]
-
-[Image: Submarine Swastika Bansal and Abdul-Wahab Imran]
-
-[Image: Submarine Rida Opal and Alana (Lana) Gafoor]
-
-[Image: Submarine Khushal Sethiya and Tala Said]
-
-[Image: Submarine Nirja Modi]
 
 ##### Contact Us
 
@@ -39903,8 +29223,6 @@ tcsca@trentu.ca
 Website made with at Trent University
 
 Peterborough, Ontario, Canada
-
-$ /$
 
 ### Website 187: HackUTD
 - Card URL: [https://hackutd.co/](https://hackutd.co/)
@@ -39919,11 +29237,7 @@ We are
 
 Largest 24 hour university hackathon in North America.
 
-[Image: triangular button to move to the next section]
-
 ##### Our Mission
-
-[Image: a team picture of the HackUTD organizers]
 
 We inspire students to innovate and learn new technologies through hackathons, 24-hour events with challenges, free food & merch, and fun games & activities.
 
@@ -39933,13 +29247,9 @@ More about us
 
 ##### Hackathons
 
-[Image: HackUTD undefined]
-
 Fall 2024
 
 ##### Meet the Team
-
-[Image: Directors of HackUTD]
 
 We're the directors of HackUTD this year and are very excited for the next iteration of our event. Our team works hard all year round to make our events possible, and we can't wait to put on one more successful hackathon!
 
@@ -39947,251 +29257,103 @@ We're the directors of HackUTD this year and are very excited for the next itera
 
 Co-Directors, HackUTD '25
 
-[Image: Image of Adelaide (Addy) Dunning, a HackUTD Officer.]
-
 Adelaide (Addy) Dunning
 
 Director
-
-[Image: Image of Kelly Zhou, a HackUTD Officer.]
 
 Kelly Zhou
 
 Director
 
-[Image: Image of Daniel Kim, a HackUTD Officer.]
-
 Daniel Kim
 
 Experience
 
-[Image: Image of Reiki Hingorani, a HackUTD Officer.]
-
 Reiki Hingorani
-
-Experience
-
-[Image: Image of Alan Roybal, a HackUTD Officer.]
 
 Alan Roybal
 
-Experience
-
-[Image: Image of Veer Shah, a HackUTD Officer.]
-
 Veer Shah
-
-Experience
-
-[Image: Image of Liana Forster, a HackUTD Officer.]
 
 Liana Forster
 
-Experience
-
-[Image: Image of Sahas Sharma, a HackUTD Officer.]
-
 Sahas Sharma
 
-Experience
-
-[Image: Image of Sunay Sheehan, a HackUTD Officer.]
-
 Sunay Sheehan
-
-Experience
-
-[Image: Image of Anwita Gudapuri, a HackUTD Officer.]
 
 Anwita Gudapuri
 
 Logistics
 
-[Image: Image of Shreya Mekala, a HackUTD Officer.]
-
 Shreya Mekala
-
-Logistics
-
-[Image: Image of Sahishnu Sagiraju, a HackUTD Officer.]
 
 Sahishnu Sagiraju
 
-Logistics
-
-[Image: Image of Sofia Thomas, a HackUTD Officer.]
-
 Sofia Thomas
-
-Logistics
-
-[Image: Image of Soumika Seelam, a HackUTD Officer.]
 
 Soumika Seelam
 
-Logistics
-
-[Image: Image of Dhivyesh Prithiviraj, a HackUTD Officer.]
-
 Dhivyesh Prithiviraj
-
-Logistics
-
-[Image: Image of Ridwan Amin, a HackUTD Officer.]
 
 Ridwan Amin
 
 Industry
 
-[Image: Image of Sachi Hansalia, a HackUTD Officer.]
-
 Sachi Hansalia
-
-Industry
-
-[Image: Image of Bryan Caraman, a HackUTD Officer.]
 
 Bryan Caraman
 
-Industry
-
-[Image: Image of John Luke, a HackUTD Officer.]
-
 John Luke
-
-Industry
-
-[Image: Image of Abdala Aljewarane, a HackUTD Officer.]
 
 Abdala Aljewarane
 
-Industry
-
-[Image: Image of Shraddha Subash, a HackUTD Officer.]
-
 Shraddha Subash
 
-Industry
-
-[Image: Image of Nandini Paidesetty, a HackUTD Officer.]
-
 Nandini Paidesetty
-
-Industry
-
-[Image: Image of Rayyan Waris, a HackUTD Officer.]
 
 Rayyan Waris
 
 Tech
 
-[Image: Image of Wei Seng, a HackUTD Officer.]
-
 Wei Seng
-
-Tech
-
-[Image: Image of Shaswat (Shaz) Kumar, a HackUTD Officer.]
 
 Shaswat (Shaz) Kumar
 
-Tech
-
-[Image: Image of Caleb Bae, a HackUTD Officer.]
-
 Caleb Bae
-
-Tech
-
-[Image: Image of Sreevasan Sivasubramanian, a HackUTD Officer.]
 
 Sreevasan Sivasubramanian
 
-Tech
-
-[Image: Image of Ayro Escobar, a HackUTD Officer.]
-
 Ayro Escobar
-
-Tech
-
-[Image: Image of Andrew Dmitrievsky, a HackUTD Officer.]
 
 Andrew Dmitrievsky
 
-Tech
-
-[Image: Image of Abhiram Tadepalli, a HackUTD Officer.]
-
 Abhiram Tadepalli
-
-Tech
-
-[Image: Image of Jordan Tan, a HackUTD Officer.]
 
 Jordan Tan
 
 Marketing
 
-[Image: Image of Mitchell Vu, a HackUTD Officer.]
-
 Mitchell Vu
-
-Marketing
-
-[Image: Image of Ann Jayan, a HackUTD Officer.]
 
 Ann Jayan
 
-Marketing
-
-[Image: Image of Sarah Jacob, a HackUTD Officer.]
-
 Sarah Jacob
-
-Marketing
-
-[Image: Image of Fletcher Lauber, a HackUTD Officer.]
 
 Fletcher Lauber
 
-Marketing
-
-[Image: Image of Faith Kim, a HackUTD Officer.]
-
 Faith Kim
-
-Marketing
-
-[Image: Image of Kavi Namburi, a HackUTD Officer.]
 
 Kavi Namburi
 
-Marketing
-
-[Image: Image of Tien Phan, a HackUTD Officer.]
-
 Tien Phan
-
-Marketing
-
-[Image: Image of Ayusha Timalsena, a HackUTD Officer.]
 
 Ayusha Timalsena
 
 Finance
 
-[Image: Image of Sree Aatish Bommisetty, a HackUTD Officer.]
-
 Sree Aatish Bommisetty
 
-Finance
-
-[Image: Image of Leeza Paul, a HackUTD Officer.]
-
 Leeza Paul
-
-Finance
 
 ##### Support Us
 
@@ -40212,8 +29374,6 @@ We currently partner with [WEHack@UTD](https://wehackutd.com/), Dallas' largest 
 ##### Sponsors
 
 ##### Open Source
-
-[Image: HackPortal Logo]
 
 ###### HackPortal
 
@@ -40236,8 +29396,6 @@ A hackathon can be best described as an “invention marathon”, or in simple w
 - Rendered title: HackUMass XIV - An outpost for your craziest ideas
 - Final URL: [https://www.hackumass.com/](https://www.hackumass.com/)
 - Expanded FAQ/accordion controls: 11
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
 
 Pre-Register Now!
 
@@ -40277,7 +29435,7 @@ HackUMass is the perfect place for students of all backgrounds and experience le
 
 #### Our Sponsors
 
-[[Image: Sponsor PITUN]](https://pit-un.org/) [[Image: AWS]](https://aws.amazon.com/) [[Image: Honda Research]](https://www.99plabs.com/about-us) [[Image: College of Engineering]](https://engineering.umass.edu/) [[Image: CICS]](https://www.umass.edu/cics/) [[Image: CDSAI]](https://ds.cs.umass.edu/) [[Image: CICS Makerspace]](https://groups.cs.umass.edu/makerspace/) [[Image: Insomnia Cookies]](https://insomniacookies.com/) [[Image: M5]](https://www.umassamherstm5.org/) [[Image: Silver Screen Design]](https://www.silverscreendesign.com/) [[Image: UMass Makerspace]](https://sites.google.com/umass.edu/umassmakerspace/) [[Image: PIT Logo]](https://groups.cs.umass.edu/pit/) [[Image: Analog Devices]](https://www.analog.com/) [[Image: MLH]](https://mlh.io/) [[Image: Pure Buttons]](https://www.purebuttons.com/) [[Image: Amherst Copy]](https://amherstcopy.com/) [[Image: Claude AI]](https://claude.com/product/overview)
+[Sponsor PITUN](https://pit-un.org/) [AWS](https://aws.amazon.com/) [Honda Research](https://www.99plabs.com/about-us) [College of Engineering](https://engineering.umass.edu/) [CICS](https://www.umass.edu/cics/) [CDSAI](https://ds.cs.umass.edu/) [CICS Makerspace](https://groups.cs.umass.edu/makerspace/) [Insomnia Cookies](https://insomniacookies.com/) [M5](https://www.umassamherstm5.org/) [Silver Screen Design](https://www.silverscreendesign.com/) [UMass Makerspace](https://sites.google.com/umass.edu/umassmakerspace/) [Analog Devices](https://www.analog.com/) [MLH](https://mlh.io/) [Pure Buttons](https://www.purebuttons.com/) [Amherst Copy](https://amherstcopy.com/) [Claude AI](https://claude.com/product/overview)
 
 #### Why Sponsor Us
 
@@ -40289,85 +29447,55 @@ Sponsor HackUMass
 
 What is a hackathon?
 
----
-
 A hackathon is a competitive sprint where people come together to collaborate and build innovative software and hardware projects to win prizes. However, students also have the option to participate in other activities instead of submitting a project.
 
 Where is HackUMass XIV?
-
----
 
 HackUMass XIV is an in-person hackathon on the University of Massachusetts Amherst campus, with the main venue located at the Integrative Learning Center (650 N Pleasant St, Amherst, MA 01003).
 
 Who can attend?
 
----
-
 HackUMass XIV is open to ALL college students, including graduate students, regardless of major!
 
 Will my travel be reimbursed?
-
----
 
 If you apply by the early application deadline, you have the opportunity to apply for travel reimbursement. Early applications are now closed, but we invite you to attend HackUMass if you are able to support your own travel to Amherst, MA.
 
 Do I have to work on a project?
 
----
-
 No, participants are welcome to attend workshops, the club/sponsor fair, and network with sponsors or other students without submitting a final project! For final project submissions, the project does NOT need to be fully finished.
 
 Do I need experience?
-
----
 
 We welcome students of all experience levels to participate in HackUMass! Participants will find a variety of workshops ranging from beginner-friendly to advanced, mentors, and plenty of resources to help everyone learn something new.
 
 Should I be in a team?
 
----
-
 We encourage participants to form a team of four (or fewer). While teams with more than four members are allowed, prizes for each member are not guaranteed beyond that size. There will be opportunities to form teams prior to the event via our event Discord server, but there will also be a team-forming event following the opening ceremony on day 1 of the event.
 
 Can I start my project before the event?
-
----
 
 No, participants are required to start their projects after the opening ceremony and hacking formally begins. If a project is created or edited beforehand, it will result in disqualification.
 
 Do I have to stay for 36 hours?
 
----
-
 No, participants are encouraged to take breaks and rest throughout the event. However, teams submitting a final project must have at least one member present during the judging process on the last day.
 
 Is there a Code of Conduct?
-
----
 
 We are committed to creating a safe environment for everyone at HackUMass. Therefore, all attendees are expected to follow the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf) and abide by the [University of Massachusetts Amherst Code of Student Conduct](https://www.umass.edu/dean_students/sites/default/files/documents/07.01.2019%20Code%20of%20Student%20Conduct.pdf) .
 
 Will photographs and videos be taken during the hackathon?
 
----
-
 Yes. HackUMass will take photos, audio, and video throughout the event. By participating in the event, you consent to the use of your image or voice in HackUMass materials, including on our website, social media, and other promotional or educational content. By participating in HackUMass, you are consenting to the use of your likeness and agree to release, defend, hold harmless, and indemnify HackUMass from any and all claims involving the use of your picture or likeness. If you prefer not to appear in photos or recordings, please email us at team@hackumass.com
 
 #### Our Team
-
-[Image: Dev Mehta]
 
 ###### Dev Mehta
 
 ###### Co-Director
 
-[Image: Addie Padhi]
-
 ###### Addie Padhi
-
-###### Co-Director
-
-[Image: Devaj Chopda]
 
 ###### Devaj Chopda
 
@@ -40378,8 +29506,6 @@ Yes. HackUMass will take photos, audio, and video throughout the event. By parti
 [Why HackUMass](https://www.hackumass.com/#aboutus)
 
 [Sponsors](https://www.hackumass.com/#sponsors)
-
-[Image: HackUMass Logo]
 
 [FAQ](https://www.hackumass.com/#faq)
 
@@ -40471,8 +29597,6 @@ Sign up [here](http://146.190.66.30:4174/) and we'll let you know when our appli
 
 **Saturday** November 8th, 2025
 
-##### Table
-
 ###### Row 1: 2 AM
 
 - 1AM: 2 AM
@@ -40553,8 +29677,6 @@ Sign up [here](http://146.190.66.30:4174/) and we'll let you know when our appli
 
 **Sunday** November 9th, 2025
 
-##### Table
-
 ###### Row 1: 8:30 AM
 
 - 12 AM: 8:30 AM
@@ -40564,8 +29686,6 @@ Sign up [here](http://146.190.66.30:4174/) and we'll let you know when our appli
 ###### Row 2: 9 AM - HACKING ENDS!
 
 - 12 AM: 9 AM - HACKING ENDS!
-
-###### Row 3: 10 AM
 
 - 12 AM: 10 AM
 
@@ -40677,13 +29797,11 @@ PAST PRIZES
 
 2025 Sponsors
 
-<a href="https://www.ycp.edu/offices-departments/graham-center-for-collaborative-innovation" target="_blank"> <img src="/images/YCP_Graham_Ctr_for_Collab_Innovation_Green-Stacked.png"/> </a> <a href="https://mrgcorp.com/" target="_blank"> <img src="/images/mrg-labs-logo.png"/> </a> <a href="https://csdavidson.com/" target="_blank"> <img src="/images/CSDavidson-Logo-Horizontal-Full-Color.png"/> </a> <a href="http://hackp.ac/mlh-StandOutStickers-hackathons" target="_blank"> <img src="/images/stickers.png"/> </a> [[Image: NordVPN Hackathons]](https://nordvpn.com/hackathons)
+[NordVPN Hackathons](https://nordvpn.com/hackathons)
 
 ###### Want to sponsor? Email us at INFO@YCPHacks.IO
 Checkout what we have to offer to sponsors [Sponsor Video](https://www.youtube.com/watch?v=Vp7dTMmLmos&t=1s)
 Our prospectus can be found [here](https://ycphacks.io/YCP_Hacks_Sponsorship_Brochure_2025.pdf)
-
----
 
 Team
 
@@ -40745,17 +29863,6 @@ Sponsorship
 ##### Our Sponsors
 
 Thank you to the partners who help make TigerHacks possible.
-
-- [[Image: Garmin logo]](https://www.garmin.com)
-- [[Image: veterans united logo]](https://www.veteransunited.com/)
-- [[Image: enterprise mobility logo]](https://www.enterprisemobility.com/)
-- [[Image: shelter insurance logo]](https://www.shelterinsurance.com/)
-- [[Image: H&R block logo]](https://www.hrblock.com/)
-- [[Image: Garmin logo]](https://www.garmin.com)
-- [[Image: veterans united logo]](https://www.veteransunited.com/)
-- [[Image: enterprise mobility logo]](https://www.enterprisemobility.com/)
-- [[Image: shelter insurance logo]](https://www.shelterinsurance.com/)
-- [[Image: H&R block logo]](https://www.hrblock.com/)
 
 Tracks + Prizes
 
@@ -40895,15 +30002,11 @@ Organizers
 
 ##### Meet our organizers!
 
-[Image: Portrait of Elise Fidler]
-
 ###### Elise Fidler
 
 TigerHacks Director
 
 [Socials](https://www.linkedin.com/in/elise-fidler/)
-
-[Image: Portrait of Ashton Wooster]
 
 ###### Ashton Wooster
 
@@ -40911,15 +30014,11 @@ HackerX
 
 [Socials](https://www.linkedin.com/in/ashtonwooster/)
 
-[Image: Portrait of Gina Hua]
-
 ###### Gina Hua
 
 Marketing
 
 [Socials](https://www.linkedin.com/in/gina-hua-45373428a/)
-
-[Image: Portrait of Jessica Xie]
 
 ###### Jessica Xie
 
@@ -40927,15 +30026,11 @@ Marketing
 
 [Socials](https://www.linkedin.com/in/jessicaxie26/)
 
-[Image: Portrait of Bhushan Sreekrishnavilas]
-
 ###### Bhushan Sreekrishnavilas
 
 Finance
 
 [Socials](https://www.linkedin.com/in/bhushan-sreekrishnavilas/)
-
-[Image: Portrait of John Lin]
 
 ###### John Lin
 
@@ -40943,27 +30038,17 @@ Technology
 
 [Socials](https://www.linkedin.com/in/john-victor-lin/)
 
-[Image: Portrait of Gage Smith]
-
 ###### Gage Smith
 
 Logistics
 
 [Socials](https://www.linkedin.com/in/thegagesmith/)
 
-[Image: Portrait of Quinn DeCota]
-
 ###### Quinn DeCota
-
-Logistics
 
 [Socials](https://www.linkedin.com/in/quinndecota/)
 
-[Image: Portrait of Tsinat Mitiku]
-
 ###### Tsinat Mitiku
-
-Logistics
 
 [Socials](https://www.linkedin.com/in/tsinat-mitiku-3774aa249/)
 
@@ -40974,13 +30059,7 @@ Logistics
 - Final URL: [https://shark-byte.io/](https://shark-byte.io/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: text-bubble for feedback form]
-
-[Image: SharkByte Logo]
-
 Miami Dade College's Signature Hackathon
-
-[Image: Bird1] [Image: Bird2]
 
 #### Last Year We Had...
 
@@ -40990,21 +30069,13 @@ Miami Dade College's Signature Hackathon
 
 ##### 52 Completed Projects
 
-[Image: Bird3] [Image: Bird4]
-
-##### SEA YOU SOON. WE'RE COMING BACK WITH A SPLASH!!![Image: Water drop]
+##### SEA YOU SOON. WE'RE COMING BACK WITH A SPLASH!!!
 
 #### Previous Sponsors
-
-[[Image: mdc_north_logo]](https://www.mdc.edu/north/) [[Image: entec_mdc_logo]](https://www.mdc.edu/entec/) [[Image: roo_capital_logo]](https://www.roocapital.com/) [[Image: microsoft_logo]](https://www.microsoft.com/en-us/) [[Image: pure_buttons_logo]](https://www.purebuttons.com/) [[Image: mdc_north_logo]](https://www.mdc.edu/north/) [[Image: entec_mdc_logo]](https://www.mdc.edu/entec/) [[Image: roo_capital_logo]](https://www.roocapital.com/) [[Image: microsoft_logo]](https://www.microsoft.com/en-us/) [[Image: pure_buttons_logo]](https://www.purebuttons.com/)
-
-[[Image: 4_geeks_academy_logo]](https://4geeks.com/) [[Image: cybriant_logo]](https://cybriant.com/) [[Image: miami_tech_works_logo]](https://miamitechworks.org/) [[Image: redbull_logo]](https://www.redbull.com/) [[Image: react_miami_logo]](https://www.reactmiami.com/) [[Image: 4_geeks_academy_logo]](https://4geeks.com/) [[Image: cybriant_logo]](https://cybriant.com/) [[Image: miami_tech_works_logo]](https://miamitechworks.org/) [[Image: redbull_logo]](https://www.redbull.com/) [[Image: react_miami_logo]](https://www.reactmiami.com/)
 
 Want to sponsor? Email us at industry@weareinit.org
 
 #### Stay Updated
-
-$ /$
 
 ### Website 193: AI ATL
 - Card URL: [https://www.aiatl.io/](https://www.aiatl.io/)
@@ -41015,47 +30086,17 @@ $ /$
 
 Start of bodyStart End of bodyStart
 
-$
-
-$ /$
-
-|
-
-$ /$
-
-$ /$
-
-$
-
 $ [sponsors](https://www.aiatl.io/#sponsors-new) /$
-
-/$ $
 
 $ [schedule](https://www.aiatl.io/#schedule) /$
 
-/$ $
-
 $ [faqs](https://www.aiatl.io/#faq-new-1) /$
-
-/$
 
 $ [industry volunteers](https://docs.google.com/forms/d/e/1FAIpQLSdZ01pY8Mk8YRZIsZPdyJOH8SqHy5sJBCa1f_pCuD51CyyOdA/viewform?usp=send_form) /$
 
-$
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
-
-/$
-
 $ [build in the 404 ->](https://docs.google.com/forms/d/e/1FAIpQLSee01RYDszNY1twcHDu1DvuR5KNj9-LhMOuWJwKSv5BeAC8HA/viewform) /$
 
-$
-
-/$
-
 launching in
-
-$
 
 00 Days
 
@@ -41064,8 +30105,6 @@ $
 00 Minutes
 
 00 Seconds
-
-/$
 
 schedule
 
@@ -41102,8 +30141,6 @@ How do teams work?
 What if I don't have a team?
 
 I still have questions!
-
-/$
 
 Start of bodyEnd End of bodyEnd
 
@@ -41211,13 +30248,9 @@ What are you waiting for?
 
 [Register Now!](https://forms.gle/m9gXA8huQxNT5yze9)
 
-[Image: SBUHacks 2025]
-
 Pictures from SBUHacks 2025
 
 ##### Terms
-
----
 
 ###### Eligibility
 
@@ -41250,11 +30283,7 @@ And be sure to follow our socials!
 - Final URL: [https://itiz-hackaton.com.mx/](https://itiz-hackaton.com.mx/)
 - Expanded FAQ/accordion controls: 5
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
 menú hamburguesa para móvil
-
-[Image: Hackathon_imagen]
 
 #### Construye - Aprende - Conecta
 
@@ -41270,7 +30299,7 @@ Contador regresivo
 
 00 Segundos
 
-<a href="https://forms.gle/LiLmJqFVB47qCr7B6" target="_blank" class="nav-link registro-link"> Registro equipos </a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3GOYpq-v_h4AT5pREXZpRiB01V1lOCsdPkjtNBbpErd6BTQ/viewform" target="_blank" class="nav-link registro-link"> Registro individual </a> Registros cerrados
+[Registro equipos](https://forms.gle/LiLmJqFVB47qCr7B6) [Registro individual](https://docs.google.com/forms/d/e/1FAIpQLSe3GOYpq-v_h4AT5pREXZpRiB01V1lOCsdPkjtNBbpErd6BTQ/viewform) Registros cerrados
 
 Información del evento simplificada sin textos inventados
 
@@ -41278,15 +30307,11 @@ Información del evento simplificada sin textos inventados
 
 Únete a estudiantes, desarrolladores y emprendedores.
 
-📅
-
 **Fecha**
 
 6 - 7 de noviembre, 2025
 
 [📍](https://maps.app.goo.gl/CksBPkBdNbJsgv577) [**Lugar** Instituto Tecnológico de Iztapalapa](https://maps.app.goo.gl/CksBPkBdNbJsgv577)
-
-🎯
 
 **Actividades**
 
@@ -41440,8 +30465,6 @@ Join hundreds of talented students for an unforgettable weekend of innovation an
 
 [Register for Hack OKState '25](https://docs.google.com/forms/d/e/1FAIpQLSfkK7cdHguJkm0dvn5fz7TA5MBc9hVRMcQ3lNaG7_nY0gL5SA/viewform?usp=sharing&ouid=110797256475146890415) [Join Our Discord](https://discord.gg/NkrYgaUnAN)
 
-$ /$
-
 ### Website 199: DurHack
 - Card URL: [https://durhack.com/](https://durhack.com/)
 - Referenced by: DurHack
@@ -41454,15 +30477,11 @@ $ /$
 - Final URL: [https://hackphs.tech/](https://hackphs.tech/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: hackPHS logo] hackPHS 2026](https://hackphs.tech/#top)
+[ hackPHS 2026](https://hackphs.tech/#top)
 
 Past Years
 
-<a class="mlh-badge" href="https://mlh.io/" target="_blank" rel="noreferrer" aria-label="MLH trust badge"> <img src="https://s3.amazonaws.com/logged-assets/trust-badge/2026/mlh-trust-badge-2026-white.svg" alt="Major League Hacking 2026 hackathon season badge" /> </a>
-
 Princeton High School's Seventh Annual Hackathon
-
-[Image: hackPHS tiger logo]
 
 #### hackPHS 2026
 
@@ -41509,7 +30528,7 @@ Hackathons are where creative and enthusiastic people come together to build awe
 ### Website 201: NewHacks 2025
 - Card URL: [https://newhacks.ca/](https://newhacks.ca/)
 - Referenced by: NewHacks 2025
-- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://newhacks.ca/ Call log:   - navigating to "https://newhacks.ca/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://newhacks.ca/ Call log: - navigating to "https://newhacks.ca/", waiting until "domcontentloaded"
 
 ### Website 202: Rowdyhacks XI
 - Card URL: [https://rowdyhacks.org/](https://rowdyhacks.org/)
@@ -41518,29 +30537,11 @@ Hackathons are where creative and enthusiastic people come together to build awe
 - Final URL: [https://rowdyhacks.org/](https://rowdyhacks.org/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Sands]
-
-[Image: Sign] [Image: rock]
-
 #### Presented By
-
-[Image: Swivel Logo]
-
-[Image: Tumbleweed] [Image: Tumbleweed]
-
-[Image: Floating Cow]
-
-[Image: Rowdy Hacks hero title] [Image: Cactus]
-
-[Image: UFO]
 
 #### About Us
 
 RowdyHacks is UTSA's annual hackathon, hosted by the Association for Computing Machinery (ACM) at UTSA. It's a weekend-long event where students, tech enthusiasts, and creative minds from all backgrounds come together to collaborate, innovate, and build real-world projects in 24 hours.
-
-[Image: Moon]
-
-[Image: Sign]
 
 #### Who Can Attend?
 
@@ -41548,51 +30549,9 @@ Everyone is welcome. RowdyHacks is open to all students and beginners no matter 
 
 Whether you're a first-time hacker, an experienced developer, or just curious about tech, there's a place for you here.
 
-[Image: Sign Background]
-
 ##### Title Sponsor
 
-[[Image: sun background][Image: SWIVEL logo]](https://www.getswivel.io/)
-
 ##### Sponsors & Partners
-
-[[Image: planet background][Image: Yahoo logo]](https://www.yahooinc.com/)
-
-[Image: rock]
-
-[[Image: planet background][Image: Union Pacific logo]](https://www.up.com/)
-
-[Image: rock]
-
-[[Image: planet background][Image: Dell logo]](https://www.dell.com/)
-
-[Image: rock]
-
-[[Image: planet background][Image: H-E-B logo]](https://www.heb.com/)
-
-[Image: rock]
-
-[[Image: planet background][Image: Swri logo]](https://www.swri.org/)
-
-[Image: rock]
-
-[[Image: planet background][Image: UTSA - Computer Science Department logo]](https://sciences.utsa.edu/computer-science/)
-
-[Image: rock]
-
-[[Image: planet background][Image: College of AI, Cyber and Computing logo]](https://caicc.utsa.edu/)
-
-[Image: rock]
-
-[[Image: planet background][Image: Schroeder logo]](https://rowdyhacks.org/)
-
-[Image: cow]
-
-[Image: Ground1] [Image: Ground2]
-
-[Image: Ground3]
-
-[Image: BillBoard]
 
 #### Help Wanted
 
@@ -41600,243 +30559,79 @@ Whether you're a first-time hacker, an experienced developer, or just curious ab
 
 [VolunteerForm](https://form.rowdyhacks.org/volunteerform) [MentorForm](https://form.rowdyhacks.org/mentorform) [JudgeForm](https://form.rowdyhacks.org/judgeform)
 
-[Image: Ground4]
-
-[Image: WantedBoard]
-
-[Image: WantedBG]
-
 ###### Wanted
-
-[Image: Person]
 
 ###### Alex Mugica
 
 Director - $1,500,000
 
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Trae Ramirez
 
 Co-Director - $1,000,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Joshua Silva
 
 Tech Lead - $650,000
 
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Carter LaVigne
 
 Tech - $350,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Eric Lee
 
 Tech - $300,000
 
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Aby Huerta
 
-Tech - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Adan Santos
-
-Tech - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Inor Wang
 
 Media Lead - $650,000
 
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Sean Jauregui
 
 Media Co-Lead - $650,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Arnav Ubgade
 
 Media - $300,000
 
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Atticus Ramirez
-
-Media - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Bill Shields
 
-Media - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Ilana Pankey
 
-Media - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Joseph Benavidez
-
-Media - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Anh Doan
 
 Logistics - $300,000
 
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Bidisha Dalai
-
-Logistics - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Miguel Oseguera
 
-Logistics - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Rashi Rautela
-
-Logistics - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Reese Sylvester
 
 PR Lead - $650,000
 
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Vivian Tran
 
 PR Co-Lead - $650,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Diego Medina
 
 Public Relations - $300,000
 
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
-
 ###### Jibril Pascua
-
-Public Relations - $300,000
-
-[Image: WantedBG]
-
-###### Wanted
-
-[Image: Person]
 
 ###### Savanah Schaefer
 
-Public Relations - $300,000
-
 Previous slide Next slide
-
-[Image: RowdyHacks Logo]
 
 ##### Resources
 
@@ -41850,11 +30645,7 @@ Previous slide Next slide
 
 [CodeQuantum](https://cqhacks.org/) [RowdyDatathon](https://rowdydatathon.org/) [TAMUhack](https://tamuhack.com/) [WEHack](https://wehackutd.com/) [HackUTD](https://hackutd.co/) [HackTX](https://hacktx.com/) [HackUNT](https://unthackathon.com/#/) [HackUTA](https://hackuta.org/) [Hacklahoma](https://hacklahoma.org/)
 
-[Image: HackKit Logo]
-
 [Created with HackKit](https://github.com/acmutsa/HackKit)
-
-[[Image: Discord logo]](https://go.rowdyhacks.org/discord)
 
 Made with </> & ♥ @ RowdyHacks
 © RowdyHacks & Association of Computing Machinery at UTSA 2025. All Rights Reserved.
@@ -41902,15 +30693,11 @@ News and Politics
 
 #### Knight Hacks 2025 - Join the Fight! Hackathon October 24-26, 2025
 
-[Image: Join the fight! Knight Hacks hackathon happening October 24th through 26th, 2025]
-
 [Register to hack](https://2025.knighthacks.org/undefinedhacker/application/knighthacks-viii)
 
 ##### About Knight Hacks
 
 *In the not so distant future...*
-
-[Image: logo]
 
 The University of Central Florida's premier hackathon,***KNIGHT HACKS VIII,***emerges from the shadows...
 
@@ -41920,65 +30707,61 @@ Our friendsT.K.andLennyare at straits, and it's***your***job to settle the matte
 
 In a world where innovation is war and bugs are monsters, Hackers have a choice...
 
-[Image: Hackers Must Choose - Defeat Darkness, or Take Over the World!]
-
 ##### Hackathon Tracks
 
 ***In battle, explore our tracks, such as***
 
-[Image: Choose from Our Hacker Tracks - Hello World, Artificial Intelligence / Machine Learning, App Development, Game Development, and Embedded Software!]
-
 ##### SPONSORS
 
-[[Image: GOOGLE]](https://cloud.google.com/developers?e=48754805&hl=en)
+[GOOGLE](https://cloud.google.com/developers?e=48754805&hl=en)
 
-[[Image: ONEETHOS]](https://oneethos.com/)
+[ONEETHOS](https://oneethos.com/)
 
-[[Image: PHERATECH SYSTEMS]](https://pheratech.com/)
+[PHERATECH SYSTEMS](https://pheratech.com/)
 
-[[Image: LOCKHEED MARTIN]](https://www.lockheedmartin.com/)
+[LOCKHEED MARTIN](https://www.lockheedmartin.com/)
 
-[[Image: GITHUB]](https://github.com/)
+[GITHUB](https://github.com/)
 
-[[Image: NASA]](https://www.nasa.gov/)
+[NASA](https://www.nasa.gov/)
 
-[[Image: NVIDIA]](https://www.nvidia.com/)
+[NVIDIA](https://www.nvidia.com/)
 
-[[Image: AMD]](https://www.amd.com/)
+[AMD](https://www.amd.com/)
 
-[[Image: STATSIG]](https://www.statsig.com/)
+[STATSIG](https://www.statsig.com/)
 
-[[Image: NEXTERA]](https://www.nexteraenergy.com/)
+[NEXTERA](https://www.nexteraenergy.com/)
 
-[[Image: BNY]](https://www.bnymellon.com/)
+[BNY](https://www.bnymellon.com/)
 
-[[Image: SERVICENOW]](https://www.servicenow.com/)
+[SERVICENOW](https://www.servicenow.com/)
 
-[[Image: AURITAS]](https://www.auritas.com/)
+[AURITAS](https://www.auritas.com/)
 
-[[Image: MORGAN&MORGAN]](https://www.forthepeople.com/)
+[MORGAN&MORGAN](https://www.forthepeople.com/)
 
-[[Image: IMPRESSINK]](https://impressink.com/)
+[IMPRESSINK](https://impressink.com/)
 
-[[Image: SHINIES PROPS]](https://www.instagram.com/shiniesprops/)
+[SHINIES PROPS](https://www.instagram.com/shiniesprops/)
 
 ##### PARTNERS
 
-[[Image: MLH]](https://mlh.io/)
+[MLH](https://mlh.io/)
 
-[[Image: UCF CECS]](https://www.cecs.ucf.edu/)
+[UCF CECS](https://www.cecs.ucf.edu/)
 
-[[Image: GWC@UCF]](https://www.instagram.com/girlswhocodeucf/)
+[GWC@UCF](https://www.instagram.com/girlswhocodeucf/)
 
-[[Image: AI@UCF]](https://www.instagram.com/_ucfai/)
+[AI@UCF](https://www.instagram.com/_ucfai/)
 
-[[Image: ACM@UCF]](https://www.instagram.com/ucfacm/)
+[ACM@UCF](https://www.instagram.com/ucfacm/)
 
-[[Image: IEEE@UCF]](https://www.instagram.com/ieeeucf/)
+[IEEE@UCF](https://www.instagram.com/ieeeucf/)
 
-[[Image: SASE@UCF]](https://www.instagram.com/saseucf/)
+[SASE@UCF](https://www.instagram.com/saseucf/)
 
-[[Image: Game Dev Knights]](https://www.instagram.com/gamedevknights/)
+[Game Dev Knights](https://www.instagram.com/gamedevknights/)
 
 ##### FAQ'S
 
@@ -42013,11 +30796,9 @@ Knight Hacks is fully in‑person! Everything from check‑in to project submiss
 - Final URL: [http://hackmty.com/](http://hackmty.com/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
+[HackMTY](http://hackmty.com/)
 
-[[Image: HackMTY]](http://hackmty.com/#/)
-
-[[Image: Tec ACM Student Chapter]](https://tec.acm.org/)
+[Tec ACM Student Chapter](https://tec.acm.org/)
 
 ES
 
@@ -42077,15 +30858,13 @@ Copyright © HackMTY 2025
 
 Hackathons @ Berkeley
 
-[Image: Event Name] [Image: Hero Small]
-
 [BECOME A HACKER](https://apply.calhacks.io/)
 
 regular due oct 01
 
 OCT 24 – 26 2025
 
-[PALACE OF FINE ARTS@ SAN FRANCISCO, CA](https://maps.app.goo.gl/PrZNvqnPYYcuDCcF9) [Image: Hero Large]
+[PALACE OF FINE ARTS@ SAN FRANCISCO, CA](https://maps.app.goo.gl/PrZNvqnPYYcuDCcF9)
 
 the world's
 
@@ -42096,8 +30875,6 @@ HACKATHON is back & better than ever.
 #### You Belong At Cal Hacks!
 
 Whether you’ve barely ever coded in your life or have participated in twenty hackathons, Cal Hacks is here to give you a platform to build, to learn, and to create – the world is your oyster! As the world’s largest collegiate hackathon, we recognize that tech spaces need to do more to create environments where hackers of marginalized backgrounds can thrive. As long as you’re passionate about technology and looking to change the world, you belong at Cal Hacks.
-
-[Image: Event photo 1] [Image: Event photo 2] [Image: Event photo 3] [Image: Event photo 4] [Image: Event photo 5] [Image: Event photo 6] [Image: Event photo 7] [Image: Event photo 8]
 
 The numbers that make our hackathon the largest — celebrating diversity, record-breaking participation, and a prize pool like no other.
 
@@ -42111,8 +30888,6 @@ $200,000 in prizes
 
 Our Venue The Palace of Fine Arts
 
-[Image: Venue]
-
 3601 Lyon St, San Francisco, CA 94123
 
 [Get directions](https://maps.app.goo.gl/PrZNvqnPYYcuDCcF9)
@@ -42121,21 +30896,9 @@ Our Venue The Palace of Fine Arts
 
 Year after year, we bring together the brightest minds to inspire breakthroughs. Scroll through to explore our history!
 
-[Image: Our story 2014 rectangle gold]
-
-[Image: Rectangle gold frame]
-
 It was my first hackathon ever, and I can't imagine a better introduction.
 
 Cal Hacks was the first time I ever shipped something end-to-end. That feeling was priceless.
-
-[Image: Our story 2014 circle gold]
-
-[Image: Circle gold frame]
-
-[Image: Our story 2014 rectangle pink]
-
-[Image: Rectangle pink frame]
 
 I loved how diverse the projects were. Some were super practical, others just pure fun.
 
@@ -42180,8 +30943,6 @@ Enjoy some food, meet other hackers, and the directors of Cal Hacks!
 ###### ANTHROPIC WORKSHOP
 
 Thurs 10/167 - 8 PM SOCS 126
-
-Enjoy some food, meet other hackers, and the directors of Cal Hacks!
 
 [RSVP!](https://bit.ly/calhacks12-anthropic-workshop)
 
@@ -42239,39 +31000,39 @@ DDoSki hopes to see you there!
 
 Meet our Speakers
 
-[Ali GhodsiCEO & Co-Founder DatabricksAli Ghodsi is the CEO and co–founder of Databricks, responsible for the growth and international expansion of the company. In addition to his work at Databricks, Ali serves as an adjunct professor at UC Berkeley and is on the board at UC Berkeley’s RiseLab. Ali received his MBA from Mid-Sweden University in 2003 and PhD from KTH/Royal Institute of Technology in Sweden in 2006 in the area of Distributed Computing.[Image: Ali Ghodsi]](https://www.linkedin.com/in/alighodsi/) [[Image: Dylan Field]Dylan FieldCEO & Co-Founder FigmaDylan Field founded Figma in 2012 when he was a computer science student at Brown University. He dropped out to work full-time on Figma. Field moved to San Francisco to spend four years preparing the software for its first public release in 2016. Figma IPO'd in August 2025.](https://www.linkedin.com/in/dylanfield/)
+[Ali GhodsiCEO & Co-Founder DatabricksAli Ghodsi is the CEO and co–founder of Databricks, responsible for the growth and international expansion of the company. In addition to his work at Databricks, Ali serves as an adjunct professor at UC Berkeley and is on the board at UC Berkeley’s RiseLab. Ali received his MBA from Mid-Sweden University in 2003 and PhD from KTH/Royal Institute of Technology in Sweden in 2006 in the area of Distributed Computing.](https://www.linkedin.com/in/alighodsi/) [Dylan FieldCEO & Co-Founder FigmaDylan Field founded Figma in 2012 when he was a computer science student at Brown University. He dropped out to work full-time on Figma. Field moved to San Francisco to spend four years preparing the software for its first public release in 2016. Figma IPO'd in August 2025.](https://www.linkedin.com/in/dylanfield/)
 
 #### A round of applause to our sponsors, who make all of this possible.
 
-[[Image: Anthropic]](https://www.anthropic.com/) [[Image: Annapurna Labs]](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs/)
+[Anthropic](https://www.anthropic.com/) [Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs/)
 
-[[Image: AppLovin]](https://www.applovin.com/) [[Image: Fetch.ai]](https://fetch.ai/)
+[AppLovin](https://www.applovin.com/) [Fetch.ai](https://fetch.ai/)
 
-[[Image: Y Combinator]](https://www.ycombinator.com/) [[Image: Postman]](https://www.postman.com/) [[Image: Fetch.ai]](https://innovationlab.fetch.ai/) [[Image: Creao]](https://creao.ai/)
+[Y Combinator](https://www.ycombinator.com/) [Postman](https://www.postman.com/) [Fetch.ai](https://innovationlab.fetch.ai/) [Creao](https://creao.ai/)
 
-[[Image: Baseten]](https://www.baseten.co/) [[Image: Code Rabbit]](https://www.coderabbit.ai/) [[Image: Conversion]](https://conversion.ai/) [[Image: Crater]](https://crater.so/) [[Image: Elastic]](https://www.elastic.co/) [[Image: Lava]](https://www.lavapayments.com/)
+[Baseten](https://www.baseten.co/) [Code Rabbit](https://www.coderabbit.ai/) [Conversion](https://conversion.ai/) [Crater](https://crater.so/) [Elastic](https://www.elastic.co/) [Lava](https://www.lavapayments.com/)
 
-[[Image: LiveKit]](https://livekit.io/) [[Image: Reka AI]](https://reka.ai/) [[Image: Rox]](https://rox.com/) [[Image: Sui]](https://sui.io/) [[Image: Bright Data]](https://www.brightdata.com/) [[Image: Vapi]](https://vapi.ai/)
+[LiveKit](https://livekit.io/) [Reka AI](https://reka.ai/) [Rox](https://rox.com/) [Sui](https://sui.io/) [Bright Data](https://www.brightdata.com/) [Vapi](https://vapi.ai/)
 
-[[Image: Visa]](https://www.visa.com/) [[Image: Warp]](https://www.joinwarp.com/) [[Image: Windsurf]](https://windsurf.com/) [[Image: Promise]](https://www.promise-pay.com) [[Image: a37]](https://www.a37.ai/) [[Image: Cofoundry]](https://snapdev.ai/)
+[Visa](https://www.visa.com/) [Warp](https://www.joinwarp.com/) [Windsurf](https://windsurf.com/) [Promise](https://www.promise-pay.com) [a37](https://www.a37.ai/) [Cofoundry](https://snapdev.ai/)
 
-[[Image: Composio]](https://composio.dev/) [[Image: Mercor]](https://mercor.com/) [[Image: Ripple]](https://ripple.com/) [[Image: Snap AR]](https://ar.snap.com/) [[Image: Meter]](https://www.meter.com/) [[Image: Terac]](https://terac.com/)
+[Composio](https://composio.dev/) [Mercor](https://mercor.com/) [Ripple](https://ripple.com/) [Snap AR](https://ar.snap.com/) [Meter](https://www.meter.com/) [Terac](https://terac.com/)
 
-[[Image: Regeneron]](https://www.regeneron.com/) [[Image: Arize]](https://arize.com/) [[Image: Comet]](https://www.comet.com/) [[Image: Conway]](https://www.conway.ai/) [[Image: David AI]](https://www.withdavid.ai/) [[Image: D. E. Shaw]](https://www.deshaw.com/)
+[Regeneron](https://www.regeneron.com/) [Arize](https://arize.com/) [Comet](https://www.comet.com/) [Conway](https://www.conway.ai/) [David AI](https://www.withdavid.ai/) [D. E. Shaw](https://www.deshaw.com/)
 
-[[Image: Deepgram]](https://deepgram.com/) [[Image: Ethereum Foundation]](https://ethereum.foundation/) [[Image: Gemini]](https://www.gemini.com/) [[Image: groq]](https://groq.com/) [[Image: Labelbox]](https://labelbox.com/) [[Image: Listen Labs]](https://listenlabs.ai/)
+[Deepgram](https://deepgram.com/) [Ethereum Foundation](https://ethereum.foundation/) [Gemini](https://www.gemini.com/) [groq](https://groq.com/) [Labelbox](https://labelbox.com/) [Listen Labs](https://listenlabs.ai/)
 
-[[Image: Scale]](https://scale.com/) [[Image: Voltage Park]](https://www.voltagepark.com/) [[Image: Interaction Co]](https://interaction.co/about) [[Image: camfer]](https://camfer.dev/) [[Image: Chroma]](https://www.trychroma.com/) [[Image: Decagon]](https://decagon.ai/)
+[Scale](https://scale.com/) [Voltage Park](https://www.voltagepark.com/) [Interaction Co](https://interaction.co/about) [camfer](https://camfer.dev/) [Chroma](https://www.trychroma.com/) [Decagon](https://decagon.ai/)
 
-[[Image: Letta]](https://www.letta.com/) [[Image: Mintlify]](https://mintlify.com/) [[Image: Sierra]](https://sierra.ai/) [[Image: Tool House]](https://toolhouse.ai/) [[Image: Citadel]](https://www.citadel.com/) [[Image: Fish Audio]](https://fish.audio/)
+[Letta](https://www.letta.com/) [Mintlify](https://mintlify.com/) [Sierra](https://sierra.ai/) [Tool House](https://toolhouse.ai/) [Citadel](https://www.citadel.com/) [Fish Audio](https://fish.audio/)
 
-[[Image: Heavybit]](https://www.heavybit.com/) [[Image: Janitor AI]](https://janitorai.com/) [[Image: LMArena]](https://lmarena.ai/) [[Image: Mastra]](https://mastra.ai/) [[Image: The House Fund]](https://www.thehouse.fund/) [[Image: Fung]](https://funginstitute.berkeley.edu/programs-centers/full-time-program/)
+[Heavybit](https://www.heavybit.com/) [Janitor AI](https://janitorai.com/) [LMArena](https://lmarena.ai/) [Mastra](https://mastra.ai/) [The House Fund](https://www.thehouse.fund/) [Fung](https://funginstitute.berkeley.edu/programs-centers/full-time-program/)
 
 #### And a big thank you to our partners.
 
-[[Image: Ardor]](https://www.ardorenergy.com/) [[Image: BitRobot]](https://bitrobot.ai/) [[Image: Lucky Energy]](https://luckybevco.com/) [[Image: PepsiCo]](https://www.pepsico.com/)
+[Ardor](https://www.ardorenergy.com/) [BitRobot](https://bitrobot.ai/) [Lucky Energy](https://luckybevco.com/) [PepsiCo](https://www.pepsico.com/)
 
-[[Image: Riot Energy]](https://riot.energy/) [[Image: Jukebox]](https://www.jukeboxprint.com/) [[Image: Yerba Madre]](https://yerbamadre.com/) [[Image: Wordware]](https://wordware.ai/)
+[Riot Energy](https://riot.energy/) [Jukebox](https://www.jukeboxprint.com/) [Yerba Madre](https://yerbamadre.com/) [Wordware](https://wordware.ai/)
 
 #### FAQs
 
@@ -42333,17 +31094,11 @@ Yes! We’re bringing a big hardware track to Cal Hacks 12.0! There will be huma
 
 #### Made with ❤️ — the Cal Hacks Team
 
-[[Image: Flora Wang]Flora Wangexec](https://www.linkedin.com/in/florawwang) [[Image: Sam Poder]Sam Poderexec](https://www.linkedin.com/in/sam-poder) [[Image: Allison Wang]Allison Wanglogistics lead](https://www.linkedin.com/in/allisonwang1624) [[Image: Charlie Huang]Charlie Huanglogistics & finance director](https://www.linkedin.com/in/huangzcharlie) [[Image: Chris Lopez]Chris Lopezmarketing director](https://www.linkedin.com/in/christopher-blu-lopez) [[Image: Christy Huang]Christy Huangfinance & marketing director](https://www.linkedin.com/in/christy-h-ab2106186) [[Image: Corey Mostero]Corey Mosterotech lead](https://www.linkedin.com/in/mostero) [[Image: Diya Vij]Diya Vijmarketing lead](https://www.linkedin.com/in/diya-vij-916a30167) [[Image: Dylan Chhum]Dylan Chhumcubstart lead & sponsorship director](https://www.linkedin.com/in/chhum)
+[Flora Wangexec](https://www.linkedin.com/in/florawwang) [Sam Poderexec](https://www.linkedin.com/in/sam-poder) [Allison Wanglogistics lead](https://www.linkedin.com/in/allisonwang1624) [Charlie Huanglogistics & finance director](https://www.linkedin.com/in/huangzcharlie) [Chris Lopezmarketing director](https://www.linkedin.com/in/christopher-blu-lopez) [Christy Huangfinance & marketing director](https://www.linkedin.com/in/christy-h-ab2106186) [Corey Mosterotech lead](https://www.linkedin.com/in/mostero) [Diya Vijmarketing lead](https://www.linkedin.com/in/diya-vij-916a30167) [Dylan Chhumcubstart lead & sponsorship director](https://www.linkedin.com/in/chhum)
 
-[[Image: Flora Wang]Flora Wangexec](https://www.linkedin.com/in/florawwang) [[Image: Sam Poder]Sam Poderexec](https://www.linkedin.com/in/sam-poder) [[Image: Allison Wang]Allison Wanglogistics lead](https://www.linkedin.com/in/allisonwang1624) [[Image: Charlie Huang]Charlie Huanglogistics & finance director](https://www.linkedin.com/in/huangzcharlie) [[Image: Chris Lopez]Chris Lopezmarketing director](https://www.linkedin.com/in/christopher-blu-lopez) [[Image: Christy Huang]Christy Huangfinance & marketing director](https://www.linkedin.com/in/christy-h-ab2106186) [[Image: Corey Mostero]Corey Mosterotech lead](https://www.linkedin.com/in/mostero) [[Image: Diya Vij]Diya Vijmarketing lead](https://www.linkedin.com/in/diya-vij-916a30167) [[Image: Dylan Chhum]Dylan Chhumcubstart lead & sponsorship director](https://www.linkedin.com/in/chhum)
+[Elisa Kongdesign director](https://www.linkedin.com/in/elisakong) [Ethan Tamcubstart lead](https://www.linkedin.com/in/ethanmtam) [Jin Leedesign lead](https://www.linkedin.com/in/jinyl) [Justin Wongcubstart lead](https://www.linkedin.com/in/jwonghelloworld) [Kandra Chaumarketing director](https://www.linkedin.com/in/kandrachau) [Kaylene Sondesign director](https://www.linkedin.com/in/kaylene-son) [Kenny Zhangtech director](https://www.linkedin.com/in/kenny-zhang-jinlin) [Mei Cibulkacubstart lead](https://www.linkedin.com/in/amelie-cibulka) [Mihir Putchadesign & tech director](https://www.linkedin.com/in/mihir-putcha)
 
-[[Image: Elisa Kong]Elisa Kongdesign director](https://www.linkedin.com/in/elisakong) [[Image: Ethan Tam]Ethan Tamcubstart lead](https://www.linkedin.com/in/ethanmtam) [[Image: Jin Lee]Jin Leedesign lead](https://www.linkedin.com/in/jinyl) [[Image: Justin Wong]Justin Wongcubstart lead](https://www.linkedin.com/in/jwonghelloworld) [[Image: Kandra Chau]Kandra Chaumarketing director](https://www.linkedin.com/in/kandrachau) [[Image: Kaylene Son]Kaylene Sondesign director](https://www.linkedin.com/in/kaylene-son) [[Image: Kenny Zhang]Kenny Zhangtech director](https://www.linkedin.com/in/kenny-zhang-jinlin) [[Image: Mei Cibulka]Mei Cibulkacubstart lead](https://www.linkedin.com/in/amelie-cibulka) [[Image: Mihir Putcha]Mihir Putchadesign & tech director](https://www.linkedin.com/in/mihir-putcha)
-
-[[Image: Elisa Kong]Elisa Kongdesign director](https://www.linkedin.com/in/elisakong) [[Image: Ethan Tam]Ethan Tamcubstart lead](https://www.linkedin.com/in/ethanmtam) [[Image: Jin Lee]Jin Leedesign lead](https://www.linkedin.com/in/jinyl) [[Image: Justin Wong]Justin Wongcubstart lead](https://www.linkedin.com/in/jwonghelloworld) [[Image: Kandra Chau]Kandra Chaumarketing director](https://www.linkedin.com/in/kandrachau) [[Image: Kaylene Son]Kaylene Sondesign director](https://www.linkedin.com/in/kaylene-son) [[Image: Kenny Zhang]Kenny Zhangtech director](https://www.linkedin.com/in/kenny-zhang-jinlin) [[Image: Mei Cibulka]Mei Cibulkacubstart lead](https://www.linkedin.com/in/amelie-cibulka) [[Image: Mihir Putcha]Mihir Putchadesign & tech director](https://www.linkedin.com/in/mihir-putcha)
-
-[[Image: Morgan Fung]Morgan Fungsponsorship director](https://www.linkedin.com/in/morgan-fung) [[Image: Nathan Rhee]Nathan Rheesponsorship lead](https://www.linkedin.com/in/nathan-rhee-016103234) [[Image: Nicole Lee]Nicole Leehei lead & sponsorship director](https://www.linkedin.com/in/nicolehylee) [[Image: Nicole Lee]Nicole Leetech director](https://www.linkedin.com/in/nicolelee7887) [[Image: Paarin Rastogi]Paarin Rastogifinance lead](https://www.linkedin.com/in/paarin-rastogi) [[Image: Prabhas Kurapati]Prabhas Kurapatilogistics director](https://www.linkedin.com/in/prabhask) [[Image: Pranav Prabhuram]Pranav Prabhuramsponsorship lead](https://www.linkedin.com/in/pranav-prabhuram-48b15a23a) [[Image: Rachael Chen]Rachael Chendesign director](https://www.linkedin.com/in/rachael-chen-2b91a32b0) [[Image: Shreya Korlipara]Shreya Korliparahei lead](https://www.linkedin.com/in/shreya-korlipara) [[Image: Valerie He]Valerie Helogistics lead](https://www.linkedin.com/in/valeriehe) [[Image: Wallace Tang]Wallace Tanglogistics & hei director](https://www.linkedin.com/in/wallacelhtang) [[Image: Zoe Tenenbaum]Zoe Tenenbaumhei director](https://www.linkedin.com/in/zoe-tenenbaum)
-
-[[Image: Morgan Fung]Morgan Fungsponsorship director](https://www.linkedin.com/in/morgan-fung) [[Image: Nathan Rhee]Nathan Rheesponsorship lead](https://www.linkedin.com/in/nathan-rhee-016103234) [[Image: Nicole Lee]Nicole Leehei lead & sponsorship director](https://www.linkedin.com/in/nicolehylee) [[Image: Nicole Lee]Nicole Leetech director](https://www.linkedin.com/in/nicolelee7887) [[Image: Paarin Rastogi]Paarin Rastogifinance lead](https://www.linkedin.com/in/paarin-rastogi) [[Image: Prabhas Kurapati]Prabhas Kurapatilogistics director](https://www.linkedin.com/in/prabhask) [[Image: Pranav Prabhuram]Pranav Prabhuramsponsorship lead](https://www.linkedin.com/in/pranav-prabhuram-48b15a23a) [[Image: Rachael Chen]Rachael Chendesign director](https://www.linkedin.com/in/rachael-chen-2b91a32b0) [[Image: Shreya Korlipara]Shreya Korliparahei lead](https://www.linkedin.com/in/shreya-korlipara) [[Image: Valerie He]Valerie Helogistics lead](https://www.linkedin.com/in/valeriehe) [[Image: Wallace Tang]Wallace Tanglogistics & hei director](https://www.linkedin.com/in/wallacelhtang) [[Image: Zoe Tenenbaum]Zoe Tenenbaumhei director](https://www.linkedin.com/in/zoe-tenenbaum)
+[Morgan Fungsponsorship director](https://www.linkedin.com/in/morgan-fung) [Nathan Rheesponsorship lead](https://www.linkedin.com/in/nathan-rhee-016103234) [Nicole Leehei lead & sponsorship director](https://www.linkedin.com/in/nicolehylee) [Nicole Leetech director](https://www.linkedin.com/in/nicolelee7887) [Paarin Rastogifinance lead](https://www.linkedin.com/in/paarin-rastogi) [Prabhas Kurapatilogistics director](https://www.linkedin.com/in/prabhask) [Pranav Prabhuramsponsorship lead](https://www.linkedin.com/in/pranav-prabhuram-48b15a23a) [Rachael Chendesign director](https://www.linkedin.com/in/rachael-chen-2b91a32b0) [Shreya Korliparahei lead](https://www.linkedin.com/in/shreya-korlipara) [Valerie Helogistics lead](https://www.linkedin.com/in/valeriehe) [Wallace Tanglogistics & hei director](https://www.linkedin.com/in/wallacelhtang) [Zoe Tenenbaumhei director](https://www.linkedin.com/in/zoe-tenenbaum)
 
 exec cubstart design finance hei logistics marketing sponsorship tech
 
@@ -42444,41 +31199,17 @@ DubHacks 2025 is made possible by...
 
 Got questions about DubHacks 2025?See below for frequently asked questions.
 
-[Image: star] [Image: star] [Image: star] [Image: star] [Image: star]
-
 #### DubHacks is live!
 
 DAYS
 
 0
 
-0
-
-:
-
 HOURS
-
-0
-
-0
-
-:
 
 MINUTES
 
-0
-
-0
-
-:
-
 SECONDS
-
-0
-
-0
-
-[Image: star] [Image: star] [Image: star] [Image: star] [Image: star]
 
 #### FAQs
 
@@ -42486,83 +31217,43 @@ Questions? Explore some answers below
 
 What is a hackathon?▼
 
----
-
 Am I eligible to attend?▼
-
----
 
 When do applications close?▼
 
----
-
 Is DubHacks fully in-person this year?▼
-
----
 
 Is attending DubHacks free?▼
 
----
-
 What if I don’t know how to code?▼
-
----
 
 How big are the teams? Can I apply as a team?▼
 
----
-
 Do I have to submit a project if I attend?▼
-
----
 
 Do I have to select a track for my project?▼
 
----
-
 Are we allowed to build on past projects?▼
-
----
 
 What will I eat?▼
 
----
-
 Is sleeping space provided?▼
-
----
 
 What if I need special accommodations?▼
 
----
-
 What is the code of conduct?▼
-
----
 
 Does DubHacks offer travel reimbursement?▼
 
----
-
 What's the difference between the priority application and the regular application?▼
-
----
 
 I haven't heard back about my application!▼
 
----
-
 404: Question Not Found▼
-
----
-
-[Image: star] [Image: star] [Image: star] [Image: star]
 
 [DUBHACKS](https://dubhacks.co/)
 
 Building Tomorrow Together
-
-[Image: Email Icon] [[Image: Facebook Icon]](https://www.facebook.com/DubHacks.Co/) [[Image: Instagram Icon]](https://www.instagram.com/dubhacks_/) [[Image: LinkedIn Icon]](https://www.linkedin.com/company/dubhacks/)
 
 Made with <3 by DubHacks 2025
 
@@ -42574,8 +31265,6 @@ Made with <3 by DubHacks 2025
 - Rendered title: CodeRED Astra
 - Final URL: [https://astra2025.pages.dev/](https://astra2025.pages.dev/)
 - Expanded FAQ/accordion controls: 10
-
-[Image: CodeRED Astra Logo]
 
 Coming this October 18-19
 
@@ -42623,13 +31312,9 @@ Email us at internal.affairs@cougarcs.com!
 
 I have a different question!+
 
-Email us at internal.affairs@cougarcs.com!
-
 Ask us!
 
 ##### Our Sponsors
-
-[Image: ConocoPhillips Logo] [Image: RSM Logo] [Image: Red Bull Logo] [[Image: Pure Buttons Logo]](https://www.purebuttons.com/?ajs_uid=01963cf1-6fe7-46e5-8b9b-9f3b45e49a41&utm_campaign=Member+Event+-+Pure+Buttons+Intro&utm_content=Pure+Buttons+Intro&utm_medium=Email&utm_source=Customer.io)
 
 ##### Meet the CodeRED Team!
 
@@ -42637,53 +31322,47 @@ Hitarth Thanki
 
 Director
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/hitarth-thanki) [[Image: GitHub]](https://github.com/brohudev)
+[LinkedIn](https://www.linkedin.com/in/hitarth-thanki) [GitHub](https://github.com/brohudev)
 
 Ilan Lipsky
 
 Logistics Lead
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/ilanlipsky/) [[Image: Instagram]](https://www.instagram.com/coinismrs) [[Image: GitHub]](https://github.com/CoinismRS)
+[LinkedIn](https://www.linkedin.com/in/ilanlipsky/) [Instagram](https://www.instagram.com/coinismrs) [GitHub](https://github.com/CoinismRS)
 
 Bharani
 
 Tech Lead
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/bharani0/) [[Image: Instagram]](https://www.instagram.com/sai_bharani_70/) [[Image: GitHub]](https://github.com/Bharani010)
+[LinkedIn](https://www.linkedin.com/in/bharani0/) [Instagram](https://www.instagram.com/sai_bharani_70/) [GitHub](https://github.com/Bharani010)
 
 Destiny
 
 Marketing & Design Lead
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/destiny-gutierrez-23abb3260) [[Image: Instagram]](https://www.instagram.com/dstny.gutierrez?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[LinkedIn](https://www.linkedin.com/in/destiny-gutierrez-23abb3260) [Instagram](https://www.instagram.com/dstny.gutierrez?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 Omoyeni
 
 Corporate Relations
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/omoyenikuku/)
+[LinkedIn](https://www.linkedin.com/in/omoyenikuku/)
 
 Dylan
 
-Corporate Relations
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/dylanberens?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [[Image: Instagram]](https://www.instagram.com/dlyan_real?igsh=b2hlMXFsZjhibG81&utm_source=qr) [[Image: GitHub]](https://github.com/dlyanreal)
+[LinkedIn](https://www.linkedin.com/in/dylanberens?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [Instagram](https://www.instagram.com/dlyan_real?igsh=b2hlMXFsZjhibG81&utm_source=qr) [GitHub](https://github.com/dlyanreal)
 
 Josh
 
-Corporate Relations
-
-[[Image: LinkedIn]](https://www.linkedin.com/in/joshua-ovalle-1b53082ab/) [[Image: Instagram]](https://www.instagram.com/glassprophet/)
+[LinkedIn](https://www.linkedin.com/in/joshua-ovalle-1b53082ab/) [Instagram](https://www.instagram.com/glassprophet/)
 
 Jennifer
 
 Designer
 
-[[Image: LinkedIn]](https://www.linkedin.com/in/jenniferceja)
+[LinkedIn](https://www.linkedin.com/in/jenniferceja)
 
-[Image: CodeRED Logo]
-
-[[Image: Instagram]](https://www.instagram.com/codered_hou/?hl=en) [[Image: LinkedIn]](https://www.linkedin.com/company/coderedhouston/posts/?feedView=all)
+[Instagram](https://www.instagram.com/codered_hou/?hl=en) [LinkedIn](https://www.linkedin.com/company/coderedhouston/posts/?feedView=all)
 
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
@@ -42692,7 +31371,7 @@ Designer
 ### Website 210: HackTX 25
 - Card URL: [https://hacktx.com/](https://hacktx.com/)
 - Referenced by: HackTX 25
-- Capture status: Failed - Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://hacktx.com/ Call log:   - navigating to "https://hacktx.com/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://hacktx.com/ Call log: - navigating to "https://hacktx.com/", waiting until "domcontentloaded"
 
 ### Website 211: Hack Cats
 - Card URL: [https://hackkstate.tech/](https://hackkstate.tech/)
@@ -42705,21 +31384,17 @@ Designer
 
 Slide 1 Slide 2
 
-[Image: Second slide]
-
 #### What is our hackathon like?
 
 Check out Hack K-State's 2018 closing video (or this [gallery](https://photos.app.goo.gl/Y2pYihukxk1aj6PEA) to see what Hack K-State is like. Registration for Hack K-State 2025 is currently open!
 
 [Watch now](https://youtu.be/OBM2-lYhfdk)
 
-Slide 3
-
 Carousel Previous and Next Buttons [Previous](https://hackkstate.tech/#myCarousel) [Next](https://hackkstate.tech/#myCarousel)
 
 Three columns of text below the carousel
 
-MLH Logo [Image: MLH] Column 1: What's a Hackathon
+MLH Logo Column 1: What's a Hackathon
 
 ##### What is a hackathon?
 
@@ -42729,7 +31404,7 @@ A hackathon is an invention and innovation competition for technology. A hackath
 
 /.col-lg-4
 
-Hack Apple Logo [Image: hack k-state] Column 2: What's Hack K-State
+Hack Apple Logo Column 2: What's Hack K-State
 
 ##### What is Hack K-State?
 
@@ -42737,17 +31412,11 @@ Hack K-State is a 36-hour hackathon at Kansas State University organized by stud
 
 [View rules »](https://hackkstate.tech/rules)
 
-/.col-lg-4
-
-Lightbulb picture [Image: Innovation] Column 3: Who can attend?
+Lightbulb picture Column 3: Who can attend?
 
 ##### Who can attend?
 
 Hack K-State is one of the few hackathons in the region that brings high school and college students together under the same event! Hack K-State is open to high school students, undergraduate college students, and graduate students from any school (in-state and out-of-state!). *Some restrictions apply, see **[rules](https://hackkstate.tech/rules)** for details*
-
-/.col-lg-4
-
-[Image: HackCats]
 
 ##### Hack Cats!
 
@@ -42755,26 +31424,16 @@ This year the Hack K-State team has decided to do a rebranding on what we call o
 
 /.row START THE FEATURETTES
 
----
-
 ##### Registration opens soon!
 We're Official.
 
 Registration for Hack K-State will be live in the coming weeks! The hackathon will be in-person this year October 17th-19th 2025. We are open to all high school and college students in the United States Participating in the event is 100% free and no experience is necessary.
-
-[Image: register]
-
----
 
 ##### Hack K-State Projects Innovate. Invent. Hack.
 
 There is a LOT of vareity of inventions that come out of Hack K-State. Teams with varying level of experiences and backgrounds come together to make their ideas come to life. There are many free tools and hardware (like smart devices) provided during Hack K-State that the hackers can use. From software to hardware and anything in between, your imagination is the limit!
 
 [Check out last year's projects »](https://hack-kstate-2021.devpost.com/)
-
-[Image: Projects]
-
----
 
 ##### Want to get involved?
 Sponsor. Organize. Mentor.
@@ -42783,17 +31442,11 @@ Get involved with one of the largest combined collegiate and high school hackath
 
 Contact Us
 
-[Image: organizers]
-
----
-
 /END THE FEATURETTES
 
 /.container
 
 ##### Hack K-State would like to thank our 2025 sponsors:
-
----
 
 ###### Gold Sponsors
 
@@ -42801,11 +31454,11 @@ class="sponsor-logos-gold"
 
 class="slide gold-sponsor"
 
-[[Image: Conoco Phillips Sponsor]](https://www.conocophillips.com)
+[Conoco Phillips Sponsor](https://www.conocophillips.com)
 
 class="slide gold-sponsor"
 
-[[Image: H&R Block Sponsor]](https://www.hrblock.com/)
+[H&R Block Sponsor](https://www.hrblock.com/)
 
 ###### Silver Sponsors
 
@@ -42813,7 +31466,7 @@ class="sponsor-logos-silver"
 
 class="slide silver-sponsor"
 
-[[Image: Koch Sponsor]](https://www.kochind.com/)
+[Koch Sponsor](https://www.kochind.com/)
 
 class="slide silver-sponsor"
 
@@ -42826,11 +31479,11 @@ class="sponsor-logos-bronze"
 
 class="slide bronze-sponsor"
 
-[[Image: Thunderhead Engineering Sponsor]](https://www.thunderheadeng.com/)
+[Thunderhead Engineering Sponsor](https://www.thunderheadeng.com/)
 
 class="slide bronze-sponsor"
 
-[[Image: Surepoint Ag Sponsor]](https://www.surepointag.com/)
+[Surepoint Ag Sponsor](https://www.surepointag.com/)
 
 ### Website 212: Hack Knight
 - Card URL: [https://hackknight.org/](https://hackknight.org/)
@@ -42849,47 +31502,23 @@ HackKnight is a 48-hour hackathon where students come together to create innovat
 
 03 MONTHS
 
-:
-
 18 DAYS
-
-:
 
 21 HOURS
 
-:
-
 32 MINUTES
-
-:
 
 51 SECONDS
 
-[Image: Castle Tower]
-
-[Image: HackKnight mascot]
-
 ##### Our Sponsors
 
-[[Image: Bloomberg]](https://bloomberg.com) [[Image: MLH]](https://mlh.io) [[Image: Capital One]](https://capitalone.com) [[Image: CodePath]](https://codepath.org) [[Image: Queens College]](https://qc.cuny.edu) [[Image: S-STEM]](https://hackknight.org/) [[Image: Join Us]](https://hackknight.org/) [[Image: Bloomberg]](https://bloomberg.com) [[Image: MLH]](https://mlh.io) [[Image: Capital One]](https://capitalone.com) [[Image: CodePath]](https://codepath.org) [[Image: Queens College]](https://qc.cuny.edu) [[Image: S-STEM]](https://hackknight.org/) [[Image: Join Us]](https://hackknight.org/)
+[Bloomberg](https://bloomberg.com) [MLH](https://mlh.io) [Capital One](https://capitalone.com) [CodePath](https://codepath.org) [Queens College](https://qc.cuny.edu) [S-STEM](https://hackknight.org/) [Join Us](https://hackknight.org/) [Bloomberg](https://bloomberg.com) [MLH](https://mlh.io) [Capital One](https://capitalone.com) [CodePath](https://codepath.org) [Queens College](https://qc.cuny.edu) [S-STEM](https://hackknight.org/) [Join Us](https://hackknight.org/)
 
 [View All Sponsors](https://hackknight.org/sponsors)
 
 ##### Past Event Highlights
 
 ###### HackKnight 2024
-
-[Image: HackKnight 2024 event photo 1]
-
-[Image: HackKnight 2024 event photo 2]
-
-[Image: HackKnight 2024 event photo 3]
-
-[Image: HackKnight 2024 event photo 4]
-
-[Image: HackKnight 2024 event photo 5]
-
-[Image: HackKnight 2024 event photo 6]
 
 ##### Event Schedule
 
@@ -42942,38 +31571,6 @@ Midnight Ramen 11PM–12PM
 [View Full Schedule](https://hackknight.org/schedule)
 
 ##### Meet The Team
-
-[Image: Jason Zheng] [Image: character badge]
-
-Jason Zheng
-
-Marketing
-
-[Image: Jason Zheng] [Image: character badge]
-
-Jason Zheng
-
-Marketing
-
-[Image: Jason Zheng] [Image: character badge]
-
-Jason Zheng
-
-Marketing
-
-[Image: Jason Zheng] [Image: character badge]
-
-Jason Zheng
-
-Marketing
-
-[Image: Jason Zheng] [Image: character badge]
-
-Jason Zheng
-
-Marketing
-
-[Image: Jason Zheng] [Image: character badge]
 
 Jason Zheng
 
@@ -43071,13 +31668,11 @@ We empower hackers!
 
 [Skip to main content](https://www.mlh.com/signin?return_to=https://organize.mlh.com/auth/callback/organizer#main-content)
 
-[[Image: Major League Hacking]](https://www.mlh.com/)
+[Major League Hacking](https://www.mlh.com/)
 
 Participate Organizers Community About [DEV](https://dev.to) [Attend](https://www.mlh.com/seasons/2026/events) [For Businesses](https://sponsor.mlh.io/)
 
 [Sign In](https://www.mlh.com/signin)
-
-[Image: MLH Logo]
 
 #### Welcome Back
 
@@ -43087,8 +31682,6 @@ Participate Organizers Community About [DEV](https://dev.to) [Attend](https://ww
 - Rendered title: BostonHacks 2025 - Retro Remix
 - Final URL: [https://bostonhacks.org/](https://bostonhacks.org/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: logo]](https://bostonhacks.org/) [[Image: MLH Trust Badge]](https://mlh.io)
 
 DISCORD
 
@@ -43102,37 +31695,15 @@ FAQs
 
 SPONSORS
 
-[Image: Water splash background]
-
-[Image: Floating bubbles] [Image: Floating bubbles] [Image: Floating bubbles] [Image: Floating bubbles] [Image: Floating bubbles]
-
-[Image: Fish with flower]
-
-[Image: Fish with computer]
-
 October 11-12
-
-[Image: Bubble background]
 
 #### BostonHacks
 
 ##### 2025
 
-[[Image: Login]](https://bostonhacks.org/login) [[Image: Sponsor Us]](https://bostonhacks.org/sponsors)
-
-[Image: Directions]
-
-[Image: Sunflare]
-
-[Image: Flowers]
-
-[Image: Splash]
-
-[Image: Splash]
+[Login](https://bostonhacks.org/login) [Sponsor Us](https://bostonhacks.org/sponsors)
 
 Recycle Bin
-
-― ✕
 
 File Edit View Help
 
@@ -43140,31 +31711,19 @@ Name Original Location
 
 Drag or resize my window on desktop!
 
-[Image: Recycle Bin]
-
 0 object(s)
 
 0 bytes
 
-[Image: Bubble]
-
 Untitled - Paint
 
-― ✕
-
 File Edit View Image Colors Help
-
-↖ □ ○ ✏ 🖌 ✂ 🔍 💧 / \ — │ ▭ ◯ ⬟ ★
 
 Retro Remix
 
 For Help, click Help Topics on the Help menu.
 
-[Image: Flowers]
-
 Help Topics: Windows Help
-
-― ✕
 
 Contents
 
@@ -43180,41 +31739,17 @@ theme...
 
 Open Print... Cancel
 
-[Image: Fish]
+TRACKS
 
-[Image: sunglare]
-
-[Image: Title] TRACKS
-
-[Image: Cursor]
-
-Upgrade.exe [Image: Upgrade.exe]
+Upgrade.exe
 
 $1500 in prizes
 
-[Image: Expand]
+Protecting N00bs
 
-Protecting N00bs [Image: Protecting N00bs]
-
-$1500 in prizes
-
-[Image: Expand]
-
-Make Fetch Happen [Image: Make Fetch Happen]
-
-$1500 in prizes
-
-[Image: Expand]
-
-[Image: Splash]
-
-[Image: Yellow Fish]
-
-[Image: Bubble]
+Make Fetch Happen
 
 Untitled - Notepad
-
-― ✕
 
 File Edit Seach Help
 
@@ -43282,62 +31817,22 @@ Check the directions at the top of this page or go [here](https://drive.google.c
 
 11:00 am. . . . . . Closing ceremony
 
-[Image: bubble] [Image: fish] [Image: splash]
-
 #### ? FAQs
 
-- ?.What is BostonHacks[Image: icon]
-- ?.When and where is BostonHacks?[Image: icon]
-- ?.Who can attend?[Image: icon]
-- ?.Are there any rules?[Image: icon]
-- ?.Do I need experience?[Image: icon]
-- ?.Does it cost anything?[Image: icon]
+- ?.What is BostonHacks
+- ?.When and where is BostonHacks?
+- ?.Who can attend?
+- ?.Are there any rules?
+- ?.Do I need experience?
+- ?.Does it cost anything?
 
-- ?.Can we form teams?[Image: icon]
-- ?.When does registration close?[Image: icon]
-- ?.MLH Code of Conduct[Image: icon]
-- ?.What do I get if I win?[Image: icon]
-- ?.What if I have more questions?[Image: icon]
+- ?.Can we form teams?
+- ?.When does registration close?
+- ?.MLH Code of Conduct
+- ?.What do I get if I win?
+- ?.What if I have more questions?
 
-[Image: Title] Our Sponsors:
-
-[Image: Sponsors Icon]
-
-[Image: Frame 1]
-
-[Image: Image 1]
-
-[Image: Frame 2]
-
-[Image: Image 2]
-
-[Image: Frame 3]
-
-[Image: Image 3]
-
-[Image: Frame 4]
-
-[Image: Image 4]
-
-[Image: Frame 5]
-
-[Image: Image 5]
-
-[Image: Frame 6]
-
-[Image: Image 6]
-
-[Image: Frame 7]
-
-[Image: Image 7]
-
-[Image: Frame 8]
-
-[Image: Image 8]
-
-[Image: Frame 9]
-
-[Image: Image 9]
+Our Sponsors:
 
 ### Website 216: Global Hack Week: Open Source Week
 - Card URL: [https://events.mlh.io/events/12714-global-hack-week-open-source-week](https://events.mlh.io/events/12714-global-hack-week-open-source-week)
@@ -43477,10 +31972,6 @@ Registration isn't open yet, but fill out our interest form and we'll reach out 
 - Final URL: [https://www.hackru.org/offseason](https://www.hackru.org/offseason)
 - Expanded FAQ/accordion controls: 0
 
-[Image: generic hackru logo]
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=yellow)
-
 #### HackRU Coming Soon
 
 Registration will open in the Fall, so stay tuned for more information.
@@ -43490,12 +31981,6 @@ Follow us on our socials through Linktree to stay updated and never miss an anno
 Visit Our Linktree
 
 ##### Memories from HackRU
-
-[Image: Photo 1]
-
-[Image: Photo 2]
-
-[Image: Photo 3]
 
 MLH Code of Conduct
 
@@ -43527,12 +32012,10 @@ E ]
 
 ] ] ] [-1
 
-] ]
-
 ### Website 221: HackUTA
 - Card URL: [https://www.hackuta.org/](https://www.hackuta.org/)
 - Referenced by: HackUTA
-- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hackuta.org/ Call log:   - navigating to "https://www.hackuta.org/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hackuta.org/ Call log: - navigating to "https://www.hackuta.org/", waiting until "domcontentloaded"
 
 ### Website 222: NASA Space Apps Challenge Monterrey
 - Card URL: [https://www.spaceappschallenge.org](https://www.spaceappschallenge.org)
@@ -43541,16 +32024,12 @@ E ]
 - Final URL: [https://www.spaceappschallenge.org/](https://www.spaceappschallenge.org/)
 - Expanded FAQ/accordion controls: 0
 
-$
-
-[[Image: Space Apps Logo 2026 color]](https://www.spaceappschallenge.org/)
-
 - [About Us](https://www.spaceappschallenge.org/about/)
 - Resources
 - Awards
 - Explore the Hackathon
-  - Login
-  - Sign Up
+- Login
+- Sign Up
 
 Sorry, your browser doesn't support playback for this video
 
@@ -43558,57 +32037,31 @@ Sorry, your browser doesn't support playback for this video
 
 [2025 Global Winners](https://www.spaceappschallenge.org/2025/awards/global-winners/)
 
-[Image: NASA Logo]
-
 ##### In partnership with
 
-[[Image: Bahrain Space Agency Logo]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
+[Indian Space Research Organization](https://www.spaceappschallenge.org/2025/space-agency-partners/)
 
-[[Image: Brazilian Space Agency Logo]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
+[Italian Space Agency](https://www.spaceappschallenge.org/2025/space-agency-partners/)
 
-[[Image: Canadian Space Agency Logo]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
+[JAXA](https://www.spaceappschallenge.org/2025/space-agency-partners/)
 
-[[Image: ESA Logo]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
+[CONAE](https://www.spaceappschallenge.org/2025/space-agency-partners/)
 
-[[Image: Indian Space Research Organization]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
+[AEP 2023-2028 es (3)](https://www.spaceappschallenge.org/2025/space-agency-partners/)
 
-[[Image: Italian Space Agency]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
+[SANSA - Copy](https://www.spaceappschallenge.org/2025/space-agency-partners/)
 
-[[Image: JAXA]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
-
-[[Image: MBRSC LOGO]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
-
-[[Image: CONAE]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
-
-[[Image: AEP 2023-2028 es (3)]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
-
-[[Image: SANSA - Copy]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
-
-[[Image: AEE-logo-RGB_cian+leyenda]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
-
-[[Image: Turkisy Space Agency]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
-
-[[Image: UKSA full_transparent logo]](https://www.spaceappschallenge.org/2025/space-agency-partners/)
-
-[Image: rose-pattern]
+[Turkisy Space Agency](https://www.spaceappschallenge.org/2025/space-agency-partners/)
 
 ##### ADDRESS REAL-WORLD CHALLENGES WITH NASA DATA
 
 Whether you’re a student, professional, technologist, engineer or artist, the NASA International Space Apps Challenge offers opportunities for anyone with an interest in space and science through our hackathon and global community. All ages, skill levels, and professional backgrounds are welcome. At NASA Space Apps, there's always space for one more!
-
-[Image: Two women wearing NASA Space Apps Albuquerque shirts smile facing the camera in a lobby area.]
-
-[Image: Three men are sitting at a long table with laptops while two men standing behind them looking at the screens and smiling during a NASA Space Apps Challenge Local Event.]
 
 ###### Real-World Challenges
 
 The NASA Space Apps Challenge provides the opportunity to engage directly with NASA’s data, along with Space Agency Partner data. During the hackathon, teams use this data to address challenges written by NASA Subject Matter Experts, featuring topics including storytelling, software development, astrophysics, space exploration, agriculture, and more.
 
 > ***“It is astounding to see what is possible when people come together to address the challenges we face in our endeavor to learn more about life on Earth,” said NASA Earth Science Division Director, Dr. Karen St. Germain.***
-
-[Image: Six people are gathered around a laptop on a desk looking at the screen during a NASA Space Apps Challenge Local Event.]
-
-[Image: Six people are sitting in chairs around a rectangular table holding a conversation at a NASA Space Apps Challenge event.]
 
 ###### Meet like-minded individuals
 
@@ -43620,29 +32073,27 @@ When you participate in NASA Space Apps, you join a global community that shares
 
 Each year, thousands of teams submit projects that demonstrate collaboration, creativity, and address challenges we face on Earth and in space using NASA data. These projects undergo multiple rounds of judging to determine the 10 Global Winners, representing the most innovative projects submitted by participants.
 
-[[Image: Award - Best Use of Science]Best Use of Science[Image: spacegenes-blue-2025globalwinner]SpaceGenes+Local Event: Berlin, Germany Challenge: Build a Space Biology Knowledge Engine](https://www.spaceappschallenge.org/2025/find-a-team/spacegenes/)
+[Best Use of ScienceSpaceGenes+Local Event: Berlin, Germany Challenge: Build a Space Biology Knowledge Engine](https://www.spaceappschallenge.org/2025/find-a-team/spacegenes/)
 
-[[Image: Award - Best Use of Data]Best Use of Data[Image: Resonant Exoplanets-2025globalwinner]Resonant ExoplanetsLocal Event: Mountain View, CA Challenge: A World Away: Hunting for Exoplanets with AI](https://www.spaceappschallenge.org/2025/find-a-team/resonant-exoplanets/)
+[Best Use of DataResonant ExoplanetsLocal Event: Mountain View, CA Challenge: A World Away: Hunting for Exoplanets with AI](https://www.spaceappschallenge.org/2025/find-a-team/resonant-exoplanets/)
 
-[[Image: Award - Art & Technology]Art & Technology[Image: zumorrodax-2025globalwinner]Zumorroda-XLocal Event: Cairo, Egypt Challenge: NASA Farm Navigators: Using NASA Data Exploration in Agriculture](https://www.spaceappschallenge.org/2025/find-a-team/zumorroda-x/)
+[Art & TechnologyZumorroda-XLocal Event: Cairo, Egypt Challenge: NASA Farm Navigators: Using NASA Data Exploration in Agriculture](https://www.spaceappschallenge.org/2025/find-a-team/zumorroda-x/)
 
-[[Image: Award - Best Use of Technology]Best Use of Technology[Image: twisters-2025globalwinner]TwistersLocal Event: Monterrey, Mexico Challenge: Will It Rain On My Parade?](https://www.spaceappschallenge.org/2025/find-a-team/twisters/)
+[Best Use of TechnologyTwistersLocal Event: Monterrey, Mexico Challenge: Will It Rain On My Parade?](https://www.spaceappschallenge.org/2025/find-a-team/twisters/)
 
-[[Image: Award - Galactic Impact]Galactic Impact[Image: astrosweepers-blue-2025globalwinner]Astro Sweepers - We Catch What Space Leaves BehindLocal Event: Universal Event Challenge: Commercializing Low Earth Orbit (LEO)](https://www.spaceappschallenge.org/2025/find-a-team/astro-sweepers-we-catch-what-space-leaves-behind/)
+[Galactic ImpactAstro Sweepers - We Catch What Space Leaves BehindLocal Event: Universal Event Challenge: Commercializing Low Earth Orbit (LEO)](https://www.spaceappschallenge.org/2025/find-a-team/astro-sweepers-we-catch-what-space-leaves-behind/)
 
-[[Image: Award - Best Mission Concept]Best Mission Concept[Image: pureflow-2025globalwinner]PureFlowLocal Event: Aracaju, Brazil Challenge: Your Home in Space: The Habitat Layout Creator](https://www.spaceappschallenge.org/2025/find-a-team/pureflow2/)
+[Best Mission ConceptPureFlowLocal Event: Aracaju, Brazil Challenge: Your Home in Space: The Habitat Layout Creator](https://www.spaceappschallenge.org/2025/find-a-team/pureflow2/)
 
-[[Image: Award - Most Inspirational]Most Inspirational[Image: Photonics Odyssey-2025globalwinner]Photonics OdysseyLocal Event: Chennai, India Challenge: Commercializing Low Earth Orbit (LEO)](https://www.spaceappschallenge.org/2025/find-a-team/photonic-force/)
+[Most InspirationalPhotonics OdysseyLocal Event: Chennai, India Challenge: Commercializing Low Earth Orbit (LEO)](https://www.spaceappschallenge.org/2025/find-a-team/photonic-force/)
 
-[[Image: Award - Best Use of Storytelling]Best Use of Storytelling[Image: hercode space-2025globalwinner]HerCode SpaceLocal Event: Universal Event Challenge: Stellar Stories: Space Weather Through the Eyes of Earthlings](https://www.spaceappschallenge.org/2025/find-a-team/hercode-space/)
+[Best Use of StorytellingHerCode SpaceLocal Event: Universal Event Challenge: Stellar Stories: Space Weather Through the Eyes of Earthlings](https://www.spaceappschallenge.org/2025/find-a-team/hercode-space/)
 
-[[Image: Award - Global Connection]Global Connection[Image: gaialeo-2025globalwinner]Gaia+LEOLocal Event: Seattle, WA Challenge: Commercializing Low Earth Orbit (LEO)](https://www.spaceappschallenge.org/2025/find-a-team/gaialeo/)
+[Global ConnectionGaia+LEOLocal Event: Seattle, WA Challenge: Commercializing Low Earth Orbit (LEO)](https://www.spaceappschallenge.org/2025/find-a-team/gaialeo/)
 
-[[Image: Award - Local Impact]Local Impact[Image: quenaris-2025globalwinner]QUEÑARISLocal Event: Arequipa, Peru Challenge: BloomWatch: An Earth Observation Application for Global Flowering Phenology](https://www.spaceappschallenge.org/2025/find-a-team/watana-project/)
+[Local ImpactQUEÑARISLocal Event: Arequipa, Peru Challenge: BloomWatch: An Earth Observation Application for Global Flowering Phenology](https://www.spaceappschallenge.org/2025/find-a-team/watana-project/)
 
 1/4
-
-[Image: binary]
 
 ##### NASA SPACE APPS BY THE NUMBERS
 
@@ -43670,10 +32121,6 @@ Copyright ©2025 NASA | [Privacy Policy](https://www.nasa.gov/about/highlights/H
 
 ##### Connect with #SpaceApps
 
-$ /$ $ /$
-
-/$
-
 ### Website 223: Hack the Valley
 - Card URL: [https://hackthevalley.io/](https://hackthevalley.io/)
 - Referenced by: Hack the Valley
@@ -43686,8 +32133,6 @@ $ /$ $ /$
 - Final URL: [https://hhuh.io/](https://hhuh.io/)
 - Expanded FAQ/accordion controls: 17
 
-[Image: HackHarvard]
-
 #### HackHarvard
 
 Hosted by HackHarvard Undergraduate Hackathon
@@ -43696,15 +32141,7 @@ Hosted by HackHarvard Undergraduate Hackathon
 
 🚀 **Applications are now closed.** Thank you to everyone who applied — we hope you had a great time at the event.
 
-[Image: HackHarvard event]
-
-[Image: HackHarvard event]
-
-[Image: HackHarvard event]
-
 [What is a hackathon?](https://hhuh.io/what) [Learn More](https://hhuh.io/#welcome)
-
-[Image: HackHarvard event]
 
 #### WELCOME TO HACKHARVARD
 
@@ -43715,8 +32152,6 @@ Where innovation meets community. Join hundreds of students from around the worl
 HackHarvard is a 36-hour undergraduate hackathon hosted at Harvard University. Every year, over 500 students from around the world come to our campus to build, learn, and create.
 
 Applications for our 10th iteration of HackHarvard will open in mid 2025. Join us for an unforgettable experience where you'll meet fellow innovators, work with cutting-edge technologies, and push the boundaries of what's possible.
-
-[Image: Students collaborating at HackHarvard]
 
 500+
 
@@ -43731,14 +32166,6 @@ Hours of hacking
 Anniversary in 2025
 
 ##### EXPERIENCE HACKHARVARD
-
-[Image: HackHarvard moment 1]
-
-[Image: HackHarvard moment 2]
-
-[Image: HackHarvard moment 3]
-
-[Image: HackHarvard moment 4]
 
 ##### JOIN US IN 2025
 
@@ -43803,11 +32230,9 @@ All participants are expected to follow the [MLH Code of Conduct](https://static
 - Final URL: [https://www.mhacks.org/](https://www.mhacks.org/)
 - Expanded FAQ/accordion controls: 7
 
-[Image: MHacks 2026]
-
 42.28°N
 
-[[Image: MHacks]](https://www.mhacks.org/)
+[MHacks](https://www.mhacks.org/)
 
 Apply Now
 
@@ -43819,43 +32244,23 @@ October 3 - 4, 2026·Ann Arbor, Michigan
 
 $40k+ In Prizes
 
-◆
-
 350+ Projects
-
-◆
 
 24 Hours
 
-◆
-
 October 3 - 4, 2026
 
-◆
-
 Ann Arbor, MI
-
-◆
 
 $40k+ In Prizes
 
-◆
-
 350+ Projects
-
-◆
 
 24 Hours
 
-◆
-
 October 3 - 4, 2026
 
-◆
-
 Ann Arbor, MI
-
-◆
 
 ★About MHacks★
 
@@ -43913,13 +32318,9 @@ Sep. 12
 
 ###### Regular Applications Deadline
 
-Upcoming
-
 Sep. 19
 
 ###### Regular Decisions Released
-
-Upcoming
 
 ◆Powering MHacks◆
 
@@ -43976,8 +32377,6 @@ Applications open June 22. Grab your spot for 24 hours of building, mentorship, 
 
 [Apply Now](https://www.mhacks.org/) Sponsor Us
 
-$ /$
-
 ### Website 226: &hacks XI
 - Card URL: [https://andhacks.cs.wm.edu/](https://andhacks.cs.wm.edu/)
 - Referenced by: &hacks XI
@@ -43990,8 +32389,6 @@ $ /$
 Sept. 25–27
 
 [Register](https://wmsas.qualtrics.com/jfe/form/SV_6S8vNLg8wb4xpum) [Sponsor](https://wmsas.qualtrics.com/jfe/form/SV_57iVqHk2QHKUzpY)
-
-[Image: Andy]
 
 ##### AI & imagination = imaginAItion
 
@@ -44048,9 +32445,7 @@ Please reach out to us with any questions or concerns at computing@wm.edu!
 - Final URL: [https://hackumbc.tech/](https://hackumbc.tech/)
 - Expanded FAQ/accordion controls: 12
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[[Image: logo]](https://hackumbc.tech/#home) [About](https://hackumbc.tech/#about) [Schedule](https://hackumbc.tech/#schedule) [FAQ](https://hackumbc.tech/#faq) [Workshops](https://hackumbc.tech/#sponsors) [Organizers](https://hackumbc.tech/team)
+[About](https://hackumbc.tech/#about) [Schedule](https://hackumbc.tech/#schedule) [FAQ](https://hackumbc.tech/#faq) [Workshops](https://hackumbc.tech/#sponsors) [Organizers](https://hackumbc.tech/team)
 
 [Interest Form->Click this button to fill out the interest form for hackUMBC 2026 hackathon!](https://forms.gle/MeqFXxhzQoa87ffo6)
 
@@ -44070,25 +32465,13 @@ Curious about the team that makes hackUMBC possible?[Meet our organizing team! (
 
 Prizes
 
-🏆
-
 #### 1st Place
 
 TBD
 
-🥈
-
 #### 2nd Place
 
-TBD
-
-🥉
-
 #### 3rd Place
-
-TBD
-
-[Image: Analytic frame] [Image: Analytic frame] [Image: Analytic frame] [Image: Analytic frame]
 
 #### SCHEDULE
 
@@ -44100,79 +32483,23 @@ Event
 
 ###### TBD
 
-TBD
-
 8:00 AM to 8:15 AM
-
-Event
-
-###### TBD
-
-TBD
 
 8:15 AM to 8:30 AM
 
-Event
-
-###### TBD
-
-TBD
-
 10:00 AM to 11:00 AM
-
-Event
-
-###### TBD
-
-TBD
 
 12:00 PM to 1:00 PM
 
-Event
-
-###### TBD
-
-TBD
-
 1:00 PM to 3:00 PM
-
-Event
-
-###### TBD
-
-TBD
 
 3:00 PM to 4:00 PM
 
-Event
-
-###### TBD
-
-TBD
-
 6:00 PM to 7:00 PM
-
-Event
-
-###### TBD
-
-TBD
 
 7:00 PM to 8:00 PM
 
-Event
-
-###### TBD
-
-TBD
-
 8:00 PM to 9:00 PM
-
-Event
-
-###### TBD
-
-TBD
 
 Scroll horizontally, swipe, or hold middle mouse button and drag, to see all events
 
@@ -44234,7 +32561,7 @@ Thank You to Our Incredible Sponsors!
 
 hackUMBC wouldn't be possible without the generous support of our sponsors, click on their logos to check them out!
 
-[[Image: twitter-png]TWITTER](https://x.com/hackumbc) [[Image: insta-png]INSTAGRAM](https://www.instagram.com/hackumbc/?hl=en) [[Image: github-png]GITHUB](https://github.com/umbchackers/hackumbc-web)
+[TWITTER](https://x.com/hackumbc) [INSTAGRAM](https://www.instagram.com/hackumbc/?hl=en) [GITHUB](https://github.com/umbchackers/hackumbc-web)
 
 © 2026 hackUMBC. All rights reserved.
 
@@ -44247,8 +32574,6 @@ hackUMBC wouldn't be possible without the generous support of our sponsors, clic
 - Final URL: [https://sunhacks.io/](https://sunhacks.io/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: sunhacks Logo: a power button with 7 spokes coming from it]
-
 #### sunhacks
 
 ##### September 27th - 28th, 2025
@@ -44256,23 +32581,15 @@ hackUMBC wouldn't be possible without the generous support of our sponsors, clic
 ##### Sun Devil Fitness Complex Tempe,
 Arizona State University
 
-<a class="button mentor has-text-blue" href="https://discord.gg/" target="_blank">join discord</a> On hold untill further notice ^
+[join discord](https://discord.gg/) On hold untill further notice ^
 
-<h6 class="subtitle is-6 has-text-white">Registration closes Saturday, Oct. 10, 9:30PM Arizona Time.</h6>
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/seasons/2026/events?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
+###### Registration closes Saturday, Oct. 10, 9:30PM Arizona Time.
 
 #### what is sunhacks?
 
----
-
 sunhacks is a yearly hackathon (ideathon, coding marathon, prototyping marathon, etc) designed to support students in their innovative journeys. sunhacks is for students of all skill levels, and our job as organizers is to support you by providing the resources you need to achieve your development dreams. We provide you with workshops, mentors, community connections, and peers who are motivated to help each other succeed and reach their goals.
 
-[Image: A group of students holding up pickfork gestures at sunhacks opening ceremonies]
-
 #### live schedule overview
-
----
 
 Event has started!
 
@@ -44284,59 +32601,33 @@ Click an item on the timeline to see more details here, or watch the live schedu
 
 #### faq
 
----
-
 We know that things can be pretty intimidating when there's a lot of unknowns, so check out the some what ifs below! If you still have questions email us at team@sunhacks.io
 
 hackathon?
 
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
-
 who can hack?
-
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
 
 teams?
 
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
-
 cost?
-
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
 
 rules?
 
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
-
 I don't know how to code / I don't think I'm good enough
-
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
 
 what are the tracks / why aren't there any tracks?
 
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
-
 so I hear there's prizes?
-
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
 
 how can I be a mentor?
 
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
-
 can I request additional accomodations?
-
-<i class="fa fa-angle-down"></i> Font Awesome fontawesome.com
 
 #### sponsors
 
----
-
 #### partners
 
----
-
-[<i class="fab fa-instagram"></i> Font Awesome fontawesome.com](https://www.instagram.com/sunhacksio/) [<i class="fab fa-linkedin"></i> Font Awesome fontawesome.com](https://www.linkedin.com/company/sunhacksio/about/) [<i class="fab fa-x-twitter"></i> Font Awesome fontawesome.com](https://x.com/sunhacksio) [<i class="fab fa-facebook"></i> Font Awesome fontawesome.com](https://www.facebook.com/sunhacksio/) <i class="fas fa-paper-plane"></i> Font Awesome fontawesome.com
+[ Font Awesome fontawesome.com](https://www.instagram.com/sunhacksio/) [ Font Awesome fontawesome.com](https://www.linkedin.com/company/sunhacksio/about/) [ Font Awesome fontawesome.com](https://x.com/sunhacksio) [ Font Awesome fontawesome.com](https://www.facebook.com/sunhacksio/) Font Awesome fontawesome.com
 
 [MLH code of conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf)
 
@@ -44351,8 +32642,6 @@ can I request additional accomodations?
 - Rendered title: OwlHacks 2025
 - Final URL: [https://www.owlhacks.com/](https://www.owlhacks.com/)
 - Expanded FAQ/accordion controls: 8
-
-[Image: OwlHacks Logo]
 
 - About
 - FAQ
@@ -44411,17 +32700,13 @@ Intro to Google AI Studio Workshop hosted by MLH
 
 Learn how to use Google AI Studio to help you with your projects.
 
-📍 Room 108A
-
 11:00 AM
 
 Secure Your Code: Hands-On Static Analysis Workshop
 
 Join Derek Fisher, for a one-hour, instructor-led workshop on integrating and running open-source static analysis tools. Participants will clone a GitHub repo, install a lightweight SAST tool, execute scans, and interpret findings. By the end of the session, you'll have hands-on experience automating code security checks and the confidence to replicate the workflow in your own projects.
 
-📍 Room 108A
-
-[[Image: Derek Fisher, CISSP, CSSLP, Director of Temple University's Cyber Defense and Information Assurance Program]Derek Fisher, CISSP, CSSLP, Director of Temple University's Cyber Defense and Information Assurance Program](https://www.linkedin.com/in/derek-fisher-sec-arch/)
+[Derek Fisher, CISSP, CSSLP, Director of Temple University's Cyber Defense and Information Assurance Program](https://www.linkedin.com/in/derek-fisher-sec-arch/)
 
 12:00 PM
 
@@ -44437,9 +32722,7 @@ Web Jam Starter Pack Workshop
 
 Join David Loder, for a front-end focused session on getting a basic website up and running fast. You'll start with a simple template, customize it with HTML, CSS, and JavaScript, and learn tips for adding interactivity and making it your own — perfect for hackathon participants who want to build a polished site quickly.
 
-📍 Room 108A
-
-[[Image: David Loder, President of TUDev and Web Developer for Temple's ACM chapter]David Loder, President of TUDev and Web Developer for Temple's ACM chapter](https://www.linkedin.com/in/daveloder/)
+[David Loder, President of TUDev and Web Developer for Temple's ACM chapter](https://www.linkedin.com/in/daveloder/)
 
 2:00 PM
 
@@ -44447,17 +32730,13 @@ Mini Club + Donor Fair. Get Involved!
 
 Come meet the Temple tech community! Clubs that have endorsed the hackathon and donors. They will be sharing what they do, how you can get involved, and the opportunities they offer to students. A great chance to network, discover new communities, and pick up some cool swag.
 
-📍 Lobby
-
 3:00 PM
 
 Power Up Your Backend with Python
 
 Join Byron Jenkins, Senior Software Engineer, Adjunct Instructor, and Content Creator, for a beginner-friendly backend workshop using Python. Learn how to add server-side functionality to your hackathon project and explore what goes into powering your app beyond the front end. Specific tools and frameworks will be announced closer to the event.
 
-📍 Room 108A
-
-[[Image: Byron Jenkins, Senior Software Engineer @ Capital One & Adjunct Instructor @ Temple University]Byron Jenkins, Senior Software Engineer @ Capital One & Adjunct Instructor @ Temple University](https://www.linkedin.com/in/byron-jenkins/)
+[Byron Jenkins, Senior Software Engineer @ Capital One & Adjunct Instructor @ Temple University](https://www.linkedin.com/in/byron-jenkins/)
 
 4:00 PM
 
@@ -44473,9 +32752,7 @@ Don't Wait, Deploy Now! Deploying Frontend Apps
 
 Join Prof. Ian Applebaum, for a practical session on taking your frontend app live. Learn how to prepare your project for deployment, use modern hosting platforms, and avoid common pitfalls so you can ship your hackathon project with confidence and speed.
 
-📍 Room 108A
-
-[[Image: Ian Applebaum, Computer Science Instructor and HCI Lab researcher at Temple University]Ian Applebaum, Computer Science Instructor and HCI Lab researcher at Temple University](https://www.linkedin.com/in/ian-applebaum-82b824a0/)
+[Ian Applebaum, Computer Science Instructor and HCI Lab researcher at Temple University](https://www.linkedin.com/in/ian-applebaum-82b824a0/)
 
 6:00 PM
 
@@ -44483,15 +32760,11 @@ Dinner sponsored by Blackstone Launchpad
 
 Enjoy some dinner and take a break from hacking.
 
-📍 Lobby
-
 09:00 PM
 
 Bob Ross Painting Social Event Presented by MLH
 
 Paint like Bob Ross but in an ancient version of Windows Paint while watching Bob Ross on Twitch. It’s funny AND impressive!
-
-📍 To be Announced
 
 12:00 AM
 
@@ -44499,15 +32772,11 @@ Midnight Movie/Game Break Sponsored by HCI Lab
 
 Hmmmmm.....
 
-📍 To be Announced
-
 ###### Sunday, September 28th
 
 09:00 AM
 
 Breakfast + Soft Deadline
-
-📍 Lobby
 
 10:00 AM
 
@@ -44529,15 +32798,11 @@ Sponsors Booth Open
 
 Visit the sponsors booths to learn more about their companies and opportunities.
 
-📍 Lobby
-
 12:00 PM
 
 Lunch Sponsored by EZ Cater
 
 Lunch will be served
-
-📍 Lobby
 
 1:00 PM
 
@@ -44563,19 +32828,15 @@ Thank you so much for participating and we hope to see you again next year!
 
 OwlHacks is made possible by its sponsors.
 
-[Image: SAP] [Image: Major League Hacking] [Image: Temple Human-Computer Interaction Lab] [Image: EZ Cater] [Image: Blackstone launchpad]
-
 Become a Sponsor
 
 ##### Endorsements
 
 ###### Donors
 
-[Image: ezCater] [Image: Saxbys] [Image: Chipotle] [Image: Celcius] [Image: Red Bull] [Image: Monster Energy] [Image: Drink Poppi]
-
 ###### Student Orgs
 
-[[Image: Temple HCI Lab]](https://www.instagram.com/templehci/) [[Image: Temple Trading Tech]](https://www.instagram.com/templetradingtech/) [[Image: ACM Temple]](https://www.instagram.com/acm.temple/) [[Image: ACM-W Temple]](https://www.instagram.com/tuacm_w/) [[Image: Temple Robotics]](https://www.instagram.com/templerobotics/) [[Image: Temple Data Science Club]](https://www.instagram.com/tu_dsc/) [[Image: Temple Association of Information Systems (AIS)]](https://www.instagram.com/temple.ais/) [[Image: Temple Women in Cybersecurity (WiCyS)]](https://www.instagram.com/templewicys?igsh=NGh1bGJha3c0eWg4) [[Image: Temple National Society of Black Engineers (NSBE)]](https://www.instagram.com/templeu_nsbe?igsh=MXdyb3M2MHhqNW5nMw==)
+[Temple HCI Lab](https://www.instagram.com/templehci/) [Temple Trading Tech](https://www.instagram.com/templetradingtech/) [ACM Temple](https://www.instagram.com/acm.temple/) [ACM-W Temple](https://www.instagram.com/tuacm_w/) [Temple Robotics](https://www.instagram.com/templerobotics/) [Temple Data Science Club](https://www.instagram.com/tu_dsc/) [Temple Association of Information Systems (AIS)](https://www.instagram.com/temple.ais/) [Temple Women in Cybersecurity (WiCyS)](https://www.instagram.com/templewicys?igsh=NGh1bGJha3c0eWg4) [Temple National Society of Black Engineers (NSBE)](https://www.instagram.com/templeu_nsbe?igsh=MXdyb3M2MHhqNW5nMw==)
 
 ##### Frequently Asked Questions
 
@@ -44601,27 +32862,17 @@ The OwlHacks team is committed to providing the best possible experience, and we
 
 Faculty Advisor Directors Web Development Logistics Operations Design Sponsorship Outreach DEI
 
-[Image: Christine Kapp]
-
 ###### Christine Kapp
-
-[Image: Kush Patel]
 
 ###### Kush Patel
 
-[Image: Shrey Patel]
-
 ###### Shrey Patel
-
-[Image: Yatri Patel]
 
 ###### Yatri Patel
 
 OwlHacks © 2025 •
 
 [Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
-
-•
 
 Made with 💖 by [the OwlHacks Team](https://github.com/owlhacks)
 
@@ -44634,15 +32885,9 @@ Back to Top
 - Final URL: [https://itstechnova.org/](https://itstechnova.org/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: logo]](https://itstechnova.org/)
-
 [About](https://itstechnova.org/#about) [Sponsors](https://itstechnova.org/#sponsors) [FAQ](https://itstechnova.org/#faq) [Team](https://itstechnova.org/#meet-the-team) [Contact Us](https://itstechnova.org/#contact-us)
 
 Login
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
-[Image: Clouds background]
 
 #### TechNova
 
@@ -44652,125 +32897,81 @@ University of Waterloo's Women+ in Tech Hackathon
 
 Sept 26–28, 2025
 
-[Image: Gate with Goose]
-
 ##### About Us
 
 TechNova's mission is to create safe, inclusive and empowering spaces for women and non-binary individuals to start, grow, and thrive in the technology industry. We value fostering an inclusive community, connecting students with career opportunities, and empowering hackers to create.
 
 TechNova aims to provide hackers with an end-to-end experience to help accelerate students' journeys in tech, whether they are a beginner just starting off or a seasoned hacker looking for new challenges.
 
-[Image: Frog]
-
 ##### Our Sponsors
 
 WiCS
 
-[Image: WiCS]
-
 Jane Street
-
-[Image: Jane Street]
 
 Jane Street is excited to support TechNova and future innovators in tech. As a global trading firm, Jane Street values creativity, collaboration, and problem-solving in technology and beyond.
 
 OpenText
 
-[Image: OpenText]
-
 OpenText is proud to partner with TechNova and Women in Computer Science (WiCS) for the Women+ Hackathon. As a leader in information management, OpenText is committed to fostering innovation and supporting the next generation of female tech talent. Explore careers at OpenText Careers.
 
 CSE Canada
-
-[Image: CSE Canada]
 
 The Communications Security Establishment Canada (CSE) is the national cryptologic agency, securing government IT and providing foreign signals intelligence.
 
 Ubisoft
 
-[Image: Ubisoft]
-
 Ubisoft, a leading game publisher with over 35 years of experience, is known for creating iconic franchises like Assassin’s Creed, Far Cry, and Just Dance. They’re globally acclaimed for their innovation in open-world and immersive gaming experiences.
 
 Rewriting the Code
-
-[Image: Rewriting the Code]
 
 Rewriting the Code is a 501(c)(3) nonprofit dedicated to empowering university students and early-career women in tech. Through collaborative learning and career-focused development, we foster belonging, champion opportunity, and equip future innovators with the skills, knowledge, and connections to thrive—reshaping the future of technology.
 
 NAV CANADA
 
-[Image: NAV CANADA]
-
 Thinking about a career in aviation? NAV CANADA is hiring! From air traffic services to engineering, IT, and corporate roles, there are opportunities across Canada—no aviation background required.
 
 Accenture
-
-[Image: Accenture]
 
 Accenture supports TechNova as a Startup Sponsor, empowering innovators at the intersection of technology and strategy. The company is passionate about fostering diverse talent and helping students explore new possibilities in tech consulting and innovation.
 
 BDO
 
-[Image: BDO]
-
 Velocity
-
-[Image: Velocity]
 
 Velocity is excited to support TechNova’s hackathon innovators! With a track record of helping startups scale, Velocity empowers student founders to turn ideas into impactful ventures.
 
 Hack the 6ix
 
-[Image: Hack the 6ix]
-
 theScore
 
-[Image: theScore]
-
 WomenTech Network
-
-[Image: WomenTech Network]
 
 WomenTech Network is excited to feature TechNova participants across their newsletter, LinkedIn, Facebook, and Twitter channels, spotlighting the next generation of women+ in tech.
 
 Saily
 
-[Image: Saily]
-
 An eSIM service that lets you easily connect to mobile networks worldwide without physical SIM cards.
 
 StarterHacks
 
-[Image: StarterHacks]
-
 nexos.ai
-
-[Image: nexos.ai]
 
 An AI-driven platform for automating and enhancing business processes, decision-making, and productivity through intelligent insights.
 
 Incogni
 
-[Image: Incogni]
-
 A data privacy tool that helps remove your personal information from data broker databases.
 
 NordVPN
-
-[Image: NordVPN]
 
 A secure virtual private network (VPN) service that encrypts your internet traffic and protects your online privacy.
 
 NordPass
 
-[Image: NordPass]
-
 A password manager that securely stores, generates, and auto-fills passwords and sensitive information.
 
 NordProtect
-
-[Image: NordProtect]
 
 A cybersecurity suite providing protection against online threats such as malware, phishing, and tracking.
 
@@ -44782,79 +32983,33 @@ Become a Sponsor [Sponsorship Package](https://itstechnova.org/pdfs/sponsorship_
 
 #### Frequently Asked Questions
 
-[Image: Flower 2]
-
-[Image: Carrot Icon]
-
 ###### What is TechNova?
-
-[Image: Flower 3]
-
-[Image: Carrot Icon]
 
 ###### How many people can be in a team?
 
-[Image: Flower 4]
-
-[Image: Carrot Icon]
-
 ###### I applied! What’s next?
-
-[Image: Flower 5]
-
-[Image: Carrot Icon]
 
 ###### Is there a cost to attend?
 
-[Image: Flower 1]
-
-[Image: Carrot Icon]
-
 ###### Why is this event for Women+?
-
-[Image: Flower 2]
-
-[Image: Carrot Icon]
 
 ###### Do I need coding experience?
 
-[Image: Flower 3]
-
-[Image: Carrot Icon]
-
 ###### Is this event only for Waterloo students?
-
-[Image: Flower 4]
-
-[Image: Carrot Icon]
 
 ###### What kind of workshops will there be?
 
-[Image: Flower 5]
-
-[Image: Carrot Icon]
-
 ###### Can I apply for both Hacker and Mentor?
-
-[Image: Flower 1]
-
-[Image: Carrot Icon]
 
 ###### Is travel/overnight accommodation provided?
 
-[Image: Paths]
-
 #### Meet the Team
-
-[Image: flower]
 
 ##### Leadership
 
 Kshama Patel
 
 Malvika Patel
-
-[Image: flower]
 
 ##### Logistics
 
@@ -44870,8 +33025,6 @@ Sreeja Gangapuram
 
 Anuhya Yalla
 
-[Image: flower]
-
 ##### Finance
 
 Samantha La
@@ -44881,8 +33034,6 @@ Jennifer Shi
 Zoe Su
 
 Isabella Rossi
-
-[Image: flower]
 
 ##### Engineering
 
@@ -44895,8 +33046,6 @@ Mia Isakovic
 Kim Guo
 
 Angela Xu
-
-[Image: flower]
 
 ##### Design
 
@@ -44918,8 +33067,6 @@ Jasleen Badwal
 
 Chavi Sharma
 
-[Image: flower]
-
 ##### Sponsorship
 
 Sharon He
@@ -44934,8 +33081,6 @@ Serena Xu
 
 Shalott Tam
 
-[Image: flower]
-
 ##### Marketing
 
 Smridhi Bawa
@@ -44947,8 +33092,6 @@ Meghana Yarlagadda
 #### Contact Us
 
 Reach out to us at hello@itstechnova.org
-
-[Image: Duck]
 
 [Code of Conduct](http://mlh.io/code-of-conduct)
 
@@ -44965,19 +33108,13 @@ Made with <3 by TechNova 2025
 - Final URL: [https://vthacks.com/](https://vthacks.com/)
 - Expanded FAQ/accordion controls: 8
 
-[[Image: Major League Hacking 2027 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2027-season&utm_content=black)
-
 [About](https://vthacks.com/#about) [Sponsor](https://vthacks.com/#sponsors) [FAQ](https://vthacks.com/#faq) [Team](https://vthacks.com/#team)
 
 [Register](https://app.vthacks.com/apply)
 
-[Image: VTHacks 14 Code for the Cup, Fall 2026]
-
 89 D : 06 H : 32 M : 12 S
 
 reset
-
-- [Image: Marquee Content]
 
 ##### Virginia Tech's Flagship Hackathon
 
@@ -45009,101 +33146,15 @@ We expect that everyone who registers can get in. However, sometimes more hacker
 
 Last year's sponsors
 
-[Image: Deloitte]
-
-[Image: Databricks]
-
-[Image: CoStar]
-
-[Image: Peraton]
-
-[Image: Warp]
-
-[Image: American Systems]
-
-[Image: Capital One]
-
-[Image: Bloomberg]
-
-[Image: CCI]
-
-[Image: Apex]
-
-[Image: E-Club]
-
-[Image: Meta]
-
-[Image: Pure Buttons]
-
-[Image: Deloitte]
-
-[Image: Databricks]
-
-[Image: CoStar]
-
-[Image: Peraton]
-
-[Image: Warp]
-
-[Image: American Systems]
-
-[Image: Capital One]
-
-[Image: Bloomberg]
-
-[Image: CCI]
-
-[Image: Apex]
-
-[Image: E-Club]
-
-[Image: Meta]
-
-[Image: Pure Buttons]
-
-[Image: Deloitte]
-
-[Image: Databricks]
-
-[Image: CoStar]
-
-[Image: Peraton]
-
-[Image: Warp]
-
-[Image: American Systems]
-
-[Image: Capital One]
-
-[Image: Bloomberg]
-
-[Image: CCI]
-
-[Image: Apex]
-
-[Image: E-Club]
-
-[Image: Meta]
-
-[Image: Pure Buttons]
-
 [Sponsor for 2026](https://sponsor.vthacks.com)
 
 ##### Team
 
 The people that make VTHacks possible.
 
-[Image: Simha Talreja — Director] [Image: Ayush Sadekar — Director] [Image: Helen Araujo — Director] [Image: Kendyl Groisser — Design] [Image: Lexy Altieri — Design] [Image: Max Hite — Design] [Image: Man Patel — Sponsorship] [Image: Nathan Alukka — Sponsorship] [Image: Pratham Santapur — Sponsorship] [Image: Kiran Ashok — Sponsorship] [Image: Aadil Singh — Sponsorship] [Image: Ashwin Tripathy — Sponsorship] [Image: Aman Anwar — Development] [Image: Ragav Rajan — Development] [Image: Dhanush Chilakala — Development] [Image: Chinmay Savkar — Development] [Image: Sanjay Shankar — Logistics] [Image: Kush Patel — Logistics] [Image: Nilay Yadav — Logistics] [Image: Bhuvishi Bansal — Logistics] [Image: Samhita Gupta — Logistics] [Image: Atharva Kokane — Logistics] [Image: Saatvik Pamidimukkala — Logistics] [Image: Natasha Kolchins — User Experience] [Image: Vidhi Shah — User Experience] [Image: Pujan Patel — User Experience] [Image: Sweta Das — User Experience] [Image: Ramya Radhakrishnan — Marketing] [Image: Anisha Rapolu — Marketing] [Image: Charu Vijay — Marketing] [Image: Rachel Neathery — Marketing]
-
-[Image: Simha Talreja — Director] [Image: Ayush Sadekar — Director] [Image: Helen Araujo — Director] [Image: Kendyl Groisser — Design] [Image: Lexy Altieri — Design] [Image: Max Hite — Design] [Image: Man Patel — Sponsorship] [Image: Nathan Alukka — Sponsorship] [Image: Pratham Santapur — Sponsorship] [Image: Kiran Ashok — Sponsorship] [Image: Aadil Singh — Sponsorship] [Image: Ashwin Tripathy — Sponsorship] [Image: Aman Anwar — Development] [Image: Ragav Rajan — Development] [Image: Dhanush Chilakala — Development] [Image: Chinmay Savkar — Development] [Image: Sanjay Shankar — Logistics] [Image: Kush Patel — Logistics] [Image: Nilay Yadav — Logistics] [Image: Bhuvishi Bansal — Logistics] [Image: Samhita Gupta — Logistics] [Image: Atharva Kokane — Logistics] [Image: Saatvik Pamidimukkala — Logistics] [Image: Natasha Kolchins — User Experience] [Image: Vidhi Shah — User Experience] [Image: Pujan Patel — User Experience] [Image: Sweta Das — User Experience] [Image: Ramya Radhakrishnan — Marketing] [Image: Anisha Rapolu — Marketing] [Image: Charu Vijay — Marketing] [Image: Rachel Neathery — Marketing]
-
-[Image: Simha Talreja — Director] [Image: Ayush Sadekar — Director] [Image: Helen Araujo — Director] [Image: Kendyl Groisser — Design] [Image: Lexy Altieri — Design] [Image: Max Hite — Design] [Image: Man Patel — Sponsorship] [Image: Nathan Alukka — Sponsorship] [Image: Pratham Santapur — Sponsorship] [Image: Kiran Ashok — Sponsorship] [Image: Aadil Singh — Sponsorship] [Image: Ashwin Tripathy — Sponsorship] [Image: Aman Anwar — Development] [Image: Ragav Rajan — Development] [Image: Dhanush Chilakala — Development] [Image: Chinmay Savkar — Development] [Image: Sanjay Shankar — Logistics] [Image: Kush Patel — Logistics] [Image: Nilay Yadav — Logistics] [Image: Bhuvishi Bansal — Logistics] [Image: Samhita Gupta — Logistics] [Image: Atharva Kokane — Logistics] [Image: Saatvik Pamidimukkala — Logistics] [Image: Natasha Kolchins — User Experience] [Image: Vidhi Shah — User Experience] [Image: Pujan Patel — User Experience] [Image: Sweta Das — User Experience] [Image: Ramya Radhakrishnan — Marketing] [Image: Anisha Rapolu — Marketing] [Image: Charu Vijay — Marketing] [Image: Rachel Neathery — Marketing]
-
-[Image: VTHacks]
-
 Fall 2026
 
-[Image: Code for the Cup] [Register for VTHacks 14](https://app.vthacks.com/apply)
+[Register for VTHacks 14](https://app.vthacks.com/apply)
 
 Connect with us
 
@@ -45122,7 +33173,7 @@ Made with 🍵 from the VTHacks team.
 - Final URL: [https://shellhacks.net/](https://shellhacks.net/)
 - Expanded FAQ/accordion controls: 0
 
-SHELL HACKSFLORIDA'S LARGEST HACKATHONSign InFIU'S GRAHAM CENTERMIAMI, FLSEPTEMBER 25 - 27, 2026230+PROJECTS1400+HACKERS40+SPONSORS$20,000IN PRIZESABOUT US[Image: ShellHacks participants]SHELLHACKSSPONSOR FAIRWORKSHOPSPROJECTSReady to immerse yourself in the ultimate tech experience? Join us for ShellHacks, Florida's Largest Hackathon! Over 1,400 students from across the state and around the world will come together to:**Build:** Develop innovative projects**Network:** Network with top companies, and more!**Learn:** Learn the latest technologies[Image: ShellHacks section selector]THE SHELLHACKS EXPERIENCE[Image: Retro phone]FAQGENERALEVENT DETAILSLOGISTICSSPONSORS/​VOLUNTEERSWhat is a hackathon?A hackathon is a weekend-long event where students come together to learn the latest technologies, build innovative projects, and network with top companies. ShellHacks is the largest hackathon in Florida, bringing thousands of students from around the world together since 2017!How much experience do I need to participate?None! We welcome students from all academic backgrounds and skill levels, and provide an inclusive environment for anyone to learn, build, and network. Whether you've never coded before or live and breathe AI/ML, there's a place for you at ShellHacks! In fact, about half of our attendees every year are first-time hackers.If you fall in this group, we'll have:Introductory workshops for you to learn technical skillsResources and tools to help you build a projectIndustry mentors to guide you every step of the wayNo matter where you are on your journey, don't be afraid to take a detour and explore the world of tech with us—you won't regret it!Why "ShellHacks"?Well, it started off as a joke about what a turtle-themed hackathon would be called. Later on, we actually started thinking about organizing a hackathon, but instead of turtles, we decided to focus on diversity in Miami. Since the city has an abundance of seashells on its beaches, the name stuck! It's also a play on words about computer shells, but that's just to draw attention away from all the turtle puns.How much does it cost?Nothing! That's right, ShellHacks is completely free for all students accepted to the event. We provide everything you need to help you focus on learning the latest technologies, building innovative projects, and networking with top companies—all thanks to the generous donations from our sponsors!Who can participate?Students and recent graduates (up to a year) from any college, university, or coding bootcamp can participate in ShellHacks.Not a student? You can participate as a mentor or volunteer and join the experience! Mentor and volunteer applications are coming soon!ORGANIZED BY[Susana Rojas[Image: Susana Rojas]Director of Finance](https://www.linkedin.com/in/susana-rojas-alarcon)[Gabriel Alamo[Image: Gabriel Alamo]Director of Logistics](https://www.linkedin.com/in/gabriel-alamo)[Fareeha Gullany[Image: Fareeha Gullany]Director of Logistics](https://www.linkedin.com/in/fareehagullany)SPONSORED BY[[Image: Assurant]](https://www.assurant.com)[[Image: Waymo]](https://waymo.com)[[Image: Morgan & Morgan]](https://www.morganandmorgan.com)[[Image: Microsoft]](https://www.microsoft.com)[[Image: Blackstone]](https://www.blackstone.com)[[Image: Nvidia]](https://www.nvidia.com)[[Image: Chevron]](https://www.chevron.com)[[Image: Base44]](https://www.base44.com)[[Image: Wix]](https://www.wix.com)[[Image: Break Through Tech]](https://www.breakthroughtech.org/)[[Image: Codex]](https://openai.com/codex)[[Image: Github]](https://github.com)[[Image: O Reilly]](https://www.oreilly.com)Shell HacksFlorida's Largest Hackathon[[Image: LinkedIn]](https://www.linkedin.com/company/init-fiu/posts/?feedView=all)[[Image: Discord]](https://discord.gg/KyrB3nSdu)[[Image: Instagram]](https://www.instagram.com/init.fiu/)[Image: Robot 1][Image: Robot 2][Image: Robot 3][Shellhacks Privacy Policy](https://shellhacks.net/privacy)[MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)[MLH Contest Terms](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)[MLH Privacy Policy](https://mlh.io/privacy)
+SHELL HACKSFLORIDA'S LARGEST HACKATHONSign InFIU'S GRAHAM CENTERMIAMI, FLSEPTEMBER 25 - 27, 2026230+PROJECTS1400+HACKERS40+SPONSORS$20,000IN PRIZESABOUT USSHELLHACKSSPONSOR FAIRWORKSHOPSPROJECTSReady to immerse yourself in the ultimate tech experience? Join us for ShellHacks, Florida's Largest Hackathon! Over 1,400 students from across the state and around the world will come together to:**Build:** Develop innovative projects**Network:** Network with top companies, and more!**Learn:** Learn the latest technologiesTHE SHELLHACKS EXPERIENCEFAQGENERALEVENT DETAILSLOGISTICSSPONSORS/​VOLUNTEERSWhat is a hackathon?A hackathon is a weekend-long event where students come together to learn the latest technologies, build innovative projects, and network with top companies. ShellHacks is the largest hackathon in Florida, bringing thousands of students from around the world together since 2017!How much experience do I need to participate?None! We welcome students from all academic backgrounds and skill levels, and provide an inclusive environment for anyone to learn, build, and network. Whether you've never coded before or live and breathe AI/ML, there's a place for you at ShellHacks! In fact, about half of our attendees every year are first-time hackers.If you fall in this group, we'll have:Introductory workshops for you to learn technical skillsResources and tools to help you build a projectIndustry mentors to guide you every step of the wayNo matter where you are on your journey, don't be afraid to take a detour and explore the world of tech with us—you won't regret it!Why "ShellHacks"?Well, it started off as a joke about what a turtle-themed hackathon would be called. Later on, we actually started thinking about organizing a hackathon, but instead of turtles, we decided to focus on diversity in Miami. Since the city has an abundance of seashells on its beaches, the name stuck! It's also a play on words about computer shells, but that's just to draw attention away from all the turtle puns.How much does it cost?Nothing! That's right, ShellHacks is completely free for all students accepted to the event. We provide everything you need to help you focus on learning the latest technologies, building innovative projects, and networking with top companies—all thanks to the generous donations from our sponsors!Who can participate?Students and recent graduates (up to a year) from any college, university, or coding bootcamp can participate in ShellHacks.Not a student? You can participate as a mentor or volunteer and join the experience! Mentor and volunteer applications are coming soon!ORGANIZED BY[Susana RojasDirector of Finance](https://www.linkedin.com/in/susana-rojas-alarcon)[Gabriel AlamoDirector of Logistics](https://www.linkedin.com/in/gabriel-alamo)[Fareeha GullanyDirector of Logistics](https://www.linkedin.com/in/fareehagullany)SPONSORED BY[Assurant](https://www.assurant.com)[Waymo](https://waymo.com)[Morgan & Morgan](https://www.morganandmorgan.com)[Microsoft](https://www.microsoft.com)[Blackstone](https://www.blackstone.com)[Nvidia](https://www.nvidia.com)[Chevron](https://www.chevron.com)[Base44](https://www.base44.com)[Wix](https://www.wix.com)[Break Through Tech](https://www.breakthroughtech.org/)[Codex](https://openai.com/codex)[Github](https://github.com)[O Reilly](https://www.oreilly.com)Shell HacksFlorida's Largest Hackathon[LinkedIn](https://www.linkedin.com/company/init-fiu/posts/?feedView=all)[Discord](https://discord.gg/KyrB3nSdu)[Instagram](https://www.instagram.com/init.fiu/)[Shellhacks Privacy Policy](https://shellhacks.net/privacy)[MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)[MLH Contest Terms](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)[MLH Privacy Policy](https://mlh.io/privacy)
 
 ### Website 234: HackGT
 - Card URL: [https://hack.gt/](https://hack.gt/)
@@ -45131,11 +33182,9 @@ SHELL HACKSFLORIDA'S LARGEST HACKATHONSign InFIU'S GRAHAM CENTERMIAMI, FLSEPTEMB
 - Final URL: [https://hack.gt/](https://hack.gt/)
 - Expanded FAQ/accordion controls: 0
 
-[[Image: MajorLeague Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white) [[Image: HackGT 13 Logo]](https://hack.gt/) [[Image: About icon]About](https://hack.gt/#about) [[Image: Tracks icon]Tracks](https://hack.gt/#tracks) [[Image: Schedule icon]Schedule](https://hack.gt/#schedule) [[Image: FAQ icon]FAQ](https://hack.gt/#faq) [[Image: Sponsors icon]Sponsors](https://hack.gt/#sponsors) [[Image: Register icon]Register](https://hack.gt/#register)
+[MajorLeague Hacking 2026 Hackathon Season](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white) [About](https://hack.gt/#about) [Tracks](https://hack.gt/#tracks) [Schedule](https://hack.gt/#schedule) [FAQ](https://hack.gt/#faq) [Sponsors](https://hack.gt/#sponsors) [Register](https://hack.gt/#register)
 
-[[Image: Register Sign]](https://registration.hexlabs.org/) [Image: Top Stand]
-
-[Image: -----]
+[Register Sign](https://registration.hexlabs.org/)
 
 #### About
 
@@ -45145,29 +33194,15 @@ HackGT is Georgia Tech's largest hackathon and will run from September 25th to S
 
 Each year, HackGT welcomes over 1500+ hackers 🤹 from around the world to tackle novel challenges, win exciting prizes, and make lasting connections 🎠! HackGT's stage will be open to everyone, regardless of background, experience, or skill level, to showcase their innovative ideas. 🎢 Hackers can expect a thrilling weekend filled with networking opportunities, top-tier prizes, engaging mini-events, and lots of swag! 🏆
 
-[Image: Right Thing]
-
-[Image: -----]
-
 #### Tracks
-
-[Image: The Treasure of the Tides]
 
 ###### The Treasure of the Tides
 
-[Image: Oracle of the Deep]
-
 ###### Oracle of the Deep
-
-[Image: The Shipyard]
 
 ###### The Shipyard
 
-[Image: The Lighthouse Laboratory]
-
 ###### The Lighthouse Laboratory
-
-[Image: A Marina's Mission]
 
 ###### A Marina's Mission
 
@@ -45175,13 +33210,11 @@ Each year, HackGT welcomes over 1500+ hackers 🤹 from around the world to tack
 
 Coming Soon!
 
-[Image: -----]
-
 #### Sponsors
 
 Coming Soon!
 
-[[Image: X]](https://x.com/thehexlabs) [[Image: LinkTree]](https://linktr.ee/thehexlabs) [[Image: Facebook]](https://www.facebook.com/TheHexLabs/) [[Image: Website]](https://hexlabs.org/) [[Image: Instagram]](https://www.instagram.com/thehexlabs/)
+[LinkTree](https://linktr.ee/thehexlabs) [Facebook](https://www.facebook.com/TheHexLabs/) [Website](https://hexlabs.org/) [Instagram](https://www.instagram.com/thehexlabs/)
 
 With <3 from the hexlabs team
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
@@ -45195,13 +33228,11 @@ With <3 from the hexlabs team
 
 [Skip to main content](https://www.mlh.com/signin?return_to=https://events.mlh.com/auth/callback/participant#main-content)
 
-[[Image: Major League Hacking]](https://www.mlh.com/)
+[Major League Hacking](https://www.mlh.com/)
 
 Participate Organizers Community About [DEV](https://dev.to) [Attend](https://www.mlh.com/seasons/2026/events) [For Businesses](https://sponsor.mlh.io/)
 
 [Sign In](https://www.mlh.com/signin)
-
-[Image: MLH Logo]
 
 #### Welcome Back
 
@@ -45211,22 +33242,6 @@ Participate Organizers Community About [DEV](https://dev.to) [Attend](https://ww
 - Rendered title: Steelhacks XIII
 - Final URL: [https://steelhacks.org/](https://steelhacks.org/)
 - Expanded FAQ/accordion controls: 0
-
-[Image: Night sky background]
-
-[Image: Sun on the horizon]
-
-[Image: Farthest city silhouettes]
-
-[Image: Mid-depth city silhouettes]
-
-[Image: Nearest city buildings]
-
-[Image: Bridge across the horizon]
-
-[Image: Cathedral of Learning]
-
-[Image: Cathedral laser beam]
 
 About us
 
@@ -45250,8 +33265,6 @@ hackers
 
 build
 
-[Image: Opening ceremony at SteelHacks]
-
 Opening ceremony at SteelHacks
 
 ### Website 237: 305 HACKATHON | FALL EDITION
@@ -45265,10 +33278,6 @@ Opening ceremony at SteelHacks
 - Rendered title: BigRed//Hacks 2026
 - Final URL: [https://www.bigredhacks.com/](https://www.bigredhacks.com/)
 - Expanded FAQ/accordion controls: 0
-
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=gray)
-
-[Image: BRH logo]
 
 About Tracks Schedule FAQ [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeHHQLRPzKNfYOEawkR_Gu-aepVv1RbNQGHV2qFF3X8zJFMJA/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnT00szV8RZT9-66JTmxU1H-ucH8bemfzroGIatMcuH4XoQOTt_5uChgB0N7A_aem_yZfatZ2ox1yvoWjTeQxx6w)
 
@@ -45398,7 +33407,7 @@ We recruit new organizing-team members each fall after the hackathon. Follow us 
 - Final URL: [https://hackrice.com/](https://hackrice.com/)
 - Expanded FAQ/accordion controls: 0
 
-==================== MLH BADGE ==================== [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=gray) ==================== NAVIGATION BAR ==================== ==================== MAIN CARD ====================
+==================== MLH BADGE ==================== ==================== NAVIGATION BAR ==================== ==================== MAIN CARD ====================
 
 CUSTOM GOLDEN CORNER TRELLISES Top Left Trellis Image
 
@@ -45411,8 +33420,6 @@ Bottom Right Trellis Image
 MAIN HERO CONTENT
 
 Rice University's 16th Annual Hackathon Centered Logo Stack
-
-[Image: HackRice Chips] [Image: HackRice Lettering]
 
 September 11th - 13th 2026
 
@@ -45476,15 +33483,9 @@ First Cycle Second Cycle Third Cycle
 
 Right Side Track
 
-First Cycle Second Cycle Third Cycle
-
 MAIN CONTENT BLOCK
 
 ##### Event Schedule
-
-♦
-
-🗓️
 
 ###### Shuffling the Timetable
 
@@ -45518,13 +33519,7 @@ Innovations in patient outcomes, biomedical tracking, and accessible wellness te
 
 2. GAMES & GAMIFICATION (Spades - #3a4985 Blue)
 
-🃏 PREMIUM INCOMPLETE INNER BORDER
-
-Top-Left Card Indicator
-
 K ♠
-
-Bottom-Right Card Indicator (Flipped)
 
 K ♠
 
@@ -45534,13 +33529,7 @@ Build immersive worlds, interactive mechanics, or apply game design theory to tu
 
 3. FINANCE (Diamonds - #b4402a Red)
 
-🃏 PREMIUM INCOMPLETE INNER BORDER
-
-Top-Left Card Indicator
-
 Q ♦
-
-Bottom-Right Card Indicator (Flipped)
 
 Q ♦
 
@@ -45550,13 +33539,7 @@ Exploring next-generation tooling, capital accessibility platforms, or small bus
 
 4. WORK & PRODUCTIVITY (Clubs - #3a4985 Blue)
 
-🃏 PREMIUM INCOMPLETE INNER BORDER
-
-Top-Left Card Indicator
-
 J ♣
-
-Bottom-Right Card Indicator (Flipped)
 
 J ♣
 
@@ -45568,19 +33551,13 @@ Stack the deck in your favor by engineering smarter collaboration tools, slick a
 
 CLEAN REPEATING CARD SUIT MARGINS Left Side Track
 
-First Cycle Second Cycle Third Cycle
-
 Right Side Track
-
-First Cycle Second Cycle Third Cycle
 
 MAIN CONTENT BLOCK
 
 ##### Sponsors
 
 Supporting the next generation of innovators, builders, and card-sharks.
-
-🤝
 
 ###### Backing the Stakes
 
@@ -45676,89 +33653,51 @@ Behind the Deck
 
 Director 1
 
-[Image: Hazel]
-
 ###### Hazel Goetsch
 
 Director
 
 Director 2
 
-[Image: Jacob]
-
 ###### Jacob King
-
-Director
 
 Director 3
 
-[Image: Varshini]
-
 ###### Varshini Loganathan
 
-Director
-
 2. SUBCOMMITTEES (12 Smaller Photo Icons)
-
-[Image: Milan]
 
 ###### Milan Cohen Camarena
 
 Public Relations
 
-[Image: Abena]
-
 ###### Abena Poku
 
 Logistics
-
-[Image: Saanvi]
 
 ###### Saanvi Mukkara
 
 Logistics
 
-[Image: Henry]
-
 ###### Henry Shan
 
 Tracks & Workshops
 
-[Image: Oscar]
-
 ###### Oscar Pan
 
-Tracks & Workshops
-
-[Image: Sophia]
-
 ###### Sophia Chen
-
-Tracks & Workshops
-
-[Image: Jacqueline]
 
 ###### Jacqueline Chung
 
 Industry Outreach
 
-[Image: Sanjana]
-
 ###### Sanjana Dabbiru
 
 Design Team
 
-[Image: Tony]
-
 ###### Tony Martinez
 
-Design Team
-
-[Image: Steve]
-
 ###### Steve Zhang
-
-Design Team
 
 ==================== FOOTER ====================
 
@@ -45771,8 +33710,6 @@ Design Team
 
 Doodle
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
 #### PennApps XXVI
 
 Create. Design. Build. Reimagine the future.
@@ -45781,15 +33718,9 @@ Create. Design. Build. Reimagine the future.
 
 Days
 
-00
-
 Hours
 
-00
-
 Minutes
-
-00
 
 Seconds
 
@@ -45853,8 +33784,6 @@ Passenger
 
 You!
 
-Flight
-
 PA 2025
 
 Seat
@@ -45871,8 +33800,6 @@ FROM:
 
 PHL
 
-PHILADELPHIA
-
 Sept 19, 2025
 
 5:00 PM
@@ -45880,8 +33807,6 @@ Sept 19, 2025
 TO:
 
 PENN
-
-UNIVERSITY OF PENNSYLVANIA
 
 Sept 21, 2025
 
@@ -45899,14 +33824,6 @@ DEPARTURE INFORMATION
 
 2:28:02 AM EST
 
-FLIGHT
-
-DESTINATION
-
-GATE
-
-STATUS
-
 PA-2025
 
 SEPT 19-21
@@ -45916,8 +33833,6 @@ WHEN
 CONFIRMED
 
 PA-PHILLY
-
-PHILADELPHIA
 
 WHERE
 
@@ -45947,15 +33862,9 @@ Sept 19 - 21, 2025
 
 48 hours of innovation
 
-BOARDING PASS
-
 GATE 15
 
-DESTINATION
-
 SEPT 19-21
-
-###### Schedule
 
 Detailed hour by hour schedule will be released closer to the event
 
@@ -45963,19 +33872,9 @@ GATE 17
 
 ###### Location
 
-University of Pennsylvania
-
 School of Engineering and Applied Science
 
-BOARDING PASS
-
 GATE 17
-
-DESTINATION
-
-PHILADELPHIA
-
-###### Location
 
 Check-in will be on the ground floor of Levine in UPenn's School of Engineering and Applied Science. Hackers are free to use any unused room or space in the engineering building during the course of the hackathon.
 
@@ -45987,11 +33886,7 @@ Come hungry, we got you covered
 
 Breakfast, lunch, and dinner
 
-BOARDING PASS
-
 GATE 26
-
-DESTINATION
 
 ALL MEALS
 
@@ -46007,15 +33902,9 @@ Sleep? What's that? jkjk
 
 Rest areas available
 
-BOARDING PASS
-
 GATE 42
 
-DESTINATION
-
 ON-SITE
-
-###### Housing
 
 Most hackers work through the night at our venue in Penn's Engineering Quad. Need a quick recharge? Fear not, as our venue is equipped with lots of rooms you can use as you see fit. It is recommended for hackers to bring a sleeping bag, toiletries, and a change of clothes. Please contact us if housing is a concern.
 
@@ -46035,11 +33924,7 @@ Track details coming soon!
 
 Click any row for detailed information
 
-GATE
-
 QUESTION
-
-STATUS
 
 ACTION
 
@@ -46090,8 +33975,6 @@ Become a Sponsor
 - Final URL: [https://hackwestx.com/2025](https://hackwestx.com/2025)
 - Expanded FAQ/accordion controls: 15
 
-[Image: banner]
-
 HACKWESTX VI
 
 [Schedule](https://hackwestx.com/2025#SCHEDULE) [FAQ](https://hackwestx.com/2025#FAQ) [Mentor](https://forms.gle/gtScYQQ93Bi5YWdU8) [Apply](https://hackwestx.com/2025/Apply) [Volunteer](https://forms.gle/sYgsdNX2J824egEE7) [Devpost](https://hackwestx-vi.devpost.com)
@@ -46102,35 +33985,21 @@ Join us for an epic 24-hour adventure where brilliant minds unite to create inno
 
 Experience the Wild West of innovation, where creativity knows no bounds!
 
----
-
 SCHEDULE
 
 September 13th and 14th, 2025
 
 [Innovation Hub, Texas Tech University](https://maps.app.goo.gl/BQYtDhJeGrdqgGwZ9)
 
-[Image: Schedule Image 1]
-
-[Image: Schedule Image 2]
-
 #### 00
 
 ###### DAYS
 
-#### 00
-
 ###### HOURS
-
-#### 00
 
 ###### MINUTES
 
-#### 00
-
 ###### SECONDS
-
----
 
 OUR SPONSORS
 
@@ -46163,8 +34032,6 @@ Major League Hacking
 Google Developer Groups
 
 More Sponsors Coming Soon!
-
----
 
 FAQ
 
@@ -46230,73 +34097,49 @@ MLH Code of Conduct
 
 As an MLH member event, we follow their Code of Conduct to create a safe and inclusive environment for all participants. [( MLH Code of Conduct )](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
 
----
-
 Our Team
 
 Meet The HackWesTX VI Team
-
-[Image: Parth Botre]
 
 ###### Parth Botre
 
 ###### Director
 
-[Image: Tanveer Inamdar]
-
 ###### Tanveer Inamdar
 
 ###### Operations Director
-
-[Image: Batuhan Sencer]
 
 ###### Batuhan Sencer
 
 ###### Techical Director
 
-[Image: Graysen Gould]
-
 ###### Graysen Gould
 
 ###### Sponsorship Director
-
-[Image: Jose Arthur Claudino]
 
 ###### Jose Arthur Claudino
 
 ###### Marketing Director
 
-[Image: Joseph Chandy]
-
 ###### Joseph Chandy
 
 ###### Finance Director
-
-[Image: Tyler George]
 
 ###### Tyler George
 
 ###### Logistics Director
 
-[Image: Benjamin Haggard]
-
 ###### Benjamin Haggard
 
 ###### MLH & External Director
-
-[Image: Lavneet Hora]
 
 ###### Lavneet Hora
 
 ###### Hacker Experience Director
 
-[Image: João Carneiro]
-
 ###### João Carneiro
 
 ###### Marketing Team
-
-[Image: HackWesTX Logo]
 
 Celebrating 6 years of HackWesTX!
 
@@ -46304,16 +34147,12 @@ Made with 💜 by HackWesTX Team
 
 [Discord](https://discord.gg/e9KAqw5TCE) [Instagram](https://www.instagram.com/hwtxofficial/) [Texas Tech CS](https://www.depts.ttu.edu/cs/) Email
 
-[[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white)
-
 ### Website 242: HopHacks 2025
 - Card URL: [https://hophacks.com/](https://hophacks.com/)
 - Referenced by: HopHacks 2025
 - Rendered title: HopHacks 2026
 - Final URL: [https://www.hophacks.com/](https://www.hophacks.com/)
 - Expanded FAQ/accordion controls: 0
-
-[Image: HopHacks Logo]
 
 #### HOPHACKS
 
@@ -46329,7 +34168,7 @@ We are currently crafting the next iteration of Johns Hopkins University's premi
 
 Follow our socials for the latest updates.
 
-[[Image: Discord]](https://discord.com/invite/8V8wmCWUhH) [[Image: Linktree]](https://linktr.ee/hophacks) [[Image: LinkedIn]](https://www.linkedin.com/company/hophacks/)
+[Discord](https://discord.com/invite/8V8wmCWUhH) [Linktree](https://linktr.ee/hophacks) [LinkedIn](https://www.linkedin.com/company/hophacks/)
 
 ##### What to Expect
 
@@ -46345,7 +34184,7 @@ Prizes
 
 Hackers
 
-[Image: HopHacks Logo] HOPHACKS
+HOPHACKS
 
 Organized by students at Johns Hopkins University.
 
@@ -46386,22 +34225,6 @@ Not from Waterloo? We cover food, help with travel expenses, and provide lodging
 
 Breaking into tech isn't always straightforward. Hack the North is built to lower those barriers, bringing together attendees from around the world in a space where everyone can learn, build, and dream bigger!
 
-[Image: vinyl]
-
-[Image: vinyl]
-
-[Image: vinyl]
-
-[Image: vinyl]
-
-[Image: vinyl]
-
-[Image: vinyl]
-
-[Image: vinyl]
-
-[Image: vinyl]
-
 ##### Canada's biggest hackathon!
 
 ##### Join a global community
@@ -46416,17 +34239,9 @@ Start with a spark and watch it grow. We’ll support you with mentorship, works
 
 Take a break from hacking and enjoy fun activities planned just for you! Whether it’s spicy chip challenges or therapy dogs, there’s always a way to recharge and make lasting memories.
 
-[Image: Join a global community]
-
-[Image: Plant the seed of an idea]
-
-[Image: Make lasting memories]
-
 ##### Dream big and build bigger
 
 Every year, hackers bring bold ideas to life at Hack the North. Explore past projects and the stories behind them, and get inspired for what you'll build next.
-
-[Image: S-KBD67] [Image: ROSS] [Image: DUM-E]
 
 ###### S-KBD67
 
@@ -46444,8 +34259,6 @@ Inside are projects built by hackers like you. From first sparks to finished cre
 
 From first hackathons to unforgettable memories, hear how Hack the North has shaped experiences, sparked friendships, and inspired hackers to keep building.
 
-[Image: Donald Lee headshot]
-
 ##### Donald Lee
 
 ###### Experienced Undergraduate Hacker
@@ -46458,193 +34271,129 @@ From founders to engineers, industry leaders join Hack the North to mentor, judg
 
 ##### Past Judges and Speakers
 
-[Image: Advait Maybhate headshot]
-
 Advait Maybhate
 
 Software Engineer, Warp
-
-[Image: Albert Chen headshot]
 
 Albert Chen
 
 Partner, Two Small Fish
 
-[Image: Alexei Schiopu headshot]
-
 Alexei Schiopu
 
 Head of EPD, Pallet
-
-[Image: Alroy Almeida headshot]
 
 Alroy Almeida
 
 Director, Velocity
 
-[Image: Andrew Miklas headshot]
-
 Andrew Miklas
 
 General Partner, YCombinator
-
-[Image: Artem Alekhin headshot]
 
 Artem Alekhin
 
 Co-founder & CTO, Voiceform
 
-[Image: Brad Murray headshot]
-
 Brad Murray
 
 Head of Engineering, Beeper
-
-[Image: Brandon Moak headshot]
 
 Brandon Moak
 
 Co-founder & CTO, Embark Technology
 
-[Image: Chantal Jandard headshot]
-
 Chantal Jandard
 
 Design Leader, Autodesk
-
-[Image: Deon Nicholas headshot]
 
 Deon Nicholas
 
 Founder & President, Forethought
 
-[Image: Donald Jewkes headshot]
-
 Donald Jewkes
 
 Prev. Product Lead, MotionHall
-
-[Image: Edward Kim headshot]
 
 Edward Kim
 
 Senior Manager of Technical Staff, Cohere
 
-[Image: Eric Diep headshot]
-
 Eric Diep
 
 Founder & CEO, Manifold
-
-[Image: Ethan Ding headshot]
 
 Ethan Ding
 
 Founder & CEO, TextQL
 
-[Image: Eve Bouffard headshot]
-
 Eve Bouffard
 
 Associate & Product Designer, YCombinator
-
-[Image: Gautam Gupta headshot]
 
 Gautam Gupta
 
 Co-founder & CTO, Highbeam
 
-[Image: Jacob Willemsma headshot]
-
 Jacob Willemsma
 
 VP Partnerships, ETHGlobal
-
-[Image: Jen Dewalt headshot]
 
 Jen Dewalt
 
 Founder, Zube
 
-[Image: Joieta Choudhury headshot]
-
 Joieta Choudhury
 
 Head of Product, Boardy
-
-[Image: Joowon Kim headshot]
 
 Joowon Kim
 
 Online Personality, X
 
-[Image: Kris Braun headshot]
-
 Kris Braun
 
 CTO, runQL
-
-[Image: Linden Tibbets headshot]
 
 Linden Tibbets
 
 Founder & CEO, IFTTT
 
-[Image: Marcelo Cortes headshot]
-
 Marcelo Cortes
 
 Co-founder & Chief Architect, Faire
-
-[Image: Mike Kirkup headshot]
 
 Mike Kirkup
 
 CTO, EnPowered
 
-[Image: Nabil Fahel headshot]
-
 Nabil Fahel
 
 Executive VP, StartupSoft
-
-[Image: Parth Sareen headshot]
 
 Parth Sareen
 
 Software Engineer, Ollama
 
-[Image: Ralph Hempel headshot]
-
 Ralph Hempel
 
 Firmware Staff Engineer, Edwards Safety
-
-[Image: Ryan Gariepy headshot]
 
 Ryan Gariepy
 
 VP Robotics, Rockwell Automation
 
-[Image: Sam Pasupalak headshot]
-
 Sam Pasupalak
 
 Co-founder & CEO, Skyfall AI
-
-[Image: Tom Alterman headshot]
 
 Tom Alterman
 
 Head of Product, Notable
 
-[Image: Valentin Tsatskin headshot]
-
 Valentin Tsatskin
 
 Co-founder, GenerativeModels.ai
-
-[Image: Waterloo Engineering]
 
 Our partner since 2014, Waterloo Engineering continues to support Hack the North to build a creative, diverse, and unique experience for hackers. Ranked #1 in Canada for producing unicorn founders, the University of Waterloo cultivates innovation being home to Canada's largest engineering school.
 
@@ -46657,8 +34406,6 @@ Ranked among the top 50 engineering schools in the world, the school's reputatio
 Explore a live list of roles from our sponsors and discover where your skills can take you. Connect with companies and find what's next.
 
 #### Sponsor a Special Weekend
-
-[Image: Hack the North community at a past event]
 
 Our sponsors make it possible for us to unite prospective developers, designers, and builders from across the globe. Hackers make meaningful connections with our sponsors beyond just the hackathon weekend.
 
@@ -46729,226 +34476,6 @@ So we hope you're as hyped as we are, and we can't wait to see you in September!
 — Team Hack the North 💚
 
 ##### Made with 💚 in Waterloo, Ontario, Canada
-
-[Image: Headshot of Ian Korovinsky] [Image: Ant]
-
-[Image: Headshot of Megan Chun] [Image: Ant]
-
-[Image: Headshot of Jay Wong] [Image: Ant]
-
-[Image: Headshot of Alex Aumais] [Image: Ant]
-
-[Image: Headshot of Nicholas Ficara] [Image: Ant]
-
-[Image: Headshot of Matthew Ng] [Image: Ant]
-
-[Image: Headshot of Kallie Zhang] [Image: Ant]
-
-[Image: Headshot of Fiona Cai] [Image: Ant]
-
-[Image: Headshot of Abdullah Rajput] [Image: Ant]
-
-[Image: Headshot of Bruce Wu] [Image: Ant]
-
-[Image: Headshot of Matthew Petersen] [Image: Ant]
-
-[Image: Headshot of Richard Li] [Image: Ant]
-
-[Image: Headshot of Michelle Yao] [Image: Ant]
-
-[Image: Headshot of Julian Bauer-Kong] [Image: Ant]
-
-[Image: Headshot of Sophie Yang] [Image: Ant]
-
-[Image: Headshot of Jamie Seoh] [Image: Ant]
-
-[Image: Headshot of William Tran] [Image: Ant]
-
-[Image: Headshot of Yuyeon Kim] [Image: Ant]
-
-[Image: Headshot of Ian Korovinsky] [Image: Ant]
-
-[Image: Headshot of Megan Chun] [Image: Ant]
-
-[Image: Headshot of Jay Wong] [Image: Ant]
-
-[Image: Headshot of Alex Aumais] [Image: Ant]
-
-[Image: Headshot of Nicholas Ficara] [Image: Ant]
-
-[Image: Headshot of Matthew Ng] [Image: Ant]
-
-[Image: Headshot of Kallie Zhang] [Image: Ant]
-
-[Image: Headshot of Fiona Cai] [Image: Ant]
-
-[Image: Headshot of Abdullah Rajput] [Image: Ant]
-
-[Image: Headshot of Bruce Wu] [Image: Ant]
-
-[Image: Headshot of Matthew Petersen] [Image: Ant]
-
-[Image: Headshot of Richard Li] [Image: Ant]
-
-[Image: Headshot of Michelle Yao] [Image: Ant]
-
-[Image: Headshot of Julian Bauer-Kong] [Image: Ant]
-
-[Image: Headshot of Sophie Yang] [Image: Ant]
-
-[Image: Headshot of Jamie Seoh] [Image: Ant]
-
-[Image: Headshot of William Tran] [Image: Ant]
-
-[Image: Headshot of Yuyeon Kim] [Image: Ant]
-
-[Image: Headshot of Aayush Grover] [Image: Ant]
-
-[Image: Headshot of Belinda Cheng] [Image: Ant]
-
-[Image: Headshot of Ching Lam Lau] [Image: Ant]
-
-[Image: Headshot of Amanda Xi] [Image: Ant]
-
-[Image: Headshot of Max Jiang] [Image: Ant]
-
-[Image: Headshot of Angela Zhou] [Image: Ant]
-
-[Image: Headshot of Benny Wu] [Image: Ant]
-
-[Image: Headshot of Flora Hu] [Image: Ant]
-
-[Image: Headshot of Frances Zhao] [Image: Ant]
-
-[Image: Headshot of Jayleen Wu] [Image: Ant]
-
-[Image: Headshot of Joy Zhang] [Image: Ant]
-
-[Image: Headshot of Claire Liu] [Image: Ant]
-
-[Image: Headshot of Ashlyn Ho] [Image: Ant]
-
-[Image: Headshot of Yolanda Guo] [Image: Ant]
-
-[Image: Headshot of Maryam Hassan] [Image: Ant]
-
-[Image: Headshot of Jeane Johan] [Image: Ant]
-
-[Image: Headshot of Amy Huang] [Image: Ant]
-
-[Image: Headshot of Zuhair Khan] [Image: Ant]
-
-[Image: Headshot of Aayush Grover] [Image: Ant]
-
-[Image: Headshot of Belinda Cheng] [Image: Ant]
-
-[Image: Headshot of Ching Lam Lau] [Image: Ant]
-
-[Image: Headshot of Amanda Xi] [Image: Ant]
-
-[Image: Headshot of Max Jiang] [Image: Ant]
-
-[Image: Headshot of Angela Zhou] [Image: Ant]
-
-[Image: Headshot of Benny Wu] [Image: Ant]
-
-[Image: Headshot of Flora Hu] [Image: Ant]
-
-[Image: Headshot of Frances Zhao] [Image: Ant]
-
-[Image: Headshot of Jayleen Wu] [Image: Ant]
-
-[Image: Headshot of Joy Zhang] [Image: Ant]
-
-[Image: Headshot of Claire Liu] [Image: Ant]
-
-[Image: Headshot of Ashlyn Ho] [Image: Ant]
-
-[Image: Headshot of Yolanda Guo] [Image: Ant]
-
-[Image: Headshot of Maryam Hassan] [Image: Ant]
-
-[Image: Headshot of Jeane Johan] [Image: Ant]
-
-[Image: Headshot of Amy Huang] [Image: Ant]
-
-[Image: Headshot of Zuhair Khan] [Image: Ant]
-
-[Image: Headshot of Liza Mehta] [Image: Ant]
-
-[Image: Headshot of Anunya Kapur] [Image: Ant]
-
-[Image: Headshot of Samantha Mac] [Image: Ant]
-
-[Image: Headshot of Mahek Patel] [Image: Ant]
-
-[Image: Headshot of Sophie Jiang] [Image: Ant]
-
-[Image: Headshot of Jennifer Yu] [Image: Ant]
-
-[Image: Headshot of Julia Ilioukhina] [Image: Ant]
-
-[Image: Headshot of Diya Saxena] [Image: Ant]
-
-[Image: Headshot of Maggie Lu] [Image: Ant]
-
-[Image: Headshot of Aaryn Xie] [Image: Ant]
-
-[Image: Headshot of Ammar Adam] [Image: Ant]
-
-[Image: Headshot of Callie Sweet] [Image: Ant]
-
-[Image: Headshot of Jeremy Su] [Image: Ant]
-
-[Image: Headshot of Emma Xing] [Image: Ant]
-
-[Image: Headshot of Victor Huang] [Image: Ant]
-
-[Image: Headshot of Ethan Chen] [Image: Ant]
-
-[Image: Headshot of Jason Xu] [Image: Ant]
-
-[Image: Headshot of Vidu Widyalankara] [Image: Ant]
-
-[Image: Headshot of Lily Liu] [Image: Ant]
-
-[Image: Headshot of Liza Mehta] [Image: Ant]
-
-[Image: Headshot of Anunya Kapur] [Image: Ant]
-
-[Image: Headshot of Samantha Mac] [Image: Ant]
-
-[Image: Headshot of Mahek Patel] [Image: Ant]
-
-[Image: Headshot of Sophie Jiang] [Image: Ant]
-
-[Image: Headshot of Jennifer Yu] [Image: Ant]
-
-[Image: Headshot of Julia Ilioukhina] [Image: Ant]
-
-[Image: Headshot of Diya Saxena] [Image: Ant]
-
-[Image: Headshot of Maggie Lu] [Image: Ant]
-
-[Image: Headshot of Aaryn Xie] [Image: Ant]
-
-[Image: Headshot of Ammar Adam] [Image: Ant]
-
-[Image: Headshot of Callie Sweet] [Image: Ant]
-
-[Image: Headshot of Jeremy Su] [Image: Ant]
-
-[Image: Headshot of Emma Xing] [Image: Ant]
-
-[Image: Headshot of Victor Huang] [Image: Ant]
-
-[Image: Headshot of Ethan Chen] [Image: Ant]
-
-[Image: Headshot of Jason Xu] [Image: Ant]
-
-[Image: Headshot of Vidu Widyalankara] [Image: Ant]
-
-[Image: Headshot of Lily Liu] [Image: Ant]
 
 [Code of Conduct](https://hackthenorth.com/code-of-conduct) [Travel Guidelines](https://hackthenorth.com/travel-guidelines) [Privacy Policy](https://hackthenorth.com/privacy) [2026 Teaser](https://2026-teaser.hackthenorth.com/)
 
@@ -47118,25 +34645,13 @@ Working Professionals Students- University Students - Other
 
 ###### Mini-Event Schedule
 
-##### Table
-
 ###### Row 1: Skribbl.io Mini-Event
 
 - Day (ET): Friday (ET)
 
-- PT: 9:30 AM PT
-
-- ET: 12:30 PM ET
-
-- UK: 5:30 PM UK
-
-- IST: 10:00 PM IST
-
 - Event: Skribbl.io Mini-Event
 
 ###### Row 2: Tetris Mini-Event
-
-- Day (ET): Friday (ET)
 
 - PT: 11:30 AM PT
 
@@ -47150,8 +34665,6 @@ Working Professionals Students- University Students - Other
 
 ###### Row 3: Fun with Origami
 
-- Day (ET): Saturday (ET)
-
 - PT: 2:30 AM PT
 
 - ET: 5:30 AM ET
@@ -47163,8 +34676,6 @@ Working Professionals Students- University Students - Other
 - Event: Fun with Origami
 
 ###### Row 4: Hacky Hangout
-
-- Day (ET): Saturday (ET)
 
 - PT: 5:30 PM PT
 
@@ -47178,11 +34689,7 @@ Working Professionals Students- University Students - Other
 
 ###### Hackathon Schedule
 
-##### Table
-
 ###### Row 1: Opening Ceremony
-
-- Day (ET): Friday (ET)
 
 - PT: 8:00 AM PT
 
@@ -47196,8 +34703,6 @@ Working Professionals Students- University Students - Other
 
 ###### Row 2: Live Q&A
 
-- Day (ET): Friday (ET)
-
 - PT: 8:10 AM PT
 
 - ET: 11:10 AM ET
@@ -47209,8 +34714,6 @@ Working Professionals Students- University Students - Other
 - Event: Live Q&A
 
 ###### Row 3: 36 Hours of Hacking Left
-
-- Day (ET): Friday (ET)
 
 - PT: 7:00 PM PT
 
@@ -47224,8 +34727,6 @@ Working Professionals Students- University Students - Other
 
 ###### Row 4: 24 Hours of Hacking Left
 
-- Day (ET): Saturday (ET)
-
 - PT: 7:00 AM PT
 
 - ET: 10:00 AM ET
@@ -47237,8 +34738,6 @@ Working Professionals Students- University Students - Other
 - Event: 24 Hours of Hacking Left
 
 ###### Row 5: Initial Submission due on Devpost
-
-- Day (ET): Sunday (ET)
 
 - PT: 5:00 AM PT
 
@@ -47252,8 +34751,6 @@ Working Professionals Students- University Students - Other
 
 ###### Row 6: Hacking Ends / Final Submission due on Devpost
 
-- Day (ET): Sunday (ET)
-
 - PT: 7:00 AM PT
 
 - ET: 10:00 AM ET
@@ -47265,16 +34762,6 @@ Working Professionals Students- University Students - Other
 - Event: Hacking Ends / Final Submission due on Devpost
 
 ###### Row 7: Closing Stream & Winners Announced (Approximately)
-
-- Day (ET): Sunday (ET)
-
-- PT: 9:30 AM PT
-
-- ET: 12:30 PM ET
-
-- UK: 5:30 PM UK
-
-- IST: 10:00 PM IST
 
 - Event: Closing Stream & Winners Announced (Approximately)
 
@@ -47293,8 +34780,6 @@ On top of that, Roo Code is awarding up to $5,500 in total prizes to the winning
 🚀 Best First-Time Hack — $300 in Requesty credits per team member (up to $1,500 total)
 
 ###### Event Partner
-
-[[Image: Requesty Logo]](https://requesty.ai)
 
 ###### Links & Resources
 
@@ -47318,8 +34803,6 @@ Unlocked when checked in.
 
 ###### Roo Code Discord Server
 
-The chat platform where all the activities and fun will happen.
-
 [Open link →](https://discord.gg/roocode)
 
 ###### Hosted by
@@ -47335,12 +34818,12 @@ We empower hackers, just like you!
 ### Website 247: Status Code 2
 - Card URL: [https://hackathon.iiitkalyani.ac.in/](https://hackathon.iiitkalyani.ac.in/)
 - Referenced by: Status Code 2
-- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hackathon.iiitkalyani.ac.in/ Call log:   - navigating to "https://hackathon.iiitkalyani.ac.in/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hackathon.iiitkalyani.ac.in/ Call log: - navigating to "https://hackathon.iiitkalyani.ac.in/", waiting until "domcontentloaded"
 
 ### Website 248: HackPue
 - Card URL: [https://hackpue.com/](https://hackpue.com/)
 - Referenced by: HackPue
-- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hackpue.com/ Call log:   - navigating to "https://hackpue.com/", waiting until "domcontentloaded" 
+- Capture status: Failed - Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hackpue.com/ Call log: - navigating to "https://hackpue.com/", waiting until "domcontentloaded"
 
 ### Website 249: Global Hack Week: Beginners Week
 - Card URL: [https://events.mlh.io/events/12607-global-hack-week-beginners-week](https://events.mlh.io/events/12607-global-hack-week-beginners-week)
@@ -47404,23 +34887,13 @@ We empower hackers, just like you!
 - Final URL: [https://www.terrahacks.ca/](https://www.terrahacks.ca/)
 - Expanded FAQ/accordion controls: 0
 
-[Image: Hero Background Image]
-
-[Image: TerraHacks Logo]
-
-[Image: TerraHacks Logo Alternative]
-
 [Click Here To Start](https://www.terrahacks.ca/newsletter)
 
 August 1st 2025 - August 3rd 2025 Hosted at Toronto Metropolitan University
 
-[Image: Background Gradient]
-
 ##### ABOUT TERRAHACKS
 
 Formed from the passion of making tech opportunities open to all, TerraHacks was created to provide an inclusive platform for everyone interested in technology to further their skills. Over the 36-hour period, you (as a hacker) will collaborate with fellow participants, tackle intriguing challenges, and bring your ideas to life. Prepare to immerse yourself in a challenging, creative, and exciting weekend! And lastly, no experience is required! This event is for anyone and everyone; regardless of your background or skill level, come join us! See you all in August!
-
-[Image: About TerraHacks Platforms] [Image: Mole character]
 
 ##### OUR SPONSORS
 
@@ -47428,27 +34901,17 @@ We are grateful to our sponsors for their support; this event would not be possi
 
 Sponsorship Package
 
-[Image: Sponsors Background Platforms Image] [Image: Mole character]
-
 ##### FAQ
-
-[Image: FAQ Background Image] [Image: Mole character]
 
 ##### MEET THE TEAM
 
 Loading images...
-
-[Image: TerraHacks Team Platforms Image] [Image: Mole character]
 
 ##### CONTACT US
 
 Reach out to contact@terrahacks.cafor any help or support, and please be sure tojoin the TerraHacks Discord community!
 
 Email copied to clipboard!
-
-[Image: Contact Us Platforms]
-
-$ /$ $ /$ [[Image: Major League Hacking 2026 Hackathon Season]](https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=black)
 
 ### Website 251: Data Hackfest
 - Card URL: [https://events.mlh.io/events/12536](https://events.mlh.io/events/12536)
@@ -47511,8 +34974,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Mini-Event Schedule
 
-##### Table
-
 ###### Row 1: Making Better Hacks, Faster with GitHub Copilot
 
 - Day (ET): Friday (ET)
@@ -47528,8 +34989,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Making Better Hacks, Faster with GitHub Copilot
 
 ###### Row 2: Tetris Mini-Event
-
-- Day (ET): Friday (ET)
 
 - PT: 11:30 AM PT
 
@@ -47557,8 +35016,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 4: Skribbl.io Mini-Event
 
-- Day (ET): Saturday (ET)
-
 - PT: 8:00 AM PT
 
 - ET: 11:00 AM ET
@@ -47570,8 +35027,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Skribbl.io Mini-Event
 
 ###### Row 5: Hacky Hangout
-
-- Day (ET): Saturday (ET)
 
 - PT: 5:30 PM PT
 
@@ -47585,11 +35040,7 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Hackathon Schedule
 
-##### Table
-
 ###### Row 1: Opening Ceremony
-
-- Day (ET): Friday (ET)
 
 - PT: 8:00 AM PT
 
@@ -47603,8 +35054,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 2: Live Q&A
 
-- Day (ET): Friday (ET)
-
 - PT: 8:10 AM PT
 
 - ET: 11:10 AM ET
@@ -47616,8 +35065,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Live Q&A
 
 ###### Row 3: 36 Hours of Hacking Left
-
-- Day (ET): Friday (ET)
 
 - PT: 7:00 PM PT
 
@@ -47631,8 +35078,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 4: 24 Hours of Hacking Left
 
-- Day (ET): Saturday (ET)
-
 - PT: 7:00 AM PT
 
 - ET: 10:00 AM ET
@@ -47644,8 +35089,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: 24 Hours of Hacking Left
 
 ###### Row 5: Initial Submission due on Devpost
-
-- Day (ET): Sunday (ET)
 
 - PT: 5:00 AM PT
 
@@ -47659,8 +35102,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Row 6: Hacking Ends / Final Submission due on Devpost
 
-- Day (ET): Sunday (ET)
-
 - PT: 7:00 AM PT
 
 - ET: 10:00 AM ET
@@ -47672,8 +35113,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 - Event: Hacking Ends / Final Submission due on Devpost
 
 ###### Row 7: Closing Stream & Winners Announced (Approximately)
-
-- Day (ET): Sunday (ET)
 
 - PT: 9:15 AM PT
 
