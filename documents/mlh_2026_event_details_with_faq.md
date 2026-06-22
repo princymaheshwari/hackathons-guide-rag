@@ -2614,9 +2614,6 @@ Friday July 10, 2026
 
 10:30AM to Jul 16, 2:30PM EDT
 
-Add to calendar
-
-Event is hosted online
 
 [Log In & Register](https://events.mlh.com/events/14284-global-hack-week-season-launch/register)
 
@@ -2626,9 +2623,6 @@ Locations have different requirements for who can attend. This location is open 
 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
 
-###### Hosted by
-
-Major League Hacking
 
 ### Website 2: Hack the 6ix
 - Card URL: [https://hackthe6ix.com/](https://hackthe6ix.com/)
@@ -2958,9 +2952,6 @@ Friday August 7, 2026
 
 10:00AM to Aug 13, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
 
 [Log In & Register](https://events.mlh.com/events/14312-global-hack-week-agents/register)
 
@@ -2982,9 +2973,6 @@ At GHW: Agents Week we will have plenty of challenges to keep you busy. Challeng
 
 Earn experience points for yourself by completing our challenges throughout GHW. Challenges aren’t the only way to earn points. You can also receive a point each time you check in for a live session, so the more you attend, the more points you’ll rack up. They can be as simple as posting on your social media or as advanced as building a project and creating a full demo video for it. We’ll leave it to you to choose which challenges you want to take on. Feel free to work collaboratively with others on these.
 
-###### Hosted by
-
-Major League Hacking
 
 ### Website 4: HackPrix Season 3
 - Card URL: [https://s3.hackprix.tech/](https://s3.hackprix.tech/)
@@ -3222,11 +3210,6 @@ Friday June 12, 2026
 
 10:00AM to Jun 18, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -3246,9 +3229,6 @@ Challenges will range from social challenges urging you to connect with other me
 
 Earn experience points for yourself by completing our challenges throughout GHW. Challenges aren’t the only way to earn points. You can also receive a point each time you check in for a live session, so the more you attend, the more points you’ll rack up. They can be as simple as posting on your social media or as advanced as building a project and creating a full demo video for it. We’ll leave it to you to choose which challenges you want to take on. Feel free to work collaboratively with others on these.
 
-###### Hosted by
-
-Major League Hacking
 
 ### Website 7: Hack4Her
 - Card URL: [https://www.hack4her.com/](https://www.hack4her.com/)
@@ -4031,11 +4011,6 @@ Friday May 15, 2026
 
 12:00PM to May 17, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -5163,11 +5138,6 @@ Friday May 8, 2026
 
 9:30AM to May 14, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -5193,15 +5163,6 @@ Locations have different requirements for who can attend. This location is open 
 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
 
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
 
 ### Website 19: ConHacks 2026
 - Card URL: [https://conhacks.io](https://conhacks.io)
@@ -6391,7 +6352,6 @@ Dr. Animashree (Anima) Anandkumar is NVIDIA's former Director of AI Research and
 - Final URL: [https://www.lahacks.com/](https://www.lahacks.com/)
 - Expanded FAQ/accordion controls: 6
 
-[Skip to main content](https://www.lahacks.com/#main-content)
 
 New Event
 
@@ -9700,11 +9660,6 @@ Friday April 17, 2026
 
 11:00AM to Apr 19, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -9834,27 +9789,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### MLH Discord Server
-
-The chat platform where all the activities and fun will happen.
-
-Unlocked when checked in.
-
-###### MLH Broadcast
-
-Where we will be streaming workshops, activities, and announcements.
-
-Unlocked when checked in.
-
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
 
 ### Website 44: Hackathon Troyano 2026
 - Card URL: [https://hackathon.fif-uaq.mx/](https://hackathon.fif-uaq.mx/)
@@ -10965,11 +10899,6 @@ Friday April 10, 2026
 
 10:00AM to Apr 16, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -10995,15 +10924,6 @@ Locations have different requirements for who can attend. This location is open 
 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
 
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
 
 ### Website 55: Q-Hackathon
 - Card URL: [https://www.q-summit.com/hackathon](https://www.q-summit.com/hackathon)
@@ -11398,11 +11318,6 @@ Friday April 3, 2026
 
 7:00PM to Apr 5, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -11548,31 +11463,11 @@ Can't find something you need? Check the Resources on Devpost: [https://pe-hacka
 
 ###### Links & Resources
 
-###### MLH Discord Server
-
-The chat platform where all the activities and fun will happen.
-
-Unlocked when checked in.
-
-###### MLH Broadcast
-
-Where we will be streaming workshops, activities, and announcements.
-
-Unlocked when checked in.
-
-###### Hosted by
-
-Major League Hacking
 
 Amanda D'Avria
 
 Alex Gornet
 
-From
-
-###### [Major League Hacking](https://mlh.io/)
-
-We empower hackers!
 
 ### Website 59: Innovation Hacks
 - Card URL: [https://innovationhacks.dev/](https://innovationhacks.dev/)
@@ -13953,7 +13848,6 @@ WebLager A/S
 
 S-E-A - Syddansk Erhvervsakademi
 
-Major League Hacking
 
 ##### Gold Sponsors
 
@@ -14486,11 +14380,6 @@ Friday March 13, 2026
 
 12:00PM to Mar 19, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -14516,15 +14405,6 @@ Locations have different requirements for who can attend. This location is open 
 
 Minors (Between 13-18) Working Professionals Students- University Students - Secondary/High School Students - Other
 
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
 
 ### Website 81: Electrothon : Labyrinth of Eternum
 - Card URL: [https://electrothon.nith.ac.in](https://electrothon.nith.ac.in)
@@ -14717,7 +14597,6 @@ Hardware
 
 BEST HARDWARE TRACK
 
-Major League Hacking
 
 BEST USE OF GEMINI API
 
@@ -17315,7 +17194,6 @@ Uber
 
 iCube UTM
 
-Major League Hacking
 
 AWS
 
@@ -20830,20 +20708,9 @@ Have questions or want to learn more? Reach out to us at admin@ctrlhackdel.com
 - Referenced by: SFHacks 2026
 - Capture status: Failed - only 180 visible characters were extracted (minimum 200)
 
-### Website 121: Global Hack Week: Data Week
-- Card URL: [https://organize.mlh.io/events/13382-global-hack-week-data-week](https://organize.mlh.io/events/13382-global-hack-week-data-week)
-- Referenced by: Global Hack Week: Data Week
-- Rendered title: Sign In - MLH | Major League Hacking
-- Final URL: [https://www.mlh.com/signin?return_to=https://organize.mlh.com/auth/callback/organizer](https://www.mlh.com/signin?return_to=https://organize.mlh.com/auth/callback/organizer)
-- Expanded FAQ/accordion controls: 0
-
-[Skip to main content](https://www.mlh.com/signin?return_to=https://organize.mlh.com/auth/callback/organizer#main-content)
 
 [Major League Hacking](https://www.mlh.com/)
 
-Participate Organizers Community About [DEV](https://dev.to) [Attend](https://www.mlh.com/seasons/2026/events) [For Businesses](https://sponsor.mlh.io/)
-
-[Sign In](https://www.mlh.com/signin)
 
 #### Welcome Back
 
@@ -26048,11 +25915,6 @@ Friday January 9, 2026
 
 12:00PM to Jan 15, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -26072,33 +25934,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### Claim Your Digital Swag
-
-Let the world know you are hacking at Beginners Week by posting on social media using this digital frame!
-
-[Open link →](https://drive.google.com/drive/u/0/folders/1NV2z-sljpi5pAqgZuRhQYrWvYnZ9cBYv)
-
-###### MLH Community Discord
-
-Stay updated with announcements and communications this week.
-
-[Open link →](https://discord.mlh.io)
-
-###### Watch live streams
-
-Watch live streams throughout this week on MLH Twitch and YouTube
-
-[Open link →](https://www.youtube.com/@Majorleaguehacking/streams)
-
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
 
 ### Website 164: Hacks for Hackers
 - Card URL: [https://events.mlh.io/events/13143](https://events.mlh.io/events/13143)
@@ -26115,11 +25950,6 @@ Friday January 2, 2026
 
 11:00AM to Jan 4, 12:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -26309,17 +26139,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### MLH Discord Server
-
-The chat platform where all the activities and fun will happen.
-
-Unlocked when checked in.
-
-###### MLH Broadcast
-
-Where we will be streaming workshops, activities, and announcements.
-
-Unlocked when checked in.
 
 ###### Hacks for Hackers Devpost
 
@@ -26327,17 +26146,9 @@ Want to know more about the rules, guidelines, and prizes? Check out the Devpost
 
 [Open link →](https://mlh.link/HacksforHackersDevpost)
 
-###### Hosted by
-
-Major League Hacking
 
 Utkarsh Tiwari
 
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
 
 ### Website 165: PEC Hacks 3.0
 - Card URL: [https://pechacks.org/](https://pechacks.org/)
@@ -27139,11 +26950,6 @@ Friday December 12, 2025
 
 12:00PM to Dec 18, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -27169,33 +26975,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### Claim Your Digital Swag!
-
-Let the world know you are hacking at AI/ML Week by posting on social media using this digital frame!
-
-Unlocked when checked in.
-
-###### MLH Community Discord
-
-Stay updated with announcements and communications this week.
-
-[Open link →](https://discord.mlh.io)
-
-###### Watch live streams
-
-Watch live streams throughout this week on MLH Twitch and YouTube
-
-[Open link →](https://twitch.tv/mlh)
-
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
 
 ### Website 167: DigitalOcean Hackathon NY
 - Card URL: [https://mlh.io](https://mlh.io)
@@ -27204,7 +26983,6 @@ We empower hackers!
 - Final URL: [https://www.mlh.com/](https://www.mlh.com/)
 - Expanded FAQ/accordion controls: 0
 
-#### The World's Largest Developer Community
 
 Hackathons, fellowships, and DEV's online community. 5 million software creators learn, build, and share together.
 
@@ -27222,9 +27000,6 @@ Annual Events
 
 Countries
 
-[Become an OrganizerGet everything you need to run amazing hackathons and developer events.](https://www.mlh.com/event-membership)
-
-[Partner With MLH and DEVReach 5M+ developers building the future.](https://sponsor.mlh.io/?utm_source=mlh&utm_medium=referral&utm_content=Partner+With+MLH+and+DEVReach+5M%2B+developers+building+the+future.)
 
 ##### Connecting the Tech Ecosystem
 
@@ -30159,11 +29934,6 @@ Friday November 7, 2025
 
 10:00AM to Nov 13, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -30189,33 +29959,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### Claim Your Digital Swag!
-
-Let the world know you are hacking at Open Source Week by posting on social media using this digital frame!
-
-Unlocked when checked in.
-
-###### MLH Community Discord
-
-Stay updated with announcements and communications this week.
-
-[Open link →](https://discord.mlh.io)
-
-###### Watch live streams
-
-Livestreams happen on MLH Twitch and YouTube
-
-[Open link →](https://twitch.tv/mlh)
-
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers, just like you!
 
 ### Website 195: SBUHacks
 - Card URL: [https://hack.sbcs.io](https://hack.sbcs.io)
@@ -31611,9 +31354,6 @@ Friday October 17, 2025
 
 11:00AM to Oct 19, 12:00PM EDT
 
-Add to calendar
-
-Event is hosted online
 
 [Log In & Register](https://events.mlh.com/events/12537-open-source-hackfest/register)
 
@@ -31635,44 +31375,14 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### MLH Discord Server
-
-The chat platform where all the activities and fun will happen.
-
-Unlocked when checked in.
-
-###### MLH Broadcast
-
-Where we will be streaming workshops, activities, and announcements.
-
-Unlocked when checked in.
 
 ###### Hosted by
 
 Siddharth Shivkumar
 
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
-
-### Website 214: Hack Dearborn 2025
-- Card URL: [https://organize.mlh.io/events/12667-hack-dearborn-2025](https://organize.mlh.io/events/12667-hack-dearborn-2025)
-- Referenced by: Hack Dearborn 2025
-- Rendered title: Sign In - MLH | Major League Hacking
-- Final URL: [https://www.mlh.com/signin?return_to=https://organize.mlh.com/auth/callback/organizer](https://www.mlh.com/signin?return_to=https://organize.mlh.com/auth/callback/organizer)
-- Expanded FAQ/accordion controls: 0
-
-[Skip to main content](https://www.mlh.com/signin?return_to=https://organize.mlh.com/auth/callback/organizer#main-content)
 
 [Major League Hacking](https://www.mlh.com/)
 
-Participate Organizers Community About [DEV](https://dev.to) [Attend](https://www.mlh.com/seasons/2026/events) [For Businesses](https://sponsor.mlh.io/)
-
-[Sign In](https://www.mlh.com/signin)
 
 #### Welcome Back
 
@@ -31849,11 +31559,6 @@ Friday October 10, 2025
 
 11:00AM to Oct 16, 2:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -31881,33 +31586,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### Claim Your Digital Swag!
-
-Let the world know you are hacking at Open Source Week by posting on social media using this digital frame!
-
-[Open link →](https://drive.google.com/drive/folders/1NV2z-sljpi5pAqgZuRhQYrWvYnZ9cBYv?usp=sharing)
-
-###### Watch the streams live
-
-Livestreams happen on MLH Twitch and YouTube
-
-[Open link →](https://www.youtube.com/@MajorLeagueHacking/streams)
-
-###### MLH Community Discord
-
-Stay updated with announcements and communications this week.
-
-[Open link →](https://discord.mlh.io)
-
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers, just like you!
 
 ### Website 217: HackNC 2025
 - Card URL: [https://hacknc.com](https://hacknc.com)
@@ -33219,20 +32897,9 @@ Coming Soon!
 With <3 from the hexlabs team
 [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
 
-### Website 235: Midnight Hackathon
-- Card URL: [https://events.mlh.io](https://events.mlh.io)
-- Referenced by: Midnight Hackathon
-- Rendered title: Sign In - MLH | Major League Hacking
-- Final URL: [https://www.mlh.com/signin?return_to=https://events.mlh.com/auth/callback/participant](https://www.mlh.com/signin?return_to=https://events.mlh.com/auth/callback/participant)
-- Expanded FAQ/accordion controls: 0
-
-[Skip to main content](https://www.mlh.com/signin?return_to=https://events.mlh.com/auth/callback/participant#main-content)
 
 [Major League Hacking](https://www.mlh.com/)
 
-Participate Organizers Community About [DEV](https://dev.to) [Attend](https://www.mlh.com/seasons/2026/events) [For Businesses](https://sponsor.mlh.io/)
-
-[Sign In](https://www.mlh.com/signin)
 
 #### Welcome Back
 
@@ -34027,7 +33694,6 @@ Innovation Hub
 
 WAA
 
-Major League Hacking
 
 Google Developer Groups
 
@@ -34498,11 +34164,6 @@ Friday September 12, 2025
 
 10:00AM to Sep 18, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -34522,21 +34183,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### Claim Your Digital Swag!
-
-Let the world know you are hacking at Data Week by posting on social media using this digital frame!
-
-[Open link →](https://drive.google.com/drive/folders/1NV2z-sljpi5pAqgZuRhQYrWvYnZ9cBYv?usp=drive_link)
-
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers, just like you!
 
 ### Website 245: DSU DevHack 2.0
 - Card URL: [https://dsudevhack2.tech/](https://dsudevhack2.tech/)
@@ -34573,11 +34219,6 @@ Friday August 29, 2025
 
 11:00AM to Aug 31, 12:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -34781,39 +34422,17 @@ On top of that, Roo Code is awarding up to $5,500 in total prizes to the winning
 
 ###### Event Partner
 
-###### Links & Resources
-
 ###### Roo Code Installation
 
 Add Roo Code to VS Code
 
 [Open link →](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)
 
-###### MLH Discord Server
-
-The chat platform where all the activities and fun will happen.
-
-Unlocked when checked in.
-
-###### MLH Broadcast
-
-Where we will be streaming workshops, activities, and announcements.
-
-Unlocked when checked in.
 
 ###### Roo Code Discord Server
 
 [Open link →](https://discord.gg/roocode)
 
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers, just like you!
 
 ### Website 247: Status Code 2
 - Card URL: [https://hackathon.iiitkalyani.ac.in/](https://hackathon.iiitkalyani.ac.in/)
@@ -34840,11 +34459,6 @@ Friday August 8, 2025
 
 10:00AM to Aug 14, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -34864,21 +34478,6 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### Claim Your Digital Swag!
-
-Let the world know you are hacking at Beginners Week by posting on social media using this digital frame!
-
-[Open link →](https://drive.google.com/drive/u/0/folders/1Yokg8dEw0a8IHCprD8jUmUlIAGNYaJK6)
-
-###### Hosted by
-
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers, just like you!
 
 ### Website 250: TerraHacks2025
 - Card URL: [https://terrahacks.ca/](https://terrahacks.ca/)
@@ -34928,11 +34527,6 @@ Friday July 25, 2025
 
 11:00AM to Jul 27, 12:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -35126,29 +34720,11 @@ Minors (Between 13-18) Working Professionals Students- University Students - Sec
 
 ###### Links & Resources
 
-###### MLH Discord Server
-
-The chat platform where all the activities and fun will happen.
-
-Unlocked when checked in.
-
-###### MLH Broadcast
-
-Where we will be streaming workshops, activities, and announcements.
-
-Unlocked when checked in.
 
 ###### Hosted by
 
 Siddharth Shivkumar
 
-Major League Hacking
-
-From
-
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
 
 ### Website 252: Global Hack Week: Season Launch
 - Card URL: [https://events.mlh.io/events/12490-global-hack-week-season-launch](https://events.mlh.io/events/12490-global-hack-week-season-launch)
@@ -35165,11 +34741,6 @@ Friday July 4, 2025
 
 11:00AM to Jul 10, 1:00PM EDT
 
-Add to calendar
-
-Event is hosted online
-
-This event ended
 
 ###### Event Description
 
@@ -35195,20 +34766,7 @@ Check out the [schedule](https://ghw.mlh.io/schedule) for this week and join us 
 
 ###### Links & Resources
 
-###### Claim Your Digital Swag!
-
-Let the world know you are hacking at Season Launch by posting on social media using this digital frame!
-
-Unlocked when checked in.
-
-###### Hosted by
-
-Major League Hacking
 
 Siddharth Shivkumar
 
-From
 
-###### [Major League Hacking](https://mlh.io)
-
-We empower hackers!
