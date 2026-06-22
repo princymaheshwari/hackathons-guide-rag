@@ -69,11 +69,13 @@ Chunks are produced by `build_chunks.py`, which reads cleaned Markdown files fro
 
 **Overlap:** About 15% of the target chunk size, or roughly 77 tokens, when adjacent chunks are part of the same section. The script skips overlap when it would push a chunk over the 720-token cap or when the next block is a natural unit such as a Reddit comment, table row, or hackathon detail.
 
+**Token measurement:** Token counts are calculated with the actual `Qwen/Qwen3-Embedding-0.6B` tokenizer loaded through `transformers`. This replaces approximate regex counting, so each `token_count` in `processed/chunks.json` and every chunk-size decision use the same tokenization that the embedding model processes. Oversized text windows are split using the same Qwen token IDs.
+
 **Why these choices fit your documents:** The corpus mixes long guides, Reddit/Hacker News discussions, row-based tables, and hackathon directory entries. The chunker respects Markdown headings, row/comment/detail blocks, paragraphs, and sentence boundaries before falling back to token windows for oversized text. This keeps complete reviews, comments, event cards, tags, and project examples together whenever possible while still keeping chunks small enough for retrieval.
 
 **Preprocessing before chunking:** The source documents were cleaned before this step. The chunking script also performs light final normalization by parsing front matter into metadata, unescaping HTML entities, stripping remaining simple HTML tags, preserving nearest section titles, and carrying source metadata into every chunk.
 
-**Final chunk count:** 400 chunks across 37 Markdown source documents.
+**Final chunk count:** 477 chunks across 37 Markdown source documents.
 
 ---
 

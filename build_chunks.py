@@ -15,6 +15,8 @@ from html import unescape
 from pathlib import Path
 from typing import Iterable
 
+from transformers import AutoTokenizer
+
 
 DOCUMENTS_DIR = Path("documents")
 OUTPUT_PATH = Path("processed/chunks.json")
@@ -22,7 +24,8 @@ TARGET_TOKENS = 512
 MAX_TOKENS = 720
 OVERLAP_RATIO = 0.15
 
-TOKEN_RE = re.compile(r"\w+(?:[-']\w+)*|[^\w\s]", re.UNICODE)
+_tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen3-Embedding-0.6B")
+
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 SPECIAL_BLOCK_RE = re.compile(r"^###\s+(Row|Comment|Detail)\b.*", re.IGNORECASE)
 HN_FOOTER_RE = re.compile(
@@ -59,11 +62,11 @@ class TextBlock:
 
 
 def count_tokens(text: str) -> int:
-    return len(TOKEN_RE.findall(text))
+    return len(_tokenizer.encode(text))
 
 
 def token_windows(text: str, max_tokens: int, overlap_tokens: int) -> list[str]:
-    tokens = TOKEN_RE.findall(text)
+    tokens = _tokenizer.encode(text)
     if len(tokens) <= max_tokens:
         return [text.strip()] if text.strip() else []
 
@@ -73,7 +76,13 @@ def token_windows(text: str, max_tokens: int, overlap_tokens: int) -> list[str]:
         window = tokens[start : start + max_tokens]
         if not window:
             break
-        windows.append(" ".join(window).strip())
+        decoded_window = _tokenizer.decode(
+            window,
+            skip_special_tokens=True,
+            clean_up_tokenization_spaces=False,
+        ).strip()
+        if decoded_window:
+            windows.append(decoded_window)
         if start + max_tokens >= len(tokens):
             break
     return windows

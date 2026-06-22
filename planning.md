@@ -65,7 +65,9 @@ The build will ingest Markdown files from `documents/`. The corpus includes scra
 
 **Chunk size:** Target 512 tokens per chunk, with a working upper range of about 720 tokens for longer natural sections before splitting further.
 
-**Overlap:** 15% overlap, approximately 75 tokens when the chunk is near the 512-token target.
+**Overlap:** 15% overlap, approximately 77 tokens when the chunk is near the 512-token target.
+
+**Token measurement:** All chunk sizes are measured with the tokenizer loaded from `Qwen/Qwen3-Embedding-0.6B`. Using the embedding model's actual tokenizer instead of a regex approximation ensures that the token counts written to `chunks.json` exactly match what the embedding model processes. Oversized text is also divided using Qwen token IDs, so the 720-token limit is enforced in the same token space.
 
 **Reasoning:**
 
@@ -93,7 +95,7 @@ I will know chunks are too small if retrieval returns fragments without enough c
 
 ## Retrieval Approach
 
-**Embedding model:** `Qwen/Qwen3-Embedding-0.6B` through `SentenceTransformer()` from `sentence-transformers==3.4.1`.
+**Embedding model:** `Qwen/Qwen3-Embedding-0.6B` through `SentenceTransformer()` from `sentence-transformers==5.6.0`.
 
 This deliberately differs from the course-recommended `all-MiniLM-L6-v2`. Qwen3-Embedding-0.6B is heavier than MiniLM, so the first download and CPU inference will be slower, but it is still local and does not require an API key. The 0.6B variant is the right size choice for this project; the 4B and 8B variants are too large for a CPU-only student environment. The model is Apache-2.0 licensed and ungated, so `.env.example` does not need a Hugging Face token for this model.
 
@@ -103,7 +105,7 @@ The code should import `SentenceTransformer` directly and instantiate:
 SentenceTransformer("Qwen/Qwen3-Embedding-0.6B")
 ```
 
-It should not import `transformers` or `torch` directly unless a later implementation choice truly needs those libraries. `sentence-transformers==3.4.1` already depends on `transformers` and `torch`, and the current environment has compatible installed versions (`transformers 4.57.6`, `torch 2.12.0`). Therefore `requirements.txt` does not need explicit `transformers` or `torch` lines for the planned embedding code.
+The chunking pipeline imports `AutoTokenizer` directly from `transformers==5.12.1` so its token budgets match the embedding model exactly. The embedding pipeline itself can load the model through `sentence-transformers==5.6.0` without importing `torch` directly; the current environment provides `torch 2.12.0` transitively.
 
 When embedding queries, I will use Qwen's retrieval-query prompt support if available through SentenceTransformers, because the model card recommends query-side instructions for retrieval tasks. Documents will be embedded without an extra query instruction.
 
@@ -151,7 +153,7 @@ These questions are specific enough to grade. Each expected answer includes fact
 
 ```mermaid
 flowchart TD
-    A["Document Ingestion<br/>Markdown files from documents/<br/>scrape_web/scrape_url outputs from Reddit, MLH, Devpost, blogs, directories, tables"] --> B["Chunking<br/>Recursive + Semantic Chunker<br/>512-720 tokens, 15% overlap<br/>Preserve headings, rows, comments, metadata"]
+    A["Document Ingestion<br/>Markdown files from documents/<br/>scrape_web/scrape_url outputs from Reddit, MLH, Devpost, blogs, directories, tables"] --> B["Chunking<br/>Recursive + Semantic Chunker<br/>Qwen3-Embedding-0.6B tokenizer<br/>512-720 tokens, 15% overlap<br/>Preserve headings, rows, comments, metadata"]
     B --> C["Embedding<br/>SentenceTransformers<br/>Qwen/Qwen3-Embedding-0.6B"]
     C --> D["Vector Store<br/>ChromaDB local persistent collection<br/>chunk text + embedding + metadata"]
     D --> E["Retrieval<br/>Top-k=5 semantic search<br/>return chunks, metadata, distance scores"]
