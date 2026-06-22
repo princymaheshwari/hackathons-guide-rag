@@ -14,6 +14,7 @@ import chromadb
 EMBEDDINGS_PATH = Path("processed/chunks.embeddings.json")
 CHROMA_PATH = Path("chroma_db")
 COLLECTION_NAME = "hackathon_guide"
+DISTANCE_METRIC = "cosine"
 CHROMA_BATCH_SIZE = 100
 
 Chunk = dict[str, Any]
@@ -111,7 +112,17 @@ def fresh_collection(client: Any, name: str) -> Any:
     }
     if name in existing_names:
         client.delete_collection(name=name)
-    return client.get_or_create_collection(name=name)
+    collection = client.get_or_create_collection(
+        name=name,
+        metadata={"hnsw:space": DISTANCE_METRIC},
+    )
+    configured_metric = collection.configuration.get("hnsw", {}).get("space")
+    if configured_metric != DISTANCE_METRIC:
+        raise RuntimeError(
+            f"Chroma metric mismatch: expected {DISTANCE_METRIC}, "
+            f"found {configured_metric}."
+        )
+    return collection
 
 
 def store_chunks(
@@ -159,6 +170,7 @@ def main() -> int:
         safe_print(f"Total chunks read: {len(chunks)}")
         stored_count = store_chunks(chunks, args.chroma_path, args.collection)
         safe_print(f"Total chunks added to Chroma: {len(chunks)}")
+        safe_print(f"Collection distance metric: {DISTANCE_METRIC}")
         safe_print(
             f"Collection count confirmed: {stored_count} "
             f"(matches source chunk count)"
